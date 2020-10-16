@@ -1,0 +1,553 @@
+*       IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                                   Reserved on: 11.07.2017
+                                                Pronounced on: 31.07.2017
++       W.P.(C) 4393/2017, C.M. APPL.19189-90/2017
+        M/S. TOSHNIWAL ENTERPRISES CONTROLS LIMITED
+                                                                  ..... Petitioner
+                    Through: Sh. Arvind Nigam, Sr. Advocate with Sh.
+                    Gaurav Kejriwal, Sh. Sujit Keshri, Sh. Mikhil Sharda and
+                    Sh. Akshay Bhandari, Advocates.
+                           Versus
+        UNION OF INDIA AND OTHERS                         ..... Respondents
+                    Through : Sh. Sarfaraz Ahmad, Advocate with Sh. Birbal
+                    Prasad, Director, USOF, for Respondent Nos. 1 and 2.
+                    Sh. Dinesh Agnani, Sr. Advocate with Ms. Leena Tuteja
+                    and Sh. Ishaan Chawla, Advocates, for Respondent No.3.
+        CORAM:
+        HON'BLE MR. JUSTICE S. RAVINDRA BHAT
+        HON'BLE MR. JUSTICE S.P. GARG
+MR. JUSTICE S. RAVINDRA BHAT
+%
+Facts
+1.      The present Writ Petitioner challenges the declaration of its bid as
+non-responsive by Bharat Sanchar Nigam Limited (hereafter “BSNL” or
+“Respondent No. 3”) in these proceedings, under Article 226 of the
+Constitution of India.
+2.      The facts are that BSNL on 08.04.2016 issued a Notice Inviting e-
+Tender (“NIT”) calling for sealed online bids (tenders) for survey, planning,
+W.P.(C) 4393/2017                                                       Page 1 of 19
+
+supply, installation, testing, commissioning, integration with existing core
+network and operations and maintenance for five years of 2G GSM BSS
+network along with VSAT, HUB and radio backhaul to provide coverage in
+uncovered villages of Arunachal Pradesh and Karbi Anglong and Dima Haso
+Districts of Assam. The eligibility criteria for participation was laid down in
+the NIT and the entire tender document could be obtained on payment of
+₹10,000.
+3.      The petitioner, an Indian Company, is engaged inter alia in the
+business of manufacturing, sale and supply of 2G BSS compliant equipment
+along with other allied products. The petitioner paid the requisite amount of
+₹10,000 and obtained the complete set of tender documents. Clause 11 of
+Section 4B of the said Tender stipulated that the bidder should clearly
+specify ownership, IPRs and certain other rights with respect to
+Technology/Design(s) of GSM BSS and if such technology/design was not
+developed by the bidder, the bidder was required to submit MOU Agreement
+with the technology provider as per the pro-forma in Section 7G and Board
+Resolution of the Technology Providing Company as per the pro-forma in
+Section 7H notarized or attested by the Indian Embassy/High Commission in
+the country where such foreign origin company is situated. The Petitioner
+wrote to BSNL seeking certain clarifications regarding this Clause, which
+among other queries, were answered by BSNL by letter, dated 25.07.2016.
+4.      In terms of the said Tender documents, the bidder had to submit its
+techno-commercial bid along with the documents regarding its complying
+with the eligibility- i.e. technical and commercial conditions, and a financial
+bid in two separate envelopes within 150 days from the tender opening date.
+The Petitioner submitted its bid on 10.08.2016 and also submitted a Bank
+W.P.(C) 4393/2017                                                      Page 2 of 19
+
+Guarantee for ₹2,00,00,000/- paid as security deposit. A Committee for
+Evaluating the Techno-Commercial bids (“CET”) was formed by BSNL to
+evaluate the bids and the Petitioner along with four others (namely M/s ITI,
+M/s VNL, M/s HFCL and M/s Fibcom) were invited to offer their
+equipments for field-testing in Arunachal Pradesh. Of the five, M/s Fibcom
+did not submit its equipment for the field test. The Petitioner received a test
+schedule for conducting the field test of its equipment, from BSNL, dated
+27.08.2016. Accordingly, field tests were conducted for the Petitioner and
+three others, after which the equipments of two bidders- M/s VNL and M/s
+HFCL were considered to have qualified. The equipments of the other two,
+which included the Petitioner, were considered by BSNL to have failed the
+test.
+5.      Thereafter, a number of representations were made by the Petitioner
+and the other unsuccessful bidders regarding the method of field testing of
+the equipment as well as the subsequent evaluation of the bids. Considering
+these representations, BSNL at its meeting dated 16.01.2017 decided to give
+another opportunity to all the bidders to re-submit their tenders and furnish
+their equipment for re-testing, and decided that it would call for clarifications
+from the bidders who had submitted incomplete/not submitted required
+documents as per the terms and conditions of the tender documents.
+Thereafter, BSNL retested the equipment of the four bidders who offered
+their equipment for testing and concluded that all four had passed in the re-
+test conducted in Arunachal Pradesh. After retests were conducted, BSNL
+(through the CET) requested clarifications from all the bidders and re-
+evaluated their bids. The bids of M/s HFCL and M/s VNL were considered
+W.P.(C) 4393/2017                                                      Page 3 of 19
+
+techno-commercially responsive, while the rest of the bids, including that of
+the Petitioner, were considered to be non-responsive.
+6.      Several complaints were received by BSNL regarding the retesting
+and the subsequent re-evaluation of the bids. BSNL, therefore, decided to
+obtain legal opinion from the Attorney General for India on the correctness
+of the process followed in the tender. By letter dated 20.04.2017, the
+Attorney General opined that the process followed by BSNL was without
+flaw. Thereafter, the financial bids of the two tenderers whose bids were
+found techno-commercially responsive, i.e. M/s. HFCL and M/s. VNL were
+opened online on 25.04.2017.
+7.      The petitioner complains that the declaration of its bid as non-
+responsive by BSNL was illegal, arbitrary and reeks of its mala fides. It was
+submitted that the rejection of the bid for not having submitted the required
+documentation was clearly an afterthought, designed to frustrate the
+petitioner’s bid. The learned counsel for the petitioner submitted, that once
+the petitioner was invited to offer its equipment for field-testing, and it tested
+successfully, its bid could not then be rejected for failure to submit required
+documentation. It was argued that the terms of the tender made it clear that
+only those bidders would be called upon to offer their equipment for field
+testing, whose bids were found otherwise complete with respect to
+documentation and other eligibility conditions. Therefore, the fact that the
+petitioner was asked to offer its equipment for field testing, that too twice,
+ipso facto meant that it had satisfied the other eligibility requirements with
+respect to documentation. Specifically, with respect to clause 11.1(a) of
+Section 4 Part B of the Tender document, the petitioner contended that it
+had sought clarifications from BSNL and subsequent to the replies received,
+W.P.(C) 4393/2017                                                       Page 4 of 19
+
+it had submitted all relevant documents in accordance with the latter’s
+replies. The petitioner further argued that having offered its equipment for
+field testing twice, and the same having passed the test (as declared by
+BSNL itself in the second round), and having regard to the fact that it had
+already incurred expenditure of nearly ₹1 crore, it had a legitimate
+expectation that its bid would be opened.
+8.      The petitioner also alleged that BSNL had an inherent and evident bias
+against it and proceeded in a manner that demonstrated this bias. BSNL did
+not provide the petitioner with a hearing nor did it specify the reasons for
+declaring the petitioner’s bid as non-responsive. Rather, BSNL proceeded
+with haste in opening the financial bids of the rest of the tenderers. On the
+other hand, in relation to M/s. HFCL, although it had not submitted the
+Consolidated Unpriced Bill of Material (BOM) according to clause 12 of the
+Tender document, its bid was declared by BSNL to be techno-commercially
+responsive. This differentiation of treatment, urged the petitioner, was
+manifestly unreasonable and evidenced the discriminatory intent of BSNL.
+9.      It is argued by Mr. Nigam, learned senior counsel, that the ground
+which BSNL stresses in these proceedings, i.e the IPRs for the technology
+provided or used under the tender conditions, had not been obtained, is
+without foundation. It is submitted that M/S TECL was owner of the
+technology that was to be used, under the contract. M/s Altobridge had
+entered      into  an   agreement     to  provide  all  necessary    technical
+information/know-how (hardware and software of GSM BSS) as to enable
+the petitioner to manufacture the GSM BSS solutions with TEC
+specification. Later, Altobridge went into liquidation and its successor, VT-
+iDirect bought the technology through the receiver. It was submitted that VT
+W.P.(C) 4393/2017                                                    Page 5 of 19
+
+iDirect’s affidavit in this regard was furnished to BSNL; furthermore, the
+technology was transferred from "source code" level from VTiDirect to
+TECL. It was submitted that each of these facts were supported by
+documentary material and evidence. Despite these, BSNL, in an arbitrary
+manner has proceeded to say that the IPR ownership was not established.
+Counsel relied upon the petitioner’s letters dated 17.02.2017 and 21.04.2017
+to BSNL, to say that there was sufficient clarification to the queries made
+and that there was no rationale for concluding that the eligibility terms
+Clause11 (1) (a) and 11 (2) of Section 4B had not been complied with. It was
+argued that the petitioner had clarified that in fact it had ownership of the
+Intellectual Property rights in respect of the technology associated with the
+subject matter of the tender.
+10.     Mr. Nigam also submitted that the so-called non-compliance for
+reason of not furnishing an undertaking in format 7H is not correct. He said
+that the forms, including Form 7H were in order. It was also argued that the
+format of 7G/7H given in the tender document software does not envisage a
+situation where it involves complete technology transfer. Therefore, it had to
+be modified suitably to meet the situation where only transfer of technology
+with respect to IPR is involved.
+11.     Learned senior counsel argued that the grounds taken by BSNL to
+reject the petitioner’s bid were specious. It was submitted that BSNL has
+favored another bidder, HFCL, though its tender had deficiencies. It was
+submitted that in the name of seeking clarifications, BSNL allowed changes
+in the documents submitted by HFCL, which was arbitrary as well as
+discriminatory.
+W.P.(C) 4393/2017                                                   Page 6 of 19
+
+12.     BSNL urges, and its senior counsel, Mr. Dinesh Agnani, submits that
+all due procedures and processes in evaluating the bids of the tenderers were
+followed. It was urged that BSNL fairly conducted the entire process by first
+inviting all the bidders to submit their equipment for field testing, in which
+the petitioner’s equipment failed to clear the test. Nonetheless, in view of the
+representations received from the unsuccessful bidders, BSNL in its meeting
+decided to offer another chance to all the bidders to submit their equipment
+for re-testing, along with deciding to call for clarifications from bidders who
+had submitted incomplete documents or not submitted relevant documents.
+Retests were conducted by BSNL thereafter and it was found that all four
+bidders who had offered their equipment for field-testing had passed.
+However, in terms of what was decided in its meeting on 11.01.2017, BSNL
+also decided to call for clarifications from bidders who had not submitted the
+entire documentation required. Accordingly, the CET called for clarifications
+from the bidders, including the petitioner and thereafter, after receiving
+responses to these clarifications, the CET evaluated all the bids.
+13.     Reliance is placed upon the fact that BSNL had also sought legal
+opinion from the Attorney General as to the effect of the process followed by
+it and the legal opinion given was that the process followed by BSNL in
+evaluating the tenders could not be faulted. It is urged that despite the
+petitioner admittedly not having furnished the required documentation as per
+Clause 11 of the Tender document, instead of rejecting the bid outright, the
+CET asked for clarifications from the petitioner. It is only after receiving
+responses from the petitioner, that the CET proceeded to evaluate its bid and
+found the same to be techno-commercially non-responsive. In such
+W.P.(C) 4393/2017                                                      Page 7 of 19
+
+circumstances, the Court should be loath and circumspect in exercising its
+power of judicial review under Article 226 of the Constitution.
+14.     Mr. Agnani points out that the issue of IPR ownership is not as clear
+or unambiguous as the petitioner makes it to be. It is submitted that the
+agreement evidencing that technology was transferred from "source code"
+level from VT iDirect to TECL and that Altobridge had no right or interest in
+the IPR rights was unclear. Moreover, the agreement and other documents
+relied on by the petitioner showed that the conditions therein had not been
+performed, which meant that there was no transfer of technology.
+Furthermore, the petitioner could not argue that any change in the prescribed
+format, was inconsequential. Indeed, if it felt any difficulty in complying
+with any prescribed condition because of peculiar circumstances, it could not
+have unilaterally altered the format; rather it should have sought specific
+clarifications or made queries at the pre-tender stage. Not having done so, on
+the one hand, and in proceeding to furnish its bid, on the basis of altered
+formats, including alteration in the undertaking, the petitioner’s bid was
+rendered non-compliant. This led to BSNL rejecting the bid. Lastly, it was
+argued that after tests were carried out, the battery capacity for C-2 sites was
+determined to be 414H. However, the petitioner’s bid offered only 400AH
+batteries. This clearly disentitled it to award of the contract in question. The
+stipulations clearly stated that the battery capacity had to be 414 H.
+Decision and Reasoning
+15.     The petitioner here calls into question the decision of the CET to
+declare its bid as techno-commercially non-responsive. Before proceeding to
+consider the merits of the rival contentions, it would be pertinent to revisit
+W.P.(C) 4393/2017                                                      Page 8 of 19
+
+the established principles in relation to judicial review in matters concerning
+tender invitations by public authorities. In Michigan Rubber (India) Ltd. v.
+State of Karnataka, (2012) 8 SCC 216, after reviewing a number of its
+previous decisions, the Supreme Court noted:
+        “Therefore, a Court before interfering in tender or contractual
+        matters, in exercise of power of judicial review, should pose to
+        itself the following questions:
+        (i) Whether the process adopted or decision made by the
+        authority is mala fide or intended to favour someone; or
+        whether the process adopted or decision made is so arbitrary
+        and irrational that the court can say:
+        “the decision is such that no responsible authority acting
+        reasonably and in accordance with relevant law could have
+        reached”; and
+        (ii) Whether the public interest is affected. If the answers to the
+        above questions are in negative, then there should be no
+        interference under Article 226.”
+16.     In the seminal case of Tata Cellular v. Union of India, (1994) 6 SCC
+651, the law on this point was exhaustively reviewed and the Supreme Court
+noted that in relation to public contracts and tenders, the following principles
+are discernible from the plethora of decisions:
+        1)      “The modern trend points to judicial restraint in
+        administrative action.
+        2)      The Court does no sit as a court of appeal but merely
+        reviews the manner in which the decision was made.
+        3)      The Court does not have the expertise to correct the
+        administrative decision. If a review of the administrative
+W.P.(C) 4393/2017                                                        Page 9 of 19
+
+        decision is permitted it will be substituting its own decision,
+        without the necessary expertise which itself may be fallible.
+        4)      The terms of the invitation to tender cannot be open to
+        judicial scrutiny because the invitation to tender is in the realm
+        of contract. Normally speaking, the decision to accept the
+        tender or award the contract is reached by process of
+        negotiations through several tiers. More often than not, such
+        decisions are made qualitatively by experts.
+        5)      The Government must have freedom of contract. In
+        other words, a fairplay in the joints is a necessary
+        concomitant for an administrative body functioning in an
+        administrative sphere or quasi-administrative sphere.
+        However, the decision must not only be tested by the
+        application of Wednesbury principle of reasonableness
+        (including its other facts pointed out above) but must be free
+        arbitrariness not affected by bias or actuated by mala fides.
+        6)      Quashing decisions may impose heavy administrative
+        burden on the administration and lead to increased and
+        unbudgeted expenditure.”
+17.     In Air India Ltd. v. Cochin International Airport, (2000) 2 SCC 617,
+the Supreme Court held:
+        “The award of a contract, whether it is by a private party or by
+        a public body or the State, is essentially a commercial
+        transaction. In arriving at a commercial decision
+        considerations which are of paramount are commercial
+        considerations. The State can choose its own method to arrive
+        at a decision. It can fix its own terms of invitation to tender and
+        that is not open to judicial scrutiny. It can enter into
+        negotiations before finally deciding to accept one of the offers
+        made to it. Price need not always be the sole criterion for
+        awarding a contract. It is free to grant any relaxation, for bona
+        fide reasons, if the tender conditions permit such a relaxation.
+        It may not accept the offer even though it happens to be the
+W.P.(C) 4393/2017                                                       Page 10 of 19
+
+        highest or the lowest. But the State, its corporations,
+        instrumentalities and agencies are bound to adhere to the
+        norms, standards and procedures laid down by them and
+        cannot depart from them arbitrarily. Though that decision is
+        not amenable to judicial review, the Court can examine the
+        decision making process and interfere if it is found vitiated by
+        mala fides, unreasonableness and arbitrariness. The State, its
+        corporations, instrumentalities and agencies have the public
+        duty to be fair to all concerned. Even when some defect is found
+        in the decision making process the Court must exercise its
+        discretionary power under Article 226 with great caution and
+        should exercise it only in furtherance of public interest and not
+        merely on the making out of a legal point. The Court should
+        always keep the larger public interest in mind in order to
+        decide whether its intervention is called for or not. Only when it
+        comes to a conclusion that overwhelming public interest
+        requires interference, the Court should intervene.”
+18.     In Master Marine Services (P) Ltd v Metcalfe Hodgkinson (P) Ltd &
+Anr (2005) 6 SCC 138 the position was reiterated in the following words:
+        "12. After an exhaustive consideration of a large number of
+        decisions and standard books on administrative law, the Court
+        enunciated the principle that the modern trend points to judicial
+        restraint in administrative action. The court does not sit as a
+        court of appeal but merely reviews the manner in which the
+        decision was made.
+        The court does not have the expertise to correct the
+        administrative      decision.     If    a     review     of   the
+        administrative decision is permitted it will be substituting its
+        own decision, without the necessary expertise, which itself may
+        be fallible. The Government must have freedom of contract.
+        In other words, fair play in the joints is a necessary
+        concomitant for an administrative body functioning in an
+        administrative sphere or quasi- administrative sphere.
+        However, the decision must not only be tested by the
+        application of Wednesbury principles of reasonableness but
+        also must be free from arbitrariness not affected by bias or
+W.P.(C) 4393/2017                                                     Page 11 of 19
+
+        actuated by mala fides. It was also pointed out that quashing
+        decisions may impose heavy administrative burden on the
+        administration and lead to increased and unbudgeted
+        expenditure."
+19.       In Afcons Infrastructure Ltd. Vs. Nagpur Metro Rail Corporation
+Ltd. & Anr. 2016 SCC Online SC 940 the Supreme Court held as follows:-
+        “14.....a mere disagreement with the decision making process
+        or the decision of the administrative authority is no reason for a
+        constitutional Court to interfere. The threshold of mala fides,
+        intention to favour someone or arbitrariness, irrationality or
+        perversity must be met before the constitutional Court
+        interferes with the decision making process or the decision.”
+20.     The above decisions are clear authority for the proposition that
+ordinarily, the Court should not interfere with the decision making process
+for award of tenders. The Government and the public authorities should have
+freedom of contract and even if the Court finds some infirmity in the
+decision      making     process,   unless   there   is    patent  arbitrariness,
+unreasonableness or established mala fides from the record, the Court should
+in the larger public interest, not interfere with the process. Moreover, it is
+open to the tenderer to grant relaxation for bona fide purposes, or to insist on
+strict compliance of certain tender conditions, as long as the same is not done
+with a mala fide or discriminatory intent. Therefore, it is the decision making
+process, and not the decision itself that can be looked into by the courts in
+exercise of their power of judicial review.
+21.     Keeping the above principles in mind, this court now proceeds to
+examine the tender process conducted by BSNL in the present case. It would
+W.P.(C) 4393/2017                                                      Page 12 of 19
+
+be relevant, at this stage to reproduce the material terms of the tender
+document:
+        “Section 4-Part A
+        14.0 Format and Signing of Bid
+        14.1 The bidder shall submit his bid, online (in case of e-
+        tendering) & through sealed envelopes physically (in case of
+        tenders with manual bidding process),complying all eligibility
+        conditions, other terms and conditions of tender document to be
+        read along with the clarifications and amendments issued in
+        this respect. All the documents must be authenticated, using
+        Digital Signature (in case of e-tendering) & by hand signatures
+        (for manual bidding process), by the authorized person. The
+        letter of authorization shall be indicated by written power-of-
+        attorney accompanying the bid.
+        Section 4- Part B
+        1. Eligibility Conditions-
+        (e) Vendor quoting 20/30 Meter Guyed, Wired Mast as per
+        design approved from Structural Engineering Research Centre
+        (SERC)/ IITs, is required to submit design approval of
+        20/30Meter Guyed Wired Mast from SERC/IIT within five
+        weeks of Opening of Techno Commercial Bid. If bidder fails to
+        submit these documents within the specified time, such bid shall
+        be treated as substantially non and shall be rejected without
+        detailed evaluation pursuant to Clause 22, Section 4A.
+            ***************                      *****************
+        11.1 The bidder shall furnish, as part of the bid documents
+        establishing the bidder's eligibility, the following documents or
+        whichever is required as per terms and conditions of the Bid
+        Documents:
+        (a) The vendor should clearly specify ownership, IPRs and
+        certain other rights with respect to Technology/ Design(s) of
+W.P.(C) 4393/2017                                                     Page 13 of 19
+
+        GSM BSS. If offered technology/design of BSS is not developed
+        by the vendor, the vendor is required to submit MOU
+        Agreement with the technology provider as per Performa given
+        in Section 7G and Board Resolution of the Technology
+        providing company as per Performa given in Section 7H .
+        These documents are required to be duly notarized. In case the
+        company is of foreign origin, the notary has to be from the
+        country from where technology provider is, alternatively, it
+        should be attested by the Indian Embassy/ High Commission in
+        that country.
+        (b) The bidder should clearly specify OEM/Principal
+        Manufacturer of Satellite HUB &VSAT equipments. If bidder is
+        not OEM/Principal Manufacturer of Satellite HUB & VSAT
+        equipments, it should have a back-to-back support agreement
+        with OEM/Principal Manufacturer for support of offered
+        product for tendered period duly approved by Board as per
+        Performa given in Section 7l.
+22.     It is contended by BSNL that the petitioner did not fulfill the above
+mentioned eligibility conditions and hence its bid was declared non-
+responsive. However, instead of rejecting the petitioner’s bid outright, BSNL
+sought clarifications from it. Both in the written pleadings as well as in the
+hearing before the Court, the parties placed significant emphasis on Clause
+11 of Section 4B, and raised arguments regarding the petitioner’s
+compliance or otherwise with this Clause of the tender document.
+Admittedly, in terms of Clause 11.1 (a) of Section 4B, the petitioner had not
+submitted an undertaking in the form of the pro-forma format 7G and 7H
+that was specified in the tender document. In the petitioner’s case, the
+technology it offered was not owned by it but was transferred to it by an
+agreement signed with M/s Altobridge. It seems that sometime thereafter,
+M/s. Altobridge went into liquidation and was acquired by VT-iDirect. In
+W.P.(C) 4393/2017                                                    Page 14 of 19
+
+this case, an undertaking from the service provider (VT-iDirect) was
+admittedly not provided to BSNL in terms of the format prescribed in the
+tender document. Moreover, the MoU provided initially was neither
+notarized nor attested by the Indian Embassy/High Commission as per the
+tender requirements. Subsequently, BSNL sought for clarifications with
+respect to the petitioner’s non-compliance with Clause 11.1 as well as other
+clauses. BSNL states that in the clarification submitted, the petitioner merely
+reiterated its previous position and as such, the clarification provided did not
+constitute compliance with Clause 11 of the tender document.
+23.     The Court considers that it is undisputed that the petitioner did not
+submit an undertaking in the required format in terms of Clause 11 in the
+first instance and even the agreement submitted was not duly notarized or
+stamped. It is important to note that instead of summarily rejecting the
+petitioner’s bid, BSNL asked for clarifications from it, offering it a chance to
+remedy its non-compliance. While the petitioner contends that seeking such
+clarifications was belated and mala fide, the Court notices that in its meeting
+of 11.01.2017 while deciding to conduct re-tests of the equipment of all the
+tenderers, BSNL also decided to call for clarifications from the bidders who
+had not submitted the required documents as per the conditions of the tender.
+Thereafter, clarifications were sought by the CET from all the bidders,
+including the petitioner. In the petitioner’s case, the CET was of the view,
+that the clarifications provided by the petitioner were not sufficient to
+remedy its non-compliance with the tender conditions. What emerges from
+the CET’s 3rd Report (Technical Evaluation), is that the clarifications
+provided by the petitioner were considered by the CET in detail and it
+concluded       that despite   the  clarifications   provided,    the   required
+W.P.(C) 4393/2017                                                     Page 15 of 19
+
+documentation was incomplete and the bid was, therefore, found to be
+techno-commercially non-responsive.
+24.     The petitioner, no doubt, contends that it had substantially and
+sufficiently complied with Clause 11; however, this Court considers that it
+would be the discretion of the public authority which issues the tender to
+evaluate the bid and the level of compliance it expects with particular
+conditions of the tender document. In fact, the CET’s insistence of requiring
+strict compliance with Clause 11 also seems to be based on reason; this
+would be essential to ensure that subsequent to the grant of the tender, there
+arise no issues with respect to IPR and other rights relating to the technology
+of the service provider, especially in cases where the technology is not
+owned by the tenderer.
+25.     In the circumstances, the Court considers that the decision-making
+process of the CET cannot be faulted. Concededly too, in terms of Clause
+1(e) of Section 4B, the approved design was not submitted within the
+prescribed time. The Court, taking into account the entirety of the factual
+matrix, cannot discern any irregularity in the process adopted by the CET, or
+find evidence of any mala fide on its part.
+26.     The petitioner also alleges that BSNL has treated it in a discriminatory
+manner by insisting on strict compliance with Clause 11, whereas in the case
+of M/s. HFCL it had relaxed compliance with Clause 12 of Section 5B,
+which requires the tenderer to submit a detailed unpriced Bill of Material.
+Clause 12 reads:
+        “12. Detailed Unpriced BoM:
+        a. DTR provides a detailed requirement of the Purchaser. The
+        Bidders shall provide along with the techno-commercial Bid,
+W.P.(C) 4393/2017                                                      Page 16 of 19
+
+        detailed Un-priced BoM as per the SoR line item indicating
+        break up for each of the SOR line item with their quantity
+        required to meet the performance requirement sought for in the
+        GR and DTR. A detailed specification of generic items such as
+        laptop and desktop computers, Printers, inverters etc shall form
+        part of tile technical Bid and shall be of latest versions in the
+        market.
+        b. The price of each of the discrete items in Detailed BOM
+        should also be quoted upto two decimal point as d percentage
+        of the Quoted Price of concerned SbR line item in financial bid
+        While apportioning the percentage price of a main item for
+        which price has been explicitly quoted in the financial Bid, care
+        should be exercised to ensure that the total of all the sub-items
+        forming part of the main item shall be equal to 100 %. Care
+        should be taken that absolute price value of the SOR line item
+        or subitems should not be mentioned in Detailed Unpriced
+        BOM, Make and model of the each of the discrete should also
+        be mentioned Detailed Unpriced BOM,
+        c. A Bid without the detailed BoM/BoQ may be rejected as
+        substantively non responsive.
+27.     In M/s. HFCL’s case, the CET was of the view that the information
+required in the unpriced BOM was available in other documents submitted
+by the tenderer and since the bidder had submitted all the information and
+documents pertaining to the unpriced BOM, hence Clause 12 was deemed to
+have been complied with. The Court does not find any irregularity in the
+CET’s actions on this count. Since the CET was of the opinion that the
+information required in the unpriced BOM was satisfactorily found in the
+other documents submitted M/s. HFCL, it was open to it to find the bid as
+techno-commercially        responsive.  The    Court    further   discerns      no
+discriminatory intent on the part of BSNL, having regard to the fact that the
+W.P.(C) 4393/2017                                                      Page 17 of 19
+
+two clauses in question are different-in the petitioner’s case, compliance
+with Clause 11 of Section 4B was in issue and in case of M/s. HFCL it was
+Clause 12 of Section 5B. It would tantamount to either comparing apples and
+oranges, or stepping into the shoes of the public authority to determine
+whether the requirements imposed by these two clauses are to be given equal
+weight, if the Court were to find discriminatory intent on the part of BSNL
+in such a situation. As noted in a number of decisions, including Michigan
+Rubber (supra), Afcons (supra), etc., the public authority issuing the tender
+has the discretion in deciding whether certain conditions of the tender
+document need to be strictly enforced and whether relaxation can be granted
+with respect to certain other requirements. The Court has neither the
+expertise nor the competence to undertake such an analysis-as to whether the
+public authority must insist on the same level of compliance for different
+conditions of the tender. In the circumstances, the Court does not find that
+the actions of BSNL are either procedurally irregular, arbitrary or mala fide.
+In fact, BSNL’s bona fides and anxiousness to preserve the fairness of the
+tender process is also made out from the fact that it sought legal opinion, as
+to the justification and fairness of the entire process. The opinion, dated
+20.04.2017 expressed that the entire process was conducted fairly and was
+without flaw.
+28.     This court is unable to agree with the petitioner that the objection as to
+IPR was fully or satisfactorily explained. It was submitted that the
+documents furnished by the petitioner on the issue, clearly showed that IPRs
+and the technology were not licensed or assigned to the petitioner. Rather,
+the document clearly envisioned ownership of the IPRs would continue with
+Altobridge.       Now, those documents (i.e. inter se the petitioner and
+W.P.(C) 4393/2017                                                      Page 18 of 19
+
+Altobridge) have not been brought on record. They were considered by the
+public agency, i.e. BSNL. Furthermore, the inability to match the prescribed
+criteria in respect of batteries, also furnishes adequate reason to BSNL to
+have found the petitioner’s bid non-compliant. Given these facts as well as
+the narrow scope of judicial review in such matters, this Court is of the view
+that there is no reason to interfere with the tender process. It is only if the
+decision of the CET is so unreasonable that no reasonable man would have
+reached such a conclusion, can the decision be struck down; in the present
+case, the decision arrived at by the CET seems not only perfectly reasonable,
+but also procedurally regular and bona fide.
+29.     In the circumstances, the Court is of the view that the writ petition is
+unmerited. It deserves to fail. The writ petition is accordingly dismissed
+along with the pending applications. There shall be no order as to costs.
+                                                      S. RAVINDRA BHAT
+                                                                     (JUDGE)
+                                                                  S.P. GARG
+                                                                     (JUDGE)
+JULY 31, 2017
+W.P.(C) 4393/2017                                                    Page 19 of 19
+
+

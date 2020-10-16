@@ -1,0 +1,459 @@
+*       IN THE HIGH COURT OF DELHI AT NEW DELHI
+%                            Judgment Reserved on: 11th December, 2015
+                             Judgment Delivered on:            12th May, 2016
++       WP(C) 2526/2015
+ALLIED STRIPS LIMITED                                         ..... Petitioner
+                             versus
+ASSISTANT COMMISSIONER OF INCOME
+TAX CENTRAL CIRCLE-15                                       ..... Respondent
+Advocates who appeared in this case:
+For the Petitioner : Mr Salil Aggarwal and Mr Prakash Kumar, Advocates.
+For the Respondents: Mr Rohit Madan and Mr Akash Vajpai, Advocate for the Income
+                     Tax.
+CORAM:-
+HON’BLE MR JUSTICE BADAR DURREZ AHMED
+HON’BLE MR JUSTICE SANJEEV SACHDEVA
+                                JUDGMENT
+SANJEEV SACHDEVA, J
+1.      This writ petition pertains to the assessment year 2007-08 and
+seeks quashing of notice dated 27.03.2014 issued by respondent under
+Section 148 of the Income Tax Act, 1961 (hereinafter referred to as
+the said ‘Act’) and the consequent proceedings thereto including the
+order dated 23.02.2015 dismissing the objections filed by the
+petitioner.
+WP(C)No.2526/2015                                                        Page 1 of 16
+
+2.     The main challenge raised in the writ petition is that the re-
+assessment proceedings have been initiated after a period of 4 (four)
+years from the end of the relevant assessment year and the pre-
+condition for such initiation that there was failure on the part of the
+assessee to fully and truly disclose all the material particulars
+necessary for the assessment is absent. It is contended that there was
+true and full disclosure of all material particulars made by the assessee
+and the reasons for re-opening do not even show that there was any
+such failure on the part of the assessee. It is further contended that it is
+a clear case of change of opinion, in as much as, the issue sought to be
+raked up by way of the impugned notice under Section 148 of the Act
+had been duly considered by the Assessing Officer during the original
+assessment under Section 143(3) of the Act.
+3.     The original assessment under Section 143(3) of the Act was
+completed on 07.10.2009. The return of income was filed on
+16.11.2007. On 15.07.2009 a detailed questionnaire was issued by the
+Assessing Officer during the original proceedings under Section
+143(3) of the Act raising specific queries with regard to share
+application money. The specific query raised by the questionnaire
+dated 15.07.2009 pertaining to the share application money is as
+under:-
+       “B.1 For share capital, loans other than banks and inter
+       corporate deposits, introduced/taken during the year and
+WP(C)No.2526/2015                                                 Page 2 of 16
+
+       also in the period after passing of last order U/s' 1 43(3)
+       give list, source genuineness, identity of the same. Please
+       note you are to give confirmed copy of ledger A/c. from
+       the credit or/party including confirmation of mode, date,
+       address and acknowledgement of return etc' from the
+       said party along with source and relevant bank entries.
+       Same information may please be given in respect of
+       squared up loans if any during the year.
+       Please give a detailed note with regard to advance from
+       customer vis-a-vis the policy of company with regards to
+       recognition of income and treatment in accounts.
+       Complete detail of fresh security deposits made by you
+       during the year. File copy of ledger account and purpose
+       of making deposit and of interest earned thereon, if any.”
+4.     In response to the said query raised in the questionnaire, the
+assessee vide its response dated 07.08.2009 furnished the details of
+the share capital raised during the year. Alongwith with the response
+complete details of the shareholders, their addresses, PAN numbers
+and number of shares were furnished. In addition thereto, a
+confirmation letter from each of the shareholders was filed, providing
+the details of the shares, investment made, mode of payment and the
+bank through which the payment was made. In addition thereto, the
+acknowledgement of e-returns of each of the shareholders was also
+furnished. The following annexures were annexed to the response
+dated 07.08.2009:-
+WP(C)No.2526/2015                                               Page 3 of 16
+
+     Name of                  Address             PAN       No. of
+   Shareholder                                             Shares
+M/s         Monisha 2A/65, Ground Floor, AABCM7083P         26700
+Granit Ltd.            Ramesh Nagar, New
+                       Delhi-110 015
+M/s         Monisha 2A/65, Ramesh Nagar, AAFCM0694J         66700
+Impex Ltd.             New Delhi-110 015
+M/s Bhalotia Agro WZ-241/S,            Ground AABCB0388G    60000
+Industries Ltd.        Floor, Inderpuri, New
+                       Delhi
+M/s             Elbee WZ-134, Plot No. 170, AABCH0899D      50000
+Portfolio Ltd.         Vishnu Garden, New
+                       Delhi-110018.
+M/s First Hi-Fin 73, Triloki Apartment, AAACF2099M          56700
+Ltd.                   Plot No. 85, I.P. Extn.
+                       New Delhi-110 092
+M/s           Salwan A-4/181,      Sector-17, AAACS1320E    13400
+Developers          & Rohini, Delhi-110085
+Promoters (P) Ltd.
+M/s Paras Infotech E-71, Amar Colony, AACCP9931C            60000
+(P) Ltd.               Lalpat Nagar, New
+                       Delhi-110024
+M/s Rubik Export Shop No. 20, Krishna AABCR8845A            93400
+Ltd.                   Market, Bawana Road,
+                       Pooth Khurd, Delhi.
+M/s              M.V. WZ-134, Plot No. 170, AAACM8918J      56700
+Marketing         Pvt. Vishnu Garden, New
+Ltd.                   Delhi-110018.
+WP(C)No.2526/2015                                        Page 4 of 16
+
+M/s               U.P. 2A/55, Ground Floor, AAACU0290M       33400
+Electricals Ltd.       Ramesh Nagar, New
+                       Delhi-110 015
+M/s B. Fin-Lease 1/16 Ist Floor, Asaf Ali AAACB6410C         43400
+Pvt. Ltd.              Road, New Delhi-
+                       110002
+M/s             Tashi Shop No. 20, Krishna AAACT6039R        33400
+Contractors        (P) Market, Bawana Road,
+Ltd.                   Pooth Khurd, Delhi
+M/s Akshay Sales 2A/65, Ground Floor, AAICA6630Q             16700
+Pvt. Ltd.              Ramesh Nagar, New
+                       Delhi-110 015
+M/s               G.C. B-348, IIIrd     Floor, AABCG3647B    73400
+Technology (India) Hari        Nagar,    New
+Pvt. Ltd.              Delhi.
+M/s Arun Finvest 50/12, Ashok Nagar, AABCA3510H              83400
+Pvt. Ltd.              New Delhi-110 018
+M/s Maestro Mktg. A-4/181,          Sector-17, AACCM0826H    40000
+& Advg. Pvt. Ltd. Rohini, Delhi-110085
+M/s Polo Leasing A-24,          IInd    Floor, AABCP8345D    23400
+& Finance Pvt. Tagore Market, Kirti
+Ltd.                   Nagar, New Delhi-
+                       110015
+M/s Shashi Sales RZ-41A,               Mohan AAFCS8352R      83400
+& Mktg. Pvt. Ltd. Nagar, Pankha Road,
+                       New Delhi
+M/s Rajkar Electri 5012, Ashok Vihar, AABCR4897G             70000
+& Elect (P) Ltd.       New Delhi-110 018
+WP(C)No.2526/2015                                         Page 5 of 16
+
+M/s        Shattarchi 726,   Pocket   IIIrd AAFCS8159Q            15900
+Finance & Leasing Sector-19,        Dwarka,
+Ltd.                  New Delhi-110045.
+                                                               1000000
+5.     The confirmation letters issued by the shareholders are similar
+and one such letter is extracted herein below. The same reads as
+under:
+                  “TO WHOM SO IT MAY CONCERN
+       This is confirm that we have made investment in shares,
+       the particulars of which are given hereunder, our own
+       declared sources.
+         Name             of        :       Allied Strips Ltd.
+         Company No. of
+         Shares
+         No. of Shares              :       26700          Equity
+                                            Shares of Rs. 10/-
+                                            each
+                                            At a premium of Rs.
+                                            20/- per share
+         Amount invested            :       8,01,000/-
+         in Rupees
+         Particulars      of        :
+         Remittance
+         Cheque /DD/Pay             :       453976, 453977
+         Order No.
+WP(C)No.2526/2015                                              Page 6 of 16
+
+         Dated                     :       29/01/2007
+         Amount                    :       4,00,000/- each and
+                                           1,000/- each
+         Bank Particulars          :       The      Bank      of
+                                           Rajasthan        Ltd.
+                                           Vikaspuri, Delhi
+         PAN/GIR No.               :       AABCM 7083 P
+         Share Certificate         :
+         Received
+         Share Certificate         :
+         No.
+         Share Distinctive         :
+         No.
+       I hereby confirm that the information furnished above is
+       correct.
+       For Monisha Granite Ltd.
+       For MONISHA GRANITE LTD.
+       DIRECTOR”
+6.     After the above-mentioned information was received by the
+Assessing Officer, the assessment was framed under Section 143(3) of
+the Act on 07.10.2009. In the assessment order, the AO has recorded
+as under:
+WP(C)No.2526/2015                                             Page 7 of 16
+
+                           “Assessment Order
+       Return declaring an income of Rs. 46,42,540/- was filed
+       on 16.11.2007 and the same was processed u/s 143(1) at
+       returned income on 21.02.2009. Subsequently, the case
+       was selected for scrutiny. Notice u/s 143(2) & 142(1)
+       along with detailed questionnaire was issued to the
+       assessee. In response to this notice, Shri N.C. Jain,
+       CA/AR attended from time to time and filed details as
+       called for vide letter dated 07.08.2009, 20.08.2009,
+       31.08.2009, 09.09.2009, 23.09.2009 and 07.10.2009
+       (Details are in part-I, II & III of record).
+       The assessee is engaged in the business of Re-rolling in
+       C.R. Strips. The Company has got its accounts audited
+       u/s 44AB of the I.T. Act, 1961 as per audit report dated
+       31.08.2007 filed with the return of income.
+       After discussion and considering the details filed by the
+       assessee in support of the balance sheet and profit & loss
+       account, the taxable income declared by the assessee is
+       accepted.”
+7.     Perusal of the questionnaire along with the response furnished
+and the assessment order reveals that the Assessing Officer after
+examining the aspect of share application money received by the
+assessee through the issuance of the questionnaire and notices framed
+the assessment under Section 143(3) on 07.10.2009. The returned
+income was accepted and no addition was made on account of the
+share application money.
+WP(C)No.2526/2015                                              Page 8 of 16
+
+8.     In CIT vs. Usha International Ltd. (2012)         348 ITR 485
+(Delhi) (FB), a full bench of this Court held:-
+       “Re-assessment proceedings will be invalid in case an
+       issue or query is raised and answered by the assessee in
+       original assessment proceedings but thereafter the
+       Assessing Officer does not make any addition in the
+       assessment order. In such situations it should be
+       accepted that the issue was examined but the Assessing
+       Officer did not find any ground or reason to make
+       addition or reject the stand of the assessee. He forms an
+       opinion. The re-assessment will be invalid because the
+       Assessing Officer had formed an opinion in the original
+       assessment, though he had not recorded his reasons.”
+9.     On 27.03.2014, the impugned notice under Section 148 of the
+Act has been issued. The reasons supplied to the assessee for re-
+opening of the case dated 24.03.2014 record as under:-
+       “M/s Allied Strips Pvt. Ltd. (AABCA0609D)
+       Assessment in this case was completed u/s 143(3) at an
+       income of Rs. 46,42,540/- on 07.10.2009. An information
+       has been received from the Dy. Director of Income Tax
+       (Inv.), Unit-V(2), New Delhi that a search & seizure
+       operation was carried out in the case of Allied Strips
+       Limited on 17.12.2013. It has been observed by the
+       Investigation Wing that M/s Allied Strips Ltd. has taken
+       accommodation entry in the form of share premium/share
+       capital from various non-existent paper companies.
+       During the course of enquiry the alleged investors are
+       not found to be existing at the given address. The list of
+       such parties is as under:-
+WP(C)No.2526/2015                                              Page 9 of 16
+
+   Name of         Address         Date    No. of Premium      Share     Nominal
+ Shareholder                               Shares   (Rs.)     capital     Value
+                                                             received      (Rs.)
+                                                            (including
+                                                             premium
+                                                               (Rs.)
+M/s Monisha    2A/65, Ground    31.03.2007  26700        20   2001000           10
+Granit Ltd.    Floor, Ramesh
+               Nagar,     New
+               Delhi-110 015
+M/s Monisha    2A/65, Ramesh    31.03.2007  66700        20     801000          10
+Impex Ltd.     Nagar,     New
+               Delhi-110 015
+M/s Bhalotia   WZ-241/S,        31.03.2007  60000        20   1800000           10
+Agro           Ground Floor,
+Industries     Inderpuri, New
+Ltd.           Delhi
+M/s      Elbee WZ-134, Plot     31.03.2007  50000        20   1701000           10
+Portfolio Ltd. No.        170,
+               Vishnu
+               Garden, New
+               Delhi-110018.
+M/s First Hi-  73,      Triloki 31.03.2007  56700        20   1500000           10
+Fin Ltd.       Apartment,
+               Plot No. 85,
+               I.P. Extn. New
+               Delhi-110 092
+M/s Salwan     A-4/181,         31.03.2007  13400        20     402000          10
+Developers &   Sector-17,
+Promoters (P)  Rohini, Delhi-
+Ltd.           110085
+M/s      Paras E-71,     Amar   31.03.2007  60000        20   1800000           10
+Infotech (P)   Colony, Lalpat
+Ltd.           Nagar,     New
+               Delhi-110024
+M/s     Rubik  Shop No. 20,     31.03.2007  93400        20   2802000           10
+Export Ltd.    Krishna
+WP(C)No.2526/2015                                                      Page 10 of 16
+
+                Market,
+                Bawana Road,
+                Pooth Khurd,
+                Delhi.
+M/s      M.V.   WZ-134, Plot     31.03.2007 56700 20 1701000          10
+Marketing       No.        170,
+Pvt. Ltd.       Vishnu
+                Garden, New
+                Delhi-110018.
+M/s       U.P.  2A/55, Ground    31.03.2007 33400 20 1002000          10
+Electricals     Floor, Ramesh
+Ltd.            Nagar,     New
+                Delhi-110 015
+M/s B. Fin-     1/16 Ist Floor,  31.03.2007 43400 20 1302000          10
+Lease      Pvt. Asaf Ali Road,
+Ltd.            New      Delhi-
+                110002
+M/s      Tashi  Shop No. 20,     31.03.2007 33400 20 1002000          10
+Contractors     Krishna
+(P) Ltd.        Market,
+                Bawana Road,
+                Pooth Khurd,
+                Delhi
+M/s Akshay      2A/65, Ground    31.03.2007 16700 20  501000          10
+Sales      Pvt. Floor, Ramesh
+Ltd.            Nagar,     New
+                Delhi-110 015
+M/s       G.C.  B-348,     IIIrd 31.03.2007 73400 20  220000          10
+Technology      Floor,     Hari
+(India) Pvt.    Nagar,     New
+Ltd.            Delhi.
+M/s      Arun   50/12, Ashok     31.03.2007 83400 20 2502000          10
+Finvest Pvt.    Nagar,     New
+Ltd.            Delhi-110 018
+M/s Maestro     A-4/181,         31.03.2007 40000 20 1200000          10
+Mktg.        &  Sector-17,
+Advg.      Pvt. Rohini, Delhi-
+Ltd.            110085
+M/s       Polo  A-24,      IInd  31.03.2007 23400 20 7020000          10
+WP(C)No.2526/2015                                            Page 11 of 16
+
+Leasing      &  Floor, Tagore
+Finance Pvt.    Market, Kirti
+Ltd.            Nagar,     New
+                Delhi-110015
+M/s Shashi      RZ-41A,          31.03.2007   83400   20   2502000            10
+Sales        &  Mohan Nagar,
+Mktg.      Pvt. Pankha Road,
+Ltd.            New Delhi
+M/s Rajkar      5012, Ashok      31.03.2007   70000   20   2100000            10
+Electri      &  Vihar,     New
+Elect       (P) Delhi-110 018
+Ltd.
+M/s             726,     Pocket  31.03.2007   15900   20     477000           10
+Shattarchi      IIIrd Sector-19,
+Finance      &  Dwarka, New
+Leasing Ltd.    Delhi-110045.
+                Total                       1000000       3,00,000/-
+         The DDIT (Inv.) has further submitted that the investors
+         have been verified from ITD and none of them reflect
+         receipt of nay dividend on the investment made by them.
+         The returns declaring meagre income/nil/loss income
+         create suspicion on the creditworthiness of the investors.
+                 “it is evidently clear that the undisclosed income
+                 of these beneficiary companies which has been
+                 introduced by them in the form of share capital
+                 /premium/loan has escaped taxation. Therefore it
+                 is requested that there amounts be brought to tax
+                 by initiating action under section 148 of the
+                 Income Tax Act, 1961 for the A.Y. 2007-08 in the
+                 case of above mentioned beneficiary companies.”
+         Since the creditworthiness and genuineness of the above
+         investors remained unverified I therefore reason to
+         believe that an income to the extent of Rs. 3,00,00,000/-
+WP(C)No.2526/2015                                                    Page 12 of 16
+
+       has escaped assessment and to assessee the income
+       mentioned         above       and      to     verify     the
+       genuineness/creditworthiness of the above investors. I
+       propose to issue notice u/s 148 of the Income Tax Act,
+       1961 for the assessment year 2007-08.
+       Therefore, I have reason to believe that THE ASSESSEE
+       COMPANY M/s Allied Strips Limited has concealed the
+       particulars of income to the extent of Rs. 3,00,00,000/-
+       which has not been disclosed in its return of income for
+       the assessment year 2007-08. In view of this, I am
+       satisfied that it is a fit case for reopening u/s 148 as the
+       case of the assessee is fully covered as per the provisions
+       of the I.T. Act, 1961 Section 147.”
+10.    It is clear from the above, that the present case is one of change
+of opinion. The questionnaire and particularly question B.1
+specifically raise the issue with regard to share capital. It requires the
+petitioner to give a list, source, genuineness, identity of the share
+holders along with confirmation copies of the ledger account of the
+party including confirmation of the mode, date, address and
+acknowledgement of return, etc. from the said party along with source
+and relevant bank entries. The said information was provided by the
+assessee. After receipt of the said information, Assessing Officer did
+not think it fit to make an addition and, under these circumstances, no
+addition itself amounts to forming an opinion as has been held in
+Usha International Ltd. (supra).
+WP(C)No.2526/2015                                                Page 13 of 16
+
+11.    Therefore, in our view, the present exercise of issuing the notice
+under Section 148 of the Act would amount to nothing but a change of
+opinion, which is not permissible.
+12.    Another reason why the impugned notice under Section 148
+and the proceedings consequent thereto have to be set aside is that the
+pre-condition of there being a failure on part of the assessee to fully
+and truly disclose all the material particulars necessary for assessment
+has not been made out.
+13.    Perusal of the reasons for initiating re-assessment shows that
+there is not even an allegation that there has been failure on the part of
+the petitioner/assessee to fully and truly disclose all the material
+particulars necessary for re-assessment.
+14.    In Haryana Acrylic Manufacturing P. Ltd. Co. Vs. CIT 2009
+(308) ITR 38 (Delhi), this Court held as under:-
+       “29. In the reasons supplied to the petitioner, there is
+       no whisper, what to speak of any allegation, that the
+       petitioner had failed to disclose fully and truly all
+       material facts necessary for assessment and that because
+       of this failure there has been an escapement of income
+       chargeable to tax. Merely having a reason to believe that
+       income had escaped assessment is not sufficient to
+       reopen assessments beyond the four year period
+       indicated above. The escapement of income from
+       assessment must also be occasioned by the failure on the
+WP(C)No.2526/2015                                                Page 14 of 16
+
+       part of the assessee to disclose material facts, fully and
+       truly. This is a necessary condition for overcoming the
+       bar set up by the proviso to section 147. If this condition
+       is not satisfied, the bar would operate and no action
+       under section 147 could be taken. We have already
+       mentioned above that the reasons supplied to the
+       petitioner does not contain any such allegation.
+       Consequently, one of the conditions precedent for
+       removing the bar against taking action after the said four
+       year period remains unfulfilled. In our recent decision in
+       Wel Intertrade Private Ltd. [2009] 308 ITR 22 (Delhi)
+       we had agreed with the view taken by the Punjab and
+       Haryana High Court in the case of Duli Chand
+       Singhania [2004] 269 ITR 192 that, in the absence of an
+       allegation in the reasons recorded that the escapement of
+       income had occurred by reason of failure on the part of
+       the assessee to disclose fully and truly all material facts
+       necessary for his assessment, any action taken by the
+       Assessing Officer under section 147 beyond the four year
+       period would be wholly without jurisdiction. Reiterating
+       our view-point, we hold that the notice dated March 29,
+       2004, under section 148 based on the recorded reasons
+       as supplied to the petitioner as well as the consequent
+       order dated March 2, 2005, are without jurisdiction as
+       no action under section 147 could be taken beyond the
+       four year period in the circumstances narrated above.”
+15.    In the present case also, there is not even a whisper of any
+allegation that there has been a failure on the part of the assessee to
+disclose fully and truly all material particulars necessary for
+assessment.
+WP(C)No.2526/2015                                               Page 15 of 16
+
+16.    Thus the petition is liable to succeed. The writ petition is
+allowed and the impugned notice under Section 148 of the Act dated
+27.03.2014 and all proceedings consequent thereto including the order
+dated 23.02.2015 are quashed /set aside. There shall be no order as to
+costs.
+                                         SANJEEV SACHDEVA, J.
+                                    BADAR DURREZ AHMED, J.
+MAY 12, 2016
+rs
+WP(C)No.2526/2015                                            Page 16 of 16
+
+

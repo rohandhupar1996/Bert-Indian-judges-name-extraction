@@ -1,0 +1,788 @@
+            THE HIGH COURT OF DELHI AT NEW DELHI
+%                                           Judgment delivered on: 14.08.2014
++          W.P.(C) 2033/2013
+DIRECTOR OF INCOME TAX
+(INTERNATIONAL TAX)                                             ..... Petitioner
+                                              versus
+COPAL RESEARCH
+LIMITED, MAURITIUS                                              ..... Respondent
+                                               AND
++          W.P.(C) 2470/2013
+DIRECTOR OF INCOME TAX
+(INTERNATIONAL TAX)                                             ..... Petitioner
+                                              versus
+COPAL MARKET RESEARCH
+LIMITED, MAURITIUS                                              ..... Respondent
+                                               AND
++          W.P.(C) 2590/2013
+DIRECTOR OF INCOME TAX
+(INTERNATIONAL TAX)                                             ..... Petitioner
+                                              versus
+MOODY’S GROUP LIMITED,
+CYPRUS                                                          ..... Respondent
+                                               AND
++          W.P.(C) 2597/2013
+DIRECTOR OF INCOME TAX
+(INTERNATIONAL TAX)                                             ..... Petitioner
+                                              versus
+MOODY’S ANALYTICS, USA                                          ..... Respondent
+W.P.(C) 2033/2013 & other connected matters                                   Page 1 of 28
+
+Advocates who appeared in this case:
+For the Petitioners                 : Mr. Balbir Singh, Sr. Standing Counsel with
+                                       Mr. Arjun Harkauli, Jr. Standing Counsel, Ms.
+                                       Monica Benjamin and Mr. Abhishek Singh
+                                       Baghel.
+For the Respondents                 : Mr. S. Ganesh, Sr. Adv. with Mr. Satyen Sethi,
+                                       Mr. Prakash Kumar and Mr. Arta Trana Panda.
+CORAM:
+HON'BLE MR. JUSTICE S. RAVINDRA BHAT
+HON'BLE MR. JUSTICE VIBHU BAKHRU
+                                            JUDGMENT
+VIBHU BAKHRU, J
+1.       These writ petitions have been filed by the Revenue challenging a
+common ruling dated 31.07.2012 (hereinafter referred to as the ‘impugned
+ruling’) passed by the Authority for Advance Ruling (hereinafter referred to
+as ‘AAR’).
+2.       By the impugned ruling, the AAR held that the capital gains arising
+out of the sale of shares of an Indian Company - Copal Research India
+Private Limited, sold by a company incorporated in Mauritius (Copal
+Research Limited) to a Cyprus company (M/s Moody’s Group Cyprus
+Ltd.) and sale of shares of a US company (Exevo Inc.) sold by the
+Mauritius Company (Copal Market Research Limited) to another US
+company (Moody's Analytics, Inc.) were not liable to tax, in India, in the
+hands of the seller companies. Consequently, the purchasing companies -
+M/s Moody’s Group Cyprus Ltd. and Moody’s Analytics, Inc.- had no
+obligation to withhold tax under Section 195 of the Income Tax Act, 1961
+W.P.(C) 2033/2013 & other connected matters                               Page 2 of 28
+
+(hereinafter referred to as the ‘Act’) from the consideration payable to the
+sellers – the Mauritian companies.
+3.       The details of various companies involved in the present writ
+petition are:-
+          i.    Copal Research Limited (‘CRL’) - a company incorporated on
+                17.03.2004 under the laws of Mauritius.
+         ii.    Copal Research India Private Limited (‘CRIL’) - an Indian
+                company incorporated on 31.12.2002.
+       iii.     Copal Market Research Limited (‘CMRL’) - a company
+                incorporated on 01.04.2008 under the laws of Mauritius.
+        iv.     Copal Partners Limited (‘Copal-Jersey’) - a company
+                incorporated in Jersey on 21.07.2006.
+         v.     Exevo India Private Limited (‘Exevo-India’) - an Indian
+                company incorporated on 22.03.2002.
+        vi.     Exevo Inc. (‘Exevo-US’) - a company incorporated on
+                24.07.2002 in United States of America.
+      vii.      Moody’s Group Cyprus Ltd. (‘Moody-Cyprus’) - a company
+                incorporated in Cyprus.
+     viii.      Moody’s Analytics, Inc. (‘Moody-USA’) - a company
+                incorporated in United States of America.
+        ix.     Moody’s Group UK Ltd. (‘Moody-UK’) - a company
+                incorporated in United Kingdom in 2007.
+CRL, CRIL, CMRL and Copal-Jersey are hereinafter collectively referred
+to as the ‘Copal Group’. Moody-Cyprus, Moody-USA and Moody-UK are
+W.P.(C) 2033/2013 & other connected matters                       Page 3 of 28
+
+hereinafter collectively referred to as the ‘Moody Group’. Exevo-India and
+Exevo-USA are hereinafter collectively referred to as the ‘Exevo Group’.
+4.       The facts necessary for considering the present petitions relate to
+three transactions pertaining to sale of shares of the constituents of Copal
+Group to the constituents of the Moody Group. The tax incidence in
+respect of two transactions - sale of shares of CRIL by CRL (hereinafter
+also referred to Transaction-I or the first transaction) and sale of shares of
+Exevo-US by CMRL (hereinafter also referred to as Transaction-II or the
+second transaction) - were the subject matter of applications filed before
+the AAR.
+5.       The first transaction entails sale of shares of CRIL by CRL to
+Moody-Cyprus: CRL entered into a Share Purchase Agreement dated
+03.11.2011 (hereinafter referred to as the ‘SPA-I’) with Moody-Cyprus
+whereby CRL sold its entire 100% holding in CRIL to Moody-Cyprus. The
+sale consideration under the said SPA-I for the transfer of shares comprised
+of two components: Fixed sum of USD 31,406,740 payable in lump-sum
+(referred to as initial consideration in the SPA-I) and Deferred
+consideration in the form of an 'Earn-out' payable in one full and final
+installment as per Clause 5 of SPA-I read with Schedule 5 thereto. It is
+relevant to note that Copal-Jersey acquired 100% shares of CRL on
+18.10.2006 and CRL is a wholly owned subsidiary of Copal-Jersey. Out of
+the 1,24,424 shares of CRIL that were sold to Moody Cyprus 1,14,425
+(constituting 92% of the entire shareholding of CRIL) were acquired by
+CRL on 10.08.2004, by way of subscription and the balance 9,999 shares
+W.P.(C) 2033/2013 & other connected matters                       Page 4 of 28
+
+(constituting 8% of the subscribed and issued share capital) were purchased
+on 21.05.2010.
+6.       The relevant facts with respect to Transaction-II are: CRL acquired
+100% shares of CMRL on 01.04.2008. Thereafter, CMRL acquired 100%
+shares of Exevo-USA. Exevo-USA holds 100% of the shareholding
+(10,06,550 shares) of Exevo-India. Subsequently, CMRL entered into a
+Share Purchase Agreement dated 03.11.2011 (hereinafter referred to as the
+‘SPA-II’) with Moody-USA whereby CMRL sold all the shares of Exevo-
+USA to Moody-USA. The effect of the said transaction was that the control
+of the Indian Company (Exevo-India), which was a wholly owned
+subsidiary of Exevo-USA, was also indirectly transferred to Moody-USA
+(an American Company). The sale consideration under the said SPA-II
+comprised of two components being a fixed sum of USD 11,176,000
+payable in lump-sum (referred to as initial consideration in the SPA-II) and
+deferred consideration in the form of an 'Earn-out' payable in one full and
+final installment as per Clause 5 of the SPA-II read with Schedule 5 thereto.
+7.       Copal-Jersey was, at the material time, the ultimate holding company
+of the Copal Group and its certain shareholders (other than banks and
+financial institutions) held approximately 67% of the issued and paid up
+capital of the company (the said shareholders are hereinafter referred to as
+the ‘Copal Group Shareholders’). Banks and other Financial Institutions
+held the balance 33% shares (approx.) of Copal-Jersey. Copal Group
+Shareholders entered into a Share Purchase Agreement dated 04.11.2011
+(hereinafter referred to as the ‘SPA-III’) with Moody-UK for sale of
+approximately 67% of the shares of Copal-Jersey to Moody-UK for an
+W.P.(C) 2033/2013 & other connected matters                        Page 5 of 28
+
+aggregate consideration of USD 93,509,220 (this transaction is hereinafter
+also referred to as ‘Transaction-III’).
+8.       Four applications were filed before the AAR under section 245R of
+the Act in respect of the two transactions - Transaction-I and Transaction-
+II. Moody-USA and CMRL filed applications with respect to Transaction-II
+being AAR No.1186/2011 and AAR No.1189/2011 respectively. It was
+contended by the said applicants that in view of the India-Mauritius Double
+Taxation Avoidance Agreement (DTAA) read with section 90(2) of the
+Act, gains arising in the hands of CMRL from Transaction-II were not
+taxable under the Act and, consequently, Moody-USA was not required to
+withhold any tax. An advance ruling to the said effect was sought from the
+AAR. Applications seeking a similar ruling with respect to Transaction-I
+were filed by Moody-Cyprus and CRL being AAR 1187/2011 and AAR
+1188/2011 respectively.
+9.       The AAR admitted the applications for consideration and framed the
+following questions in AAR No.1186/2011:-
+     “1) Whether on facts and in law, the applicant is justified in its
+          view that capital gains arising on the sale of shares of Exevo
+          Inc., US ('Exevo Inc') by Copal Market Research Ltd.
+          ("CMRL") to the applicant would not be chargeable to tax in
+          India in the hands of CMRL?
+     2) Whether on facts and in law, the Applicant is justified in its
+          view that the full value of consideration receivable by CMRL
+          for the sale of shares of Exevo Inc. to the applicant shall be the
+          total consideration including the 'Earn-Out' consideration for
+          the purposes of computing 'Capital Gains'?
+W.P.(C) 2033/2013 & other connected matters                          Page 6 of 28
+
+     3) If the 'Earn-Out' consideration is to be treated as business
+          profits, whether such profits would be taxable in India under
+          the Act in the absence of any 'Business Connection' of CMRL
+          in India?
+     4) If the answer to question no. 3 above is in the affirmative,
+          whether the 'Earn-Out' consideration would be chargeable to
+          tax in the assessment year relevant to the previous year in
+          which transfer took place or the year in which Earn-Out
+          consideration is received by CMRL?
+     5) If the 'Earn-Out' consideration is to be treated as other
+          income, whether such income would be taxable under the Act
+          by virtue of any income having accrued or arisen to CMRL in
+          India through or from:
+             i.    Any property in India; or
+            ii.    Any asset or source in India?
+     6) If the answer to question no. 5, is in the affirmative, whether
+          the `Earn-Out' consideration would be chargeable to tax in the
+          assessment year relevant to the previous year in which
+          transfer took place or the year in which Earn-Out is received
+          by CMRL?
+     7) Whether on the stated facts, the Applicant, being a foreign
+          company and in absence of a place of business in India, would
+          be subject to tax under the provisions to Section 115JB of the
+          Act?
+     8) Whether on the facts and in law, the Applicant is required to
+          withhold tax under section 195 of the Act on the income
+          chargeable to tax in India in the hands of CMRL from sale of
+          shares in Exevo Inc. to the Applicant?
+     9) If the answer to question 8 is in the affirmative, then, whether
+          the Applicant would be liable to interest under section 201(1A)
+          of the Act?”
+W.P.(C) 2033/2013 & other connected matters                        Page 7 of 28
+
+10.      The AAR framed the following questions in AAR No.1188/2011:-
+      “1) Whether on facts and in law, the applicant is justified in
+            its view that capital gains, if any, arising on the sale of
+            shares of Copal Research India Private Limited ('CRIPL)
+            by the applicant to Moody's Group Cyprus Ltd. (Moody's)
+            will not be chargeable to tax in India in the hands of the
+            applicant, as per the provisions of paragraph 4 of Article
+            13 of the Double Taxation Avoidance Agreement entered
+            into between India and Mauritius ('the DTAA'/'the
+            Treaty')?
+        2) Whether on facts and in law, the Applicant is justified in its
+            view that the full value of consideration receivable by the
+            Applicant for the sale of shares of CRIPL to Moody's shall
+            be the total consideration including the 'Earn-Out'
+            consideration for the purposes of computing 'Capital
+            Gains'?
+       3) If the 'Earn-Out' consideration is to be treated as business
+            profits, whether such profits shall be taxable in India as per
+            the provisions of Article 7 read with Article 5 of DTAA?
+       4) If the answer to question no. 3 above is in the affirmative,
+            whether the Earn-Out would be chargeable to tax in the
+            assessment year relevant to the previous year in which
+            transfer took place of or the year in which Earn-Out is
+            received by the Applicant?
+       5) If the 'Earn-out' consideration is to be treated as Other
+            Income, whether such income shall be taxable in India as
+            per the provisions of Article 22 of the DTAA?
+       6) If the answer to question 5 above is in the affirmative,
+            whether the Earn-Out would be chargeable to tax in the
+            assessment year relevant to the previous year in which
+            transfer took place or the year in which Earn-Out is
+            received by the Applicant?
+W.P.(C) 2033/2013 & other connected matters                          Page 8 of 28
+
+       7) Whether on the stated facts, the Applicant, being a foreign
+            company and in absence of a place of business or a
+            Permanent Establishment ('PE') in India, would be subject
+            to tax under the provisions of section 115JB of the Act?
+       8) Whether on the stated facts and in law, Moody's Group
+            Cyprus Ltd. another non-resident is required to withhold
+            tax under section 195 of the Act on the income chargeable
+            to tax in India in the hands of the applicant from the sale of
+            shares?”
+11.      The AAR adopted the questions framed in AAR No.1186/2011 in
+AAR No.1189/2011, which were also answered in terms of the ruling in
+AAR 1186/2011. Similarly, the questions framed in AAR No.1188/2011
+were adopted by the Authority in AAR No.1187/2011 and answered
+accordingly. The AAR passed a common order in all the four applications
+and by the impugned ruling held that the capital gains arising out of the
+said transaction were not liable to tax in India in the hands of the
+respondents. The AAR further ruled that the Earn-Out consideration
+would also be a part of the consideration receivable by the respondents.
+The AAR held that there was no obligation on Moody-USA and Moody-
+Cyprus to withhold tax under Section 195 of the Act. Aggrieved by the
+impugned ruling, the Revenue has filed the present writ petitions.
+12.      The learned counsel appearing for the Revenue has submitted that
+the transactions for sale of shares of Exevo-USA and CRIL must not be
+viewed in isolation but in conjunction with the sale of shares of Copal-
+Jersey to Moody-UK as contemplated under SPA-III dated 04.11.2011.
+And, all the transactions i.e. Transaction-I, Transaction-II and Transaction-
+III were an integral part of a single transaction. It was argued that the
+W.P.(C) 2033/2013 & other connected matters                          Page 9 of 28
+
+commercial understanding between Copal Group Shareholders and Moody-
+UK was to structurally transfer the entire businesses and interest of the
+Copal Group to the Moody Group and the same was effectuated by the
+three transactions (Transaction-I, Transaction-II and Transaction-III). It
+was stated that Copal Group Shareholders held approximately 67%
+shareholding of Copal-Jersey and Banks and Financial Institutions held the
+balance shares constituting approximately 33% of the share capital of
+Copal-Jersey. Given the shareholding structure of the Copal Group, the
+transfer of shares of Copal-Jersey by the Copal Group Shareholders would
+consummate the transfer of the entire Copal Group i.e. the businesses and
+the downstream subsidiaries of Copal-Jersey, to the Moody Group. This, it
+was contended, was the real transaction between the Copal Group
+Shareholders and Moody-UK.
+13.      It was submitted that the sale and purchase agreements read together
+indicate that, structurally, the entire Copal Group was transferred to the
+Moody Group. It was argued that but for the separate sale transactions in
+respect of shares of CRIL and Exevo-US (i.e SPA-I and SPA-II) executed
+one day prior to the sale of shares of Copal-Jersey (i.e SPA-III), the gains
+arising from sale of shares of Copal-Jersey in the hands of Copal Group
+Shareholders would be taxable under the Act, as the shares of Copal-Jersey
+would derive their value substantially on account of the value of the assets
+situated in India namely shares of Exevo-India and CRIL. It was reasoned
+that by virtue of Section 9(1)(i) of the Act read with Explanation 5 thereto,
+the capital gains arising in the hands of the Copal Group Shareholders (who
+were non-residents) would be taxable under the Act as the said gains would
+W.P.(C) 2033/2013 & other connected matters                       Page 10 of 28
+
+be deemed to accrue and arise in India. It was submitted that in order to
+avoid this incidence of tax, the transaction of sale of the businesses and
+interests of the Copal Group to the Moody Group was structured in a
+manner so as to include two separate transactions for sale of shares of CRIL
+held by CRL to Moody-Cyprus and shares of Exevo-USA to Moody-USA.
+Sellers in both these transactions, namely, CRL and CMRL were
+companies incorporated in Mauritius and the tax chargeable on gains
+arising from sale of shares in the hands of the Mauritius entities could be
+avoided by virtue of India-Mauritius Double Taxation Avoidance
+Agreement. It was submitted that in the given circumstances, the
+transactions in question, namely, sale of shares of CRIL and Exevo-US,
+were interspersed and as such were transactions structured prima facie for
+avoidance of tax.
+14.      The learned counsel for the assessee had objected to the contentions
+of the revenue and submitted that the same were neither raised before the
+AAR nor pleaded in the writ petition. He further submitted that the shares
+of CRIL and shares of Exevo-USA were sold to Moody Group as they
+insisted on acquiring 100% shareholding of these companies. However,
+with respect to shares of Copal-Jersey only 67% of its shares were sold to a
+separate entity of the Moody Group. That transaction, thus, ought to be
+considered as a transaction independent of Transaction-I and Transaction-
+II.
+15.      Before proceeding to consider the rival submissions, it would be
+necessary to refer to Clause (iii) of Proviso to Section 245R(2) of the Act
+which reads as under:-
+W.P.(C) 2033/2013 & other connected matters                       Page 11 of 28
+
+         “245R. Procedure on receipt of application.—
+         (1)        xxxx xxxx               xxxx      xxxx
+         (2) The Authority may, after examining the application and
+         the records called for, by order, either allow or reject the
+         application:
+         Provided that the Authority shall not allow the application
+         where the question raised in the application,-
+         (i)        xxxx            xxxx         xxxx      xxxx
+         (ii)       xxxx            xxxx         xxxx      xxxx
+         (iii)    relates to a transaction or issue which is designed prima
+                  facie for the avoidance of income-tax except in the case
+                  of a resident applicant falling in sub-clause (iii) of clause
+                  (b) of section 245N or in the case of an applicant falling
+                  in sub-clause (iiia) of clause (b) of section 245N:”
+16.      The principal questions for consideration are whether the two
+transactions in question - for sale and purchase of CRIL shares and Exevo-
+USA shares (SPA-I and SPA-II) are designed prima facie for avoidance of
+income tax under the Act and whether the applications in respect of the said
+transactions were liable to be disallowed by the AAR in terms of Clause
+(iii) of Proviso to Section 245R(2) of the Act.
+17.      Before proceeding to address the rival contentions, it would be
+relevant to examine the shareholding/investment structure and the inter-
+relation between the various entities of the Copal Group. This could be
+understood by a chart demonstrating the structure of the Copal Group of
+companies, which is reproduced below:-
+W.P.(C) 2033/2013 & other connected matters                              Page 12 of 28
+
+                         Individual Shareholders                      Banks & Financial
+                              67% (approx.)                       Institutions 33% (approx.)
+                                              Copal Partners Limited,
+                                                       Jersey
+              100%                           100%                        10%                        37.84%
+    Copal Partners                  Copal Research              Copal Partners                EthosData
+    (UK) Limited                   Limited, Mauritius             Middle East              Holdings Limited
+                                                                   Limited                      Cyprus
+              100%                  100%           100%                100%               100%
+         Copal             Copal            Copal Market           Copal              Copal
+       Partners          Research             Research            Business           Partners
+      (US) Inc.        India Private          Limited,           Consulting           (HK)
+                          Limited            Mauritius                               Limited
+                                                                (Beijing) Co.
+                                                                  Limited
+                                     100%                        100%                                 100%
+                         Exevo Inc., US                     Exevo                           EthosData (UK)
+                                                        Research Pte.                         Limited, UK
+                                                       Ltd., Singapore
+                                   100%
+                           Exevo India                                  Seller
+                         Private Limited
+                                                                         Target
+18.      A bare perusal of the above structure indicates that sale of 67% of the
+shares of Copal-Jersey by Copal Group Shareholders to Moody-UK would
+result in the Moody Group acquiring 67% indirect economic interest in
+W.P.(C) 2033/2013 & other connected matters                                                Page 13 of 28
+
+CRL and CMRL (being the wholly owned downstream subsidiaries of
+Copal-Jersey) and this would obviously include interest in any
+consideration paid by Moody-Cyprus and Moody-USA to CRL and CMRL
+respectively for acquiring shares of CRIL and Exevo-US as contemplated
+under SPA-I and SPA-II. This obviously would be illogical as on one hand
+the concerned entities of Moody Group would pay for assets of CRL and
+CMRL (Transaction –I and Transaction-II) and on the other hand another
+entity of the Moody Group would pay to re-acquire a significant part of the
+consideration paid a day earlier (Transaction-III). This was explained by
+the learned counsel for the respondents. He stated that the consideration
+paid by Moody-USA to CMRL was distributed by CMRL as dividend to
+CRL. CRL distributed the funds received as dividend and consideration for
+sale of shares of CRIL to Copal-Jersey, which in turn distributed the
+amounts received as dividends to its shareholders.
+19.      It follows from the above that the transactions of 03.11.2011 (i.e.
+SPA-I and SPA-II) resulted in Copal Group Shareholders receiving (i)
+dividend constituting 67% of the fixed consideration paid by Moody-
+Cyprus and Moody-USA for acquisition of the shares of CRIL and Exevo-
+US respectively; and (ii) sale consideration for the shares of Copal-Jersey.
+The banks and the financial institutions which held shares in Copal-Jersey
+also participated in the dividends that were distributed from the funds
+received from the sale proceeds of the sales of CRIL and Exevo-US. It
+would be obvious that this could not have been commercially achieved if
+the overall transaction had been structured in the manner as suggested by
+the Revenue i.e. by simplicitor sale of shares of Copal-Jersey. Thus, even if
+W.P.(C) 2033/2013 & other connected matters                      Page 14 of 28
+
+it is assumed that the transactions for sale of shares of CRIL and Exevo-US
+as well as the sale of 67% shares of Copal-Jersey are considered as a
+singular transaction which essentially entails exit by the shareholders of
+Copal-Jersey, commercially, the structure of transfer as suggested by the
+Revenue would not be an alternative to the transactions in question; First of
+all, for the reason that the Moody Group would not acquire 100% direct
+control over CRIL and Exevo-US but only an indirect 67% economic
+interest therein and secondly, the banks and financial institutions holding
+33% shares in Copal-Jersey would not have received their share of the
+consideration from sale of shares of CRIL and Exevo-US.
+20.      The respondents explained that there is a commercial rationale for
+the sale of shares of CRIL and Exevo-US as those companies represented
+holding interest in Indian companies and Moody’s had insisted on acquiring
+the entire 100% capital of those companies. Accordingly, the transfer of
+those shares took place at the Mauritian level and not by sale of shares of
+the upstream holding company/companies at the Jersey level. Sale of shares
+of the ultimate holding company i.e. Copal-Jersey could be effected only to
+the extent of 67% of the shareholding which was held by the Copal Group
+Shareholders as the balance 33% was held by banks and financial
+institutions and their shares were not being acquired by Moody-UK. There
+is no material to indicate that this commercial transaction was not bonafide.
+21.      Thus, in our view, the contention of the Revenue that the transaction
+as presently structured has been done only for the purposes of avoiding tax
+and as an alternative to sale of shares by shareholders of Copal-Jersey
+(which would not be as tax friendly) is not sustainable as the transaction
+W.P.(C) 2033/2013 & other connected matters                       Page 15 of 28
+
+structured in the manner as suggested by the Revenue i.e. sale of shares of
+Copal-Jersey alone, would not achieve the same commercial results and
+thus, could not be considered as a real transaction which has been
+structured differently to avoid an incidence of tax.
+22.      In view of our conclusion that the commercial transaction as
+structured could not be structured at the Jersey level and the sale of shares
+of Exevo-US and CRIL at Mauritius level cannot be stated to be without
+any commercial reason but only to avoid tax, it is not necessary to examine
+whether the gains arising in the hands of the Copal Group Shareholders
+from sale of shares of Copal-Jersey would be exigible to tax assuming that
+the shares of Exevo-US and CRIL had not been transacted at the Mauritius
+level.
+23.      However, as the edifice of the arguments advanced by the Revenue is
+based on the substratal assumption that the gains arising from sale of shares
+of Copal-Jersey would be subject to tax, if shares of Exevo-US and CRIL
+had not been sold by CRL and CMRL, we consider it appropriate to
+consider the this contention.
+24.      In our view, the aforesaid contention of the Revenue also cannot be
+accepted for the reason that even if the sale of shares by the Copal Group
+Shareholders to Moody-UK has been structured in the manner as suggested
+by the Revenue, there would be no incidence of tax. According to the
+Revenue, the real transaction is sale of shares by shareholders of Copal-
+Jersey to Moody-UK. This would mean that shareholders holding 67% of
+the equity in Copal-Jersey namely the Copal Group Shareholders would
+W.P.(C) 2033/2013 & other connected matters                      Page 16 of 28
+
+transfer their shares to Moody-UK without there being any sale of shares by
+CRL and CMRL of their equity holdings in CRIL and Exevo-US
+respectively.
+25.      The consideration payable by Moody-UK to Copal Group
+Shareholders for their 67% shareholding was agreed as USD 93,509,220.
+This consideration obviously does not include the fixed value of the shares
+of CRIL or Exevo-India as 100% economic interest of those companies was
+acquired by the Moody Group one day prior to the sale and purchase of
+shares of Copal-Jersey and the fixed consideration thereof had been
+distributed as dividends. If the sale and purchase transactions under SPA-I
+and SPA-II had not been executed and only 67% shares of Copal-Jersey
+would have been acquired by Moody-UK then the value of the Copal-
+Jersey shares would also include the value of shares of CRIL and Exevo-
+US. In other words, 67% of USD 42,582,740 (being the aggregate of the
+fixed consideration payable for the shares of CRIL and Exevo-US), would
+represent the value of shares of Copal-Jersey held by Copal Group
+Shareholders, which was derived from assets situated in India. Thus, while
+the value of the said shares derived from assets situated outside India was
+USD 93,509,220, the value of Sale Shares derived from assets situated in
+India would be USD 28,530,435.8 (67% of the fixed consideration). The
+Earn-Out consideration payable is ignored as the same was contemplated to
+be paid after sale of Copal-Jersey shares and, thus, would not add to the
+value of the said shares.
+26.       It is apparent from the above that only a fraction of the value of
+shares of Copal-Jersey was derived indirectly from the value of the shares
+W.P.(C) 2033/2013 & other connected matters                      Page 17 of 28
+
+of CRIL and Exevo-India. The question, thus, arises is whether the sale of
+shares of an overseas company which derives only a minor part of its value
+from the assets located in India could be deemed to be situated in India by
+virtue of Explanation 5 to Section 9(1)(i) of the Act. This question can be
+answered by reference to the express language of Section 9(1)(i) of the Act
+as well as by applying the principle that income sought to be taxed under
+the Act must have a territorial nexus with India. By virtue of Section 9(1)(i)
+of the Act all income arising from transfer of a capital asset situated in
+India would be deemed to accrue or arise in India and would thus be
+exigible to tax under the Act. A share of a company incorporated outside
+India is not an asset which is situated in India and, but for Explanation 5 to
+Section 9(1)(i) of the Act, the gains arising out of any transaction of sale
+and purchase of a share of an overseas company between non-residents
+would not be taxable in India. This would be true even if the entire value of
+the shares of an overseas company was derived from the value of assets
+situated in India. This issue arose in the case of Vodafone International
+Holdings BV v. Union of India and Anr.: (2012) 6 SCC 613 and the
+Supreme Court held that the transaction of sale and purchase of a share of
+an overseas company between two non-residents would fall outside the
+ambit of Section 9(1)(i) of the Act. Subsequently, Section 9(1) was
+amended by virtue of Finance Act, 2012 by introduction of Explanations 4
+& 5 to Section 9(1)(i) of the Act, which read as under:-
+         “Explanation 4.—For the removal of doubts, it is hereby
+         clarified that the expression "through" shall mean and include
+         and shall be deemed to have always meant and included "by
+         means of", "in consequence of" or "by reason of".
+W.P.(C) 2033/2013 & other connected matters                       Page 18 of 28
+
+         Explanation 5.—For the removal of doubts, it is hereby
+         clarified that an asset or a capital asset being any share or
+         interest in a company or entity registered or incorporated
+         outside India shall be deemed to be and shall always be
+         deemed to have been situated in India, if the share or interest
+         derives, directly or indirectly, its value substantially from the
+         assets located in India;”
+27.      The notes to clauses explained the introduction of the Explanations 4
+and 5 to Section 9(1)(i) of the Act as being clarificatory. A plain reading of
+Explanation 5 also indicates that the given reason for its introduction was
+for removal of any doubts.                  In other words, the language of the said
+legislative amendment suggests that it was always the intention of the
+legislature that an asset which derives its value from assets in India should
+be considered as one which is situated in India. The clear object of Section
+9(1)(i) of the Act is inter alia to cast the net of tax also on income which
+arises from transfer of assets in India irrespective of the residential status of
+the recipient of the income. Since the assets are situated in India, the entire
+income arising from their transfer could be said to arise in India.
+Explanation 5 introduced a legal fiction for the limited purpose of imputing
+that assets which substantially derive their value from assets situated in
+India would also be deemed to be situated in India.
+28.      It is trite law that a legal fiction must be restricted to the purpose for
+which it was enacted. The object of Explanation 5 was not to extend the
+scope of Section 9(1)(i) of the Act to income, which had no territorial nexus
+with India, but to tax income that had a nexus with India, irrespective of
+whether the same was reflected in a sale of an asset situated outside India.
+Viewed from this standpoint there would be no justification to read
+W.P.(C) 2033/2013 & other connected matters                              Page 19 of 28
+
+Explanation 5 to provide recourse to section 9(1)(i) for taxing income
+which arises from transfer of assets overseas and which do not derive bulk
+of their value from assets in India. In this view, the expression
+“substantially” occurring in Explanation 5 would necessarily have to be
+read as synonymous to “ principally”, “mainly” or at least “majority”.
+Explanation 5 having been stated to be clarificatory must be read
+restrictively and at best to cover situations where in substance the assets in
+India are transacted by transacting in shares of overseas holding companies
+and not to transactions where assets situated overseas are transacted which
+also derive some value on account of assets situated in India. In our view,
+there can be no recourse to Explanation 5 to enlarge the scope of Section
+9(1) of the Act so as to cast the net of tax on gains or income that may arise
+from transfer of an asset situated outside India, which derives bulk of its
+value from assets outside India.
+29.      It is also relevant to refer to the draft report submitted by the expert
+committee appointed by the Prime Minister in 2012 to report on the
+retrospective amendment relating to indirect transfer of assets (Shome
+Committee). The said Committee had, in its draft report, considered the
+import of the expression ‘substantially’ as used in Explanation 5 to Section
+9(1)(i) of the Act.               The Committee considered the submissions of
+stakeholders that the expression ‘substantially’ did not have any fixed
+meaning and was vague. After analysis, the Committee noted that it was
+necessary to pin down a definition of the said expression and for that
+purpose, there were no reason to depart from the Direct Tax Code Bill,
+2010 (DTC) that had been put in the public domain. Under the DTC, gains
+W.P.(C) 2033/2013 & other connected matters                          Page 20 of 28
+
+from the sale of assets situated overseas, which derived more than 50% of
+their value from assets situated in India, were liable to be taxed in India.
+The Shome Committee in its draft report recommended as under:-
+         “The word "substantially" used in Explanation 5 should be
+         defined as a threshold of 50 per cent of the total value derived
+         from assets of the company or entity. In other words, a capital
+         asset being any share or interest in a company or entity
+         registered or incorporated outside India shall be deemed to be
+         situated in India, if the share or interest derives, directly or
+         indirectly, its value from the assets located in India being more
+         than 50% of the global assets of such company or entity. This
+         has been explained through the above illustration.”
+30.      In addition to the above, the ‘United Nations Model Double
+Taxation Convention between Developed and Developing Countries’ and
+the ‘OECD Model Tax Convention on Income and on Capital’ may also
+be referred to since the said conventions deal with a regime whereunder the
+right to tax capital gains can be fairly and reasonably apportioned between
+contracting States. Since the models propose a regime which is generally
+accepted in respect of indirect transfers, the same, although not binding on
+Indian authorities, would certainly have a persuasive value in interpreting
+the expression ‘substantially’ in a reasonable manner and in its contextual
+perspective. The ‘United Nations Model Double Taxation Convention
+between Developed and Developing Countries’ and the ‘OECD Model
+Tax Convention on Income and on Capital’ provide that the taxation rights
+in case of sale of shares are ceded to the country where the underlying
+assets are situated only if more than 50% of the value of such shares is
+derived from such property.
+W.P.(C) 2033/2013 & other connected matters                           Page 21 of 28
+
+31.      Paragraph (4) of Article 13 of the United Nations Model Double
+Taxation Convention between Developed and Developing Countries
+provides that a Contracting State is allowed to tax a gain on alienation of
+shares of a company or on alienation of interests in other entities the
+property of which consists principally of immovable property situated in
+that State. For this purpose, the term ‘principally’ in relation to the
+ownership of an immovable property means the value of such immovable
+property exceeding 50 per cent of the aggregate value of all assets owned
+by such company, partnership, trust or estate. It is also relevant to note
+that India has signed a treaty with Korea incorporating this clause. The
+relevant portion of Article 13 of the said UN Convention is quoted below:-
+         “Article 13
+         CAPITAL GAINS
+                  xxxx              xxxx     xxxx         xxxx
+         4.       Gains from the alienation of shares of the capital stock
+         of a company, or of an interest in a partnership, trust or estate,
+         the property of which consists directly or indirectly principally
+         of immovable property situated in a Contracting State may be
+         taxed in that State. In particular:
+              (1) Nothing contained in this paragraph shall apply to a
+              company, partnership, trust or estate, other than a
+              company, partnership, trust or estate engaged in the
+              business of management of immovable properties, the
+              property of which consists directly or indirectly principally
+              of immovable property used by such company, partnership,
+              trust or estate in its business activities.
+              (2) For the purposes of this paragraph, “principally” in
+              relation to ownership of immovable property means the
+              value of such immovable property exceeding 50 per cent of
+W.P.(C) 2033/2013 & other connected matters                          Page 22 of 28
+
+              the aggregate value of all assets owned by the company,
+              partnership, trust or estate.”
+32.      The ‘OECD Model Tax Convention on Income and on Capital’
+provides a means of settling on a uniform basis the most common
+problems that arise in the field of international juridical double taxation.
+Article 13 of the said Convention deals with the taxes on capital gains.
+Article 13(1) provides that the gains derived by a resident of a Contracting
+State from the alienation of immovable property situated in another
+Contracting State may be taxed in that other State. Article 13(4) of the
+said Convention provides that the ‘gains derived by a resident of a
+Contracting State from the alienation of shares or comparable interests
+deriving more than 50 per cent of their value directly or indirectly from
+immovable property situated in the other Contracting State may be taxed
+in that other State.’
+33.      In view of the above, gains arising from sale of a share of a company
+incorporated overseas, which derives less than 50% of its value from assets
+situated in India would certainly not be taxable under section 9(1)(i) of the
+Act read with Explanation 5 thereto.
+34.      Thus, in the present case, even if the transaction had been structured
+in the manner as suggested on behalf of the Revenue, the gains arising to
+the shareholders of Copal-Jersey from sale of their shares in Copal-Jersey
+to Moody UK would not be taxable under Section 9(1)(i) of the Act, as
+their value could not be stated to be derived substantially from assets in
+India. In this view, the contention of the Revenue that the entire transaction
+of sale of Copal-Jersey shares has been structured in a manner so as to
+W.P.(C) 2033/2013 & other connected matters                         Page 23 of 28
+
+include the sale of shares in CRIL and Exevo-US by the Mauritian
+companies only to avoid the incidence of tax and take benefit of the DTAA
+is ex facie flawed.
+35.      The learned counsel for the Revenue has contended that the entire
+structure of investments to hold the companies in India had been evolved
+only with the object of avoiding tax and intermediary companies in
+Mauritius had been incorporated only with a view to avoid tax in the event
+of a future sale. In our view, this contention is also devoid of any merit.
+The investment structure evolved over a period of time and it also cannot
+be ignored that 92% of the share capital of the CRIL was subscribed by
+CRL.
+36.      It has been contended on behalf of the Revenue that Rishi Khosla is
+the prime mover of the Copal Group. It is stated that he alongwith one Jeol
+Perlman left their earlier employment and promoted Copal-Jersey and are
+in defacto control and management of the entire Copal Group. It is
+contended that other companies/subsidiaries of the Copal Group are only
+shell companies. It is further alleged that CRL and CMRL are not operative
+since their revenues are generated from within the Copal Group. It is,
+therefore, urged that since Rishi Khosla is a resident of the United
+Kingdom, the situs of CRL and CMRL ought to be taken as United
+Kingdom - from where the affairs of the Copal Group, including CRL and
+CMRL are alleged to be conducted - and not Mauritius. The learned
+counsel for the Revenue had submitted that Rishi Khosla had also varied
+the terms of the transactions. According to him, the same indicated that
+management of the companies was synonymous with Rishi Khosla.
+W.P.(C) 2033/2013 & other connected matters                     Page 24 of 28
+
+37.      The learned counsel for the respondents contested these contentions
+urged by the petitioner. It was stated that the companies were managed by
+their respective Board of Directors. It is also disputed that CRL and CMRL
+were not operative companies. It is stated that both CRL and CMRL held
+category-I Global Business Licenses (GBL) w.e.f. 18.03.2004 and
+03.04.2008 respectively. CRL received substantial revenues from provision
+of services relating to business of financial research and CMRL also
+received revenues from provision of services relating to business of market
+research. The financial statements of both the said companies indicated that
+the companies had received substantial revenues. The respondent also
+disputed the contentions that CRL and CMRL were shell companies and
+asserted that the said companies were companies with substance. In the
+alternative, it was submitted that the India-Mauritius Double Taxation
+Avoidance Agreement did not include a Limitation of Benefits (LOB)
+clause and thus, it was not open for the revenue to contend that the said
+companies should be denied the treaty benefit with India.
+38.      In our view, the CRL and CMRL cannot be stated to be shell
+companies so as to ignore their corporate identities. Even according to the
+revenue, the companies are generating revenue from intra-group services.
+The fact that a company may render services to its related enterprise would
+not render the company to be non-existent or give reasons for lifting its
+corporate veil. The financial statements placed on record indicate that CRL
+and CMRL have been generating revenues and we also have no reason to
+doubt the statement that CRL and CMRL have been providing services in
+relation to business of financial research and market research respectively.
+W.P.(C) 2033/2013 & other connected matters                       Page 25 of 28
+
+39.      The next issue that needs to be addressed is whether CRL and CMRL
+should be considered as residents of UK on account of the alleged role of
+Rishi Khosla in its affairs. Undoubtedly, Rishi Khosla has a vital role to
+play in the affairs of the Copal Group. The respondents have placed on
+record the Business Advisory Agreement entered into with Rishi Khosla,
+which defines his role as an advisor. The ‘Earn-Out’ consideration payable
+is also based on a formula which is to be applied with reference to a
+“computation date” which is defined to mean the date when Rishi Khosla is
+disentitled to act as a Director. This also indicates that the role of Rishi
+Khosla in the affairs of the Copal Group would be significant and he cannot
+be stated to be playing a role of a mere agent employed for concluding the
+transactions as contemplated under various agreements (SPA-I, SPA-II and
+SPA-III). However, in our opinion, this by itself would not be sufficient to
+assume CRL and CMRL to be tax residents of United Kingdom. The AAR
+had considered this aspect and held that the Revenue was unable to show
+that the effective management of the companies was not where the Board of
+Directors of the companies situated. It was held that although Rishi Khosla
+may have played a role larger than that of a normal agent but circumstances
+did not warrant an inference that the control and management of the
+companies vested with him and not with the respective Board of Directors.
+The relevant findings of the AAR are as under:-
+         “11. Assuming that learned counsel for the Revenue is right
+         in his submission the decision in Vodafone has modified the
+         ratio of the decision in Azadi Bachao Andolan on the
+         conclusiveness of a tax residency certificate, it cannot be said
+         that it has been shown that the effective management of the
+         companies is not from where their Board of Directors function.
+W.P.(C) 2033/2013 & other connected matters                        Page 26 of 28
+
+         Normally, the management of a company vests in its Board of
+         Directors as authorized by the General Body. The role of Rishi
+         Khosla highlighted by the Revenue is in respect of the sale
+         transactions undertaken and in pushing them through. It does
+         not appear to be a role in connection with the running of the
+         businesses of the companies concerned. It is not shown that the
+         management of the companies in Mauritius in general, is not
+         with a Board of Directors of those companies sitting in
+         Mauritius and that the management and control is from United
+         Kingdom of which Rishi Khosla is a resident. Even if one were
+         to take the Business Advisory Agreement relied on by the
+         applicants with a pinch of salt, it cannot be said that the role
+         played by Rishi Khosla in these transactions establish that the
+         management and control of the Mauritian companies is with
+         Rishi Khosla. It is therefore not possible to accept the
+         contention of learned counsel for the Revenue that by applying
+         the place of management test, the seller companies could be
+         held to be non-Mauritian companies.
+         12. It was contended that Rishi Khosla has not acted in
+         terms of the Board Resolution relied on and that he had varied
+         the terms of the transaction at his pleasure and this
+         demonstrates that he had dominion over the companies. He
+         had in fact acted beyond the authority conferred on him by the
+         resolution of the Board relied on. The Board Resolution was a
+         sham put forward to achieve the object of avoidance of tax.
+         Though there may be some substance in the argument that
+         Rishi Khosla has not merely played the role of a normal agent,
+         the circumstances relied on are not sufficient to warrant an
+         inference that the control and management of the seller
+         companies rested with Rishi Khosla and not with the Board of
+         these companies.
+         13. There may be some substance in the argument of the
+         learned counsel that this Authority has to consider only the
+         negative, namely that the control of the companies is not in
+         Mauritius and it is not necessary for this Authority to find
+         positively that the control and management is with Rishi
+         Khosla, before coming to a conclusion that the applicants are
+W.P.(C) 2033/2013 & other connected matters                        Page 27 of 28
+
+         not entitled to claim the benefit of the India Mauritius DTAC.
+         But on the available facts, the presumption that the control and
+         management of the companies rest with the Board of Directors
+         cannot be said to have been rebutted by sufficient or cogent
+         material. I overrule the arguments in this behalf.”
+40.      We concur with the above quoted conclusion of the AAR. The
+material on record is insufficient to conclude that the corporate structure of
+CRL and CMRL should be ignored and the residence of Rishi Khosla be
+considered as the situs of the said companies.
+41.      The writ petitions are, accordingly, dismissed. The parties are left to
+bear their own costs.
+                                                       VIBHU BAKHRU, J
+                                                     S. RAVINDRA BHAT, J
+AUGUST 14, 2014
+RK
+W.P.(C) 2033/2013 & other connected matters                        Page 28 of 28
+
+

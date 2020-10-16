@@ -1,0 +1,471 @@
+                                                             1
+                                                                                  REPORTABLE
+                                          IN THE SUPREME COURT OF INDIA
+                                            CIVIL APPELLATE JURISDICTION
+                                             Civil Appeal No(s). 4483 OF 2019
+                                        (Arising out of SLP(C) No. 20017 of 2017)
+                    Snowtex Investment Limited                                   Appellant(s)
+                                                                  Versus
+                    Principal Commissioner of Income Tax,
+                    Central-2, Kolkata                                           Respondent(s)
+                                                      JUDGMENT
+                    Dr Dhananjaya Y Chandrachud, J
+                     1       Leave granted.
+                     2       This appeal arises from a judgment of a Division Bench of the High Court
+                     of Calcutta dated 22 November 2016 in an appeal under Section 260A of the
+                     Income Tax Act, 1961.
+                     3       The appellant was registered as a non-banking financial company under
+                     the Reserve Bank of India Act, 1934. The appellant filed its return of income on 27
+                     September 2008. The return was processed under Section 143(1) on 8 October
+                     2009. On the case being selected for scrutiny, a notice was issued under Section
+Signature Not Verified
+Digitally signed by
+MANISH SETHI
+Date: 2019.05.13
+16:56:12 IST
+Reason:
+                     143(2). By an order dated 14 December 2010 the assessing officer recorded that
+                     the principal business activity of the assessee is trading in shares and securities.
+                     The loss from share trading was held to be a speculation loss. The assessing
+
+                                          2
+officer held that in view of the provisions of Section 43(5)(d), activities pertaining
+to futures and options could not be treated as speculative transactions.The loss
+from speculation was held not to be capable of being set off against the profits
+from business.
+4        Against the order of the assessing officer for assessment year 2008-2009,
+an appeal was filed before the CIT(A). The CIT(A) held that the assessee derived
+income from trading in derivatives and share business along with dividend and
+interest and was an NBFC. The CIT(A) inter alia held that the provisions of
+Section 43(5) came into existence with effect from 1 April 2006 and hence,
+transactions in futures and options must be treated as business income as distinct
+from trading in shares. Consequently, the CIT(A) rejected the contention of the
+assessee that the assessing officer had erred in not allowing the speculation loss
+to be set off against profits of trading in futures and options.
+5        The Revenue appealed against the decision of the CIT(A). The Income Tax
+Appellate Tribunal1 by its decision dated 6 November 2015 held that the claim of
+the assessee for setting off the loss from share trading should be allowed against
+the profits from transactions in futures and options, since the character of the
+activities was similar. The ITAT held that the assessee which was in the business
+of share trading had treated the entire activity of the purchase and sale of shares
+which comprised both of delivery based and non-delivery based trading, as one
+composite business.
+6        The Revenue appealed before the High Court which by its judgment dated
+22 November 2016 accepted its submission. The High Court held that the profits
+1 “ITAT”
+
+                                        3
+which had arisen from trading in futures and options were not profits from a
+speculative business. Hence the loss on trading in shares could not be set off
+against the profits arising from the business of futures and options.
+7       The dispute in the present case pertains to assessment year 2008-2009.
+8       Mr. R.V. Easwar, learned senior counsel appearing on behalf of the
+appellant has urged two submissions in order to assail the decision of the High
+Court. First, it has been submitted that the Explanation to Section 73 as it stood
+prior to its amendment with effect from 1 April 2015 by Finance (No. 2) Act, 2014
+contemplated that where any part of the business of a company, other than a
+company, the principal business of which is the granting of loans and
+advances, consists in the purchase of shares of other companies, the company
+shall, for the purposes of this section, be deemed to be carrying on a speculation
+business. In other words, the explanation as it then stood clarified that where the
+principal business of the company consists of the grant of loans and advances,
+the deeming fiction provided in the explanation would not be attracted. In the
+present case, it was urged that the principal business of the assessee for AY
+2008-2009 was of granting loans and advances. This submission was sought to
+be buttressed on the basis of the figures drawn from the balance sheet of the
+appellant as extracted in the order of assessment.        Those figures, it has been
+submitted, indicate that for the financial year ending 31 March 2008, the following
+position emerges:
+        (i) The total funds available – Rs 13.48 crores;
+        (ii) Funds deployed for loans and advances - Rs 11.32 crores
+        (iii) Percentage – 84%
+
+                                        4
+        (iv) Deployed for share business – Rs 1.28 crores
+        (v) Percentage – 9.5%
+        (vi) Unsecured loans – Rs 5.92 crores
+Consequently, the submission which has been urged under the first head is that
+the assessee having deployed a substantial part of its funds during the
+assessment year for loans and advances, the High Court erred in accepting the
+view of the assessing officer. It was urged that the assessee has a certificate as
+an NBFC under the provisions of the Reserve Bank of India Act 1934.
+9       The second limb of the submissions, which is in the alternative, is that the
+provisions of the Explanation to Section 73 were amended so as to bring trading
+in shares within its purview by Finance (No. 2) Act 2014. It was urged that this
+amendment should be construed to be retrospective, though Parliament has
+brought it into force with effect from 1 April 2015. In this regard, it was submitted
+that insofar as trading in derivatives is concerned, the provisions of Section 43(5)
+were amended by Finance Act, 2005 to provide that an eligible transaction in
+respect of trading in derivatives of securities carried out on a recognised stock
+exchange shall not be deemed as a speculative transaction. It was urged that
+there was a clear anomaly in the provisions of law.            The anomaly, it was
+submitted, consisted in the fact that delivery based trading in shares was treated
+as a speculative business until the amendment to the Explanation to Section 73
+was brought into force on 1 April 2015. On the other hand, what was essentially
+speculative and non-delivery based, namely, trading in derivatives on recognised
+stock exchanges was removed from the purview of the business of speculation
+with effect from 2006-2007.       Reliance has been placed on the Circular of the
+
+                                       5
+CBDT dated 27 February 2006 explaining the provisions of the Finance Act, 2005
+and on the Circular dated 21 January 2015 explaining the provisions of Finance
+(No. 2) Act, 2015. Hence, it is urged that even though Parliament brought into
+force the amendment to the Explanation to Section 73 with effect from 1 April
+2015, this would not affect the judicial authority of this Court to indicate that the
+amendment must, by its very nature, be regarded as retrospective having regard
+to the intent and purpose of the amendment. Reliance was placed on the
+decisions of this Court in Allied Motors (P) Ltd. v. Commissioner of Income
+Tax, Delhi2 and in Commissioner of Income Tax v. Alom Extrusions Ltd.3.
+10      On the other hand, it has been urged on behalf of the Revenue by Mr Arijit
+Prasad that in evaluating what constitutes the principal business of the assessee
+within the meaning of the Explanation to Section 73, the High Court has relied on
+two significant circumstances.    The first circumstance is the admission of the
+assessee before the assessing officer to the effect that share trading was the sole
+business of the assessee during the assessment year in question.         The second
+circumstance is that while the assessee had received interest on loans of Rs
+2,21,917, it had paid out interest of Rs 62,84,111.60. The Revenue has urged
+that the figures from the balance sheet of the assessee would indicate that while
+the assessee had borrowed unsecured loans to the tune of Rs 5.92 crores and
+had given loans and advances of Rs 11.32 crores, this included interest free
+lending of Rs. 9.58 crores.     In this background, the High Court came to the
+conclusion that the principal business for the assessment year was not the
+granting of loans and advances.      This finding was supported on the above two
+ 2 (1997) 3 SCC 472
+ 3 (2010) 1 SCC 489
+
+                                       6
+grounds.
+11      On the second issue of the claim of retrospectivity, it was urged that
+though the Court has the power in an appropriate case, based on the intent of the
+legislature to hold that an amendment is retrospective, the position in this case is
+quite distinct.  In the present case, it was submitted that when the provisions of
+Section 43(5) were amended with effect from 2006 by the Finance Act 2005, the
+legislature took note of the provisions of Section 73.    Yet it did not consider it
+appropriate to make a corresponding amendment in the Explanation to Section 73
+and it is only nine years thereafter that an amendment to the latter provision was
+introduced. Hence, it was urged that the intent of the legislature was not to make
+the amendment to the Explanation to Section 73 retrospective.
+12      Reliance has been placed on the decisions of this Court in Commissioner
+of Income Tax (Central)-I, New Delhi v. Vatika Township Private Ltd.4 and on
+the judgment of a three judge Bench of this Court in Vijay Industries v
+Commissioner of Income Tax5.
+13      These submissions now fall for consideration.
+14      The provisions of Section 43(5) were amended by the Finance Act, 2005.
+Prior to the amendment, Section 43(5) defined a ‘speculative transaction’ to mean
+a transaction in which a contract for the purchase or the sale of any commodity
+including stocks and shares is settled otherwise than by the actual delivery or
+transfer of the commodity or scrips.        The impact of the amendment by the
+Finance Act, 2005 was that an eligible transaction on a recognised stock
+4 (2015) 1 SCC 1
+5 (2019) 4 SCC 184
+
+                                                  7
+exchange in respect of trading in derivatives was deemed not to be a speculative
+transaction.         With effect from 1 April 2006, trading in derivatives was by a
+deeming fiction not regarded as a speculative transaction when it was carried out
+on a recognized stock exchange.
+15      The circular of the CBDT dated 27 February 2006 indicated that this
+amendment was occasioned by the changes which were introduced by SEBI both
+at the legal and technological level for bringing in greater transparency in the
+market for derivatives.           Explaining the reason for the amendment, the Circular
+states:
+        “3.10 Excluding ‘trading in derivatives’ on recognised stock
+        exchanges from the ambit of ‘speculative transactions’
+        Existing provisions of clause (5) of section 43 define ‘speculative
+        transaction’ to mean a transaction in which a contract for the
+        purchase or sale of any commodity including stocks and shares is
+        settled otherwise than by the actual delivery or transfer of the
+        commodity or scrips. The proviso to section 43(5) lists out certain
+        transactions which are not deemed to be speculative transactions.
+        Systemic and technological changes introduced by SEBI have
+        resulted in sufficient transparency in the stock markets and have to
+        a large extent curbed the scope for generating fictitious losses
+        through artificial transactions or shifting of incidence of loss from
+        one person to another. The screen based computerized trading
+        provides for audit trail. In the wake of these developments, the
+        present distinction between speculative and non-speculative
+        transactions, in respect of trading in derivatives of securities is
+        losing relevance.
+        The Finance Act, 2005 has, accordingly, amended section 43(5) to
+        provide that an eligible transaction in respect of trading in
+        derivatives of securities carried out on a recognised stock exchange
+        shall not be deemed as speculative transaction. The notification
+        prescribing the rules and the conditions to be fulfilled by a stock
+        exchange to be recognized by the Central Government for the
+        purposes of section 43(5) [i.e., Rules 6DDA and 6DDB of the
+        Income-tax Rules, 1962] has been published in the Official Gazette
+        on 1st July, 2005 vide S. O. No. 932(E).
+        Applicability: From A.Y. 2006-07 onwards.”
+16      Section 73 deals with losses from speculation business.               Under sub-
+
+                                           8
+Section (1) of Section 73, a loss computed in relation to speculation business
+carried on by an assessee can only be set off against the profits and gains of
+another speculation business. The Explanation to Section 73 contains a deeming
+fiction where certain businesses shall, for the purposes of the section, be deemed
+to be speculation businesses.        The Explanation also carves out an exception in
+respect of certain specified businesses which shall lie outside the fold of the
+deeming fiction. Prior to the amendment of the Explanation by the Finance (No.
+2) Act 2014 with effect from 1 April 2015, the business of trading in shares carried
+on by a company was not excluded from its purview.                   However, by the
+amendment which was brought into force from 1 April 2015, the explanation to
+Section 73 reads as follows:
+        “Explanation - Where any part of the business of a company
+        (other than a company whose gross total income consists
+        mainly of income which is chargeable under the heads
+        “Interest on securities”, “Income from house property”,
+        “Capital gains” and “Income from other sources”, or a
+        company the principal business of which is the business of
+        trading in shares or banking or the granting of loans and
+        advances) consists in the purchase and sale of shares of
+        other companies, such company shall, for the purposes of
+        this section, be deemed to be carrying on a speculation
+        business to the extent to which the business consists of the
+        purchase and sale of such shares.”
+17      While on the one hand, Parliament amended Section 43(5) with effect
+from 1 April 2006 as a result of which trading in derivatives on recognised stock
+exchanges fell outside the purview of the business of speculation, a
+corresponding amendment to the Explanation to Section 73 in respect of trading
+in shares was brought in only with effect from 1 April 2015.
+18      The submission which has been urged on behalf of the appellant is that
+there was no logical reason to exclude from the purview of speculation business,
+trading in shares, whereas trading in derivatives was excluded, as we have seen,
+
+                                           9
+from the ambit of Section 43(5) after 1 April 2006.      We will consider this aspect
+of the alternative submission subsequently.
+19       At this stage, we will deal with the first submission which is that the
+Explanation to Section 73, as it stood prior to the amendment, excluded from the
+deeming definition of a speculation business, a situation where the principal
+business of a company was granting of loans and advances.
+20       In the present case, there is no dispute about the fact that the assessee
+was registered as an NBFC under the provisions of the Reserve Bank of India Act,
+1934.     Section 73(1) does not define specifically, the circumstances in which the
+principal business of a company would be regarded as a business of the specified
+description. In the present case, the principal business was            urged to be the
+granting of loans and advances. We cannot accept this submission and are of the
+view that the High Court was justified in rejecting it. The circumstance, which in
+our view is of crucial significance, is how the assessee construed its own line of
+business.       The High Court has extracted what the assessee stated before the
+assessing officer namely:
+              “………… in our case the share trading is our sole business during
+              the assessment year under concern”.
+         From the above statement of the assessee, it is evident that the assessee
+itself stated that share trading was its sole business during the assessment year
+in question i.e. A.Y. 2008-2009.
+21       Mr. R.V. Easwar, learned senior counsel submits that while the assessee
+did make this statement before the assessing officer, it should not be regarded as
+
+                                             10
+      conclusive.    It was urged that the submission of the assessee was also rejected
+      on the basis that while it had received interest on loans of Rs 2.21 lakhs, it had
+      paid out interest of Rs 62.84 lakhs.    The submission is that, it is not merely the
+      receipt of interest on loans and advances, but the deployment of funds which
+      should have a bearing in determining the principal nature of the business. In this
+      context, reliance was placed on the view taken by a Division Bench of the
+      Calcutta High Court in Commissioner of Income Tax v. Savi Commercial P.
+      Ltd.6.   The High Court, while dealing with the provisions of the Explanation to
+      Section 73, observed that income alone cannot be taken into account and where
+      the activity of granting loans and advances “is on a larger scale than the business
+      of buying and selling shares” that would be an important indicator.         In other
+      words, it was held that profit alone cannot be made a distinctive factor.
+      22      The correctness of this aspect of the submission which has been urged by
+      learned senior counsel need not be determined in the facts of the present aspect,
+      since we are of the view that the High Court was justified in relying upon the
+      specific admission of the assessee that during the assessment year in question,
+      its sole business was of dealing in shares.          We must also advert to the
+      circumstance that while the assessee had furnished loans and advances of Rs
+      11.32 crores during the assessment year, this included interest free lending to the
+      extent of Rs 9.58 crores. Having regard to these facts and circumstances, the
+      specific admission of the assessee before the assessing officer assumes
+      significance.     The assessee made an admission on a statement of fact which in
+      our view, must bind it. In this view of the matter, the principal business of the
+6 (2015) 373 ITR 243
+
+                                            11
+assessee was not of granting loans and advances during the assessment year. As
+a consequence, the deeming fiction under Section 73 would be attracted. Hence,
+the finding of the High Court, on the first aspect, cannot be faulted.
+23      That leads the Court to the second submission which has been canvassed
+in the course of the hearing of the appeal. The provisions of Section 43(5) were
+amended with effect from 1 April 2006.               The Finance Act, 2005 contained the
+following memorandum explaining the amendment:
+             “The proposed amendment, therefore, seeks to provide that an
+             eligible transaction carried out in respect of trading in derivatives in a
+             recognised stock exchange shall not be deemed to be a speculative
+             transaction. The proposed amendment also seeks to notify relevant
+             rules etc. regarding conditions to be fulfilled by recognised
+             exchanges in this regard. Further it is also proposed to amend sub-
+             section (4) of section 73 so as to reduce the period of carry forward
+             of speculation losses from eight assessment years to four
+             assessment years.”
+24      While amending the provisions of Section 43(5), the Parliament indeed
+was cognizant of the provisions which were contained in Section 73(4).                  The
+above memorandum indicates that the provisions of Section 73(4) were proposed
+to be amended so as to reduce the period of carry forward of speculation losses
+from eight assessment years to four assessment years. Having introduced an
+amendment to Section 73(4), the Parliament would have, if it intended to bring
+about a parity with the provisions of Section 43(5) introduced a specific
+amendment. Parliament, however, did not do so by the Finance Act 2005. It was
+only with effect from 1 April 2015 that an amendment was brought about to
+exclude trading in shares from the deeming provision contained in the Explanation
+to Section 73.          Parliament may have had reasons to allow the situation to
+continue until the amendment was brought into force, including its view in regard
+
+                                             12
+to the stability of the stock market. Insofar as this Court is concerned, It would be
+difficult to hold that the provisions which were contained in the Finance Act (No. 2)
+2014 insofar as they amended the Explanation to Section 73 were clarificatory or
+that notwithstanding the provision by which the amendment was brought into force
+with effect from 1 April 2015, that it should be given retrospective effect. We reject
+the second submission.
+25       Even though an amendment, including one in the context of the Finance
+Act is brought into force with effect from a stipulated date, the Court may as an
+exercise of statutory interpretation, determine whether the amendment is
+clarificatory or was intended to operate with retrospective effect. Such an exercise
+was carried out by this Court in its decision in Allied Motors (supra).
+Interpreting the provisions of Section 43B, this Court held thus:
+             “10…While interpreting Section 43-B without the first proviso some of
+             the High Courts, in order to prevent undue hardship to the assessee,
+             had taken the view that Section 43-B would not be attracted unless the
+             sum payable by the assesee by way of tax, duty, cess or fee was
+             payable in the same accounting year. If the tax was payable in the
+             next accounting year, Section 43-B would not be attracted. This was
+             done in order to prevent any undue hardship to assessees such as the
+             ones before us. The Memorandum of Reasons takes note of the
+             combined effect of Section 43-B and the first proviso inserted by the
+             Finance Act, 1987. After referring to the fact that the first proviso now
+             removes the hardship caused to such taxpayers it explains the insertion
+             of Explanation 2 as being for the purpose of removing any ambiguity
+             about the term “any sum payable” under clause (a) of Section 43-B.
+             This Explanation is made retrospective. The Memorandum seems to
+             proceed on the basis that Section 43-B read with the proviso takes care
+             of the hardship situation and hence Explanation 2 can be inserted with
+             retrospective effect to make clear the ambit of Section 43-B(a).
+             Therefore, Section 43-B(a), the first proviso to Section 43-B and
+             Explanation 2 have to be read together as giving effect to the true
+             intention of Section 43-B. If Explanation 2 is retrospective, the first
+             proviso will have to be so construed.      Read in this light also, the
+             proviso has to be read into Section 43-B from its inception along with
+             Explanation 2.”
+26     The decision of the Court was intrinsically based on a holistic reading of the
+provisions of Section 43-B. The memorandum proceeded on the basis that
+
+                                                13
+Section 43-B read with the proviso was intended to alleviate a situation of
+hardship. Hence, Explanation 2 was enacted with retrospective effect to clarify
+the ambit of Section 43-B(a).                   This Court held that if Explanation 2 is
+retrospective, the first proviso would be similarly so construed. This position was
+re-enforced by a departmental circular. The Court, in other words, interpreted the
+intent of Parliament.
+27      A similar line of enquiry has been adopted in the subsequent decision of
+this Court in Alom Extrusions (supra).                      In that case, while construing the
+provisions of Section 43-B, this Court held:
+          “25. Before concluding, we extract hereinbelow the relevant observations
+          of this Court in CIT v. J.H. Gotla (1985)7 which reads as under: (SCC p. 360,
+          para 47)
+          “47. … we should find out the intention from the language used by the
+          legislature and if strict literal construction leads to an absurd result i.e. result
+          not intended to be subserved by the object of the legislation found in the
+          manner indicated before, and if another construction is possible apart from
+          strict literal construction then that construction should be preferred to the
+          strict literal construction. Though equity and taxation are often strangers,
+          attempts should be made that these do not remain always so and if a
+          construction results in equity rather than in injustice, then such construction
+          should be preferred to the literal construction.
+The test to be applied is essentially one of the intent of the legislature.
+28      In a more recent decision in Commissioner of Income Tax v. Vatika
+Township Pvt. Ltd.8, a Constitution Bench of this Court held thus:
+            “42.1. “Notes on Clauses” appended to the Finance Bill, 2002 while
+            proposing insertion of proviso categorically states that “this amendment
+            will take effect from 1.6.2002”. These become epigraphic 9 words, when
+            seen in contradistinction to other amendments specifically stating those to
+            be clarificatory or retrospectively depicting clear intention of the
+            legislature. It can be seen from the same notes that a few other
+            amendments in the Income Tax Act made by the same Finance Act
+            specifically making those amendments retrospective. For example, clause
+            40 seeks to amend S.92-F. Clause (iii-a) of S.92-F is amended “so as to
+ 7 (1985) 4 SCC 343
+ 8 (2015) 1 SCC 1
+ 9      Ed.: As per the Oxford Dictionary, “epigraphic” here means: intending to suggest the
+        theme or purpose of the amendment
+
+                                               14
+            clarify that the activities mentioned in the said clause include the carrying
+            out of any work in pursuance of a contract.” (emphasis supplied). This
+            amendment takes effect retrospectively from 1-4-2002. Various other
+            amendments also take place retrospectively. The Notes on Clauses show
+            that the legislature is fully aware of three concepts:
+                  (i) prospective amendment with effect from a fixed date;
+                  (ii) retrospective amendment with effect from a fixed anterior date; and
+                  (iii) clarificatory amendments which are retrospective in nature.”
+29       In M/s. Vijay Industries (supra), decided on 1 March 2019, a three judge
+Bench of this Court held that the provisions of Section 80AB which were
+introduced by the Finance (No. 2) Act, 1980 with effect from 1 April 1981 could not
+be regarded as clarificatory in nature. The Court held that the provision was made
+with prospective effect and the amendment would not apply to assessment years
+1979-1980 and 1980-1981 because the amended provision was brought on the
+statute book after the assessment years in question.
+30       In conclusion, we therefore, hold that the amendment which was brought
+by Parliament to the Explanation to Section 73 by the Finance (No 2) Act 2014
+was with effect from 1 April 2015.                 In its legislative wisdom, the Parliament
+amended Section 43(5) with effect from 1 April 2006 in relation to the business of
+trading in derivatives, Parliament brought about a specific amendment in the
+Explanation to Section 73, insofar as trading in shares is concerned, with effect
+from 1 April 2015.            The latter amendment was intended to take effect from the
+date stipulated by Parliament and we see no reason to hold either that it was
+clarificatory or that the intent of Parliament was to give it retrospective effect.
+31       The consequence is that in A.Y. 2008-2009, the loss which occurred to the
+assessee as a result of its activity of trading in shares (a loss arising from the
+business of speculation) was not capable of being set off against the profits which
+
+                                        15
+it had earned against the business of futures and options since the latter did not
+constitute profits and gains of a speculative business.
+32      For the reasons we have indicated, we find no error in the decision of the
+High Court. The appeal is, accordingly, dismissed.        There shall be no order as
+to costs.
+33      Pending application(s), if any, shall stand disposed of.
+                                          ……….………………................................J.
+                                           (Dr Dhananjaya Y Chandrachud)
+                                            ………………………...............................J.
+                                           (Hemant Gupta)
+New Delhi
+April 30, 2019
+
+                                   16
+ITEM NO.15                 COURT NO.9               SECTION XVI
+                S U P R E M E C O U R T O F     I N D I A
+                         RECORD OF PROCEEDINGS
+Petition for Special Leave to Appeal (C) No. 20017/2017
+(Against the Final judgment and order dated 22.11.2016 passed by
+the Hon’ble High Court of Calcutta in ITAT No. 199 of 2016)
+M/S SNOWTEX INVESTMENT LIMITED                       Petitioner(s)
+                                  VERSUS
+PRINCIPAL COMMISSIONER OF INCOME TAX,
+CENTRAL -2, KOLKATA                                  Respondent(s)
+Date : 30-04-2019 This petition was called on for hearing today.
+CORAM :
+          HON'BLE DR. JUSTICE D.Y. CHANDRACHUD
+          HON'BLE MR. JUSTICE HEMANT GUPTA
+For Appellant(s)
+                     Mr.  R.V. Easwar, Sr. Adv.
+                     Mr.  Naveen R. Nath, AOR
+                     Ms.  Lalit Mohini Bhat, Adv.
+                     Mr.  Rahul Jain, Adv.
+                     Ms.  Rubal Bansal, Adv.
+For Respondent(s)
+                     Mr. Arijit Prasad, Sr. Adv.
+                     Ms. Rukhmini Bobde, Adv.
+                     Mrs. Anil Katiyar, AOR
+           UPON hearing the counsel the Court made the following
+                               O R D E R
+     Leave granted.
+     The appeal is dismissed in terms of the signed reportable
+judgment.
+     Pending application(s), if any, shall stand disposed of.
+(MANISH SETHI)                                    (SAROJ KUMARI GAUR)
+COURT MASTER (SH)                                    BRANCH OFFICER
+           (Signed reportable judgment is placed on the file)
+
+

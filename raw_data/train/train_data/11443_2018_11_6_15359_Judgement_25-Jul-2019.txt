@@ -1,0 +1,491 @@
+                                                            1
+                                                                                        Reportable
+                                         IN THE SUPREME COURT OF INDIA
+                                          CIVIL APPELLATE JURISDICTION
+                                          Civil Appeal Nos 9218-9219 of 2018
+                       Madhya Pradesh Power Management Co. Ltd. & Anr.                   Appellant(s)
+                                                            Versus
+                       M/s Dhar Wind Power Projects Pvt. Ltd. & Ors.                     Respondent(s)
+                                                             WITH
+                                             Civil Appeal Nos 9220-9221 of 2018
+                                                 Civil Appeal No 9222 of 2018
+                                                 Civil Appeal No 9223 of 2018
+                                                    JUDGMENT
+                    Dr Dhananjaya Y Chandrachud, J
+                              These appeals arise from a judgment and order dated 21 September
+                        2017 of the High Court of Madhya Pradesh at its Bench at Indore and an
+                        order in review dated 29 January 2018. In the companion appeals, the
+                        correctness of an interim order of the High Court dated 15 May 2018 in a
+                        subsequent petition under Article 226 of the Constitution is in question.
+                              The Government of Madhya Pradesh issued a notification on 30
+                        January 2012 laying down a policy to govern the generation of wind energy
+                        in the State. The policy was amended on 21 February 2013. The policy,
+                        which was known as the Wind Power Project Policy 2012, stipulated inter
+Signature Not Verified
+Digitally signed by
+                        alia that the purchase/sale of power would be administered and governed
+SANJAY KUMAR
+Date: 2019.08.09
+17:05:44 IST
+                        by the Madhya Pradesh Electricity Regulatory Commission 1.
+Reason:
+      1 “State Commission”
+
+                                                      2
+              On 26 March 2013, the State Commission, in exercise of power under
+        Sections 61 and 86(1)(e) of the Electricity Act 2003 2 issued a Tariff Order3
+        for procurement of power from Wind Electricity Generators 4. Para 4.1 of
+        the Tariff Order stipulated that it would be applicable to all new wind
+        electricity generation projects commissioned on or after 1 April 2013 for
+        sale of electricity to distribution licensees within the State of Madhya
+        Pradesh. Para 5 provided for the “tariff review period/control period”:
+                     “5. TARIFF REVIEW PERIOD/CONTROL PERIOD
+                     5.1 The control period to which this order shall apply shall start
+                     from 01.04.2013 and will end on 31.03.2016 (i.e. end of FY 2015-
+                     16). The tariff decided in this order shall apply to all projects
+                     which come up during the above mentioned control period and
+                     the tariff determined shall remain valid for the project life of 25
+                     years.”
+              The tariff prescribed by the Order was (i) to apply to all projects which
+        came up during the period from 1 April 2013 till 31 March 2016; and (ii) to
+        remain valid for 25 years.
+              Para 11 of the Tariff Order provided for the determination of tariff.
+        Insofar as is material, it provided that the State Commission had set a tariff
+        at the rate of Rs 5.92 per unit of generation from new wind energy projects
+        to be commissioned after the issuance of the order for the project life of 25
+        years. Para 11.2 is extracted below:
+                     “11.2 Considering the above parameters, the Commission sets
+                     the levelized tariff @ Rs. 5.92 per unit for generation from new
+                     wind energy projects to be commissioned after issue of this
+                     order for its project life of 25 years.”
+2 “Act”
+3 SMP-12/2013
+4 “WEG”
+
+                                                    3
+                Under the terms of Para 12.4, developers were permitted to execute
+          agreements with the Madhya Pradesh Power Management Company
+          Limited5 before commissioning plants for the exclusive sale of electricity for
+          a period of 25 years and the commissioning certificate was to form a part
+          of the agreement.
+                Para 12.30 provided thus:
+                      “12.30 All existing projects i.e. projects commissioned before
+                      01.04.2013 shall continue to be governed by the terms and
+                      conditions applicable at the time of their commissioning.”
+                On 10 November 2014, the first respondent applied for permission to
+          set up a 12 MW project in Dhar District in pursuance of the Wind Power
+          Project Policy 2012. The project was registered with the nodal agency.
+          The registered capacity was subsequently enhanced to 15 MW comprising
+          of ten wind turbine generators each of 1.5 MW. Final project approval was
+          received from the competent agency of the State government for setting up
+          12 MWs on private land on 2 March 2016 and 3 MWs on revenue land on
+          10 March 2016. The first respondent acted on the basis of the project
+          approval, completed construction and made the project ready for
+          commissioning.
+                On 17 March 2016, the State Commission issued a fresh Tariff Order.
+          Para 4 which dealt with applicability of the Order and Para 5 which
+          specified the tariff review period/control period were in the following terms:
+                      “4. APPLICABILITY OF THE ORDER
+                      4.1 This tariff Order will be applicable to all new wind electric
+                      generation projects in the State of Madhya Pradesh
+                      commissioned at 00.00 hrs. on 01.04.2016 or thereafter for sale
+                      of electricity to the distribution licensees within the State of
+5 “first appellant”
+
+                                            4
+            Madhya Pradesh. This order also specifies the terms &
+            conditions (other than tariff) for captive user or for sale to third
+            party.
+            4.2 It will be mandatory for the distribution licensees to submit to
+            the Commission, quarterly progress reports on the capacity
+            addition, purchase of energy and other relevant details in respect
+            of wind electric generation projects commissioned in their
+            licensed area, and also post them on their websites on a regular
+            basis. The SLDC is also required to submit through e-mail/fax
+            immediately, a list of WEGs commissioned during the month of
+            March 2016 i.e. from 00.00 hrs. of 01.03.2016 to 24.00 hrs. of
+            31.03.2016.
+            5. TARIFF REVIEW PERIOD/CONTROL PERIOD
+            5.1 The control period to which this order shall apply shall start
+            from 01.04.2016 and will end on 31.03.2019 (i.e. end of FY 2018-
+            19). The tariff decided in this order shall apply to all projects
+            which come up during the above mentioned control period and
+            the tariff determined shall remain valid for the project life of 25
+            years.”
+     Para 11 of the new Tariff Order provided for determination of the tariff.
+The tariff which was fixed under the earlier tariff order at Rs 5.92 per unit
+was reduced to Rs 4.78 per unit:
+            “11.2 Considering the above parameters, the Commission sets
+            the levelized tariff @ Rs. 4.78 per unit for generation from new
+            wind energy projects to be commissioned after issue of this order
+            for its project life of 25 years.”
+     Para 12.29 provided that:
+            12.29 All existing projects i.e. projects commissioned before
+            00.00 hrs. of 01.04.2016 shall continue to be governed by the
+            terms and conditions applicable at the time of their
+            commissioning.
+     On 18 March 2016, a communication was addressed by the first
+appellant to distribution licensees and generators stating that:
+            Subject :- Issue of commissioning certificate for Renewable
+            Energy Projects.
+                                       ***
+                     Procurement of Renewable Energy from Non-Solar RE
+            projects, is being done by MPPMCL at preferential tariff till the
+            issuance of bidding guidelines by Central Govt. Control period of
+            most of the RE tariffs is being completed by 31.03.2016 and
+            determination of the tariff for next control period are under
+
+                                              5
+              process. Looking to the financial year target and change of tariff,
+              most of RE generators are trying to commission their projects on
+              or before 31.03.2016. Tariff for the RE capacity commissioned
+              on or after 01.04.2016 shall be governed by the tariff to be
+              determined by MPERC. Therefore, it would be appropriate that
+              while issuing commissioning certificate for these projects
+              (especially wind based RE projects), status of actual capacity
+              successfully injected power into the grid should be properly
+              checked before issuing of commissioning certificate for the
+              project.
+                      In view of above, a format containing the commissioning
+              details to establish the actual injection of power into the grid by
+              particular WTG/Unit has been achieved, is enclosed. It is
+              requested that concerning field officers may please be instructed
+              to provide required information in the format and submit the
+              same with commissioning certificate for the wind projects.
+              Commissioning certificate for other Non-Solar RE category
+              should also be prepared in the same line with the meter reading
+              details to establish successful power injection into the grid by the
+              RE plants.
+                      It may please be noted that the commissioned capacity
+              up to 31st March 2016 and after 31 st March 2016 will have
+              different tariff and will be fixed for entire plant life. Any dispute
+              regarding commissioned capacity would yield considerable
+              financial implications. Therefore, to avoid any controversy,
+              commissioning certificate should be issued with due diligence
+              and responsibility.”
+      A format for the commissioning of wind power projects was annexed
+to the letter.
+      Essentially, the letter took notice of the fact that since the tariff was to
+change for projects which were commissioned on or after 1 April 2016,
+most generators of renewable energy were trying to commission their
+projects before 31 March 2016 to get the benefit of the higher tariff under
+the earlier Tariff Order. Hence, it was specified that the “status of actual
+capacity successfully injected power into the grid” should be verified before
+issuance of the certificate of commissioning.
+      According to the appellants, the then Superintending Engineer
+(O&M), Madhya Pradesh Paschim Kshetra Vidyut Vitran Company Limited,
+which is the concerned distribution licensee, issued a certificate to the first
+
+                                              6
+        respondent on 31 March 2016 stating that as of the date of the certificate,
+        the project had been commissioned.          The appellants have sought to
+        dispute the certificate on the ground that the commissioning certificate was
+        not in accordance with the format attached with the guidelines dated 18
+        March 2016, according to which the actual injection of power into the grid
+        was the relevant criterion.
+              On 1 April 2016, the first respondent addressed a letter to the first
+        appellant seeking the execution of a Power Purchase Agreement 6 on the
+        basis that it commissioned its project on 31 March 2016. The appellants
+        dispute the factual contention that the project was commissioned on 31
+        March 2016 and submit that the data provided by the State Load Despatch
+        Centre7, which maintains accounts of energy transmission to the grid,
+        shows that the injection of power into the grid took place for the first time
+        on 1 April 2016. The SLDC was requested to confirm the status of power
+        injected into the grid in respect of the project of the first respondent on 2
+        April 2016. The data furnished by SLDC and its report for active power
+        readings from 31 March 2016 to 2 April 2016 sets out time blocks during
+        which power flowed into the grid. The data which has been placed on the
+        record indicates the injection of three units in Block 1 as on 1 April 2016
+        and, thereafter, injection commenced with Block 8 on 2 April 2016, going
+        up to Block 16. Thereafter, the data indicates that there was an injection of
+        power into the grid during the course of several blocks on 2 April 2016.
+        According to the appellants, on the basis of the SLDC data, power was
+        injected into the grid on or from 1 April 2016 and not before.              In
+6 “PPA”
+7 “SLDC”
+
+                                      7
+consequence, the first respondent was not entitled to the benefit of the unit
+rate of Rs 5.92 fixed under the earlier Tariff Order.
+      On 30 April 2016, the first appellant informed the first respondent that
+since its project had not been commissioned before 31 March 2016, it
+would not enter into a PPA under the earlier Tariff Order dated 26 March
+2013 under which the unit price was fixed at Rs 5.92. The letter, however,
+indicated that if the first respondent signified its consent by 30 May 2016,
+the tariff would be governed by the new Tariff Order dated 17 March 2016
+for procurement of power from WEGs.            On 1 February 2017, the first
+appellant informed the first respondent that if it did not enter into a PPA
+under the subsequent Tariff Order dated 17 March 2016, which fixed the
+unit price for power at Rs 4.78, it would not enter into any PPA with the first
+respondent nor allow injection of power into the grid.
+      The first respondent filed a writ petition under Article 226 of the
+Constitution before the High Court of Madhya Pradesh in order to
+challenge the letters dated 30 April 2016 and 1 February 2017.           By a
+judgment and order dated 21 September 2017, the High Court allowed the
+writ petition and set aside the letters of the first appellant dated 30 April
+2016 and 1 February 2017 and directed the first appellant to take
+appropriate steps in accordance with the Tariff Order dated 26 March
+2013. In other words, by and as a result of the directions of the High
+Court, the first appellant was required to enter into a PPA with the first
+respondent for the purchase of electricity at the rate of Rs 5.92 per unit.
+      After the decision of the High Court, the appellant revoked the
+certificate of commissioning dated 31 March 2016.
+
+                                       8
+      A review petition was filed before the High Court which was dismissed
+on 29 January 2018.
+      The revocation of the commissioning certificate gave rise to the
+institution of the second set of writ petitions in the High Court in which, by
+an interim order dated 15 May 2018, the revocation has been stayed. That
+has given rise to two appeals before this Court.
+      Appearing on behalf of the appellants, Mr. Nitin Gaur, learned counsel
+submitted that:
+(i)   The crucial provision for the application of the Tariff Order which came
+      into force on 17 March 2016 is that it would apply to all new wind
+      electric generation projects commissioned on or after 00.00 hrs on 1
+      April 2016;
+(ii)  The appellants had, by the guidelines dated 18 March 2016, required
+      the submission of data in the prescribed format to indicate the actual
+      injection of power into the grid so as to furnish an objective basis for
+      determining as to whether the project had been commissioned before
+      or after the cut-off prescribed;
+(iii) As a result of the data which was obtained from the SLDC, it has
+      emerged that the actual injection of power into the grid took place on
+      1 April 2016;
+(iv) In consequence, the first appellant offered to the first respondent that
+      it was ready and willing to execute a PPA in terms of the new Tariff
+      Order dated 17 March 2016 which was applicable to projects which
+      had been commissioned on or after 1 April 2016;
+
+                                      9
+(v)    The first respondent failed to take the benefit of the offer which was
+       made by the first appellant and instead pursued its writ petition before
+       the High Court;
+(vi) The High Court has erred in relying on the commissioning certificate
+       issued by the Superintending Engineer, ignoring that the certificate
+       was not in accordance with the format in which data was required by
+       the first appellant for the purpose of establishing the actual
+       commissioning of the project before 31 March 2016;
+(vii) As a result of the subsequent developments, the first appellant is now
+       bound by the guidelines which have been issued by the State of
+       Madhya Pradesh on 1 August 2014. Moreover, under the guidelines
+       formulated by the Union Ministry of Power in the Government of India
+       on 8 December 2017, the first appellant is required to pursue a
+       competitive bidding process for the purpose of entering into a PPA;
+(viii) As a result of the PPAs which have been entered into by the first
+       appellant following the competitive bidding process, it has been able
+       to secure electric power at cheaper rates ranging between Rs 2.30 to
+       Rs 2.59 per unit; and
+(ix) The first appellant would now be willing to enter into a PPA on the
+       basis of competitive bidding and having due regard to the interests of
+       the consumers, it would be appropriate if the first respondent is
+       directed to do so.
+       On the other hand, it has been urged on behalf of the first respondent
+in the appeals by Mr Vivek K Tankha and Mr Gopal Sankaranarayanan,
+learned senior counsel, that:
+
+                                      10
+(i)   Under the terms of the earlier Tariff Order which held the field for the
+      period 2013-16, a rate of Rs 5.92 per unit was prescribed for all new
+      wind generating units, which had been commissioned until 31 March
+      2016;
+(ii)  The rate of Rs 5.92 per unit was to remain frozen for a life cycle of 25
+      years;
+(iii) In the present case, in terms of the Tariff Order, which referred to the
+      successful commissioning of the project, the first respondent
+      commissioned its project on 31 March 2016 as evidenced by the
+      certificate issued by the Superintending Engineer;
+(iv) The High Court has not erred in directing the appellants to act on the
+      basis of the certificate of commissioning and in staying the revocation
+      which was issued only on 17 November 2017 after the writ petition
+      was decided;
+(v)   In the alternative, and without prejudice to the above submissions, in
+      any event, there is no justification on the part of the first appellant not
+      to enter into a PPA with the first respondent on the basis of the Tariff
+      Order which was notified on 17 March 2016 for the control period
+      2016-19;
+(vi) The notification of the Union of India dated 8 December 2017 has no
+      application since it applies to projects having an individual size of 5
+      MW and above at one site with a minimum bid capacity of 25 MW for
+      intra-State projects.
+
+                                      11
+(vii) The revocation of the commissioning certificate was a unilateral act of
+      the first appellant without allowing an opportunity of being heard to
+      the first respondent and no show cause notice was issued.
+      The Tariff Order of March 2013 stipulated that it would be applicable
+to all new wind electric generation projects which were commissioned on
+or after 1 April 2013 for the sale of electricity to distribution licensees in the
+State. The control period of the Tariff Order commenced on 1 April 2013
+and would end on 31 March 2016. The Tariff Order fixed a levelized tariff
+of Rs 5.92 per unit for new wind energy projects to be commissioned after
+the issuance of the Order for a project life of 25 years.              Para 12.30
+provided that all existing projects which were commissioned before 1 April
+2013 would be governed by the terms and conditions applicable at the time
+of commissioning. Hence, the crucial ingredient in determining the tariff
+was the actual date on which the project was commissioned.
+      The Tariff Order of 17 March 2016 which replaced the earlier Tariff
+Order applied to all new wind electric generation projects which were
+commissioned at 00.00 hrs on 1 April 2016 or thereafter. The SLDC was
+required by Para 4.2 of the Tariff Order to submit a list of WEGs
+commissioned during the month of March 2016 from 00.00 hrs of 1 March
+2016 to 24.00 hrs of 31 March 2016. This data was sought in order to
+provide an objective basis of determining whether a project had been
+commissioned before the new Tariff Order became applicable to projects
+which were commissioned with effect from 1 April 2016.
+      In line with the above provisions, the guidelines that were issued by
+
+                                     12
+the first appellant on 18 March 2016 provided a format for the issuance of
+commissioning certificates.     The format required readings of: (i) WTG
+meters; (ii) main billing meters; and (iii) check billing meters. The format
+required the submission of this data in order to establish the date on which
+a particular project had been commissioned.              The actual date of
+commissioning would determine the applicable tariff; the tariff of Rs 5.92
+per unit would apply to projects which were commissioned on or before 31
+March 2016, while the new rate of Rs 4.78 per unit would apply to projects
+which were commissioned on or after 1 April 2016. Requiring the SLDC to
+submit data of the actual injection of power into the grid was with the
+objective of establishing the actual commissioning of the project.
+      In the present case, the principal submission of the appellants is that
+the data which was furnished by the SLDC indicates that the actual
+injection of power into the grid by the first respondent took place on 1 April
+2016. It is on that basis that the first appellant has submitted that the
+commissioning certificate was not in accordance with the prescribed format
+and had to be revoked.       Before this Court, the data which has been
+furnished by the SLDC is not in dispute. Indeed, that is the basis on which
+Mr Vivek K Tankha, learned senior counsel urged his alternative
+submission that in any event, even going by the SLDC data, it is evident
+that the power was injected into the grid on and from 1 April 2016.
+      On reviewing the docmentary material on the record, we are not
+prepared to accept the view which has weighed with the High Court,
+namely, that the commissioning of the project was completed by 31 March
+2016. The certificate of commissioning which has been issued by the
+
+                                    13
+Superintending Engineer is belied by the objective factual data available
+from the SLDC which is a statutory body constituted under Section 31 of
+the Act. The objective data on the record indicates that the injection of
+power into the grid took place on 1 April 2016. Hence, we are of the view
+that this should be the basis on which the claim for the entering into a PPA
+should be founded.
+      Since the factual data has been placed before this Court, we are of
+the view that the project of the first respondent was commissioned on 1
+April 2016 since the SLDC data indicates the injection of power into the
+grid with effect from that date. On the basis of the commissioning of the
+project on 1 April 2016, we find merit in the alternative submission which
+has been urged on behalf of the first respondent in the appeals that the
+Tariff Order that must apply is the Tariff Order dated 17 March 2016. The
+first respondent was before the Madhya Pradesh High Court in writ
+proceedings espousing its claim to the benefit of a higher rate of Rs 5.92
+per unit on the basis of the earlier Tariff Order and on the basis that the
+commissioning of its project had taken place on 31 March 2016. The first
+respondent was bona fide pursuing its claim in that regard which found
+acceptance in the impugned judgment and order of the High Court.
+Though we have differed with the view which has been taken by the High
+Court, we are of the view that it would be unfair to deny to the first
+respondent the benefit of the rate which came to be prescribed by the Tariff
+Order of 17 March 2016. The rate which was prescribed by that Tariff
+Order of Rs 4.78 per unit was to apply during the control period beginning
+from 1 April 2016 and ending on 31 March 2019 and that rate would
+
+                                          14
+continue to govern the life cycle of 25 years, as prescribed by Para 5 of the
+Tariff Order. The first respondent cannot be denied a parity of treatment,
+as has been allowed to other projects of a similar nature which would be
+governed by the control period stipulated in Para 5 of the Tariff Order dated
+17 March 2016.
+      The competitive bidding guidelines upon which reliance has been
+placed by Mr Nitin Gaur, learned counsel appearing on behalf of the
+appellants, were formulated by the Union Ministry of Power subsequently
+on 8 December 2017.            Moreover, Para 3.1 of those guidelines is not
+applicable to the project of the first respondent. Para 3.1 provides thus:
+            “3.      APPLICABILITY OF GUIDELINES
+            3.1 These Guidelines are being issued under the provisions of
+            Section 63 of the Electricity Act, 2003 for long-term procurement
+            of electricity through competitive bidding process, by the
+            ‘Procurer(s)’, from grid-connected Wind Power Projects (‘WPP’)
+            having, (a) individual size of 5 MW and above at one site with
+            minimum bid capacity of 25 MW for intra-state projects; and
+            (b) individual size of 50 MW and above at one site with minimum
+            bid capacity of 50 MW for inter-state projects.”
+                                                    (emphasis supplied)
+      The above guidelines apply to grid-connected Wind Power Projects
+with an individual size of 5 MW and above at one site with a minimum bid
+capacity of 25 MW for intra-State projects. Since the first respondent is
+admittedly an intra-State project and does not fulfil the above requirement,
+the guidelines (which in any event came into force subsequently) will have
+no application.
+      For the above reasons, we allow the appeals in part and set aside the
+impugned judgments and orders of the High Court dated 21 September
+2017 and 29 January 2018.             We direct, in consequence of the above
+discussion, that the first respondent in the appeals shall be entitled to
+
+                                       15
+ the benefit of the Tariff Order dated 17 March 2016. The appellants shall
+ process the application of the first respondent in the appeals for execution
+ of a PPA on that basis with effect from 1 April 2016. In the view which we
+ have taken, the second writ petition which has been filed by the first
+ respondent before the High Court of Madhya Pradesh shall not survive and
+ shall stand disposed of in terms of the present judgment. There shall be
+ no order as to costs.
+       Pending application, if any, stands disposed of.
+                                          …………...…...….......………………........J.
+                                          [Dr Dhananjaya Y Chandrachud]
+                                          …..…..…....…........……………….…........J.
+                                         [Indira Banerjee]
+New Delhi;
+July 25, 2019
+
+                                   16
+ITEM NO.6                 COURT NO.11                SECTION IV-A
+                S U P R E M E C O U R T O F     I N D I A
+                         RECORD OF PROCEEDINGS
+                  Civil Appeal   No(s).9218-9219/2018
+MADHYA PRADESH POWER MANAGEMENT CO. LTD. & ANR.     Appellant(s)
+                                  VERSUS
+M/S DHAR WIND POWER PROJECTS PVT. LTD. & ORS.       Respondent(s)
+(WITH IA No. 121382/2018 – CLARIFICATION/DIRECTION, IA No.
+60776/2018 - EXEMPTION FROM FILING C/C OF THE IMPUGNED JUDGMENT,
+IA No. 60779/2018 - EXEMPTION FROM FILING O.T., IA No. 60778/2018 -
+PERMISSION TO FILE ADDITIONAL DOCUMENTS/FACTS/ANNEXURES)
+WITH
+C.A. No. 9220-9221/2018 (IV-A)
+(WITH APPLN.(S) FOR EXEMPTION FROM FILING C/C OF THE IMPUGNED
+JUDGMENT, FOR PERMISSION TO FILE ADDITIONAL DOCUMENTS/ FACTS/
+ANNEXURES, FOR EXEMPTION FROM FILING O.T. ON IA 59166/2018, FOR
+CLARIFICATION/DIRECTION ON IA 121384/2018)
+C.A. No. 9222/2018 (IV-A)
+(WITH APPLN.(S) FOR EXEMPTION FROM FILING C/C OF THE IMPUGNED
+JUDGMENT ON IA 93676/2018, IA No. 93676/2018 - EXEMPTION FROM
+FILING C/C OF THE IMPUGNED JUDGMENT)
+C.A. No. 9223/2018 (IV-A)
+(WITH APPLN.(S) FOR EXEMPTION      FROM  FILING  C/C  OF  THE IMPUGNED
+JUDGMENT ON IA 94228/2018)
+Date : 25-07-2019 These matters were called on for hearing today.
+CORAM :
+          HON'BLE DR. JUSTICE D.Y. CHANDRACHUD
+          HON'BLE MS. JUSTICE INDIRA BANERJEE
+For Appellant(s)     Mr. Nitin Gaur, Adv.
+                     Mr. Ranjit Kumar Sharma, AOR
+For Respondent(s)    Mr.  Vivek K Tankha, Sr. Adv.
+                     Mr.  Gopal Sankaranarayanan, Adv.
+                     Mr.  Sumeer Sodhi, AOR
+                     Mr.  Aman Nandrajog, Adv.
+                     Mr.  Ashish Tiwari, Adv.
+                     Mr.  Vaibhav Gulia, Adv.
+                     Ms.  Gayatri Verma, Adv.
+                     Ms.  Rakhi Ray, AOR
+
+                           17
+ UPON hearing the counsel the Court made the following
+                        O R D E R
+    The  appeals  are  allowed  in  terms   of  the  signed
+reportable  judgment.   There  shall  be  no   order as  to
+costs.
+    Pending application, if any, stands disposed of.
+  (SANJAY KUMAR-I)                     (SAROJ KUMARI GAUR)
+     AR-CUM-PS                            COURT MASTER
+    (Signed reportable judgment is placed on the file)
+
+

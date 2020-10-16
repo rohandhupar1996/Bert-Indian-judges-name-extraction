@@ -1,0 +1,438 @@
+   *IN THE HIGH COURT OF DELHI AT NEW DELHI
++            OMP No.514/2009
+%                        Date of decision: 9th September, 2009
+LARSEN & TOUBRO LIMITED                                 .…Petitioner
+                         Through:   Mr. Sumit Bansal with Mr. Ajay
+                                  Monga, Mr. Ateev Mathur & Mr.
+                                  Manish Paliwal, Advocates
+                                Versus
+NATIONAL HIGHWAYS AUTHORITY
+OF INDIA                                              .....Respondent
+                         Through: None
+CORAM :-
+HON’BLE MR. JUSTICE RAJIV SAHAI ENDLAW
+1.     Whether reporters of Local papers may
+       be allowed to see the judgment?     Yes
+2.     To be referred to the reporter or not?   Yes
+3.     Whether the judgment should be reported
+       in the Digest?    Yes
+RAJIV SAHAI ENDLAW, J.
+1      The petition under Section 34 of the Arbitration Act,1996 with
+respect to the arbitral award dated 13th May, 2009 is for admission.
+After hearing counsel for the petitioner for one and a half hour, the
+petition was dismissed with reasons to follow.
+2      The Arbitral Tribunal comprised of three arbitrators in
+accordance with the agreement of the parties.         This petition is
+preferred with respect to the award dismissing the claims No.1, 2(i),
+3, 5, 6 and 8 of the petitioner. As far as the award on claim No.1 is
+concerned, the same is split; the majority of the arbitrators have
+dismissed the claim while the minority award is in favour of the
+OMP No.514/2009                                              Page 1 of 15
+
+petitioner.     The award dismissing the other claims aforesaid is
+unanimous.       The counsel for the petitioner has addressed to the
+maximum length with respect to the challenge to the majority award
+dismissing the claim No.1 and also stated that the petition is mainly
+with respect to the dismissal of the said claim.
+3       Claim No.1 of the petitioner was for “reimbursement of
+enhanced royalty charges” in the sum of Rs 65,61,664/-. Shorn of
+legalese, the claim was, i) that the contract was an item rate
+contract; (ii) it provides in clause 70 of COPA (Conditions of
+Particular Application Part II) for “changes in cost and legislation”;
+(iii) that royalty charges for boulders and ordinary sand used in the
+contract had been enhanced by an amendment to the Karnataka
+Minor Mineral Concession Rules 1994; (iv) that the petitioner was
+entitled to such enhancement of royalty borne by the petitioner,
+under clause 70.8 of COPA.
+4.      Clause 70.8 (supra) is as under
+           “Sub-Clause 70.8 : subsequent legislation
+           If, after the date 28 days prior to, the latest date for
+           submission of bids for the Contract there are changes to
+           any national or State Statue, Ordinance, Decree or other
+           Law or any regulation or by-law of any local or other duly
+           constituted authority, or the introduction of any such State
+           Statute, Ordinance, Decree, Law, regulation or by-law in
+           India or States of India which causes additional or reduced
+           cost to the Contractor, other than under the preceding
+           Sub-Clauses of this Clause, in the execution of the
+           Contract, such additional or reduced cost shall, after due
+           consultation with the Employer and the Contractor, be
+           determined by the Engineer and shall be added to or
+           deducted from the Contract Price and the Engineer shall
+           notify the contractor accordingly, with a copy to the
+           Employer. Notwithstanding the foregoing, such additional
+           or reduced cost shall not be separately paid or credited if
+           the same shall already have taken into account in the
+           indexing of any inputs to the price Adjustment Formulae in
+           accordance with the provisions of sub-Clauses 70.1 to
+           70.7.”
+OMP No.514/2009                                               Page 2 of 15
+
+5.     The Arbitral Tribunal has held that though the aforesaid
+amendment to the Karnataka Minor Mineral Concession Rules 1994
+is a subsequent legislation within the meaning of clause 70.8
+aforesaid but still the plaintiff is not entitled to the claim owing to
+the last part of clause 70.8 i.e. because the same has already been
+taken into account in the price adjustment in accordance with earlier
+sub-clauses of clause 70, i.e., 70.1 to 70.7.
+6.     Clause 70.1 provides that the amounts payable to petitioner/
+contractors are valued at base rates as defined and shall be adjusted
+in respect of rise or fall in the indexed costs of labour, equipment
+and plant, materials and other inputs to the work, by addition or
+subtraction of the amounts determined by the formula prescribed in
+clause 70; clause 70.2 provides that to the extent the full
+compensation for any rise or fall in costs is not covered in the
+contract, the unit rates/price included in the contract shall be
+deemed to include the amount to cover the contingency of such rise
+or fall in costs; Clause 70.3A provides for variation in price of local
+labour; clause 70.3B provides for variation in price of general
+materials- it provides for variation in price of “all materials other
+than specifically provided in sub-clause 70.5” – such variation has
+been linked to the fluctuation in Whole Sale Price Index (WPI) of all
+commodities; clause 70.3C deals with variation in price of petroleum,
+oil and lubricants, with which we are not concerned; Clause 70.3D
+deals with variation in price of Plant and Equipment and clause
+70.3E with variation in price of foreign inputs, with both of which
+we are not concerned; clause 70.5 deals with variation in price of
+specified materials, with which we are again not concerned.
+OMP No.514/2009                                              Page 3 of 15
+
+7.     It was the accepted position before the Arbitral Tribunal that
+determination of WPI is on the basis of prices of 58 commodities,
+just like sensex in a stock exchange is determined on the prices each
+day of a select number of shares and not on the basis of prices of all
+the listed/traded shares/stocks.      It was further the established
+position before the Arbitral Tribunal that neither boulder nor
+ordinary sand on account of increase in royalty whereon, claim No.1
+was made were included in the said 58 commodities, fluctuation in
+price whereof determined the WPI.
+8.     The contention of the petitioner before the Arbitral Tribunal
+was that since boulders and ordinary sand were not in the basket of
+58 commodities determining WPI, the enhanced royalty thereon was
+not taken into account in the indexing of inputs to the Price
+Adjustment Formula in clause 70.3 B relating to “General Materials”,
+in which category boulders and ordinary sand otherwise fell and thus
+they became entitled to such increased royalty under clause 70.8
+(supra).
+9.     The Arbitral Tribunal did not accept the aforesaid contention of
+petitioner, hence this challenge.
+10.    Not only do I find the interpretation of aforesaid clauses by the
+Arbitral Tribunal to be a plausible one, but also the only correct
+interpretation.
+11.    Any other interpretation would be anomalous.        Clause 70.3B
+aforesaid is with respect to “all materials” used in the contract and
+not only those materials included in the basket of 58 commodities
+determining WPI.        As per the formula provided therein, the
+OMP No.514/2009                                              Page 4 of 15
+
+petitioner/contractors will get variation in price of all materials
+irrespective of whether the price of materials used in contract have
+varied or not, as long as WPI has varied.       In a given case say of
+increase in prices, it is possible that WPI has gone up owing to
+increase in prices of 58 commodities included in basket determining
+the same, but there is no increase in prices of material used in the
+works under the contract, say boulders and ordinary sand.             The
+petitioner will thus benefit from increase in WPI, though has not
+suffered any increase in costs.     A reading of the formula given in
+clause 70.3B does not have any doubt as to the same. Can then it be
+said that if there is increase in price of boulders and ordinary sand,
+but WPI has not varied, the petitioner would be still entitled to
+increase, this time under clause 70.8 because increase is on account
+of subsequent legislation. The answer has to be no.
+12.    It is further the admitted position that had the increase in
+royalty been with respect to any of the minerals included in the
+basket of 58 commodities determining the WPI, the impact thereof
+would be visible on the WPI. The question which arises is, whether
+WPI is to be confined to the 58 items in the basket determining the
+same only or generally for determination of variation in price of all
+materials. Not only does the contract in the present case makes it
+the index of variation in price of all materials but WPI by its very
+nature is representative.    It tracks the movement of price of each
+(articles on google say it includes 435 commodities in its basket and
+not 58 as mentioned in the award) commodity individually and based
+on this individual movement, WPI is determined through averaging
+principle. It captures the price movement.
+OMP No.514/2009                                             Page 5 of 15
+
+13.    The parties in the present case have agreed to variation in
+prices of all materials as per WPI, the petitioner cannot be heard
+that variation in price of boulders and ordinary sand on account of
+subsequent legislation is not covered by clause 70.3B (supra) merely
+for the reason of boulders and ordinary sand being not included in
+the basket determining WPI.       Clause 70.8, not only in the non
+obstante part towards its end, but also by use of words “other than
+under the proceeding sub-clauses of this clause” excludes increase in
+cost of materials, even on account of subsequent legislation from the
+purview of clause 70.8. Clause 70.2 expressly provides that even if
+the petitioner is not fully compensated for increase in cost on
+account of increase in royalty of boulders and ordinary sand, for the
+reason of such increase being not reflected in WPI, such increase
+shall be deemed to be included in the prices thereof stipulated in the
+contract.
+14.    There is yet another reason for me to hold so. Even if suppose
+such increase in royalty were to be reflected in the WPI directly if
+boulders and ordinary sand were included in the basket of
+commodities determining WPI; the increase would not be of the
+entire enhancement.     Could in such a situation, the petitioner be
+heard to say that the balance increase should be given under clause
+70.8.   The answer against has to be No.        Once the variation is
+covered by formula provided for variation of price of labour,
+material, petroleum, oil lubricants, plant, equipment, foreign inputs,
+the variation with respect thereto, even if on account of subsequent
+legislation cannot be covered by clause 70.8. Else, it will amount to
+variation under two clauses and which is not permitted.
+OMP No.514/2009                                            Page 6 of 15
+
+15.    The counsel for the petitioner has at the outset contended that
+the aforesaid award is contrary to the dicta of the Division Bench of
+this  court   in  NHAI     Vs.   ITD   Cementation     India   Limited
+MANU/DE/9104/2007.        In this case also there was an increase in
+rates of royalty and which were held to be not covered by WPI. The
+Arbitral Tribunal however made a declaratory award only holding
+the contractor in that case to be entitled to the amounts for the
+reason of such increase and leaving the same to be determined by
+NHAI.    The Division Bench of this court was not called upon to
+pronounce on the finding of the arbitrator of the petitioner being
+entitled to the increase.   The challenge before the Division Bench
+was only that the award was bad and incomplete for the reason of
+not computing the amount due which the arbitrator had found due to
+the contractor in that case. Thus this judgment cannot be said to be
+the judgment on the contention raised by the petitioner before this
+court.   The Arbitral Tribunal in the present case has interpreted
+Clause 70.8 and upon such interpretation held the petitioner not
+entitled to the claim. In fact the Division Bench has in Para 13 of the
+judgment held that simply because the interpretation placed by the
+arbitrator has not favoured one or the other party can be no reason
+for the court to interfere under Section 34 of the Act with the award
+made on any such interpretation; it being settled by a long line
+decisions that the court does not sit in an appeal over the award.
+16.    Thus all that can be said from the aforesaid judgment of the
+Division Bench is that the Arbitral Tribunal in that case had
+interpreted Clause 70.8 differently from the interpretation adopted
+by   the  Arbitral   Tribunal in this    case.    However    since     the
+interpretation in that case was not under challenge and further since
+I have on detailed analysis aforesaid found the interpretation of the
+OMP No.514/2009                                             Page 7 of 15
+
+same clause by the Arbitral Tribunal in this case, to be correct, no
+ground under Section 34 is made out.        In fact I may notice that
+Arbitral Tribunal in that case did not go into the question analysed
+above and proceeded on the premise that if items on which
+“Seigniorage Fee” in that case were not included in the items
+determining Index, it would ipso facto fall under clause 70.8
+17.   It is not as if the Arbitral Tribunal in the present case was
+oblivious of the judgment in ITD Cementation Limited (Supra).
+The petitioner herein relied upon the judgment before the Arbitral
+Tribunal also and the Arbitral Tribunal has in Para 21 of the award
+dealt therewith.
+18.   The counsel for the petitioner has also contended that the
+report of the Engineer Incharge of the respondent is also in favour of
+the petitioner in this regard and in fact payments under the said
+head    were    earlier  being made    to  the  petitioner  and    were
+subsequently wrongly stopped. The Arbitral Tribunal has dealt with
+this aspect also and held that the decision of the Engineer Incharge
+was    not   binding    and  was  challengeable   in   the  arbitration
+proceedings. Thus no reliance can be placed by the petitioner on the
+decision of the Engineer Incharge or for the reason of some
+payments having been released on the said decision of the Engineer
+Incharge.
+19.   The counsel for the petitioner has next contended that the
+Arbitral Tribunal has proceeded with the matter with the intent to
+deny the said claim of the petitioner.    On a reading of the entire
+award qua the said claim, I do not find any such intent. The Arbitral
+Tribunal has on the contrary dealt with each and every plea raised
+OMP No.514/2009                                            Page 8 of 15
+
+by the petitioner and which same pleas has been raised before this
+court also and given their findings with respect thereto.
+20.   The counsel for the petitioner has also urged that if the
+interpretation adopted by the Arbitral Tribunal is to be accepted, the
+same will result in the clause becoming otiose. I do not agree with
+the said contention also. All that the Arbitral Tribunal has held is
+that the increase under Clause 70.8 is not for increase in cost of
+materials, provision wherefor has been made in accordance with the
+preceding sub-clauses of clause 70.
+21.   The counsel for the petitioner has also read portions of the
+minority award on the said claim to persuade this court to accept the
+same.     The Division Bench of this court in The Fertilizer
+Corporation of India Ltd Vs IDI Management Inc. AIR 1984
+Delhi 333 and the Division Bench in Chogule Brothers Vs
+Rashtriya Chemicals & Fertilizers Ltd MANU/MH/0114/2006
+have held that it is not permissible to look at the minority award
+while dealing with a petition to set aside the majority award.
+22.   The claim No.2 of the petitioner was for reimbursement on
+account of increased taxes.      The award allows claim under five
+components under this head and denies the claim for Rs.3,67,812/-
+for “resale tax on bitumen”. The Arbitral Tribunal has held that the
+said claim was made on the basis of payment of central sales tax
+though the sale of bitumen was for use in Karnataka State only; it
+was thus held that there being no interstate sale, there could be no
+question for compensation with respect to the same.
+OMP No.514/2009                                             Page 9 of 15
+
+23.    The counsel for the petitioner also upon it being inquired as to
+how with respect to local sale in a state, claim for central sales tax
+could be made, did not press the challenge with respect to the said
+claim.
+24.    Claim No.3 of the petitioner before the Arbitral Tribunal was
+for Rs.11,16,364/- for “price adjustment of bitumen on temporary
+diversions and renewal coat”.     The claim was made under Clause
+70.5.
+25.    The Arbitral Tribunal found that the adjustment of contract
+price under clause 70.5 (2) (a) was for bitumen for use in the
+permanent works only and not for temporary works. The contention
+of the petitioner was that the items were POQ items and hence the
+petitioner was entitled to price variation thereon.        The Arbitral
+Tribunal finding works with respect whereto price adjustment was
+claimed to be of temporary nature, rejected the claim.
+26.    The counsel for the petitioner has taken me to page 222 of the
+paper book, containing copy of Bill No.9 and with reference to items
+9.02 and 9.03 thereof to show that the items are included in the
+BOQ. However from item No.10.03 in Bill No.10 on Page 223 of the
+paper book the nature of the work as temporary is apparent.
+27.    Again, it is a matter of appreciation of evidence as to what
+works are permanent and what temporary.           The award contains
+reasons for holding the works to be temporary. The finding of the
+Arbitral Tribunal is a finding of fact. Section 34 does not permit a
+challenge to such finding of fact.      This court cannot enter into
+OMP No.514/2009                                             Page 10 of 15
+
+investigation whether the works were permanent, as contended by
+the petitioner.
+28.    The Arbitral Tribunal comprised of experts in the field. It has
+been held in Jagdish Chander Vs Hindustan Vegetable Oils
+Corporation AIR 1990 Delhi 204 that the court should be slow in
+interfering with the findings of such expert arbitrators.
+29.    The next challenge is to the award with respect to claim No.5
+(Rs 67,00,521) “for payment of foreign currency component of
+interim payment certificates”.     The counsel for the petitioner has
+contended that under the contract 10% of the value thereof was
+payable to the petitioner in foreign exchange and for fluctuation in
+rates thereof provision was made in Clause 15.2. The counsel admits
+that the fluctuation as on the date of payment to the petitioner has
+been taken into account. The claim is for fluctuation between the
+date of said payment and the date of reconversion thereof into Indian
+currency by the petitioner. The counsel for the petitioner contends
+that the purport of Clause 15.2 is that the petitioner is to be
+unaffected by fluctuation in rate of foreign exchange; thus the
+petitioner needs to be saved even for fluctuation at the time of
+reconversion by the petitioner.      On inquiry the counsel for the
+petitioner admits that the time of reconversion was at the sole
+discretion of the petitioner and the respondent had no control over
+the date or time when the petitioner was to reconvert the foreign
+exchange     to Indian   currency.   That    being  the   position,    the
+interpretation of the arbitrator that the fluctuation if any of the time
+when the petitioner reconverts the foreign exchange is not to be
+considered and was not part of contractual obligation cannot be
+OMP No.514/2009                                              Page 11 of 15
+
+faulted with.   The petitioner by its own act could not make the
+respondent liable.
+30.    Claim No.6 of the petitioner was for Rs 2,06,47,791/- towards
+“price adjustment of grade 60/70 bitumen”.     The price of bitumen
+was to vary as provided in clause 70.5 of the agreement. The “basic
+price” is defined in clause 70.5 as meaning the price indicated in
+schedule 3 of Section IX of the bidding document, copy whereof is
+filed at Page 238 of the paper book and wherein the basic price of
+the bitumen 60/70 grade is given as Rs.12,000/- per MT. “Current
+Price” is defined in clause 70.5 (ii) (a) as meaning the ex refinery
+price inclusive of sales tax and excise duty from nearest refinery,
+prevailing at the relevant time.
+31.    The Arbitral Tribunal found that the project being an Asian
+Development Bank project, exemption from excise duty had been
+granted to the petitioner. Thus the admitted component of Rs 1296
+per MT was removed from the base price of Rs 12,000/- per MT
+given by the petitioner and the basic price of Rs 10,344.83 per MT
+taken. Similarly, excise duty was not included in the current price
+computation as well.
+32.    The contention of the petitioner was/is that the basic price
+should be taken as Rs 8100/- per MT, as the basic price of Rs
+12,000/- given by him in schedule 3 (supra) was inclusive of, besides
+excise duty aforesaid, sales tax of Rs 1183.90p per MT and
+Transportation and Handling charges of Rs 1420.10p. per MT. Else
+it was/is urged that transportation and handling charges should also
+be added in the current price.
+OMP No.514/2009                                           Page 12 of 15
+
+33.    The Arbitral Tribunal held that Clause 70.5 clearly specifies
+the modality of determining the current price as well as the meaning
+of basic price. The Arbitral Tribunal also held the base price arrived
+at by the Engineer Incharge to be in consonance with several other
+clauses of the agreement. The Arbitral Tribunal further found that
+there was no basis whatsoever for the transportation and handling
+charges of Rs.1420.18p. per MT deemed to be included by the
+petitioner in arriving at the total base price of Rs.12,000/- per MT in
+the bid document.       The Arbitral Tribunal also noticed that the
+petitioner   had   with  respect    to another    claim, accepted      the
+transportation cost as Rs.800/- per MT as rightly determined by the
+Engineer Incharge and for this reason found the figure of Rs.1420/-
+per MT to be arbitrary and to be only to be able to justify the rate
+calculation of Rs.12,000/- per MT. Thus the only tinkering with the
+base price of Rs.12,000/- per MT given in the schedule to the
+agreement was to the extent of excluding excise duty component
+therefrom, since the same was not leviable. Similarly the Arbitral
+Tribunal found that the contract did not permit inclusion of
+transportation and handling charges to the current price.
+34.    Neither do I find any ground under Section 34 of the Act to
+have been made with respect to the aforesaid finding of the Arbitral
+Tribunal nor has the counsel for the petitioner made any other
+submissions with respect thereto.
+35.    Claim No.8 of the petitioner for Rs 3,00,00,000/- was on
+account of “Extra rates for value of works executed during the
+extended period.     The original end date of the contract was 31 st
+August, 2004 and was extended to 31st December, 2004 i.e. by four
+months.    It was also the admitted position that price variation in
+OMP No.514/2009                                              Page 13 of 15
+
+respect of the work done during the said extended time had been
+based on the agreed rates and paid by the respondent to the
+petitioner.   The contention of the petitioner was that the price
+variation so paid to him did not compensate him for the increase in
+rate or the prices and preferred the claim in this regard on the basis
+of 10% of the value of the work executed during the said extended
+term.
+36.    The Arbitral Tribunal found that the petitioner had not in
+accordance with Clauses 52.1 and 52.2 given notice of any intention
+to claim extra payment or a varied rate of price and held the
+petitioner not entitled to any other increase than already paid. The
+Arbitral Tribunal also found that the claim had not been made at any
+time prior to 30th January, 2006 and that the petitioner had in fact
+admitted that the price adjustment for the work done during the
+extended period of four months had been paid and the parties had no
+dispute on this. The Arbitral Tribunal also found that the claim was
+not supported by any rate analysis or the prevalent rates during the
+extended term.     The claim was thus held to be without any basis
+whatsoever and rejected.
+37.    The petitioner has in the OMP not challenged the finding of the
+facts written by the Arbitral Tribunal of the petitioner having
+accepted the increase paid and having confirmed that there were no
+disputes with respect to the same.        The petitioner has also not
+challenged the finding of the Arbitral Tribunal of petitioner having
+not furnished any basis for the said claim. In my view on the basis of
+the said factual findings of the Arbitral Tribunal alone no fault can be
+found with the finding of the Arbitral Tribunal rejecting the said
+claim.   Once the parties have agreed on a formula for payment of
+OMP No.514/2009                                              Page 14 of 15
+
+increase, the petitioner cannot make a claim in addition thereto and
+specially when the petitioner has not even given any notice, as the
+arbitrators have held was required to be given in terms of the
+contract. The petitioner has in the OMP challenged that the clauses
+of the contract referred to by the Arbitral Tribunal in this regard are
+not applicable. However it cannot be forgotten that the award is not
+challengeable merely because the interpretation of the contract by
+the arbitrator is found to be wrong by the court. The findings of the
+Arbitral Tribunal in this regard is neither shown to be in the face of
+any contractual provision nor shown to be contrary to any
+substantial law.     Thus no ground is made with respect to the
+rejection of the said claim also.
+38.   No perversity or anything to shock the judicial conscience is
+found in portions of the arbitral award challenged in this petition.
+Resultantly, the petition is dismissed. No order as to costs.
+                                          RAJIV SAHAI ENDLAW
+                                                (JUDGE)
+September 09, 2009
+J
+OMP No.514/2009                                              Page 15 of 15
+
+

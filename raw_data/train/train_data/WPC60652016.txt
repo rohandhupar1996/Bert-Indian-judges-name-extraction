@@ -1,0 +1,600 @@
+                                                                                                 1
+                          IN THE GAUHATI HIGH COURT
+     (HIGH COURT OF ASSAM, NAGALAND, MIZORAM & ARUNACHAL PRADESH)
+                                 WP(C) 6065/2016
+                         M/s Dharampal Satyapal Limited, Shed No. OS/6/L/44 & OS/7/R/47,
+                         59, Industrial Estate, Bamunimaidam, Guwahati-781021, a Company
+                         incorporated under the provisions of the Companies Act, 1956 and
+                         having its Registered Office at 1711, S.P. Mukherjee Marg, Delhi-
+                         110006, represented by Mr. Shantanu Sarma, Deputy General
+                         Manager of the Petitioner Company.
+                                                                                  - Petitioner
+                                                 -Versus-
+                         1. Union of India,
+                         Through Under-Secretary to the Government of India,
+                         Ministry of Finance (Department of Revenue),
+                         North Block, New Delhi.
+                         2. The Superintendent (HQRS. Anti Evasion-I),
+                         Office of the Commissioner of Central Excise & Service Tax, Gauhati,
+                         HQRS Anti Evasion, Unit I, Sethi Trust Building, 6th Floor, G.S. Road,
+                         Bhangagarh, Guwahati-781005.
+                         3. The Assistant Commissioner (Anti Evasion),
+                         Office of the Commissioner of Central Excise & Service Tax HQRS Anti
+                         Evasion, Unit 1, G.S. Road, Bhangagarh, Guwahati-781005.
+                                                                              -   Respondents
+                                             BEFORE
+                   HON’BLE MR. JUSTICE ARUP KUMAR GOSWAMI
+         For the petitioner              :      Dr. A.K. Saraf, Senior Advocate,
+                                                Mr. B. Dubey, Advocate.
+         For respondent Nos. 1 to 3      :      Mr. B. Sarma, Standing Counsel,
+                                                Central Excise and Customs Department.
+         Dates of hearing                :      20.04.2017, 26.04.2017 and 11.05.2017
+         Date of judgment and order :           22.06.2017
+                                         JUDGMENT & ORDER
+         Heard Dr. A.K. Saraf, learned senior counsel for the petitioner. Also heard Mr. B.
+Sarma, learned standing counsel, Central Excise and Customs Department, appearing for
+the respondents.
+2.       The petitioner, which is a Company registered under the Companies Act, 1956, by
+filing the instant writ petition under Article 226 of the Constitution of India, has, essentially,
+prayed for terminating an enquiry initiated against the petitioner by the respondent No.3,
+W P(C) 6065/ 2016
+
+                                                                                            2
+i.e. Assistant Commissioner of Central Tax (Anti-evasion), by letter dated 18.11.2015. The
+petitioner company has its manufacturing units in, amongst others, at Agartala and
+Guwahati and is engaged in manufacturing goods (Pan Masala), notified under Section 3A of
+the Central Excise Act, 1944 (for short, “1944 Act”). The petitioner is registered under the
+1944 Act.
+3.      When the writ petition was moved, this Court, by an order dated 04.10.2016, while
+issuing notice, had stayed further proceedings pursuant to the notice dated 18.11.2015 and
+the Summons dated 16.09.2016. However, it was provided that it would be open to the
+respondents to pass order under Rule 6(2) of the Pan Masala Packing Machines (Capacity
+Determination and Calculation of Duty) Rules, 2008 (for short, “Rules”), as amended, as per
+direction of the appellate authority. For vacating the interim order dated 04.10.2016, two
+Interlocutory Applications, one by the Commissioner of Central Excise and Service Tax, and
+the other by the Assistant Commissioner of Central Excise (Anti-evasion) were filed and the
+said applications were registered as I.A. (Civil) No.2024/2016 and I.A. (Civil) No.2178/2016,
+respectively. When these two Interlocutory Applications were taken up for consideration on
+16.03.2017, learned counsel for the parties had suggested that instead of taking up the
+same, the writ petition may be taken up for disposal as hearing of the Interlocutory
+Applications would take, more or less, the same amount of time which may be required for
+hearing of the writ petition. Acceding to the aforesaid request, the Court had proceeded to
+hear the writ petition at the admission stage.
+4.      The pleaded case of the petitioner, in brief, is as follows:
+        (a) In the month of January, 2014, the petitioner had acquired a packing machine
+[one Rotary Type Single Track Horizontal Track FFS Machine (Make: Sanko, ID:
+131023840)] from Japan for manufacturing Pan Masala (without tobacco) pouches. The
+estimated speed of the machine mentioned in the quotation was 900-1000 pouches per
+minute for pouch length of 90 mm for filling 18-22 grams of Pan Masala. The purchase order
+was placed on the basis of the said quotation. However, because of certain technical issues
+the petitioner was advised by the manufacturer, Sanko Machinery Company Ltd., to operate
+the machine at its optimum speed of around 750 pouches per minute and see the results
+before the machine is operated at its packing speed between 900-1000 pouches per minute.
+The machine was placed at the shed of the petitioner at Industrial Estate, Bamunimaidam,
+Guwahati.
+        (b) By a letter dated 09.01.2014, addressed to the Assistant Commissioner, Central
+Excise, the petitioner informed that it would be operating the machine with effect from
+W P(C) 6065/ 2016
+
+                                                                                              3
+18.01.2014 for packing Pan Masala in 20 gm. pouch (Retail price Rs. 40/- per pouch) and
+requested to depute an officer to de-seal the machine. Rule 6 of the Rules having provided
+for a declaration to be filed by the manufacturer of notified goods as defined under the
+Rules, the petitioner enclosed thereto the first declaration in Form-1 under the Rules for the
+machine in question. In the said declaration, the maximum packing speed of the machine
+was declared as 750 pouches per minute. By a letter dated 17.01.2014, the Assistant
+Commissioner, Central Excise, approved the declaration and fixed the packing capacity and
+rate of duty in terms of Rule 5 of the Rules read with Notification No. 42/2008-CE dated
+01.07.2008, as amended by Notification No. 13/2012-CE dated 17.03.2012. Number of
+pouches deemed to be produced per month and annual production capacity (in number of
+pouches) were, accordingly, noted as 50,54,400 and 6,06,52,800, respectively, in terms of
+Rule 5. Rate of duty was fixed at Rs. 502.36 lakhs per month in terms of Notification No.
+13/2012-CE dated 17.03.2014. Similar declarations were made and consequently approved
+till June, 2014.
+         (c) However, as the petitioner decided to operate the machine at a higher speed on
+an experimental basis, by a letter dated 18.07.2014, it filed a declaration indicating that the
+machine would be operated for manufacturing of Rajanigandha Pan Masala of 18 gms (plus
+10% extra) pouch (RSP: Rs. 50/- per pouch) with maximum packing speed of 1000 pouches
+per minute. The declaration was approved by the Assistant Commissioner of Central Excise
+by an order dated 23.07.2014. Subsequently also the petitioner filed declarations declaring
+the maximum packing speed of the machine as 1000 pouches per minute and the same
+were also approved.
+         (d) At that point of time, factor relevant to production under Rule 4 of the Rules was
+the number of packing machines in the factory of the manufacturer and a Table laid out
+under Rule 5 provided for the quantity that is deemed to be produced, which was on the
+basis of retail price of the pouches manufactured.
+         (e) However, with the issuance of Notification No.6/2015-Central Excise dated
+01.03.2015, brought into effect from 01.03.2015 amending the Notification dated
+01.07.2008, there was a change in the method of determination of duty payable by a
+manufacturing unit. Section 4 was amended to read that the factors relevant to the
+production of notified goods shall be the number of packing machines in the factory of the
+manufacturer and the maximum packing speed at which such packing machines can be
+operated for packing of notified goods of various retail sale prices. The maximum packing
+W P(C) 6065/ 2016
+
+                                                                                          4
+speed of the machine was laid down in three different slabs, i.e. (i) up to 300 pouches per
+minute, (ii) 301-750 pouches per minute and (iii) 751 pouches per minute and above.
+        (f) The petitioner had continued to declare the maximum packing speed of the
+machine in the higher slab of 751 pouches per minute and above and was, accordingly,
+assessed to the highest rate of duty under the amended Rules. However, as complaints
+were received in respect of the packing of the pouches, the petitioner sent an e-mail dated
+24.04.2015 to Sanko Machinery Co. Ltd. informing it about the problems encountered and
+requesting necessary rectification. Sanko Machinery Co. Ltd. responded by an e-mail dated
+30.04.2015 stating that the machine was not capable of running at a packing speed of 1000
+pouches per minute and that it would run smoothly at the packing speed of 740-750
+pouches per minute.
+        (g) On 13.05.2015, the petitioner informed the Deputy Commissioner, Central Excise,
+that it will be operating the machine from 19.05.2015 for manufacturing Rajanigandha Pan
+Masala of 18 gm. pouch (RSP Rs.50/-) and, accordingly, requested to depute an officer on
+19.05.2015 to de-seal the machine at 00:05 hours and to uninstall and seal the machine on
+31.05.2015 at 23:55 hours. Declaration in Form-1 was also submitted indicating maximum
+packing speed above 751 pouches per minute. The Assistant Commissioner of Central
+Excise, vide his order dated 18.05.2015, approved the declaration and allowed de-sealing
+and sealing of the machine as requested. Annual capacity of production was also accordingly
+determined.
+        (h) On 26.05.2015, the petitioner wrote a letter to the Assistant Commissioner,
+Central Excise, informing that due to receipt of customer complaints, it had decided to
+discontinue its operation and, therefore, requested to depute an officer on 29.05.2015 at
+23:55 hours to uninstall and seal the said machine. It was also informed that it would also
+use the machine for manufacturing limited quantity of Rajanigandha Pan Masala of 10 gm.
+pouch (RSP: Rs.25/-) to explore effectiveness of the machine. A declaration form was also
+submitted showing maximum packing speed above 751 pouches per minute. The Assistant
+Commissioner approved the said declaration by an order dated 29.05.2015 and allowed
+proposed manufacturing of the product at RSP: Rs.25/-.
+        (i) On 12.06.2015, the petitioner wrote a letter to the Assistant Commissioner of
+Central Excise informing that the manufacturer had communicated that the high end CPU of
+the machine does not synchronize with the internal checks and controls of the machine and,
+therefore, it was decided to downgrade the CPU and, after change over, it would like to
+conduct a non-commercial run to find out the maximum packing speed of the machine. By
+W P(C) 6065/ 2016
+
+                                                                                              5
+the letter, it was informed that new CPU had already been imported and engineers would
+come for necessary alterations and the machine was expected to be ready for trial run by
+the evening of 15.06.2015 and, as such, conduct of non-commercial trial run was proposed
+on 16.06.2015, in presence of departmental officer for determining the maximum packing
+speed. Accordingly, request was made to depute an officer. An order was passed on
+15.06.2015 by the Assistant Commissioner of Central Excise directing the Superintendent of
+Central Excise, Range-IIA, Guwahati Division-II, to supervise de-sealing, trial run, un-
+installation and sealing of the machine. Direction was also issued to destroy the pouches
+manufactured during trial run. One Mr. S. K. Dutta, a Government Registered Chartered
+Engineer, was also appointed by the Assistant Commissioner of Central Excise vide another
+order dated 15.06.2015 for the purpose. Trial run was conducted and it was concluded that
+maximum packing capacity of the machine is 730 pouches per minute for both 18 gm. and
+10 gm. pouch. Based on his report, in terms of Rule 6 of the Rules, as amended, the
+Assistant Commissioner, vide his order dated 16.06.2015, re-determined the annual capacity
+of production on the basis that the maximum packing speed of the machine falls in the
+category of 301 to 750 pouches per minute.
+         (j) Till October, 2015, declarations were made by the petitioner showing maximum
+packing speed of the machine as determined by the order dated 16.06.2015 of the Assistant
+Commissioner, Central Excise, and the same were also correspondingly approved.
+         (k) On 18.11.2015, the respondent No.3 wrote a letter on the subject of an enquiry
+in relation to the machine and requiring the petitioner to submit, by 26.11.2015, the
+documents, namely, (i) Purchase Order, (ii) Pro-forma Invoice, (iii) Invoice, (iv) Packing List,
+(v) Bill of Entry, (vi) Consignment Note/Transport Documents, (vii) Machine Literature (in
+original), (viii) Handbook/Manual of Operation of Machine (in original), (ix) All
+annexure/enclosures received (from the manufacturer/supplier) along with the machine, (x)
+Payment Particulars, (xi) Copies of all Form-1 Declarations since inception, relating to
+machine No.131023840 along with all attachments/annexure/basis thereof and (xii) All other
+correspondences made with the manufacturer/supplier in relation to purchase of the
+machine. The petitioner submitted documents as indicated in the letter dated 26.11.2015.
+         (l) On 23.11.2015, the petitioner had sent a letter to the Assistant Commissioner of
+Central Excise informing that it would restart production for two days on 29.11.2015 and
+30.11.2015 and, therefore, requested deputing of an officer to de-seal and eventual
+uninstalling and sealing of the machine. Declaration was also made in Form-1 showing
+maximum packing speed of the machine as 750 pouches per minute.
+W P(C) 6065/ 2016
+
+                                                                                             6
+        (m) In reference to the said letter, the Assistant Commissioner responded by his
+letter dated 25.11.2015. In the said letter, declarations made by the petitioner were
+reproduced in the form of a tabular chart. On the basis of the declarations made, it was
+opined in the said letter that the maximum packing speed of the machine cannot be less
+than 1000 pouches per minute and that, consequently, it would fall in the category of “751
+pouches per minute and above” for the purpose of assessment. By the said letter, the
+petitioner was requested to submit its defence to establish that the maximum packing speed
+of the machine is below 750 pouches per minute for the pouch weight of 18 gms. of RSP
+Rs.50/- on or before 27.11.2015, giving also liberty to appear in person, failing which it was
+indicated that assessment would be done on the basis of available records. The petitioner,
+vide its letter dated 27.11.2015 responded to the said letter highlighting that re-
+determination of packing speed was based upon a technical trial run of the machine by the
+then Assistant Commissioner of Central Excise with a team of his officers and a Chartered
+Engineer duly appointed by the department, conducted in their physical presence. Request
+was made to conduct a similar trial run to quell any doubt or misgivings. The Associate Vice
+President and the Deputy General Manager had also personally appeared on 27.11.2015.
+        (n) On 27.11.2015, the Assistant Commissioner passed an order holding that
+maximum packing speed of the machine is 751 pouches and above per minute and directing
+to pay duty accordingly. The declaration submitted by the petitioner on 23.11.2015 was
+allowed with the modification relating to maximum packing speed of the machine. On
+28.11.2015, the petitioner wrote back that it would not operate the machine as proposed
+vide letter dated 23.11.2015 and, accordingly, withdrew the declaration filed on 23.11.2015.
+         (o) In relation to the enquiry undertaken, the Assistant Commissioner (A.E.) issued
+another letter on 04.12.2016 requiring the petitioner to furnish within 09.12.2015 the basis
+for declaring variant parameters in respect of “maximum packing speed (pouches/minute)”
+in respect of the very same machine and the original copy of the quotation dated
+18.04.2013 issued by M/s Heat and Control Pvt. Ltd. for the purpose of further investigation.
+The petitioner replied back by letter dated 09.12.2015 explaining the reasons and also
+intimating that the quotation was received through e-mail, copy of which was already
+furnished and that there is no original copy.
+        (p) Thereafter, on 14.12.2015 and 17.12.2015, summons was issued under Section
+14 of 1944 Act, to Mr. Bharat Goswami, Vice President of the petitioner Company, to appear
+in person and to produce documents and records. A Schedule was given indicating the
+matters on which statements were sought for and also indicating the documents needed to
+W P(C) 6065/ 2016
+
+                                                                                            7
+be produced. Similar summons was issued to Mr. C. Roy Choudhury on 05.01.2016 with
+almost an identical Schedule with the addition relating to technical alterations made in the
+machine. Summons dated 27.01.2016, 23.03.2016 and 09.05.2016 were also issued to Mr.
+Shantanu Kumar Sarma (DGM, Excise), Mr. Manabendra Deb (DGM, Maintenance), Mr. S.K.
+Poddar (Vice-President, Legal Services), respectively, truncating the items in the Schedule.
+The aforesaid officials appeared and they were made to sign statements dictated by the
+respondents. In the meantime, the petitioner paid a sum of Rs.1 crore on 21.12.2015, under
+protest, without prejudice to its rights and contentions, in connection with ongoing
+investigation and alleged evasion of Central Excise duty. Further sum of Rs.1 crore was paid
+by the petitioner on 03.06.2016.
+        (q) On 13.01.2016, the petitioner submitted a letter dated 12.01.2016 to the
+Commissioner of Central Excise and Service Tax praying for a detailed physical examination
+of the machine to determine the maximum packing speed of the machine as well as for
+withdrawal of the investigation. Furthermore, the petitioner also filed an appeal on
+25.01.2016 under Section 35 of the Act before the Commissioner of Central Tax (Appeals)
+against the order dated 27.11.2015. Sanko Machinery Company Ltd. also sent a letter to the
+petitioner confirming that a FP-1000 Controller programmed at 750 bpm was supplied
+against purchase order dated 14.05.2015 under invoice dated 27.05.2015.
+        (r) A summons dated 18.07.2016 was issued to Mr. Chander Kant Sharma, Director
+and Key Managerial Person to appear on 26.07.2016. The Schedule of the summons is more
+or less an abridged version of the Schedule of the summons issued to Mr. C. Roy
+Choudhury. Mr. Sharma wrote back a letter dated 25.07.2016 informing that he did not
+have any specific responsibility pertaining to Central Excise and that the investigation may
+be completed on the basis of information furnished by various officers of the petitioner
+Company. The respondent No.2, then sent a letter dated 27.07.2016, asking him to intimate
+the name(s) of the Director(s) who is/are responsible to take decisions in matters pertaining
+to Central Excise as examination of the Director was required to complete the investigation.
+In response to the said letter, Mr. Sharma wrote a letter dated 08.08.2016, in substance,
+indicating that the Directors are responsible for determining policy and guidelines for long
+term business growth and in identifying new growth opportunities and that decision-making
+process with regard to operational issues are institutionalized and Senior Managers are
+authorized to make decisions and, thus, requesting closure of the investigation on the basis
+of records and statements furnished already.
+W P(C) 6065/ 2016
+
+                                                                                               8
+        (s) By an order dated 31.08.2016, passed by the Commissioner of Appeals, the
+appeal of the petitioner preferred against the order dated 27.11.2015, passed by the
+Assistant Commissioner, was allowed by setting aside the same and the adjudicating
+authority was directed to re-determine the production capacity after observing the
+formalities laid down in Rule 6(2) and Rule 6(6) of the Rules and to pass necessary orders
+accordingly.
+        (t) In spite of the above adjudication, the respondent No.2 again issued a summons
+on 16.09.2016 asking Mr. C. Roy Choudhury to appear on 26.09.2016, which he did and he
+continued to appear for five days till 30.09.2016. He was told that serious consequences will
+follow unless he did not make admissions as desired.
+4.      In the affidavit-in-opposition filed by the respondents on 22.12.2016, it is stated that
+enquiry proceeding was initiated under Section 11A of the Act against the petitioner for
+alleged fraudulent manipulation of the maximum operating speed of packing machine by
+way of change/replacement of CPU resulting in short payment of Central Excise duty to the
+tune of Rs.52 lakh per day, amounting to Rs.27.06 crores and that the officials who had
+been summoned are the officials who are directly involved in changing of machine parts,
+such as, “Controller” for regulating the speed of the machine or who had consented to the
+mis-declaration of speed of the machine, which is less than the actual operating speed of
+the machine, to the department. It is averred that a machine designed to run at a maximum
+packing speed of 1000 pouch per minute cannot be altered permanently as reversing
+whatever alterations were made would again enable the machine to operate at the
+maximum speed as per its specifications. It is pleaded that show-cause notice can be issued
+only after completion of the enquiry and non-appearance of one of the Directors, namely,
+Mr. C.K. Sharma, despite summons being issued, is one of the reasons why investigation
+could not be completed. The petitioner Company misled and the speed of the machine was
+lowered by way of fraudulent manipulation and the report of the Chartered Engineer and
+the circumstances under which it had been issued was also being enquired into. No quality
+issue of the pouches was raised when the criterion for determining the amount of Central
+Excise duty payable was not dependent on the maximum speed of the machine and the plea
+raised presently is a bogey, not supported by proof of waste generated or return of goods.
+The manufacturer had never specified that the maximum speed of the machine is 750 ppm
+but had only advised that it would run smoothly at a speed of around 740 bpm to 750 bpm.
+The petitioner also did not send the machine to M/s Heat and Control Pvt. Ltd. and instead
+they preferred to change the controller of the machine. When the maximum speed at which
+the machine can be operated had been recorded in the procuring documents and the
+W P(C) 6065/ 2016
+
+                                                                                                 9
+petitioner also having declared the packing speed of the machine as 1000 pouches per
+minute for the period from July 2014 to March, 2015, there was no question for causing any
+enquiry, including physical verification, to ascertain or determine the maximum speed of the
+machine at which it can be operated either in terms of Rule 6(2) or Rule 6(6) of the Rules.
+It is denied that the petitioner was pressurized to make any deposit during the enquiry. The
+Certificate dated 06.04.2016 of the manufacturer was procured by the petitioner after
+making specific request and the same is also an attempt to mislead the department about
+the maximum speed of the machine. Mr. C. K. Sharma had also avoided summons by
+submitting false information as Mr. C. Roy Choudhury stated that the matter regarding
+change of Controller of the machine had been discussed with him, he being the Business
+Head. It is further pleaded that the petitioner Company is a habitual offender and had been
+punished several times for evasion of duty by way of fraud, willful mis-statement,
+suppression of fact and contravention of provisions of law. It is pleaded that the enquiry and
+the order in appeal are mutually exclusive in that while the enquiry undertaken is regarding
+evasion of Central Excise duty by way of fraudulent manipulation of the maximum speed of
+the machine by the petitioner, the order in appeal emanates from the order dated
+27.11.2015 accepting a single declaration dated 23.11.2015 with modification of maximum
+speed of the machine. It is also stated that against the aforesaid order, necessary action is
+being initiated.
+5.      The petitioner had also filed a reply affidavit to the said affidavit-in-opposition of the
+respondents. In the said affidavit, it is pleaded that Section 3A of the Act as well as Rule
+6(6) of the Rules allow modification/alteration of the factors relevant for production and
+maximum packing speed of the machine is to be understood as the actual maximum speed
+at which it can be operated. Allegations of fraud, collusion, making of willful mis-statement
+and suppression of facts are denied as baseless and lacking in foundation. It is asserted that
+the enquiry and the order of the Commissioner of Appeals are on one and the same issue
+and the stand taken to the contrary in the affidavit is plainly misconceived and the issue
+having been decided and the same having not been questioned by filing appropriate appeal
+under Section 35B/35E of the Act, continued enquiry is illegal and the respondents have
+misused the provisions of Sections 11A and 14 of the Act. It is stated that the enquiry is
+being conducted with a pre-conceived notion to harass the petitioner and its officials,
+refusing another physical verification of the machine in order to re-confirm the speed of the
+machine.
+6.      Drawing attention of the Court to the affidavit filed, Dr. Saraf submits that it is not
+disputed by the respondents that the CPU of the machine had been changed. As a
+W P(C) 6065/ 2016
+
+                                                                                              10
+consequence of the change of the CPU, the maximum packing speed of the machine varies
+between 301-750 pouches per minute. The petitioner Company had declared the speed at
+750 pouches per minute even when speed was not relevant for duty purpose, and had
+subsequently changed it to 1000 pouches per minute, when packing speed of the machine
+was relevant, and continued to declare it as such till such time the Company started getting
+complaints about the packing of the pouches.
+7.       Dr. Saraf has submitted that the declaration of maximum packing speed of the
+machine in question having been duly approved by the Assistant Commissioner of Central
+Excise by exercising his powers under Rule 6(2) of the Rules, the impugned enquiry
+conducted in connection with the packing speed of the machine is, ex facie, illegal, arbitrary
+and without jurisdiction. It is further submitted by Dr. Saraf that at no point of time the
+orders passed by the Assistant Commissioner of Central Excise approving the declarations
+with regard to maximum speed of the machine were assailed by availing the remedy of
+appeal under Section 35E of the Act. Further contention of Dr. Saraf is that the issue,
+revolving around which the impugned enquiry had been commenced and is going on for
+nine months prior to the approach made by filing this writ application, had been decided in
+favour of the petitioner by the appellate authority by passing an order dated 30.08.2016
+and, therefore, the impugned enquiry and issuance of summons is nothing but an abuse of
+power provided under Section 14 of the Act. It is also contended by him that Rule 6(6) of
+the Rules enables a manufacturer to make changes in respect of any of the parameters,
+including maximum packing speed of the machine. He submits that there can be no
+justification to keep on summoning high ranking officials of the Company on the very same
+issues in the name of enquiry and the refusal of the respondents to conduct a fresh physical
+verification of the machine, despite offer being made by the petitioner voluntarily to
+determine the maximum packing speed of the machine in order to set at rest any doubt or
+misgivings that the respondents might have had harboured, manifestly demonstrates that
+the enquiry is continued only to harass the petitioner and its senior officials despite the fact
+that the maximum packing speed of the machine had been physically verified and approved
+by the Assistant Commissioner of Central Excise vide order dated 16.05.2015. In support of
+his contentions, Dr. Saraf has placed reliance on the following judgements: Continental
+Foundation Joint Venture Holding, Nathpa, H.P. -Vs- Commissioner of Central Excise,
+Chandigarh-I, reported in (2007) 10 SCC 337, Union of India & Ors. -Vs-Kamlakshi Finance
+Corporation Ltd., reported in 1992 Supp (1) SCC 443, A.S. Corporation -Vs- Union of India,
+reported in (2008) 223 ELT 26, Sri Ganesh Chandra Mrig -Vs- The Superintendent (Prev.),
+Commissionerate of Central Excise, reported in (2010) 110 CLT 526 and a judgement
+W P(C) 6065/ 2016
+
+                                                                                              11
+rendered by the Rajasthan High Court on 12.04.2016 in the case of Dinesh Fragrance -Vs-
+Union of India [WP(C) 3243/2015].
+8.      Mr. B. Sarma, learned Standing counsel, Central Excise and Customs, has submitted
+that the enquiry proceeding was initiated under Section 11A of the Act for short payment of
+about Rs.27 crores of excise duty occasioned by manipulation of maximum packing speed of
+the machine by replacement of the CPU. It is strenuously argued by him that the order
+dated 30.08.2016 passed by the appellate authority cannot be an impediment for
+conducting and carrying on with the enquiry and to issue summons for the purpose of
+bringing the enquiry to its logical end. He has emphasized that the enquiry undertaken is a
+judicial proceeding within the meaning of Section 193 and 228 of the Indian Penal Code,
+1860. He has assiduously argued that the subject-matter of the issue involved in the order
+of the Assistant Commissioner of Central Excise is different as the enquiry is conducted to
+recover duty which is alleged to have been evaded by way of fraud, willful mis-statement,
+suppression of fact and contravention of the provisions of the rules. He has submitted that
+the enquiry is almost complete and unless the Director of the petitioner Company is not
+summoned for the purpose of the enquiry, the same will be vitiated on account of Section
+9AA of the Act. Mr. Sarma places reliance on the following judgements: Union of India &
+Ors. -Vs- Sudarshan Plywood Industries Ltd. & Ors., reported in 1997 (2) GLT 1, Assistant
+Collector of Central Excise, Chandan Nagar, West Bengal -Vs- Dunlop India Ltd. & Ors.,
+reported in (1985) 1 SCC 260, Videocon Industries Limited -Vs- Union of India & Ors.,
+reported in 2008 (Suppl) GLT 780, Ugar Sugar Works Ltd. -Vs- Delhi Administration & Ors.,
+reported in (2001) 3 SCC 635, Tamil Nadu Housing Board -Vs- Collector of Central Excise,
+Madras & Anr., reported in 1995 Supp (1) SCC 50.
+9.      I have considered the submissions advanced by the learned counsel appearing for
+the parties and have perused the materials on record.
+10.     From the stand taken in the affidavit-in-opposition of the respondents, it is clear that
+the respondents had not disputed the fact that the petitioner Company had changed or
+replaced the CPU (interchangeably used as Controller) and that the subject matter of
+enquiry is manipulation of the machine in a fraudulent way. By doing so, the speed of the
+machine is lowered, which has resulted in short payment of Central Excise duty. As a part
+of enquiry, summons had been issued to Officers of the petitioner Company who are either
+directly involved in changing of the machine parts such as the Controller or had consented
+to the declaration of the speed of the machine to the Department, which is less than the
+actual operating speed of the machine.
+W P(C) 6065/ 2016
+
+                                                                                           12
+11.     Rule 6(2) of the Rules provides that when a declaration is made under Rule 6(1), the
+Deputy Commissioner or the Assistant Commissioner of Central Excise, as the case may be,
+may make such enquiry as may be necessary including physical verification and, thereafter,
+approve the declaration including the declaration with regard to maximum packing speed at
+which the machine can be operated for packing of notified goods of various retail sale prices
+and, consequently, determine and pass order concerning the annual capacity of production
+of the factory within 3(three) working days. The second proviso to Sub-rule 6(2) provides
+that if a manufacturer does not receive the approval in respect of his declaration within a
+period of 5(five) working days, the approval shall be deemed to have been granted subject
+to the modifications, if any, which the Deputy Commissioner or the Assistant Commissioner
+of Central Excise, as the case may be, may communicate later on but not later than
+30(thirty) days of filing of the declaration.
+12.     Therefore, the approval of declaration is not automatic or routine and before the
+declaration is approved, the authority can make necessary enquiry including physical
+verification of the machine. The expression used in Sub-rule 6(2) is “maximum packing
+speed at which each of the packing machines available in his factory can be operated for
+packing”. The declarations submitted by the petitioner were approved as and when the
+same were submitted. After the CPU was replaced, a non-commercial trial run was
+undertaken in presence of departmental officer as well as a Government registered
+Chartered Engineer nominated by the Department. According to report submitted, in the
+trial run it had been found that the maximum packing capacity of the machine was 730
+pouches per minute for both 18 gm. and 10 gm. pouch and accordingly, by the order dated
+16.06.2015, the Assistant Commissioner of Central Excise re-determined the maximum
+packing speed in the slab of 301-750 pouches per minute. This position continued until
+order dated 27.11.2015 was passed by the Assistant Commissioner of Central Excise holding
+that maximum packing speed of the machine is 751 pouches per minute and above.
+13.     While passing the aforesaid order dated 27.11.2015, it was noted that there was no
+good reason for physical verification of the machine to determine the maximum packing
+speed at which it could be operated. The aforesaid order was set aside by the Commissioner
+(Appeals) vide his order dated 30.08.2016 on an appeal preferred by the petitioner.
+14.     While passing the said order, the appellate authority had recorded the finding that
+provisions of Rule 6(6) of the Rules do not bar a change in the parameter relating to
+maximum speed and that the provision does not put any pre-condition for a change in the
+parameters declared and approved. The appellate authority went on to say that no
+explanation also is needed for effecting a change in the parameters so long as the change is
+W P(C) 6065/ 2016
+
+                                                                                             13
+genuinely effected and is physically verified by the departmental officer nominated by the
+Assistant Commissioner. It was further held that all the declarations about the maximum
+speed of the machine were on record and nothing was mis-declared. There was no
+concealment of any material fact when the physical trial was conducted and the Officers had
+carried out the verification by applying strict parameters. It was recorded that Chartered
+Engineer’s certificate is an authentic document to verify the speed of the machine as
+discussed in paragraph B42 of the minutes of Tariff Conference held on 28.10.2015 and
+29.10.2015.      It was held that there is no record/evidence of clandestine removal of
+finished products by the appellant during the period from June, 2015 to October, 2015. It
+was also recorded that when the machine was not in a position to pack more than 750
+pouches, the determination of duty for higher quantity is apparently bad in the eye of law
+and does not hold good.
+15.      Thus, a view had been taken by the appellate authority that it is permissible to
+change parameter relating to maximum speed and no explanation is needed for change of
+the parameters. Till date, the aforesaid decision and findings of the appellate authority has
+not been interfered with by any forum.
+16.      It is not in dispute that the petitioner had paid excise duty based on the annual
+capacity production calculated on the basis that the maximum packing speed of the machine
+falls in the category of 301-750 pouches per minute.
+17.      Having regard to the findings recorded by the appellate authority, I am of the
+considered opinion that these findings have a direct bearing on the legality and tenability of
+the enquiry which is initiated solely for the reason of lowering the packing speed of the
+machine as the change of maximum packing speed of the machine was the central issue
+before the appellate authority. If it is permissible to change the parameter of maximum
+speed of the machine, that too, without any explanation, as held by the appellate authority,
+the very edifice of the enquiry has no foundation. In that context, the plea of the
+respondents that the issue of packing quality was not raised earlier pales into insignificance.
+18.       I am unable to subscribe to the contention advanced by Mr. Sarma that the issue
+before the appellate authority was only in respect of legality and validity of the order dated
+27.11.2015 in respect of one single declaration. No doubt, the challenge was in the context
+of the order dated 27.11.2015, but while examining the validity of the said order, the
+appellate authority had taken into consideration the mechanism of the Rules and had
+interpreted the same in a manner which cannot be said to be applicable only in respect of
+the said order dated 27.11.2015. Unless the aforesaid order is interfered with, the
+departmental officers are obliged to follow the principles laid down. If one wing of the
+W P(C) 6065/ 2016
+
+                                                                                                14
+department is allowed to be at the cross-roads permitting to take a view contrary to the one
+taken by a superior authority of another wing, the same, apart from bringing in uncertainty,
+will lead to administrative chaos and, in the process, industrial development will be a
+casualty.
+19.     In Kamlakshi Finance Corporation Ltd. (supra), the Supreme Court had held that in
+disposing of the quasi-judicial issues, revenue officers are bound by the decisions of the
+appellate authorities. The principles of judicial discipline require that the orders of the higher
+appellate authorities should be followed unreservedly by the subordinate authorities. The
+mere fact that the order of the appellate authority is not acceptable to the department
+cannot furnish a ground for not following it unless its operation has been suspended by a
+competent court. It was observed that if the salutary principle is not followed, the result will
+be only undue harassment to assesses and chaos in administration of tax laws.
+20.     The view that I have taken also gains support from the judgement in Dinesh
+Fragrance (supra). In the said case, a Division Bench of the Rajasthan High Court at
+Jodhpur had observed that upon alteration of the pouch packing machine, the
+Superintendent (Technical) had declared that the machine cannot work/pack at any
+condition at a speed of packing more than 700 pouches per minute and, on the teeth of
+such declaration, the Division Bench refused to accept the stand of the respondents that the
+machine was having the capacity to produce 1000 pouches per minute notwithstanding the
+fact that the petitioner therein had, on his own, declared the production speed of the
+packing machine up to 1000 thousand pouch per minute.
+21.     Sri Ganesh Chandra Mrig (supra) was in the context of summoning of the Managing
+Director of the company under Section 14 of the Act for personal appearance after
+conducting search and seizure in the business house of the company and, in the absence of
+any indication in the summons that any particular fact or document, which is material for
+the purpose of enquiry, is in possession of the Managing Director, the Court had observed
+that the authority issuing summons was more interested in the personal appearance of the
+Managing Director than to apply his mind to the books of account, documents seized in
+course of search and seizure and the documents produced thereafter to find out the
+amount/quantum of Excise Duty evaded, if any. It was observed that the Central Excise
+authority should not summon any person in exercise of powers under Section 14 of the Act
+in a mechanical manner. In A.S. Corporation (supra), the Court had recorded a finding that
+each and every detail, which was called for by way of summons, already existed with the
+respondent department, it having seized the same under seizure and that it was not even
+the case of the respondents that they were in possession of any information which would go
+W P(C) 6065/ 2016
+
+                                                                                           15
+to show that the petitioner had withheld any books or documents which were relevant and
+material. In the backdrop of the aforesaid facts, it was observed by the Court that issuance
+of summons was only with a purpose to create record of having made an enquiry or for
+some other collateral purpose which was not necessary to be spelt out at that juncture. In
+the instant case, the Director of the company is summoned, as it appears from the
+pleadings in the affidavit as well as submissions of Mr. Sarma, on the grounds that he was
+instrumental in taking a decision for replacement of the CPU and that the enquiry will be
+vitiated on the touchstone of Section 9AA of the Act. Reliance placed on Section 9AA is
+wholly misconceived as Section 9AA is on the subject of offences by companies and the
+same has no relevance for the purpose of the enquiry in question. From the summons
+issued to him, it is clear that the summons contains more or less the same Schedule as with
+other summons issued to the other officials. In the context of the enquiry, it is not very
+material who had taken the decision to change the CPU. If the maximum speed of the
+machine could not have been altered, on that ground the authority could have proceeded to
+issue show cause notice. However, as noted earlier, the order of the appellate authority had
+made it clear that maximum speed of the machine can be altered, that too, without any
+explanation.
+22.     Continental Foundation (supra) was in the context of the Revenue invoking the
+extended period of limitation under Section 11A of the Act before its amendment with effect
+from 08.04.2011 and, in the context thereof, it was observed by the Supreme Court that
+mere omission to give correct information is not suppression of fact unless it was deliberate
+to stop payment of duty.
+23.     In Sudarshan Plywood Industries Ltd. (supra), relied on by Mr. Sarma, the company
+was resorting to devious method of realizing additional amount from the wholesale buyers
+over and above the price declared to the department through under valuation. Prime quality
+of the plywood was cleared ex-factory under the garb of defective grades paying lower rate
+of duty and subsequently selling them under different nomenclature at higher price. In the
+background of the aforesaid facts, the appellate court had set aside the judgement of the
+Single Judge and had allowed the appeal by the Revenue. The facts in Sudarshan Plywood
+Industries Ltd. (supra) are entirely different from the facts of the instant case. In Dunlop
+India Ltd. (supra), the Supreme Court deprecated the practice of grant of interim orders
+which has the potential of causing public mischief for mere asking. As the instant writ
+petition is taken up for disposal, the decision in Dunlop India Ltd. (supra) will have no
+application in the present case.
+W P(C) 6065/ 2016
+
+                                                                                              16
+24.      In Videocon Industries Limited (supra), the petitioner had questioned the jurisdiction
+of the authority to issue summons under Section 14 read with Section 83, Chapter 5 and 5A
+of the Finance Act, 1994 and to proceed with the matter. This Court had observed that it
+could not be said that the impugned summons had been issued without jurisdiction and,
+also considering that the same had not been issued mala fide and in arbitrary exercise of
+powers, declined to invoke the writ jurisdiction. The factual matrix of Videocon Industries
+Limited (supra), in the considered opinion of the Court, is entirely different from the facts of
+the present case.
+25.      The decision relied upon by Mr. Sarma in the case of Ugar Sugar Works Ltd. (supra)
+with particular reference to paragraph 18 thereof is not applicable to the instant case. The
+Supreme Court had observed that the courts, in exercise of their power of judicial review, do
+not ordinarily interfere with the policy decisions of the executive unless the policy can be
+faulted on grounds of mala fide, unreasonableness, arbitrariness or unfairness etc. The
+Supreme Court further observed that if the policy cannot be faulted on any of these
+grounds, the mere fact that it would hurt business interest of a party, will not justify
+invalidating the policy. It was also highlighted that in tax and economic regulation cases,
+there are good reasons for judicial restraint, if not judicial deference, to judgment of the
+executive. This case also has no application as the Court is not called upon to decide any
+policy issue.
+26.      In view of the above discussions, I am of the considered opinion that the enquiry
+initiated against the petitioner company by letter dated 18.11.2015, in the facts of this case,
+ought not to be permitted to be continued and, therefore, the enquiry initiated in relation to
+packing machine ID No. 131023840 is quashed. The amount of Rs. 2 crores, which was
+deposited by the petitioner, will be adjusted against excise duty payable in future.
+27.      Writ petition is allowed as indicated above. No cost.
+                                                                     JUDGE
+RK
+W P(C) 6065/ 2016
+
+                  17
+W P(C) 6065/ 2016
+
+                  18
+W P(C) 6065/ 2016
+
+

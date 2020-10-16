@@ -1,0 +1,771 @@
+*      IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                               Reserved on: December 04, 2015
+                                            Pronounced on: December 07, 2015
++ (i)                 CRL.M.C.3332/2014 & Crl.M.A.11550/2014
+       RAHUL GANDHI                                                 ....Petitioner
+                              Through:       Dr. A. M. Singhvi, Senior
+                                             Advocate, with Mr. Prashant
+                                             Kumar, Mr. Amit Bhandari and
+                                             Mr. Shikhar Sareen, Advocates
+                      versus
+       DR. SUBRAMANIAN SWAMY & ANR.                            .....Respondents
+                              Through: Mr. Rahul Mehra, Standing
+                                             Counsel (Crl.) with Mr. Sanyog
+                                             Bahadur, Mr. Shekhar, Advocates
+                                             & Mr. Vinod Diwakar, Additional
+                                             Public Prosecutor for respondent-
+                                             State
+                                             Mr. Yatinder Chaudhary, Mr.
+                                             Ishkaran Bhandari and Mr. Ravi
+                                             Raghunath,     Advocates         with
+                                             respondent No.1 in person
++ (ii)         CRL.M.C.3333/2014 & Crl.M.As.11552/2014, 15311/2015
+       SMT. SONIA GANDHI                                            ....Petitioner
+                              Through:       Mr. Kapil Sibal, Senior Advocate,
+                                             with Mr. Devadatt Kamat, Mr.
+                                             Rajesh Inamdar, Mr. Javedur
+                                             Rahman and Mr. Adit Pujari,
+                                             Advocates
+                      versus
+       DR. SUBRAMANIAN SWAMY & ANR.                            .....Respondents
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15                 Page 1 of 27
+
+                              Through:       Mr. Rahul Mehra, Standing
+                                             Counsel (Crl.) with Mr. Sanyog
+                                             Bahadur, Mr. Shekhar, Advocates
+                                             & Mr. Vinod Diwakar, Additional
+                                             Public Prosecutor for respondent-
+                                             State
+                                             Mr. Yatinder Chaudhary, Mr.
+                                             Ishkaran Bhandari and Mr. Ravi
+                                             Raghunath,     Advocates          with
+                                             respondent No.1 in person
++ (iii)        CRL.M.C.3335/2014 & Crl.M.A.11562/2014
+        MOTILAL VORA & ORS.                                        ....Petitioners
+                              Through:       Mr. Harin P. Rawal, Senior
+                                             Advocate, with Mr. Prashant
+                                             Kumar, Mr. Amit Bhandari and
+                                             Mr. Shikhar Sareen, Advocates
+                      versus
+        STATE & ANR.                                           .....Respondents
+                              Through:       Mr. Rahul Mehra, Standing
+                                             Counsel (Crl.) with Mr. Sanyog
+                                             Bahadur, Mr. Shekhar, Advocates
+                                             & Mr. Vinod Diwakar, Additional
+                                             Public Prosecutor for respondent-
+                                             State
+                                             Mr. Yatinder Chaudhary, Mr.
+                                             Ishkaran Bhandari and Mr. Ravi
+                                             Raghunath,     Advocates          with
+                                             respondent No.2 in person
++ (iv)                CRL.M.C.3336/2014 & Crl.M.A.11564/2014
+        SUMAN DUBEY                                                  ....Petitioner
+                              Through:       Mr. R. S. Cheema and Ramesh
+                                             Gupta, Senior Advocates, with Ms.
+                                             Tarannum Cheema, Mr. Shikhar
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15                  Page 2 of 27
+
+                                             Sarin and    Ms.     Hiral     Gupta,
+                                             Advocates
+                      versus
+       DR.SUBRAMANIAN SWAMY & ANR.                             .....Respondents
+                              Through: Mr. Rahul Mehra, Standing
+                                             Counsel (Crl.) with Mr. Sanyog
+                                             Bahadur, Mr. Shekhar, Advocates
+                                             & Mr. Vinod Diwakar, Additional
+                                             Public Prosecutor for respondent-
+                                             State
+                                             Mr. Yatinder Chaudhary, Mr.
+                                             Ishkaran Bhandari and Mr. Ravi
+                                             Raghunath,     Advocates          with
+                                             respondent No.1 in person
++ (v)                 CRL.M.C.2156/2015 & Crl.M.A.7630/2015
+       SAM PITRODA @ SATYANARAYAN GANGARAM
+       PITRODA                                                     ....Petitioner
+                              Through: Mr.R. S. Cheema and Mr. Ramesh
+                                             Gupta, Senior Advocates, with
+                                             Mr.Prashant      Kumar,            Ms.
+                                             Tarannum Cheema, and Mr.
+                                             Shikhar Sareen, Advocates
+                      versus
+       DR.SUBRAMANIAN SWAMY & ANR.                             .....Respondents
+                              Through: Mr. Rahul Mehra, Standing
+                                             Counsel (Crl.) with Mr. Sanyog
+                                             Bahadur, Mr. Shekhar, Advocates
+                                             & Mr. Vinod Diwakar, Additional
+                                             Public Prosecutor for respondent-
+                                             State
+                                             Mr. Yatinder Chaudhary, Mr.
+                                             Ishkaran Bhandari and Mr. Ravi
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15                  Page 3 of 27
+
+                                             Raghunath,     Advocates       with
+                                             respondent No.1 in person
+       CORAM:
+       HON’BLE MR. JUSTICE SUNIL GAUR
+%
+                              JUDGMENT
+1.     Probity of a legendary National Political Party is under scanner in
+these petitions. This case is one of its own kind. The complainant claims
+to be a public spirited person, who wishes to expose cheating, criminal
+breach of trust and criminal misappropriation in high places with a view
+to protect general public interest. In an attempt to do so, recourse to
+criminal law is sought to be made. The complainant, who is a respondent
+herein, is a Parliamentarian, who claims to have been a Member of
+Parliament for five times and his credentials are highlighted in the
+impugned order. The respondent-complainant claims to be champion in
+leading crusade against corruption. This time, he has sought to expose
+cheating, fraud, criminal misappropriation, etc., by Office Bearers of the
+Congress Party who also happen to be the members of a Private
+Company-Young Indian Private Company (hereinafter referred to as Y.I.)
+and major shareholders of Associated Journals Private Limited
+(hereinafter referred to as AJL), which was engaged in publishing of
+newspapers including National Herald, etc..
+2.     On a criminal complaint filed by Dr. Subramanian Swamy
+(hereinafter referred to as respondent/complainant) alleging cheating,
+etc., trial court after recording pre-summoning evidence of the
+complainant-Dr. Subramanian Swamy (CW-1), a Charted Accountant-
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15               Page 4 of 27
+
+M.R.Ventakesh (CW-2), an official from Registrar of Companies-Gulab
+Chand (CW-3) and J. Gopikrishnan (CW-4) associated with the
+newspaper-The Pioneer, vide impugned order of 26th June, 2014 has
+summoned petitioners of the above-captioned five petitions as accused
+No. 1 to 7 for the offences under Sections 403, 406 and 420 read with
+Section 120-B of IPC.
+3.      All the seven accused are petitioners in the above captioned five
+petitions. Accused Nos.1 to 4 are the President, Vice-President, General
+Secretary and Treasurer of the Congress Party, who are also the
+Director/Shareholders of Y.I.. Accused Nos. 3 and 4 are also the
+Directors of AJL. Accused No.3 is also the Chairman of AJL. Accused
+Nos. 5 and 6 are the Directors of Y.I. as well as AJL. Accused No.7 is
+Y.I. having a share capital of `5 lacs only, formed with the objective of
+instilling democratic and secular values in the entire populace.
+4.      Factual background of this case, as highlighted by respondent-
+complainant, already stands noted in detail in the impugned order and
+hence needs no reproduction. The sum and substance of the case set up
+against petitioners/accused is that when AJL had closed the printing and
+publication of newspapers, like National Herald, etc. in the year 2008, it
+owed a huge debt of `90 crores to the Congress Party. Although this debt
+had accumulated over a period of time, but it is pertinent to note that this
+huge unpaid debt was outcome of interest free loans extended by the
+Congress Party to AJL from time to time. It has to be kept in mind that
+AJL was a Public Limited Company, which had immovable assets having
+value of crores of rupees. It is matter of record that Congress Party had
+assigned the huge debt of `90 crores to a Section 25 Company i.e. Young
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15            Page 5 of 27
+
+Indian on receiving a paltry amount of `50 lacs only. For this, the
+Congress Party owes an explanation to its supporters, donors, etc.. It is
+also matter of record that accused No.1-Mrs. Sonia Gandhi and her son-
+Rahul Gandhi, who is accused No.2, owned 38% each of the shares i.e.
+76% of Young Indian Company. The debt which AJL owed to Congress
+Party now stood transferred to Young Indian which was formed in
+November, 2010. Pertinently, in December, 2010, AJL increased its share
+equity by allotting large chunk of its shares to Young Indian in lieu of the
+debt owed to Congress Party which now stood assigned to Young Indian.
+Thus, AJL became a wholly owned company of Y.I. by merely paying
+`50 lacs and in this manner, Y.I. acquired complete control of AJL which
+had real estate assets of at least `2,000 crores in prime areas of New
+Delhi, Lucknow, Bhopal, Mumbai, Indore, Patna, Panchkula and other
+places. According to respondent-complainant, the conservative real estate
+worth of AJL is `5,000/- crores.
+5.     It is the case of respondent-complainant that Y.I. after acquiring
+the control over AJL, declared that it will not publish any newspaper
+including National Herald. Undisputedly, National Herald building is a
+prime property in New Delhi, which was leased out for commercial
+purpose and AJL is receiving rental of `60 lacs per month in respect of
+this property alone. The precise stand of respondent-complainant is that
+accused Nos. 1 and 2 had hatched criminal conspiracy with accused Nos.
+3 to 6, who are their loyalists, to defraud the Congress Party and AJL by
+dubiously forming Y.I. Company to misappropriate the huge assets of
+AJL and petitioners/accused have committed criminal breach of trust
+reposed in the Congress Party as well as AJL and its shareholders.
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15           Page 6 of 27
+
+According to respondent-complainant, the rights of the shareholders of
+AJL and its properties had been dishonestly misappropriated by
+petitioners/accused by conversion of loan of `90 crores odd into equity
+shares in favour of Y.I. and in this dubious manner, the shareholders of
+AJL and the supporters of the Congress Party have been cheated.
+6.     Respondent-complainant maintains that AJL owed `90 crores odd
+to Congress Party in relation to zero interest unsecured loans and AJL had
+no other liability. It is asserted by Respondent-complainant that if the
+assets of AJL had been liquidated, then hundreds of shareholders of AJL
+would have received back sums equivalent to several thousand times the
+amount invested by them originally and the Congress Party would have
+got back the loan with interest, but instead of adopting such a transparent
+course, by dubious means, petitioners have misappropriated the entire
+assets of AJL by gaining effective control over the entire assets of AJL
+and thus, the original shareholders of AJL as well as the
+supporters/donors of Congress Party have been cheated by petitioners.
+7.     The substratum of the pre-summoning evidence led by respondent-
+complainant finds mention in the impugned order. The sequence of
+events has been recapitulated in the impugned order. The factual eight
+steps enumerated in the instant complaint, which gives the gist of this
+complaint, are spelt out as under:-
+      Step 1:     AJL was formally closed and printing of the
+                  newspapers terminated in April 2008.
+      Step 2:     In December 2010, Board of Directors of Young
+                  Indian formally passed a Resolution offering to own
+                  the outstanding debt of AJL of `90 crores. This offer
+                  was accepted by the Chairman and Board of AJL.
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15           Page 7 of 27
+
+      Step 3:     Accused no.1 to 4 as Senior Office Bearers of
+                  Congress Party used their position to provide an
+                  unsecured zero interest of loan of `90 crores.
+      Step 4:     The AJL thereafter held a meeting of their Board and
+                  without reference to the Shareholders resolved that in
+                  lieu of Young Indian owing the debt and for a further
+                  consideration of `50 Lakhs, the entire share equity of
+                  AJL would be transferred to Young Indian. Thus, AJL
+                  became a wholly owned company of Young Indian.
+      Step 5:     Accused no.1 as the President of the Congress Party
+                  alongwith accused no.2, 3 & 4 thereafter, held a
+                  meeting of the Congress Party and decided to write
+                  off the loan from the Party as irrecoverable by falsely
+                  holding that the Net Worth of the Company is
+                  negative.
+      Step 6:     Thus, having possession of the vast Real Estate, the
+                  Young Indian declared through accused no.2 that
+                  Young Indian will not engage in publishing a
+                  newspaper including National Herald as it was
+                  against the declared objective submitted for obtaining
+                  the registration under Section 25 of the Companies
+                  Act.
+      Step 7:     The Memorandum of Association of the AJL bars the
+                  Company from entering into any transaction which is
+                  not for furthering its objective to publish newspapers.
+      Step 8:     National Herald House is a prime property in
+                  Bahadur Shah Zafar Marg and was given by the
+                  Government for the purpose of publishing a
+                  newspaper at concessional rates. However, the Young
+                  Indian now owner of the National Herald House has
+                  opened this property for commercial renting such as
+                  to Multinational Companies and to the Ministry of
+                  External Affairs for its Passport Seva Kendra on rent.
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15              Page 8 of 27
+
+8.     What role has been played by petitioners/accused has been also
+spelt out in the impugned order, which needs no reproduction as the facts
+are not in dispute. To highlight the criminal conspiracy amongst
+petitioners, reliance was placed by respondent-complainant on a chart
+showing inter connection between the office bearers of All India
+Congress Party, Directors of Associated Journal Limited and the
+Directors of Young Indian company. For ready reference, the relied upon
+Chart (Annexure-15) is reproduced as under: -
+       a) Composition of AICC Office Bearers
+           _____________________________________________
+           1                  1                      1         1
+           A1                 A2                     A3        A4
+           President     Vice President         Treasurer   General Secretary
+       b) Members of Board of Directors/ Shareholders of Associated
+           Journals Ltd. (AJL)
+           __________________________________________________
+           1                  1                      1         1              1
+           A2                 A3                     A4        A5             A6
+           (Since             Director          Director   Director Director
+           2008 in            and CMD
+           Control of
+           3,00,000
+           shares)
+       c) Founder Members/Directors of Young Indian, with percentage
+           of shares owned by them.
+           ___________________________________________________
+           1                  1              1                 1     1        1
+           A1                 A2             A3                A4    A5       A6
+           (38%)              (38%) (12%)            (12%)
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15               Page 9 of 27
+
+9.      In the impugned order, trial court has subjected the case of
+respondent-complainant to the test of a prima facie case. By relying upon
+Apex Court’s decision in A.R. Antulay v. Ram Dass (1984) 2 SCC 500
+trial court has concluded that anyone can put the criminal law into motion
+except where the statute enacting or creating an offence indicates to the
+contrary. After adverting to the ingredients of the offence of cheating,
+criminal breach of trust, dishonest misappropriation and criminal
+conspiracy, trial court has concluded as under: -
+             “From the complaint and the evidence led so far it
+      appears that YI was infact created as a sham or a cloak to
+      convert public money to personal use or as a special purpose
+      vehicle for acquiring control over `2000 crores worth of
+      assets of The AJL and since all the accused persons have
+      allegedly acted in consortium with each other to achieve the
+      said nefarious purpose/ design, there are sufficient grounds for
+      proceedings against all of them. It goes without saying that
+      guilt of an accused is determined after trial when the burden of
+      proof is discharged beyond reasonable doubt. This is only the
+      stage of summoning of the accused. When the accused persons
+      appear before the court they shall be at liberty to refute the
+      allegations of the complainant, cross-examine the
+      complainant’s witnesses and to lead evidence in their defence.
+      However, as the complainant has established a prima facie
+      case against the accused u/s 403, 406 and 420 read with
+      section 120B I.P.C. hence, let the accused No 1 to 6 namely
+      Mrs. Sonia Gandhi, Mr. Rahul Gandhi, Sh. Moti Lal Vohra,
+      Sh. Oscar Fernandes, Sh. Suman Dubey and Mr. Sam Pitroda
+      be summoned for 7.08.2014. Let the accused No.7 (Young
+      Indian) be summoned through it’s authorized representative
+      for the same date.”
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15            Page 10 of 27
+
+10.    At the hearing, it was submitted by both the sides that the common
+impugned order in the above captioned five petitions is to be tested on
+identical submissions and so, with the consent of both the sides, these
+petitions were heard together while treating Crl.M.C.3333/2014 to be the
+lead case and after having heard both the sides at length, these petitions
+are being disposed of by this common judgment.
+11.    At the outset, this Court places on record its deep appreciation for
+the able assistance rendered by both the sides to facilitate a proper
+understanding of facts in the light of the evidence led and the contextual
+reference to the judicial precedents.
+12.    To assail the impugned order, vide which petitioners have been
+summoned as accused, precise submissions have been advanced in the
+form of written synopsis, which were supplemented by oral submissions
+and reliance was placed upon various decisions to highlight that upon a
+bare reading of the complaint in question, no criminal offence is prima
+facie made out.
+13.    With much persuasiveness, learned senior counsels for petitioners
+had submitted that none of the ingredients of alleged offences exists.
+Attention of this Court was drawn to the comparative chart filed
+alongwith the written synopsis to highlight as to how the findings
+returned in the impugned order are unsustainable. It was asserted that due
+to historical and emotive bond, money was advanced by the Congress
+Party to AJL from time to time and the objective of the Congress Party as
+well as AJL is to uphold the legacy and tradition of secularism and non-
+alignment. It was pointed out that there is no statutory provision, rule,
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15           Page 11 of 27
+
+regulation or by-law which prohibits disbursement of money to a
+newspaper, which is closely linked to the Congress Party and infact
+Section 13 A of Income Tax Act contemplates “income from other
+sources” in respect of Political Parties, which are run on donations and
+other Political Parties have also invested money in mutual funds, etc..
+Pointed reference was made to Bhartiya Janta Party (for short BJP)
+investing in Canstar Fund.
+14.    It was asserted on behalf of petitioners that constitution of the
+Congress Party permits for formation of a trust to hold immovable
+properties belonging to the Congress Party and there is no allegation that
+petitioners-accused were the trustees of the funds of the Congress Party.
+It was also asserted that Congress Party could have written off the loan of
+`90 crores advanced to AJL, but it had assigned it to Y.I. for `50 lacs,
+which has nothing to do with the immovable property. To assert that there
+is no criminal breach of trust, it was pointed out that in the first place,
+there was no entrustment of any money to Congress Party and so, there is
+no question of any misappropriation or breach of trust as the donations
+received by the Congress Party could have been dealt with in the manner
+it liked. It was asserted that there is no fraudulent misrepresentation as
+AJL had no net worth and was unable to repay the debt to Congress
+Party. Reliance was placed upon Apex Court’s decisions in Central
+Bureau of Investigation v. Duncans Agro Industries Ltd., Calcutta (1996)
+5 SCC 591, Indian Oil Corporation v. NEPC India Ltd. And Others
+(2006) 6 SCC 736 and V.P. Shrivastava v. Indian Explosives Limited and
+Others (2010) 10 SCC 361 to assert that in the absence of any
+entrustment, no criminal misappropriation can be alleged.
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15          Page 12 of 27
+
+15.    It was next submitted on behalf of petitioners that there is no
+violation of any law or breach of any contract/trust in giving of loan to
+AJL. It was pointed out that neither the Representation of the Peoples Act
+nor the Income Tax Act or any other Act prohibits giving of loans by
+Political Party. To maintain that a Political Party can invest in
+commercial ventures, reliance was placed upon a decision of Income Tax
+Tribunal in Bhartiya Janata Party v. Deputy Commissioner of Income
+Tax CIT (2003) 258 ITR 1. It was further submitted that writing off the
+loans by Congress Party is not an illegal act nor there is any breach of
+trust qua the shareholders of AJL. To assert that a shareholder is not the
+owner of the assets belonging to the Company, reliance was placed upon
+Apex Court’s decision in Bacha F. Guzdar, Bombay v. Commissioner of
+Income Tax, Bombay (1955) 1 SCR 876. According to petitioners, it is
+not for the complainant or anybody else to decide that in what manner the
+affairs of AJL had to be managed.
+16.    It is the case of petitioners that there was no fraudulent
+misrepresentation and the control of the assets of AJL rests with the
+Company and there was no dishonest inducement because allotment of
+the majority of equity shares of AJL to Y.I. stands duly approved in the
+AJL’s Extraordinary General Meeting of 21st January, 2011 and in the
+event of winding up of Y.I., which is a Section 25 Company, its assets, if
+any, shall vest in another Section 25 Company. It was pointed out that
+there is nothing on record to indicate that the emoluments were being
+drawn by petitioners as Directors of Y.I. or that the assets of AJL have
+been depleted or that any wrongful loss has been caused to Y.I. nor
+petitioners are filling their personal kitties as Directors of Y.I..
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15                Page 13 of 27
+
+17.     On behalf of petitioners, it was pointed out that Section 403 of IPC
+is applicable in respect of movable properties whereas assets of AJL are
+immovable properties. According to petitioners, there is no evidence to
+indicate misappropriation of any immovable property of AJL or Y.I. or
+that the rental income of AJL has been misappropriated by petitioners.
+Thus, it was submitted that there is neither wrongful gain or loss to AJL
+or Y.I. and no illegal act has been committed by petitioners and so, on a
+plain reading of the complaint in question, it can be certainly said that
+neither the offence of cheating nor of fraudulent or dishonest
+misappropriation is made out. It was thus submitted that in view of the
+dictum of Apex Court in Thermax Limited and Others v. K.M. Johny and
+Others (2011) 13 SCC 412, in the absence of essential ingredients of
+dishonest intention, prosecution of petitioners in the instant complaint is
+wholly untenable.        Reliance was placed upon decisions in State of
+Haryana and Others v. Bhajan Lal and Others 1992 Supp. (1) SCC 335,
+Dhariwal Tobacco Products Limited and Others v. State of Maharashtra
+and Another (2009) 2 SCC 370, Rajiv Thappar and Others v. Madan Lal
+Kapoor (2013) 3 SCC 330 to submit that the stand of petitioners ought to
+be considered while exercising jurisdiction under Section 482 of Cr.P.C.
+as it is manifestly clear that allegations levelled against petitioners, when
+taken on their face value, do not constitute any offence.
+18.     On the issue of locus standi, it was submitted that in a case of
+cheating and misappropriation, victim or the person or entity cheated,
+who complains of wrongful loss, alone can maintain a complaint of
+cheating, misappropriation, etc.. Reliance was placed upon Apex Court’s
+decision in Mohammed Ibrahim & Ors. V. State of Bihar & Anr. (2009) 8
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15              Page 14 of 27
+
+SCC 751 to submit that a third party, who does not claim to be cheated,
+cannot maintain such a complaint. Attention of this Court was drawn to
+Section 39 of Cr.P.C. to point out that for the offences scheduled therein,
+any person can maintain a complaint, but the offences of cheating and
+criminal misappropriation are not there in the said Schedule to Section 39
+of Cr.P.C.. It was thus submitted that unless the necessary mens rea is
+there, such a complaint cannot be proceeded with. It was asserted on
+behalf of petitioners that neither the shareholders of AJL nor any
+supporter/donor of Congress Party or anyone from Y.I. has made any
+complaint and infact, only such persons are competent to file the
+complaint in question and not the respondent-complainant, who has
+malafidely filed the instant complaint. It was submitted that the complaint
+in question proceeds on the basis of unwarranted assumptions and
+presumptions and contains misstatement of facts and so, there is no
+justification to proceed further with the instant complaint.
+19.     It was vehemently contended on behalf of petitioners that no
+inference of criminal conspiracy can be drawn as there is no material on
+record to suggest that Y.I. was formed as a part of criminal conspiracy to
+take over the assets of AJL. It was pointed out that it is a matter of record
+that none of the assets of AJL has been taken over by Y.I. and there was
+no element of cheating in granting or assigning of loan as no unlawful act
+has been done by petitioners to attract any criminality. It was also pointed
+out that rental income accruing to AJL has not been transferred to Y.I. or
+any of its Directors and the incorporation of Y.I. and its objective is not
+incompatible with the revival of AJL and the decision not to publish any
+newspaper cannot attract any criminal liability, as it is for the AJL to
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15            Page 15 of 27
+
+decide whether to revive National Herald or not. The precise stand taken
+on behalf of petitioners that the impugned order smacks of mala fides and
+discloses utter non-application of mind as the necessary ingredients of the
+offences alleged are lacking and so, malicious prosecution of petitioners
+ought to be ended to secure the ends of justice.
+20.    Learned Senior Counsel for the remaining petitioners adopted the
+submissions advanced on behalf of above petitioners and had
+supplemented by asserting that entertaining of the complaint in question
+qua accused-Sam Pitroda and Oscar Fernandes, who reside outside the
+jurisdiction of the trial court, is barred as it is not preceded by an inquiry.
+21.    The submissions advanced on behalf of petitioners were concised
+by Dr. Singhvi, learned Senior Counsel for one of the petitioners, as
+under: -
+       i)      No conversion, appropriation by Y.I. for benefit is possible.
+       ii)     Y.I. is Section 25 Company-barred in law from giving any
+               benefit,    salary,     remuneration,    dividend   etc   to     its
+               shareholders.
+       iii)    All properties owned by AJL remains in ownership of AJL;
+               only shareholders of AJL change.
+       iv)     In law, shareholders of a company do not own properties
+               owned by the company. Company is a separate legal entity.
+               Ownership of shares in company is not ownership of
+               properties of company.
+       v)      Since all properties remain properties of AJL, there is and
+               can be no entrustment.
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15                Page 16 of 27
+
+       vi)     No identifiable or identified person or entity even claims to
+               be deceived or cheated as a victim.
+       vii)    Complainant himself filed the balance sheet of AJL and Y.I.
+               shows;
+               a) Property of AJL remains property of AJL at all times.
+               b) Rent received from these properties is received by AJL
+                   and so shown in balance sheet.
+               c) AJL is a loss making company, admittedly, and hence no
+                   dividend     declared.     So    neither Y.I. nor  accused
+                   shareholder of Y.I. can get any dividend.
+               d) Y.I. balance sheet similarly shows nil income received.
+22.    Finally, it was submitted on behalf of petitioners that by
+entertaining the complaint in question and by passing the impugned
+order, trial court has abused the process of law and so, the instant
+complaint and the impugned order deserves to be quashed.
+23.    Respondent-complainant, who has chosen to argue these petitions
+in person, had submitted at the outset that impugned order suffers from
+no illegality or perversity and that there is due application of mind. It was
+submitted that in the exercise of jurisdiction under Section 482 of
+Cr.P.C., the truthfulness or otherwise of the allegations cannot be gone
+into and the inherent powers are to be exercised with circumspection on
+the basis of the complaint and not by taking into consideration any fresh
+material/documents. To submit so, reliance was placed upon Apex
+Court’s decision in N.Soundaram v. P.K.Pounraj & Anr. 2014 (10) SCC
+616.
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15              Page 17 of 27
+
+24.    Dismissal of these petitions was sought by respondent-complainant
+by submitting that petitioners have alternate remedy to approach the trial
+court while invoking Section 245 of Cr.P.C.. Reliance was placed upon
+Apex Court’s decision in Nupur Talwar v. CBI (2012) 11 SCC 465 to
+submit that it is not essential for trial court to deliver a detailed order
+while issuing the process. It was submitted that sufficient grounds exist
+for summoning petitioners for the offences in question. It was highlighted
+by respondent-complainant as to how interest free loan was questionably
+extended to AJL by Congress Party and was dubiously assigned to Y.I.,
+who had in turn, taken over the Management of AJL and thereby offence
+of cheating, criminal misappropriation has been blatantly committed by
+petitioners, which calls for their prosecution in the instant complaint. It
+was asserted by respondent-complainant that the question of locus standi
+does not arise as the supporters/donors, etc., of Congress Party as well as
+the shareholders of AJL have been blatantly duped and larger public
+interest has been sacrificed which is a serious cause of concern as the
+trust reposed in the Congress Party has been openly breached. It was
+pointed out that with the mala fide intention, Special Purpose Vehicle i.e.
+Y.I. was floated to indirectly acquire the control of AJL without being
+saddled with huge liabilities.
+25.    According to respondent-complainant, the modus operandi of
+petitioners clearly smacks of criminal intent. As per respondent-
+complainant, an extraordinary and unprecedented fraud has been played
+upon the entire nation by petitioners. Respondent-complainant maintained
+that the first step in the commission of the crime in question i.e. criminal
+breach of trust, is assigning of the Deed of Assignment of Loan and the
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15           Page 18 of 27
+
+second pre-mediated step, smacking of criminal conspiracy to commit the
+offences in question, is the extinguishment of the debt of `90 crores odd
+by merely paying `50 lacs and of converting the assigned loan into equity
+shares and thereby acquiring the control over AJL having huge assets of
+`2,000/- crores.
+26.    According to respondent-complainant, Extraordinary General
+Meeting (EGM) was indeed held but with just seven shareholders and no
+proxies and yet, it was said that the quorum was requisite. The legality of
+this EGM is questioned by respondent-complainant by pointing out that
+approximately 99% shares of AJL stood transferred to Y.I. and thus, AJL
+became an almost wholly owned subsidiary of Y.I.. In the written
+synopsis placed on record by respondent-complainant, it has been
+highlighted as to how 761 shareholders of AJL were reduced to minority
+status of 1% with no clue as to what was in store for them and instead of
+reviving the newspaper publication, the assets of AJL are being misused
+to earn commercial profits, which was not the purpose of AJL. In support
+of the stand taken by respondent-complainant, reliance was placed upon
+decisions in Binod Kumar & Ors. v. State of Bihar & Anr; (2014) 10 SCC
+663; N.Soundaram v. P.K.Pounraj & Anr; (2014) 10 SCC 616, Rishipal
+Singh v. State of U.P. (2014) 7 SCC 215; Arvind Kejriwal & Ors. v. Amit
+Sibal & Anr. (2014) 1 JCC 229; Rajiv Thapar & Ors. v. Madan Lal
+Kapoor (2013) 3 SCC 330; Crl.M.C. 4751 of 2013 titled Kamla Rana v.
+NCT State & Ors. decided on 19th May, 2014; Nupur Talwar v. CBI
+(2012) 11 SCC 465; Bhushan Kumar v. NCT (2012) 5 SCC 424;
+Subramanian Swamy v. Manmohan Singh (2012) 3 SCC 64; Centre for
+Public Interest Litigation & Ors. v. Union of India & Ors. (2012) 3 SCC
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15          Page 19 of 27
+
+1, (2012) 1 SCC; Indian Oil Corporation v. NEPC India Ltd. & Ors.
+(2006) 6 SCC 736; M/s Medchl Chemicals & Pharma P.Ltd. v. M/s
+Biological E.Ltd. & Ors. (2000) 3 SCC 269; Rashmi Kumar v. Mahesh
+Kumar Bhada (1997) 2 SCC 397; State of Haryana & Ors. v. Bhajan Lal
+& Ors. (1992) Supp. (1) SCC 335 and Express Newspapers (P) Ltd. v.
+Union of India AIR 1986 SC 872.
+27.     Lastly, it was submitted by respondent-complainant that the
+conspiracy to commit the offence in question is writ large on the face of it
+and so, prosecution of petitioners in the complaint in question is very well
+justified on merits and no case for quashing the instant complaint or the
+impugned order is made out. Thus, dismissal of these petitions is sought.
+28.     The respective stand taken by both the sides needs to be considered
+in view of the fact that in a democratic set up, how a Political Party of
+national stature acts is everybody’s concern. Rather, it is a matter of
+serious concern as allegations of fraud, etc. are levelled against the
+Congress Party, who has ruled the Nation for many decades. Precisely, it
+is the act of Office Bearers of Congress Party and their associates which
+is under scanner in this case.
+29.     Upon evaluating the impugned order on the touchstone of judicial
+precedents and in the light of submissions advanced by both the sides,
+this Court finds that question of locus standi of respondent-complainant
+to maintain the complaint in question pales into insignificance in view of
+the fact that Apex Court in Subramanian Swamy v. Manmohan Singh
+(supra) has reiterated that freedom of a private citizen to proceed against
+the corrupt cannot be restricted. It will not be fair to literally interpret
+Section 39 of Cr.P.C. or to assert that a private citizen is free to proceed
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15            Page 20 of 27
+
+against corrupt public servants but not against a political party when it is
+accused of serious offences of cheating, misappropriation, etc.. In a
+unique case, like the instant one, expanded meaning to the law has to be
+given. In the considered opinion of this Court, the plea of locus standi
+cannot be restricted to typical cases of cheating, misappropriation, etc., as
+here is a case where the act of Office Bearers of Political Party having
+criminal overtones is under scrutiny and so, the challenge to the locus of
+respondent-complainant to maintain the complaint in question is hereby
+repelled.
+30.    Impugned order elaborately notes the facts of this case and
+considers the pre-summoning evidence, the ingredients of the offences
+alleged and after considering the judicial precedents and the submissions
+advanced, concludes that a prima facie case to summon petitioners as
+accused is made out. Upon scrutiny of the impugned order, this Court is
+constrained to note that the presumptive observations made by the trial
+court are uncalled for and such a deeper scrutiny of facts is not required
+to be undertaken at this initial stage and on a bird’s eye view, it is
+required to be seen whether a prima facie case to summon petitioners as
+accused is made out or not. Such a deep scrutiny of facts is required at
+the charge stage and not at the summoning stage.
+31.    In the instant case, it cannot be disputed that the Office Bearers of
+the Congress Party are the trustees of the funds belonging to the Party. No
+doubt, a Political Party can have income from other sources as well and
+can invest money in mutual funds, etc., to augment its resources.
+However, it has to be kept in mind that the allegations against the Office
+Bearers of the Congress Party are of siphoning off the party funds in a
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15            Page 21 of 27
+
+clandestine manner. The impropriety of extending interest free loans to a
+separate legal entity i.e. AJL, which is a Public Limited Company, by the
+Congress Party is a matter of concern in a democratic set up, particularly,
+when the source of Congress Party’s fund is largely from donations given
+by public and so, any citizen can legitimately question the siphoning off
+funds by Political Party. What crops up in the mind of a prudent person is
+as to where was the need of extending interest free loans to a Public
+Limited Company engaged in a commercial venture of publishing
+newspapers.
+32.    Considering the fact that AJL has sizeable assets of `2000 crores, it
+needs to be explained by petitioners as to what was the need to assign the
+huge debt of `90 crores when this debt could have been easily liquidated
+by AJL from its sizeable assets. Even writing off such a huge debt by the
+Congress Party can legitimately attract allegations of cheating, fraud, etc..
+Petitioners had gone step further in conspiring to get this huge debt
+assigned to a Special Purpose Vehicle i.e. Y.I. and thereafter, to hijack
+AJL via Y.I.. Such grave allegations levelled against petitioners cannot
+be brushed aside lightly by relying upon judicial precedents cited, to
+conclude that the ingredients of the criminal offences alleged are lacking.
+To say the least, to do so would be preposterous. Such a prima facie view
+is being taken in view of the fact that the assignment of the huge debt by
+Congress Party to Y.I. was for a paltry sum of `50 lacs. This is certainly
+questionable and justifiably attracts the allegations of cheating,
+misappropriation, criminal breach of trust, etc.. Such a view is being
+taken as it needs to be explained before the trial court as to how the net
+worth of AJL can be negative when it has assets worth crores of rupees. It
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15           Page 22 of 27
+
+also crops up in the mind of a prudent person as to why interest free loan
+was assigned and why it was not written off. In any case, writing off
+such a huge debt by a legendry Political Party is indeed questionable.
+Instead of adopting such a questionable course, what was done by the
+Congress Party is more questionable. It also needs to be answered as to
+why the genuine shareholders were marginalized in the Extraordinary
+General Meeting, which was attended by just seven shareholders. Such a
+questionable conduct of petitioners certainly invites allegations of
+committing the offences for which petitioners have been summoned. Is it
+not criminal misappropriation of Congress Party’s funds? This aspect
+needs to be addressed after respondent-complainant is cross-examined at
+the pre-charge stage. It also needs to be examined at pre-charge stage as
+to whether lacs of citizens who had donated to the Congress Party felt
+cheated by assignment of such a huge debt to Y.I. who was managed by
+none others than petitioners, who were Office Bearers of Congress Party
+as well as Directors of Y.I.. Not only this, the main persons, who were
+instrumental in allegedly siphoning off political funds were the recipients
+of the assignment of the huge debt by the Congress Party and they were
+the same persons, who had clandestinely acquired the control of AJL. All
+this smacks of criminality. What species of criminal offence is made out
+is not required to be seen at this initial stage.
+33.    In all fairness to petitioners, it needs to be noted that subtle factual
+inaccuracies in the stand taken by respondent-complainant were pointed
+out, but this Court finds that the so-called inaccuracies pointed out do not
+substantially impact upon the substratum of the case set up against
+petitioners as it is immaterial as to whether the existing share equity was
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15              Page 23 of 27
+
+taken over by Y.I. or fresh shares were floated to marginalize the existing
+shareholders and without any public issue of the fresh shares floated, they
+were allotted to Y.I.. Rather, this is more questionable. At this stage, it
+would not be worthwhile to consider as to whether a share holder owes
+the assets of the company or not, because more than 90% of the shares
+were acquired by Y.I. in a questionable manner.
+34.     Considering the role played by petitioners-Sam Pitroda and Oscar
+Fernandes, I find that hyper-technical objections to their summoning on
+the premise that they reside outside the territorial jurisdiction of the trial
+court and so, their summoning ought to be preceded by an inquiry, does
+not carry much substance. The sum and substance of the allegations
+levelled against petitioners cannot be brushed aside by merely saying that
+at best it is a case of takeover of AJL and the remedy lies in invoking the
+provisions of the Company Act. Upon reading the complaint as a whole,
+it emerges that the transactions of the Congress Party with AJL via Y.I.
+are not a mere commercial transactions as these transactions legitimately
+attract    the    allegations     of    cheating,     fraud, breach  of    trust,
+misappropriation, etc.
+35.     During the course of hearing, an apprehension was expressed by
+respondent-complainant that since petitioners have acquired full control
+of AJL, therefore, the day is not far away when petitioners would
+liquidate the assets of AJL by converting Y.I., a Charitable Company,
+into any other kind of company as Section 8 of the Companies Act, 2013
+now permits adoption of such a course. This was strongly refuted by
+learned senior counsel for petitioners by submitting that this is beyond the
+purview of the complaint and so, this cannot be considered in these
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15               Page 24 of 27
+
+proceedings. Certainly, this aspect cannot be considered in these
+proceedings, but it is indeed a cause of concern, which needs to be
+addressed if any upright citizen seeks to explore this aspect in the
+background of this case by having recourse to appropriate forum. This
+aspect is left open, without expressing any opinion, lest it may prejudice
+petitioners.
+36.    This Court has taken notice of the submissions advanced on behalf
+of petitioners and is constrained to observe that legal jugglery of words
+does not and cannot persuade this Court to opine at this initial stage that
+the allegations made in the complaint in question do not make out a
+prima facie case to summon petitioners. As already noticed above, the
+submissions now advanced are infact required to be considered at the
+charge stage, as by then, after cross-examination of respondent-
+complainant, full baked facts would come to the fore. At present, the facts
+are half baked in the sense that one side of the picture is emerging but
+upon taking the case of respondent-complainant on its face value, it
+cannot be prima facie said that the ingredients of the offences alleged are
+lacking. It needs no reiteration that this is not the stage to even prima
+facie opine that the ingredients of any of the alleged offences exist to
+justify putting petitioners on trial or not. Any observation made in this
+regard by the trial court or this Court shall have no bearing when the case
+of petitioners is considered at the charge stage.
+37.    Apex Court in N. Soundaram v. P.K. Pounraj and Another (2014)
+10 SCC 616 has reiterated the principles governing the inherent
+jurisdiction under Section 482 of Cr.P.C. by reminding the Courts that
+this power has to be exercised sparingly and cautiously to prevent abuse
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15           Page 25 of 27
+
+of process of the court and to secure the ends of justice while cautioning
+that inherent powers should not be exercised to stifle a legitimate
+prosecution and High Courts should refrain from giving a prima facie
+opinion at the initial stage unless there are compelling reasons to do so, as
+the case set up has to be considered as it is, without adding or subtracting
+anything to it. Applying the afore-noted parameters to the instant case,
+this Court finds that the ingredients of the offences alleged are not lacking
+and sufficient ground to proceed against petitioners certainly exists. No
+mala fides can be alleged against respondent-complainant nor can it be
+said that the summoning of petitioners is an abuse of process of the court.
+38.     This Court is of the considered view that the gravity of the
+allegations levelled against petitioners has a fraudulent flavour involving
+a national Political Party and so, serious imputations smacking of
+criminality levelled against petitioners need to be properly looked into.
+39.     After having considered the entire case in its proper perspective,
+this Court finds no hesitation to put it on record that the modus operandi
+adopted by petitioners in taking control of AJL via Special Purpose
+Vehicle i.e. Y.I., particularly, when the main persons in Congress Party,
+AJL and Y.I. are the same, evidences a criminal intent. Whether it is
+cheating, criminal misappropriation or criminal breach of trust is not
+required to be spelt out at this nascent stage. In any case, by no stretch of
+imagination, it can be said that no case for summoning petitioners as
+accused in the complaint in question is made out. Questionable conduct
+of petitioners needs to be properly examined at the charge stage to find
+out the truth and so, these criminal proceedings cannot be thwarted at this
+initial stage. Such a view is being formed on a bird’s eye view of the
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15             Page 26 of 27
+
+whole case and the observations in the impugned order of there being a
+prima facie case have to be read in the context of there being sufficient
+grounds for summoning petitioners.
+40.    Without casting any reflection on the merits of this case and while
+leaving the larger questions raised in these petitions open, to be
+considered at the charge-stage, these petitions and the pending
+applications are dismissed with afore-noted clarification.
+                                                      (SUNIL GAUR)
+                                                         JUDGE
+DECEMBER 07, 2015
+sk
+Crl.M.Cs.3332/14, 3333/14, 3335/14, 3336/14 & 2156/15          Page 27 of 27
+
+

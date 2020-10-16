@@ -1,0 +1,803 @@
+                                                                            REPORTABLE
+                                     IN THE SUPREME COURT OF INDIA
+                                      CIVIL APPELLATE JURISDICTION
+                                  CIVIL APPEAL NO.        3972        OF 2019
+                       (Arising out of Special Leave Petition (Civil) No.1550 of 2018)
+                    Bharat Broadband Network Limited                  … Appellant
+                                            Versus
+                    United Telecoms Limited                           … Respondent
+                                                     WITH
+                                  CIVIL APPEAL NO.       3973         OF 2019
+                       (Arising out of Special Leave Petition (Civil) No.1644 of 2018)
+                                                 JUDGMENT
+                    R.F. NARIMAN, J.
+                    1.    Leave granted.
+                    2.     The present appeals raise an interesting question as to the
+                    interpretation of Section 12(5) of the Arbitration and Conciliation Act,
+                    1996 [“Act”].
+                    3.    The appellant, Bharat Broadband Network Ltd. [“BBNL”], had
+                    floated a tender dated 05.08.2013 inviting bids for a turnkey project for
+Signature Not Verified
+                    supply, installation, commissioning, and maintenance of GPON
+Digitally signed by R
+NATARAJAN
+Date: 2019.04.16
+16:29:32 IST
+Reason:
+                    equipment and solar power equipment. The respondent was the
+                                                                                            1
+
+successful L1 bidder. The appellant issued an Advance Purchase
+Order [“APO”] dated 30.09.2014. Clause III.20.1 of the General
+(Commercial) Conditions of Contract [“GCC”] provides for arbitration.
+The said clause reads as under:
+      “III.20 ARBITRATION
+      III.20.1 In the event of any question, dispute or difference
+      arising under the agreement or in connection therewith
+      (except as to the matters, the decision to which is
+      specifically provided under this agreement), the same
+      shall be referred to the sole arbitration of the CMD, BBNL
+      or in case his designation is changed or his office is
+      abolished, then in such cases to the sole arbitration of
+      the officer for the time being entrusted (whether in
+      addition to his own duties or otherwise) with the functions
+      of the CMD, BBNL or by whatever designation such an
+      officer may be called (hereinafter referred to as the said
+      officer), and if the CMD or the said officer is unable or
+      willing to act as such, then to the sole arbitration of some
+      other person appointed by the CMD or the said officer.
+      The agreement to appoint an arbitrator will be in
+      accordance with the Arbitration and Conciliation Act
+      1996. There will be no object to any such appointment
+      on the ground that the arbitrator is a Government
+      Servant or that he has to deal with the matter to which
+      the agreement relates or that in the course of his duties
+      as a Government Servant/PSU Employee he has
+      expressed his views on all or any of the matters in
+      dispute. The award of the arbitrator shall be final and
+      binding on both the parties to the agreement. In the
+      event of such an arbitrator to whom the matter is
+      originally referred, being transferred or vacating his office
+      or being unable to act for any reason whatsoever, the
+      CMD, BBNL or the said officer shall appoint another
+      person to act as an arbitrator in accordance with terms of
+      the agreement and the person so appointed shall be
+      entitled to proceed from the stage at which it was left out
+      by his predecessors.”
+                                                                    2
+
+4.     Since disputes and differences arose between the parties, the
+respondent, by its letter dated 03.01.2017, invoked the aforesaid
+arbitration clause and called upon the appellant’s Chairman and
+Managing Director to appoint an independent and impartial arbitrator
+for adjudication of disputes which arose out of the aforesaid APO dated
+30.09.2014. By a letter dated 17.01.2017, the Chairman and Managing
+Director of the appellant, in terms of the arbitration clause contained in
+the GCC, nominated one Shri K.H. Khan as sole arbitrator to
+adjudicate and determine disputes that had arisen between the parties.
+He also made it clear that the parties would be at liberty to file claims
+and counter-claims before the aforesaid sole arbitrator.
+5.     On 03.07.2017, this Court, by its judgment in TRF Ltd. v. Energo
+Engineering Projects Ltd., (2017) 8 SCC 377 [“TRF Ltd.”], held that
+since a Managing Director of a company which was one of the parties
+to the arbitration, was himself ineligible to act as arbitrator, such
+ineligible person could not appoint an arbitrator, and any such
+appointment would have to be held to be null and void.
+6.     Given the aforesaid judgment, the appellant itself having
+appointed the aforesaid sole arbitrator, referred to the aforesaid
+judgment, and stated that being a declaration of law, appointments of
+                                                                         3
+
+arbitrators made prior to the judgment are not saved. Thus, the prayer
+before the sole arbitrator was that since he is de jure unable to perform
+his function as arbitrator, he should withdraw from the proceedings to
+allow the parties to approach the High Court for appointment of a
+substitute arbitrator in his place. By an order dated 21.10.2017, Shri
+Khan rejected the appellant’s application after hearing both sides,
+without giving any reasons therefor. This led to a petition being filed by
+the appellant before the High Court of Delhi dated 28.10.2017 under
+Sections 14 and 15 of the Act to state that the arbitrator has become
+de jure incapable of acting as such and that a substitute arbitrator be
+appointed in his place. By the impugned judgment dated 22.11.2017,
+this petition was rejected, stating that the very person who appointed
+the arbitrator is estopped from raising a plea that such arbitrator cannot
+be appointed after participating in the proceedings. In any event, under
+the proviso to Section 12(5) of the Act, inasmuch as the appellant itself
+has appointed Shri Khan, and the respondent has filed a statement of
+claim without any reservation, also in writing, the same would amount
+to an express agreement in writing, which would, therefore, amount to
+a waiver of the applicability of Section 12(5) of the Act.
+7.     Shri Vikramjit Banerjee, learned Additional Solicitor General
+appearing on behalf of the appellant, has relied upon Sections 12 to 14
+                                                                         4
+
+of the Act, as also the judgment in TRF Ltd. (supra), and has argued
+that the appointment of Shri Khan goes to eligibility to be appointed as
+an arbitrator, as a result of which the appointment made is void ab
+initio. Further, the judgment in TRF Ltd. (supra) is declaratory of the
+law and would apply to the facts of this case. Further, since there is no
+express agreement in writing between the parties subsequent to
+disputes having arisen between them that Shri Khan’s appointment is
+agreed upon, the proviso will not be applicable in the present case.
+8.      Shri Sharad Yadav, learned Senior Advocate appearing on behalf
+of the respondent, has supported the reasoning of the impugned
+judgment and has added that Section 12(4) makes it clear that a party
+may challenge the appointment of an arbitrator appointed by it only for
+reasons of which it became aware after the appointment has been
+made. In the facts of the present case, since Section 12(5) and the
+Seventh Schedule were on the statute book since 23.10.2015, the
+appellant was fully aware that the Managing Director of the appellant
+would be hit by Item 5 of the Seventh Schedule, and consequently, any
+appointment made by him would be null and void. This being so,
+Section 12(4) acts as a bar to the petition filed under Sections 14 and
+15 by the appellant. Further, Section 13(2) makes it clear that a party
+who intends to challenge the appointment of the arbitrator, shall, within
+                                                                        5
+
+15 days after becoming aware of circumstances referred to in Section
+12(3), send a written statement of reasons for the challenge to the
+arbitrator. Admittedly, this has not been done within the time frame
+stipulated by the said Section, as a result of which, the aforesaid
+petition filed by the appellant should be dismissed. Coming to the
+proviso to Section 12(5), Shri Yadav argued that “express agreement in
+writing” in the proviso to Section 12(5) is clearly met in the facts of the
+present case. This need not be in the form of a formal agreement
+between the parties, but can be culled out, as was rightly held by the
+High Court, from the appointment letter issued by appellant as well as
+the statement of claim filed by the respondent before the arbitrator
+leading, therefore, to a waiver of the applicability of Section 12(5).
+9.      Pursuant to the 246th Law Commission Report, important
+changes were made in the Act. Insofar as the facts of this case are
+concerned, sub-section (8) of Section 11 was substituted for the earlier
+Section 11(8)1, sub-section (1) of Section 12 was substituted for the
+1
+  Subs. by Act 3 of 2016, S. 6(iv) (w.r.e.f. 23.10.2015). Prior to substitution, Section 11(8) read as:
+        “11. Appointment of arbitrators.—
+        (8) The Chief Justice or the person or institution designated by him, in appointing an
+      arbitrator, shall have due regard to—
+                  (a) any qualifications required of the arbitrator by the agreement of the parties; and
+                  (b) other considerations as are likely to secure the appointment of an independent
+             and impartial arbitrator.”
+                                                                                                        6
+
+earlier Section 12(1)2 and a new Section 12(5)3 was added after
+Section 12(4). The opening lines of Section 14(1) 4 were also
+substituted.
+10.       Post-amendment, the aforesaid Sections are set out, as also
+Section 4 of the Act, as follows:
+            “4. Waiver of right to object.—A party who knows that
+            —
+                   (a) any provision of this Part from which the
+                   parties may derogate, or
+                   (b) any requirement under the arbitration
+                   agreement,
+            has not been complied with and yet proceeds with the
+            arbitration without stating his objection to such non-
+            compliance without undue delay or, if a time-limit is
+            provided for stating that objection, within that period of
+            time, shall be deemed to have waived his right to so
+            object.”
+            “11. Appointment of arbitrators.—
+            xxx xxx xxx
+            (8) The Supreme Court or, as the case may be, the High
+            Court or the person or institution designated by such
+            Court, before appointing an arbitrator, shall seek a
+            disclosure in writing from the prospective arbitrator in
+            terms of sub-section (1) of Section 12, and have due
+            regard to—
+                   (a) any qualifications required for the arbitrator
+                   by the agreement of the parties; and
+2
+  Subs. by Act 3 of 2016, S. 8(i) (w.r.e.f. 23.10.2015). Prior to substitution, Section 12(1) read as:
+          “12. Grounds for challenge.—(1) When a person is approached in connection with his
+        possible appointment as an arbitrator, he shall disclose in writing any circumstances likely to
+        give rise to justifiable doubts as to his independence or impartiality.”
+3
+  Ins. by Act 3 of 2016, S. 8(ii) (w.r.e.f. 23.10.2015).
+4
+  Subs. by Act 3 of 2016, S. 9 (w.r.e.f. 23.10.2015). Prior to substitution, Section 14(1) read as:
+          “14. Failure or impossibility to act.—(1) The mandate of an arbitrator shall terminate if—”
+                                                                                                       7
+
+     (b) the contents of the disclosure and other
+     considerations as are likely to secure the
+     appointment of an independent and impartial
+     arbitrator.
+xxx xxx xxx ”
+“12. Grounds for challenge.—(1) When a person is
+approached in connection with his possible appointment
+as an arbitrator, he shall disclose in writing any
+circumstances,—
+     (a) such as the existence either direct or
+     indirect, of any past or present relationship with
+     or interest in any of the parties or in relation to
+     the subject-matter in dispute, whether financial,
+     business, professional or other kind, which is
+     likely to give rise to justifiable doubts as to his
+     independence or impartiality; and
+     (b) which are likely to affect his ability to devote
+     sufficient time to the arbitration and in particular
+     his ability to complete the entire arbitration
+     within a period of twelve months.
+Explanation 1.—The grounds stated in the Fifth
+Schedule shall guide in determining whether
+circumstances exist which give rise to justifiable doubts
+as to the independence or impartiality of an arbitrator.
+Explanation 2.—The disclosure shall be made by such
+person in the form specified in the Sixth Schedule.
+(2) An arbitrator, from the time of his appointment and
+throughout the arbitral proceedings, shall, without delay,
+disclose to the parties in writing any circumstances
+referred to in sub-section (1) unless they have already
+been informed of them by him.
+(3) An arbitrator may be challenged only if—
+     (a) circumstances exist that give rise to
+     justifiable doubts as to his independence or
+     impartiality, or
+     (b) he does not possess the qualifications
+     agreed to by the parties.
+(4) A party may challenge an arbitrator appointed by him,
+or in whose appointment he has participated, only for
+                                                           8
+
+reasons of which he becomes aware after the
+appointment has been made.
+(5) Notwithstanding any prior agreement to the contrary,
+any person whose relationship, with the parties or
+counsel or the subject-matter of the dispute, falls under
+any of the categories specified in the Seventh Schedule
+shall be ineligible to be appointed as an arbitrator:
+Provided that parties may, subsequent to disputes
+having arisen between them, waive the applicability of
+this sub-section by an express agreement in writing.”
+“13. Challenge procedure.—(1) Subject to sub-section
+(4), the parties are free to agree on a procedure for
+challenging an arbitrator.
+(2) Failing any agreement referred to in sub-section (1),
+a party who intends to challenge an arbitrator shall,
+within fifteen days after becoming aware of the
+constitution of the arbitral tribunal or after becoming
+aware of any circumstances referred to in sub-section (3)
+of Section 12, send a written statement of the reasons
+for the challenge to the arbitral tribunal.
+(3) Unless the arbitrator challenged under sub-section
+(2) withdraws from his office or the other party agrees to
+the challenge, the arbitral tribunal shall decide on the
+challenge.
+(4) If a challenge under any procedure agreed upon by
+the parties or under the procedure under sub-section (2)
+is not successful, the arbitral tribunal shall continue the
+arbitral proceedings and make an arbitral award.
+(5) Where an arbitral award is made under sub-section
+(4), the party challenging the arbitrator may make an
+application for setting aside such an arbitral award in
+accordance with Section 34.
+(6) Where an arbitral award is set aside on an application
+made under sub-section (5), the Court may decide as to
+whether the arbitrator who is challenged is entitled to any
+fees.”
+                                                            9
+
+       “14. Failure or impossibility to act.—(1) The mandate
+       of an arbitrator shall terminate and he shall be
+       substituted by another arbitrator, if—
+             (a) he becomes de jure or de facto unable to
+             perform his functions or for other reasons fails
+             to act without undue delay; and
+             (b) he withdraws from his office or the parties
+             agree to the termination of his mandate.
+       (2) If a controversy remains concerning any of the
+       grounds referred to in clause (a) of sub-section (1), a
+       party may, unless otherwise agreed by the parties, apply
+       to the Court to decide on the termination of the mandate.
+       (3) If, under this section or sub-section (3) of Section 13,
+       an arbitrator withdraws from his office or a party agrees
+       to the termination of the mandate of an arbitrator, it shall
+       not imply acceptance of the validity of any ground
+       referred to in this Section or sub-section (3) of Section
+       12.”
+11.   Section 12(5) has been earlier dealt with in three Supreme Court
+judgments. In Voestalpine Schienen GmbH v. Delhi Metro Rail
+Corporation Ltd., (2017) 4 SCC 665, this Court went into the
+recommendations of the aforesaid Law Commission Report, and
+referred in great detail to the law before the amendment made in
+Section 12 and then held:
+       “23. It also cannot be denied that the Seventh Schedule
+       is based on IBA guidelines which are clearly regarded as
+       a representation of international based practices and are
+       based on statutes, case law and juristic opinion from a
+       cross-section on jurisdiction. It is so mentioned in the
+       guidelines itself.”
+       xxx xxx xxx
+       “25. Section 12 has been amended with the objective to
+       induce neutrality of arbitrators viz. their independence
+                                                                    10
+
+        and impartiality. The amended provision is enacted to
+        identify the “circumstances” which give rise to “justifiable
+        doubts” about the independence or impartiality of the
+        arbitrator. If any of those circumstances as mentioned
+        therein exists, it will give rise to justifiable apprehension
+        of bias. The Fifth Schedule to the Act enumerates the
+        grounds which may give rise to justifiable doubts of this
+        nature. Likewise, the Seventh Schedule mentions those
+        circumstances which would attract the provisions of sub-
+        section (5) of Section 12 and nullify any prior agreement
+        to the contrary. In the context of this case, it is relevant to
+        mention that only if an arbitrator is an employee, a
+        consultant, an advisor or has any past or present
+        business relationship with a party, he is rendered
+        ineligible to act as an arbitrator. Likewise, that person is
+        treated as incompetent to perform the role of arbitrator,
+        who is a manager, director or part of the management or
+        has a single controlling influence in an affiliate of one of
+        the parties if the affiliate is directly involved in the matters
+        in dispute in the arbitration. Likewise, persons who
+        regularly advised the appointing party or affiliate of the
+        appointing party are incapacitated. A comprehensive list
+        is enumerated in Schedule 5 and Schedule 7 and
+        admittedly the persons empanelled by the respondent
+        are not covered by any of the items in the said list.”
+12.   In HRD Corporation v. GAIL (India) Ltd., (2018) 12 SCC 471,
+this Court, after setting out the amendments made in Section 12 and
+the Fifth, Sixth, and Seventh Schedules to the Act, held as follows:
+        “12. After the 2016 Amendment Act, a dichotomy is made
+        by the Act between persons who become “ineligible” to
+        be appointed as arbitrators, and persons about whom
+        justifiable doubts exist as to their independence or
+        impartiality. Since ineligibility goes to the root of the
+        appointment, Section 12(5) read with the Seventh
+        Schedule makes it clear that if the arbitrator falls in any
+        one of the categories specified in the Seventh Schedule,
+        he becomes “ineligible” to act as arbitrator. Once he
+                                                                         11
+
+becomes ineligible, it is clear that, under Section 14(1)
+(a), he then becomes de jure unable to perform his
+functions inasmuch as, in law, he is regarded as
+“ineligible”. In order to determine whether an arbitrator is
+de jure unable to perform his functions, it is not
+necessary to go to the Arbitral Tribunal under Section 13.
+Since such a person would lack inherent jurisdiction to
+proceed any further, an application may be filed under
+Section 14(2) to the Court to decide on the termination of
+his/her mandate on this ground. As opposed to this, in a
+challenge where grounds stated in the Fifth Schedule are
+disclosed, which give rise to justifiable doubts as to the
+arbitrator’s independence or impartiality, such doubts as
+to independence or impartiality have to be determined as
+a matter of fact in the facts of the particular challenge by
+the Arbitral Tribunal under Section 13. If a challenge is
+not successful, and the Arbitral Tribunal decides that
+there are no justifiable doubts as to the independence or
+impartiality of the arbitrator/arbitrators, the Tribunal must
+then continue the arbitral proceedings under Section
+13(4) and make an award. It is only after such award is
+made, that the party challenging the arbitrator’s
+appointment on grounds contained in the Fifth Schedule
+may make an application for setting aside the arbitral
+award in accordance with Section 34 on the aforesaid
+grounds. It is clear, therefore, that any challenge
+contained in the Fifth Schedule against the appointment
+of Justice Doabia and Justice Lahoti cannot be gone into
+at this stage, but will be gone into only after the Arbitral
+Tribunal has given an award. Therefore, we express no
+opinion on items contained in the Fifth Schedule under
+which the appellant may challenge the appointment of
+either arbitrator. They will be free to do so only after an
+award is rendered by the Tribunal.”
+xxx xxx xxx
+“14. The enumeration of grounds given in the Fifth and
+Seventh Schedules have been taken from the IBA
+Guidelines, particularly from the Red and Orange Lists
+thereof. The aforesaid guidelines consist of three lists.
+The Red List, consisting of non-waivable and waivable
+guidelines, covers situations which are “more serious”
+                                                              12
+
+       and “serious”, the “more serious” objections being non-
+       waivable. The Orange List, on the other hand, is a list of
+       situations that may give rise to doubts as to the
+       arbitrator’s impartiality or independence, as a
+       consequence of which the arbitrator has a duty to
+       disclose such situations. The Green List is a list of
+       situations where no actual conflict of interest exists from
+       an objective point of view, as a result of which the
+       arbitrator has no duty of disclosure. These Guidelines
+       were first introduced in the year 2004 and have
+       thereafter been amended, after seeing the experience of
+       arbitration worldwide. In Part 1 thereof, general
+       standards regarding impartiality, independence and
+       disclosure are set out.”
+       xxx xxx xxx
+       “17. It will be noticed that Items 1 to 19 of the Fifth
+       Schedule are identical with the aforesaid items in the
+       Seventh Schedule. The only reason that these items also
+       appear in the Fifth Schedule is for purposes of disclosure
+       by the arbitrator, as unless the proposed arbitrator
+       discloses in writing his involvement in terms of Items 1 to
+       34 of the Fifth Schedule, such disclosure would be
+       lacking, in which case the parties would be put at a
+       disadvantage as such information is often within the
+       personal knowledge of the arbitrator only. It is for this
+       reason that it appears that Items 1 to 19 also appear in
+       the Fifth Schedule.”
+13.   In TRF Ltd. (supra), this Court referred to Section 12(5) of the
+Act in the context of appointment of an arbitrator by a Managing
+Director of a corporation, who became ineligible to act as arbitrator
+under the Seventh Schedule. This Court held:
+       “50. First, we shall deal with Clause (d). There is no
+       quarrel that by virtue of Section 12(5) of the Act, if any
+       person who falls under any of the categories specified in
+       the Seventh Schedule shall be ineligible to be appointed
+       as the arbitrator. There is no doubt and cannot be, for the
+                                                                    13
+
+language employed in the Seventh Schedule, the
+Managing Director of the Corporation has become
+ineligible by operation of law. It is the stand of the
+learned Senior Counsel for the appellant that once the
+Managing Director becomes ineligible, he also becomes
+ineligible to nominate. Refuting the said stand, it is
+canvassed by the learned Senior Counsel for the
+respondent that the ineligibility cannot extend to a
+nominee if he is not from the Corporation and more so
+when there is apposite and requisite disclosure. We think
+it appropriate to make it clear that in the case at hand we
+are neither concerned with the disclosure nor objectivity
+nor impartiality nor any such other circumstance. We are
+singularly concerned with the issue, whether the
+Managing Director, after becoming ineligible by operation
+of law, is he still eligible to nominate an arbitrator. At the
+cost of repetition, we may state that when there are two
+parties, one may nominate an arbitrator and the other
+may appoint another. That is altogether a different
+situation. If there is a clause requiring the parties to
+nominate their respective arbitrator, their authority to
+nominate cannot be questioned. What really in that
+circumstance can be called in question is the procedural
+compliance and the eligibility of their arbitrator depending
+upon the norms provided under the Act and the
+Schedules appended thereto. But, here is a case where
+the Managing Director is the “named sole arbitrator” and
+he has also been conferred with the power to nominate
+one who can be the arbitrator in his place. Thus, there is
+subtle distinction……”
+xxx xxx xxx
+“54. In such a context, the fulcrum of the controversy
+would be, can an ineligible arbitrator, like the Managing
+Director, nominate an arbitrator, who may be otherwise
+eligible and a respectable person. As stated earlier, we
+are neither concerned with the objectivity nor the
+individual respectability. We are only concerned with the
+authority or the power of the Managing Director. By our
+analysis, we are obligated to arrive at the conclusion that
+once the arbitrator has become ineligible by operation of
+law, he cannot nominate another as an arbitrator. The
+                                                               14
+
+        arbitrator becomes ineligible as per prescription
+        contained in Section 12(5) of the Act. It is inconceivable
+        in law that person who is statutorily ineligible can
+        nominate a person. Needless to say, once the
+        infrastructure collapses, the superstructure is bound to
+        collapse. One cannot have a building without the plinth.
+        Or to put it differently, once the identity of the Managing
+        Director as the sole arbitrator is lost, the power to
+        nominate someone else as an arbitrator is obliterated.
+        Therefore, the view expressed by the High Court is not
+        sustainable and we say so.”
+14.   From a conspectus of the above decisions, it is clear that Section
+12(1), as substituted by the Arbitration and Conciliation (Amendment)
+Act, 2015 [“Amendment Act, 2015”], makes it clear that when a
+person is approached in connection with his possible appointment as
+an arbitrator, it is his duty to disclose in writing any circumstances
+which are likely to give rise to justifiable doubts as to his independence
+or impartiality. The disclosure is to be made in the form specified in the
+Sixth Schedule, and the grounds stated in the Fifth Schedule are to
+serve as a guide in determining whether circumstances exist which
+give rise to justifiable doubts as to the independence or impartiality of
+an arbitrator. Once this is done, the appointment of the arbitrator may
+be challenged on the ground that justifiable doubts have arisen under
+sub-section (3) of Section 12 subject to the caveat entered by sub-
+section (4) of Section 12. The challenge procedure is then set out in
+Section 13, together with the time limit laid down in Section 13(2).
+                                                                        15
+
+What is important to note is that the arbitral tribunal must first decide
+on the said challenge, and if it is not successful, the tribunal shall
+continue the proceedings and make an award. It is only post award
+that the party challenging the appointment of an arbitrator may make
+an application for setting aside such an award in accordance with
+Section 34 of the Act.
+15.    Section 12(5), on the other hand, is a new provision which
+relates to the de jure inability of an arbitrator to act as such. Under this
+provision, any prior agreement to the contrary is wiped out by the non-
+obstante clause in Section 12(5) the moment any person whose
+relationship with the parties or the counsel or the subject matter of the
+dispute falls under the Seventh Schedule. The sub-section then
+declares that such person shall be “ineligible” to be appointed as
+arbitrator. The only way in which this ineligibility can be removed is by
+the proviso, which again is a special provision which states that parties
+may, subsequent to disputes having arisen between them, waive the
+applicability of Section 12(5) by an express agreement in writing. What
+is clear, therefore, is that where, under any agreement between the
+parties, a person falls within any of the categories set out in the
+Seventh Schedule, he is, as a matter of law, ineligible to be appointed
+as an arbitrator. The only way in which this ineligibility can be removed,
+                                                                          16
+
+again, in law, is that parties may after disputes have arisen between
+them, waive the applicability of this sub-section by an “express
+agreement in writing”. Obviously, the “express agreement in writing”
+has reference to a person who is interdicted by the Seventh Schedule,
+but who is stated by parties (after the disputes have arisen between
+them) to be a person in whom they have faith notwithstanding the fact
+that such person is interdicted by the Seventh Schedule.
+16.   The Law Commission Report, which has been extensively
+referred to in some of our judgments, makes it clear that there are
+certain minimum levels of independence and impartiality that should be
+required of the arbitral process, regardless of the parties’ agreement.
+This being the case, the Law Commission then found:
+       “59. The Commission has proposed the requirement of
+       having specific disclosures by the arbitrator, at the stage of
+       his possible appointment, regarding existence of any
+       relationship or interest of any kind which is likely to give
+       rise to justifiable doubts. The Commission has proposed
+       the incorporation of the Fourth Schedule, which has drawn
+       from the Red and Orange lists of the IBA Guidelines on
+       Conflicts of Interest in International Arbitration, and which
+       would be treated as a “guide” to determine whether
+       circumstances exist which give rise to such justifiable
+       doubts. On the other hand, in terms of the proposed
+       section 12 (5) of the Act and the Fifth Schedule which
+       incorporates the categories from the Red list of the IBA
+       Guidelines (as above), the person proposed to be
+       appointed as an arbitrator shall be ineligible to be so
+       appointed, notwithstanding any prior agreement to the
+       contrary. In the event such an ineligible person is purported
+                                                                      17
+
+       to be appointed as an arbitrator, he shall be de jure
+       deemed to be unable to perform his functions, in terms of
+       the proposed explanation to section 14. Therefore, while
+       the disclosure is required with respect to a broader list of
+       categories (as set out in the Fourth Schedule, and as
+       based on the Red and Orange lists of the IBA Guidelines),
+       the ineligibility to be appointed as an arbitrator (and the
+       consequent de jure inability to so act) follows from a
+       smaller and more serious sub-set of situations (as set out
+       in the Fifth Schedule, and as based on the Red list of the
+       IBA Guidelines).
+       60. The Commission, however, feels that real and genuine
+       party autonomy must be respected, and, in certain
+       situations, parties should be allowed to waive even the
+       categories of ineligibility as set in the proposed Fifth
+       Schedule. This could be in situations of family arbitrations
+       or other arbitrations where a person commands the blind
+       faith and trust of the parties to the dispute, despite the
+       existence of objective “justifiable doubts” regarding his
+       independence and impartiality. To deal with such situations,
+       the Commission has proposed the proviso to section 12
+       (5), where parties may, subsequent to disputes having
+       arisen between them, waive the applicability of the
+       proposed section 12 (5) by an express agreement in
+       writing. In all other cases, the general rule in the proposed
+       section 12 (5) must be followed. In the event the High
+       Court is approached in connection with appointment of an
+       arbitrator, the Commission has proposed seeking the
+       disclosure in terms of section 12 (1), and in which context
+       the High Court or the designate is to have “due regard” to
+       the contents of such disclosure in appointing the arbitrator.”
+                                               (emphasis in original)
+Thus, it will be seen that party autonomy is to be respected only in
+certain exceptional situations which could be situations which arise in
+family arbitrations or other arbitrations where a person subjectively
+commands blind faith and trust of the parties to the dispute, despite the
+                                                                       18
+
+existence of objective justifiable doubts regarding his independence
+and impartiality.
+17.     The scheme of Sections 12, 13, and 14, therefore, is that where
+an arbitrator makes a disclosure in writing which is likely to give
+justifiable doubts as to his independence or impartiality, the
+appointment of such arbitrator may be challenged under Sections
+12(1) to 12(4) read with Section 13. However, where such person
+becomes “ineligible” to be appointed as an arbitrator, there is no
+question of challenge to such arbitrator, before such arbitrator. In such
+a case, i.e., a case which falls under Section 12(5), Section 14(1)(a) of
+the Act gets attracted inasmuch as the arbitrator becomes, as a matter
+of law (i.e., de jure), unable to perform his functions under Section
+12(5), being ineligible to be appointed as an arbitrator. This being so,
+his mandate automatically terminates, and he shall then be substituted
+by another arbitrator under Section 14(1) itself. It is only if a
+controversy occurs concerning whether he has become de jure unable
+to perform his functions as such, that a party has to apply to the Court
+to decide on the termination of the mandate, unless otherwise agreed
+by the parties. Thus, in all Section 12(5) cases, there is no challenge
+procedure to be availed of. If an arbitrator continues as such, being de
+jure unable to perform his functions, as he falls within any of the
+                                                                       19
+
+categories mentioned in Section 12(5), read with the Seventh
+Schedule, a party may apply to the Court, which will then decide on
+whether his mandate has terminated. Questions which may typically
+arise under Section 14 may be as to whether such person falls within
+any of the categories mentioned in the Seventh Schedule, or whether
+there is a waiver as provided in the proviso to Section 12(5) of the Act.
+As a matter of law, it is important to note that the proviso to Section
+12(5) must be contrasted with Section 4 of the Act. Section 4 deals
+with cases of deemed waiver by conduct; whereas the proviso to
+Section 12(5) deals with waiver by express agreement in writing
+between the parties only if made subsequent to disputes having arisen
+between them.
+18.   On the facts of the present case, it is clear that the Managing
+Director of the appellant could not have acted as an arbitrator himself,
+being rendered ineligible to act as arbitrator under Item 5 of the
+Seventh Schedule, which reads as under:
+       “Arbitrator’s relationship with the parties or counsel
+       xxx xxx xxx
+       5. The arbitrator is a manager, director or part of the
+       management, or has a similar controlling influence, in an
+       affiliate of one of the parties if the affiliate is directly
+       involved in the matters in dispute in the arbitration”
+                                                                      20
+
+Whether such ineligible person could himself appoint another arbitrator
+was only made clear by this Court’s judgment in TRF Ltd. (supra) on
+03.07.2017, this Court holding that an appointment made by an
+ineligible person is itself void ab initio. Thus, it was only on 03.07.2017,
+that it became clear beyond doubt that the appointment of Shri Khan
+would be void ab initio. Since such appointment goes to “eligibility”,
+i.e., to the root of the matter, it is obvious that Shri Khan’s appointment
+would be void. There is no doubt in this case that disputes arose only
+after the introduction of Section 12(5) into the statute book, and Shri
+Khan was appointed long after 23.10.2015. The judgment in TRF Ltd.
+(supra) nowhere states that it will apply only prospectively, i.e., the
+appointments that have been made of persons such as Shri Khan
+would be valid if made before the date of the judgment. Section 26 of
+the Amendment Act, 2015 makes it clear that the Amendment Act,
+2015 shall apply in relation to arbitral proceedings commenced on or
+after 23.10.2015. Indeed, the judgment itself set aside the order
+appointing the arbitrator, which was an order dated 27.01.2016, by
+which the Managing Director of the respondent nominated a former
+Judge of this Court as sole arbitrator in terms of clause 33(d) of the
+Purchase Order dated 10.05.2014. It will be noticed that the facts in
+the present case are somewhat similar. The APO itself is of the year
+                                                                          21
+
+2014, whereas the appointment by the Managing Director is after the
+Amendment Act, 2015, just as in the case of TRF Ltd. (supra).
+Considering that the appointment in the case of TRF Ltd. (supra) of a
+retired Judge of this Court was set aside as being non-est in law, the
+appointment of Shri Khan in the present case must follow suit.
+19.    However, the learned Senior Advocate appearing on behalf of the
+respondent has argued that Section 12(4) would bar the appellant’s
+application before the Court. Section 12(4) will only apply when a
+challenge is made to an arbitrator, inter alia, by the same party who
+has appointed such arbitrator. This then refers to the challenge
+procedure set out in Section 13 of the Act. Section 12(4) has no
+applicability to an application made to the Court under Section 14(2) to
+determine whether the mandate of an arbitrator has terminated as he
+has, in law, become unable to perform his functions because he is
+ineligible to be appointed as such under Section 12(5) of the Act.
+20.    This then brings us to the applicability of the proviso to Section
+12(5) on the facts of this case. Unlike Section 4 of the Act which deals
+with deemed waiver of the right to object by conduct, the proviso to
+Section 12(5) will only apply if subsequent to disputes having arisen
+between the parties, the parties waive the applicability of sub-section
+                                                                       22
+
+(5) of Section 12 by an express agreement in writing. For this reason,
+the argument based on the analogy of Section 7 of the Act must also
+be rejected. Section 7 deals with arbitration agreements that must be
+in writing, and then explains that such agreements may be contained in
+documents which provide a record of such agreements. On the other
+hand, Section 12(5) refers to an “express agreement in writing”. The
+expression “express agreement in writing” refers to an agreement
+made in words as opposed to an agreement which is to be inferred by
+conduct. Here, Section 9 of the Indian Contract Act, 1872 becomes
+important. It states:
+        “9. Promises, express and implied.—In so far as a
+        proposal or acceptance of any promise is made in words,
+        the promise is said to be express. In so far as such
+        proposal or acceptance is made otherwise than in words,
+        the promise is said to be implied.”
+It is thus necessary that there be an “express” agreement in writing.
+This agreement must be an agreement by which both parties, with full
+knowledge of the fact that Shri Khan is ineligible to be appointed as an
+arbitrator, still go ahead and say that they have full faith and
+confidence in him to continue as such. The facts of the present case
+disclose no such express agreement. The appointment letter which is
+relied upon by the High Court as indicating an express agreement on
+the facts of the case is dated 17.01.2017. On this date, the Managing
+                                                                      23
+
+Director of the appellant was certainly not aware that Shri Khan could
+not be appointed by him as Section 12(5) read with the Seventh
+Schedule only went to the invalidity of the appointment of the
+Managing Director himself as an arbitrator. Shri Khan’s invalid
+appointment only became clear after the declaration of the law by the
+Supreme Court in TRF Ltd. (supra) which, as we have seen
+hereinabove, was only on 03.07.2017. After this date, far from there
+being an express agreement between the parties as to the validity of
+Shri Khan’s appointment, the appellant filed an application on
+07.10.2017 before the sole arbitrator, bringing the arbitrator’s attention
+to the judgment in TRF Ltd. (supra) and asking him to declare that he
+has become de jure incapable of acting as an arbitrator. Equally, the
+fact that a statement of claim may have been filed before the arbitrator,
+would not mean that there is an express agreement in words which
+would make it clear that both parties wish Shri Khan to continue as
+arbitrator despite being ineligible to act as such. This being the case,
+the impugned judgment is not correct when it applies Section 4,
+Section 7, Section 12(4), Section 13(2), and Section 16(2) of the Act to
+the facts of the present case, and goes on to state that the appellant
+cannot be allowed to raise the issue of eligibility of an arbitrator, having
+itself appointed the arbitrator. The judgment under appeal is also
+                                                                          24
+
+incorrect in stating that there is an express waiver in writing from the
+fact that an appointment letter has been issued by the appellant, and a
+statement of claim has been filed by the respondent before the
+arbitrator. The moment the appellant came to know that Shri Khan’s
+appointment itself would be invalid, it filed an application before the
+sole arbitrator for termination of his mandate.
+21.    The learned Additional Solicitor General appearing on behalf of
+the appellant has relied upon All India Power Engineer Federation v.
+Sasan Power Ltd., (2017) 1 SCC 487, and referred to paragraph 21
+thereof, which reads as follows:
+        “21. Regard being had to the aforesaid decisions, it is
+        clear that when waiver is spoken of in the realm of
+        contract, Section 63 of the Contract Act, 1872 governs.
+        But it is important to note that waiver is an intentional
+        relinquishment of a known right, and that, therefore,
+        unless there is a clear intention to relinquish a right that
+        is fully known to a party, a party cannot be said to waive
+        it. But the matter does not end here. It is also clear that if
+        any element of public interest is involved and a waiver
+        takes place by one of the parties to an agreement, such
+        waiver will not be given effect to if it is contrary to such
+        public interest. This is clear from a reading of the
+        following authorities.”
+This judgment cannot possibly apply as the present case is governed
+by the express language of the proviso to Section 12(5) of the Act.
+Similarly, the judgments relied upon by the learned Senior Advocate
+appearing on behalf of the respondent, namely, Vasu P. Shetty v.
+                                                                       25
+
+Hotel Vandana Palace, (2014) 5 SCC 660, and BSNL v. Motorola
+India (P) Ltd., (2009) 2 SCC 337 [“BSNL”], for the same reason,
+cannot be said to have any application to the express language of the
+proviso to Section 12(5). It may be noted that BSNL (supra) deals with
+Section 4 of the Act which, as has been stated hereinabove, has no
+application, and must be contrasted with the language of the proviso to
+Section 12(5).
+22.   We thus allow the appeals and set aside the impugned judgment.
+The mandate of Shri Khan having terminated, as he has become de
+jure unable to perform his function as an arbitrator, the High Court may
+appoint a substitute arbitrator with the consent of both the parties.
+23.   Vide order dated 25.01.2018, we had issued notice in the Special
+Leave Petition as well as notice on the interim relief prayed for by the
+appellant. Since there was no order of stay, the arbitral proceedings
+continued even after the date of the impugned judgment, i.e.,
+22.11.2017, and culminated in two awards dated 11.07.2018 and
+12.07.2018. We have been informed that the aforesaid awards have
+been challenged by the appellant by applications under Section 34 of
+the Act, in which certain interim orders have been passed by the Single
+Judge of the High Court of Delhi. These awards, being subject to the
+                                                                      26
+
+result of this petition, are set aside. Consequently, the appellant’s
+Section 34 proceedings have been rendered infructuous. It will be
+open to the appellant to approach the High Court of Delhi to reclaim
+the deposit amounts that have been made in pursuance of the interim
+orders passed in the Section 34 petition filed in the High Court of Delhi.
+                                                 ……........................... J.
+                                                 (R.F. NARIMAN)
+                                                 ……........................... J.
+                                                 (VINEET SARAN)
+New Delhi;
+April 16, 2019.
+                                                                               27
+
+

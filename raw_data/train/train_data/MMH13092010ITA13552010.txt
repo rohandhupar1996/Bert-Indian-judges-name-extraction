@@ -1,0 +1,194 @@
+                                                                                       #8
+$~
+*       IN THE HIGH COURT OF DELHI AT NEW DELHI
++       ITA 1355/2010
+THE COMMISSIONER OF INCOME TAX ..... Appellant
+                                 Through: Ms. Rashmi Chopra, Advocate
+                          versus
+M.G. MOTORS                                                           ..... Respondent
+                                 Through: Mr. Johnson Bara, Advocate.
+%                                      Date of Decision: 13th September, 2010
+CORAM:
+HON'BLE THE CHIEF JUSTICE
+HON'BLE MR. JUSTICE MANMOHAN
+1. Whether the Reporters of local papers may be allowed to see the judgment?       No
+2. To be referred to the Reporter or not?                                          No
+3. Whether the judgment should be reported in the Digest?                          No
+MANMOHAN, J:
+1.      The present appeal has been filed under Section 260A of the
+Income Tax Act,1961 (hereinafter referred to as “Act”) challenging the
+order dated 07th August, 2009 passed by the Income Tax Appellate
+Tribunal (in short “Tribunal”) in ITA No. 1127/Del/2005 for the
+Assessment Year 1997-1998.
+2.      Briefly stated the relevant facts of the present case are that on
+06th March, 2000, the respondent-assessee’s assessment after scrutiny
+was completed.           However, during the course of proceedings under
+Section 263 of the Act for the assessment year 1999-2000, it was
+noticed that the respondent-assessee had claimed expenditure                           of
+ITA 1355/2010                                                              Page 1 of 6
+
+`15,36,395/- under the heading “partners training expenses”. Out of
+the said expenditure, ` 10,46,391/- was claimed in the assessment year
+1997-1998.      Consequently, on 30th November, 2004, notice under
+Section 148 of the Act was issued to the respondent-assessee.
+3.     In proceedings under Section 148 of the Act, the said expenditure
+was disallowed.     Even the appeal filed by the respondent-assessee
+before the Commissioner of Income Tax (Appeals) [in short, “CIT(A)”]
+was dismissed.
+4.     However, the Tribunal allowed the appeal of the respondent-
+assessee after holding that the Assessing Officer (in short, “AO”) had
+not made out any case in the reasons recorded for issuance of a notice
+under Section 148 of the Act. According to the Tribunal, there was no
+failure on the part of the respondent-assessee to disclose all material
+facts with regard to its claim for “partner training expenses”.
+5.     Ms. Rashmi Chopra, learned counsel for the Revenue submitted
+that the Tribunal had erred in law in quashing the reassessment order
+under Section 147 of the Act.
+6.     Having heard learned counsel for the Revenue and having
+perused the impugned order, we are in agreement with the view of the
+Tribunal that the reassessment was barred by limitation as the period of
+four years had already expired from the end of the relevant Assessment
+ITA 1355/2010                                               Page 2 of 6
+
+Year and as one of the conditions precedent in the first proviso to
+Section 147 was not fulfilled in the present case.
+7.     In fact, the first proviso to Section 147 which provides extended
+limitation for reassessment i.e. beyond the period of four years reads as
+under:-
+       “Provided that where an assessment under sub-section (3)
+       of section 143 or this section has been made for the
+       relevant Assessment Year, no action shall be taken under
+       this section after the expiry of four years from the end of
+       the relevant Assessment Year, unless any income
+       chargeable to tax has escaped assessment for such
+       Assessment Year by reason of failure on the part of the
+       assessee to make a return under section 139 or in response
+       to a notice issued under sub-section (1) of section 142 or
+       section 148 or to disclose fully and truly all material facts
+       necessary for his assessment, for that Assessment Year.”
+8.      From a plain reading of the above proviso, it is apparent that
+where an assessment under Section 143(3) has been made, as in the
+present case, no action can be taken under Section 147 of the Act, 1961
+after expiry of four years from the end of the relevant Assessment Year
+unless two conditions are simultaneously fulfilled i.e. firstly, the AO
+must have reasons to believe the income chargeable to tax has escaped
+assessment and secondly, the AO must have reasons to believe that
+such escapement occurred either due to omission or failure on the part
+of the respondent-assessee to disclose fully and truly all material facts
+necessary for its assessment [See CIT vs. Rajesh Jhavery Stock
+Brokers Pvt. Ltd. (2007) 291 ITR 500 at 512; Haryana Acrylic
+ITA 1355/2010                                               Page 3 of 6
+
+Manufacturing Co. vs. CIT & Anr. (2009) 308 ITR 38 and Wel
+Intertrade P. Ltd. & Anr. Vs. ITO (2009) 308 ITR 22 (Delhi)].
+9.     In the present case, the Tribunal in its impugned order has
+concluded as under:-
+       “16. In the light of the position of law as discussed above,
+       we have now to examine the facts of the present case as to
+       whether the condition that there was omission or failure on
+       the part of the assessee to disclose fully and truly all
+       material facts necessary for his assessment is satisfied in
+       the present case. On perusal of the reasons record by the
+       A.O. for initiating proceeding u/s. 147 of the Act, we find
+       that the A.O. has initiated re-assessment proceedings for
+       A.Y. 1997-98 and 1998-99, in the light of the order passed
+       by the CIT u/s. 263 on 08.03.2004 for the A.Y. 1999-2000
+       holding that the expenditure claimed under the heard
+       “partners training expenses” has been wrongly allowed by
+       the A.O., and in the assessment for the A.Y. 2001-02, the
+       expenses claimed by the assessee under the head “partners
+       training expenses” has not been allowed as not having
+       been incurred for the purpose of business. It is thus clear
+       that the A.O. has reopened the assessment for the A.Y.
+       1997-98 and 1998-99, in the light of the findings or the
+       decisions taken in the A.Y. 1999-2000 and 2001-02, with
+       regard to the allowability of the expenses under the heard
+       “partners training expenses”. The A.O. has nowhere in
+       the reasons recorded a finding that there was a failure on
+       the part of the assessee to disclose fully and truly all
+       material facts relating to the claim of expenses made under
+       the head “partners training expenses”. There is not even
+       a whisper of an allegation in the reasons recorded that the
+       escapement income had occurred by reason of failure on
+       the part of the assessee to disclose fully and truly all
+       material facts necessary for his assessment. The original
+       assessment was completed u/s 143(3) of the Act in
+       pursuance to the return of income filed originally on
+       31.10.1997. In the return of income, the assessee
+       furnished copy of audit report obtained u/s.44B along with
+ITA 1355/2010                                               Page 4 of 6
+
+       audited balance sheet, P&L account, trading account etc.,
+       details of depreciation, payment of interest, salary,
+       commission etc. to partners, details of payment to persons
+       specified in section 40(2)(b) of the Act and the details of
+       the loans and advances etc. In the P&L account, the
+       assessee has given a separate item of “partners training
+       expenses” claimed at Rs.10,46,397/-. This is not the case
+       where the partners training expenses has been included
+       elsewhere in other heads of expenses. The assessee has
+       claimed the expenses under the item as “partners training
+       expenses” separately and distinctly in the P&L account.
+       Whatever expenses have been claimed towards partners
+       training expenses has been specifically mentioned in the
+       P&L account.            During the original assessment
+       proceedings, audited copies of P&L account, balance
+       sheet and trading account were duly examined by the A.O.
+       as so mentioned by the A.O. himself in the assessment
+       order so made u/s. 143(3) of the Act on 06.03.2000.
+       17. In the light of the discussion made and facts noted
+       about, it is clear that the A.O. has not made out any case in
+       the reasons recorded for issuing a notice u/s. 148 of the
+       Act that there was a failure on the part of the assessee to
+       disclose fully and truly all material facts with regard to the
+       claim of partners training expenses made in the return of
+       income. Further, we find that the assessee had disclosed
+       fully and truly the facts of claiming partners training
+       expenses at Rs. 10,46,391/- as so clearly stated in the P&L
+       account as a separate and distinct item. Therefore, not-
+       with-standing the fact that the first condition to invoke the
+       provisions of Section 147 of the Act that there must be a
+       reason to believe that income had escape assessment is
+       satisfied in the present case, the second condition that
+       there must be failure on the part of the assessee to disclose
+       fully and truly all material fact necessary for assessment
+       has not been satisfied or has been proved to be satisfied.
+       At this stage, we would like to clarify that had it been a
+       case of initiating proceedings u/s. 147 of the Act before the
+       expiry of four years from the end of the relevant
+       assessment year, it was not necessary for the A.O. to prove
+       and establish that there was a failure on the part of the
+       assessee to disclose fully and truly all material facts
+ITA 1355/2010                                                Page 5 of 6
+
+       necessary for his assessment, and only condition required
+       to be satisfied by the A.O. would have been that he had
+       reason to believe that any income chargeable to tax has
+       escaped assessment. The CIT(A) has relied upon the
+       decision of Hon’ble Gujarat High Court in the case of
+       Prafful Chunni Lal Patel : Basant Chunni Lal Patel Vs.
+       ACIT (1999) 236 ITR 832 (Guj.), which was rendered in
+       the context of re-opening of the assessment within the
+       period of four years from the end of the relevant
+       assessment year, and the question about applicability of
+       the proviso to section 147 was not a subject matter of
+       consideration in that case. Thus, the decision of Hon’ble
+       Gujarat High Court in the case of Prafful Chunni Lal Patel
+       : Basant Chunni Lal Patel Vs. ACIT (1999) 236 ITR 832
+       (Guj.), relied upon by the ld. CIT(A) in both the assessment
+       years 1997-98 and 1998-99, doesn’t help the revenue on
+       the facts of the present case in so far as A.Y. 1997-98 is
+       concerned.
+10.    Consequently, as the AO has failed to prove and establish that
+there was failure on the part of the respondent-assessee to disclose
+fully and truly all material facts necessary for his assessment, we are of
+the opinion that the present case is not covered by the proviso to
+Section 147 of the Act. Accordingly, the present appeal being bereft of
+merit, is dismissed in limine but without any order as to costs.
+                                                      MANMOHAN, J
+                                                      CHIEF JUSTICE
+SEPTEMBER 13, 2010
+js
+ITA 1355/2010                                               Page 6 of 6
+
+

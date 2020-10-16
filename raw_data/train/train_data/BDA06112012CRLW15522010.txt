@@ -1,0 +1,490 @@
+          THE HIGH COURT OF DELHI AT NEW DELHI
+%                                    Judgment delivered on: 06.11.2012
++        W.P.(Crl) 1552/2010
+ABDUL MATEEN                                                   ... Petitioner
+                                        versus
+UOI AND ANR                                                    ... Respondents
+Advocates who appeared in this case:
+For the Petitioner           : Mr T.K. Mahapatra, Mr Dinesh, Mr Sunit Sharma
+For the Respondent           : Mr Sachin Datta (CGSC) with Ms Kritika Mehra
+CORAM:-
+HON’BLE MR JUSTICE BADAR DURREZ AHMED
+HON’BLE MS JUSTICE VEENA BIRBAL
+                                     JUDGMENT
+BADAR DURREZ AHMED, J.
+1.       This writ petition seeks the quashing of notification S.O. No. 2941 (E)
+dated 18.11.2009 issued by the Ministry of Finance, Department of Revenue,
+Government of India on the ground that it is ultra vires the Narcotic Drugs
+and Psychotropic Substances Act, 1985 (hereinafter referred to as the ‘NDPS
+Act’).
+2.       The petitioner is a citizen of Afganistan and is facing trial in the case
+entitled State v. Niyamatulah & Ors. which arises out of FIR No. 212/2009
+of Police Station Crime Branch registered under section 21(c) of the NDPS
+Act. An alleged recovery of 500 grams of heroin was made from, inter alia,
+the petitioner. The Forensic Science Laboratory Report with regard to the
+said alleged heroin indicated that the substance allegedly recovered
+comprised of 44.5% diacetylmorphine (heroin). If this percentage is taken
+WP(Crl) 1552/2010                                                      Page 1 of 17
+
+into account, then, according to the learned counsel for the petitioner the
+actual weight of heroin in the alleged recovery would be 222.5 grams.
+According to the learned counsel for the petitioner this would be less than
+the commercial quantity of 250 grams specified under notification S.O. 1055
+(E) dated 19.10.2001. If the petitioner is right, then, the recovery would be
+of less than the commercial quantity prescribed for heroin and therefore the
+punishment could be for a term which could extend to 10 years with fine
+which could extend to Rs. 1 lakh. However, if the petitioner’s submission is
+not accepted then the alleged recovery would be of a commercial quantity
+inasmuch as the commercial quantity specified for heroin under the said
+notification S.O 1055 (E) dated 19.10.2001 is 250 grams and above. If that
+were to be the case, then, the punishment involved has to be not less than 10
+years and may extend to 20 years with fine which cannot be less than Rs. 1
+lakh and may extend to Rs. 2 lakh.
+3.       Prior to the issuance of the impugned notification S.O. 2941 (E) dated
+18.11.2009, there was a controversy that had been set at rest by a decision of
+the Supreme Court in the case of E. Micheal Raj v. Intelligence Officer
+Narcotic Control Bureau: 2008 (5) SCC 161. The Supreme Court, after
+analyzing the provisions of the NDPS Act as also entries 56 and 239 of the
+notification dated 19.10.2001, observed that the offending substance in that
+case, which contained diacetylmorphine, was an opium derivative and hence
+a manufactured drug. The Supreme Court then observed as under:-
+          “15. It appears from the Statement of Objects and Reasons of
+         the amending Act of 2001 that the intention of the legislature
+         was to rationalise the sentence structure so as to ensure that
+WP(Crl) 1552/2010                                                  Page 2 of 17
+
+         while drug traffickers who traffic in significant quantities of
+         drugs are punished with deterrent sentence, the addicts and
+         those who commit less serious offences are sentenced to less
+         severe punishment. Under the rationalised sentence structure,
+         the punishment would vary depending upon the quantity of
+         offending material. Thus, we find it difficult to accept the
+         argument advanced on behalf of the respondent that the rate of
+         purity is irrelevant since any preparation which is more than the
+         commercial quantity of 250 gm and contains 0.2% of heroin or
+         more would be punishable under Section 21(c) of the NDPS
+         Act, because the intention of the legislature as it appears to us is
+         to levy punishment based on the content of the offending drug
+         in the mixture and not on the weight of the mixture as such.
+         This may be tested on the following rationale. Supposing 4 gm
+         of heroin is recovered from an accused, it would amount to a
+         small quantity, but when the same 4 gm is mixed with 50 kg of
+         powdered sugar, it would be quantified as a commercial
+         quantity. In the mixture of a narcotic drug or a psychotropic
+         substance with one or more neutral substance(s), the quantity of
+         the neutral substance(s) is not to be taken into consideration
+         while determining the small quantity or commercial quantity of
+         a narcotic drug or psychotropic substance. It is only the actual
+         content by weight of the narcotic drug which is relevant for the
+         purposes of determining whether it would constitute small
+         quantity or commercial quantity. The intention of the legislature
+         for introduction of the amendment as it appears to us is to
+         punish the people who commit less serious offences with less
+         severe punishment and those who commit grave crimes, such as
+         trafficking in significant quantities, with more severe
+         punishment.”
+Finally the Supreme Court concluded that:-
+         “…..when any narcotic drug or psychotropic substance is found
+         mixed with one or more neutral substances for the purpose of
+         imposition of punishment it is the content of the narcotic drug
+WP(Crl) 1552/2010                                                     Page 3 of 17
+
+         or psychotropic substance which shall be taken into
+         consideration.”
+4.       However, that view of the Supreme Court prevailed at a time when the
+impugned notification had not been issued. Before we proceed further it
+would be appropriate to set out the impugned notification. The same reads
+as under:-
+                           “THE GAZETTTE OF INDIA
+                               EXTRAORDINARY
+                       PART II – Section 3 – sub-section (ii)
+                         PUBLISHED BY AUTHORITY
+                No. 18931            NEW DELHI, WEDNESDAY,
+                   NOVEMBER 18, 2009 / KARTIKA 27, 1931
+                            MINISTRY OF FINANCE
+                             (Department of Revenue)
+                                 NOTIFICATION
+                       New Delhi, the 18th November, 2009
+         S.O. 2941(E).– In exercise of the powers conferred by clause
+         (vii a) and (xxiii a) of Section 2 of the Narcotic Drugs and
+         Psychotropic Substance Act, 1985 (61 of 1985) the Central
+         Government, hereby makes the following amendment in the
+         Notification S.O. 1055(E), dated 19th October, 2001, namely :-
+         In the Table at the end after Note 3, the following Note shall be
+         inserted, namely:-
+WP(Crl) 1552/2010                                                  Page 4 of 17
+
+         “(4) The quantities shown in column 5 and column 6 of the
+         Table relating to the respective drugs shown in column 2 shall
+         apply to the entire mixture or any solution or any one or more
+         narcotic drugs or psychotropic substances of that particular drug
+         in dosage form or isomers, esters, ethers and salts of these
+         drugs, including salts of esters, ethers and isomers, wherever
+         existence of such substance is possible and not just its pure drug
+         content.”
+                                              [F. No. 662/33/2008-NC-I]
+                                          VIMLA BAKSHI, Under Secy”
+5.       According to the learned counsel for the petitioner, the law as declared
+by the Supreme Court in E. Micheal Raj (supra) clearly entails that the
+alleged recovery in the present case would be only to the extent of 222.5
+grams, representing the actual weight of the heroin, and that would be less
+than the commercial quantity of 250 grams specified in the notification dated
+19.10.2001. But, by virtue of the impugned notification, the entire quantity
+of 500 grams is sought to be reckoned as the weight of the narcotic drug, be
+it regarded as heroin or as an opium derivative. If that were to be so, the
+alleged recovery would be of a commercial quantity in either case, that is,
+whether it is regarded as diacetylmorphine (heroin) or as an opium
+derivative. He submitted that while the legislature could have provided that
+the mixture of heroin and neutral substances should be considered in totality,
+the Central Government could not do so by issuing a notification. It was
+submitted that the Central Government could have done so only if the
+legislature had empowered the Central Government to do so. According to
+WP(Crl) 1552/2010                                                    Page 5 of 17
+
+the learned counsel for the petitioner, the power for issuing the impugned
+notification is sought to be traced to the provisions of section 2 (viia) and
+section 2 (xxiiia) of the NDPS Act. According to the learned counsel for the
+petitioner, a bare reading of the said provisions indicate that the legislature
+has only given the Central Government power to specify the quantity of
+narcotic drugs and psychotropic substances and no power had been conferred
+by the legislature to define as to what has to be considered as part of a
+narcotic drug and psychotropic substance. It was then contended by the
+learned counsel for the petitioner that it was never the intention of the
+legislature to consider a neutral substance as part of a manufactured drug like
+heroin.      In this context it was submitted that wherever the legislature
+intended a mixture to be taken into account it had made it explicit, for
+example, in the case of cannabis, section 2 (iii) makes it clear that cannabis,
+inter alia, means any mixture, with or without any neutral material, of any of
+the given forms of cannabis or any drink prepared therefrom. Similarly, the
+definition of coca leaf in section 2 (vi)(b) is also specified to mean any
+mixture of the substance in clause (a) with or without any neutral material.
+It was also contended by the learned counsel for the petitioner that the word
+“preparation” included in the definition of opium derivative in section 2
+(xvi)(e) was with reference to a mixture of two drugs and not a mixture of a
+drug and a neutral substance. It was reiterated that wherever the legislature
+intended to include the total weight of a mixture of a drug and a neutral
+material, it had done so specifically by mentioning the same and, as such,
+where it has not been specifically mentioned, the total weight of the mixture
+of a drug with neutral material cannot be taken and it is only the weight of
+WP(Crl) 1552/2010                                                 Page 6 of 17
+
+the drug in that mixture that could be regarded for the purposes of
+determining as to whether the contraband was of a small quantity or a
+commercial quantity or an intermediate quantity. It was submitted that the
+impugned notification dated 18.11.2009 issued by the Central Government
+went beyond the provisions of the NDPS Act in including the weight of the
+neutral substance for the purposes of determining whether the case fell
+within any one of the three categories – small quantity, intermediate quantity
+or commercial quantity. The learned counsel for the petitioner had also
+placed strong reliance on the decision in Ansar Ahmed v. State: 123 (2005)
+DLT 563 and more particularly on the judgment of the Supreme Court in the
+case of E. Micheal Raj (supra).
+6.       On the other hand the learned counsel for the UOI submitted that the
+impugned notification dated 18.11.2009 has been issued in exercise of
+powers conferred under section 2 (viia) and 2 (xxiiia). It was submitted that
+the NDPS Act itself delegates to the Central Government the power to
+specify the small quantity and commercial quantity of narcotic drugs and
+psychotropic substances. It was then contended that the expression narcotic
+drugs in section 2 (xiv) has been defined to include all manufactured drugs.
+The expression manufactured drugs itself has been defined in section 2 (xi)
+to, inter alia, include opium derivatives which in turn has been defined in
+section (xvi) to, inter alia, mean diacetylmorphine, that is, the alkaloid also
+known as diamorphine or         heroin and its salts.  The expression opium
+derivative as per section 2 (xvi)(e) also means all “preparations” containing
+more than 0.2% of morphine or containing “any diacetylmorphine”. The
+learned counsel for the respondent submitted that the expression
+WP(Crl) 1552/2010                                                 Page 7 of 17
+
+“preparation” has also been defined in section 2 (xx) to, inter alia, mean, in
+relation to a narcotic drug or psychotropic substance, any solution or
+mixture, in whatever physical state, containing one or more such drugs and
+substances. It was, therefore, contended by the learned counsel for the
+respondent that it is evident that the expression ‘narcotic drug’ includes
+‘preparation’ which, as defined in the NDPS Act, inter alia, means one or
+more drugs and substances, in the form of a solution or a mixture. In
+response to the submissions made by the learned counsel for the petitioner it
+was contended by the learned counsel for the respondent that the expression
+“preparation” cannot be limited to mean only a mixture of two drugs and not
+to a mixture of a narcotic drug and a neutral material. According to the
+learned counsel for the respondent the bare language of the definition of the
+word “preparation” used in section 2 (xx) of the NDPS Act makes it clear
+that the same includes any solution or mixture in whatever physical state
+containing one or more drugs and substances. It was, therefore, contended
+that there was no merit in the writ petition and the same ought to be
+dismissed.
+7.       Before we embark upon a discussion of the submissions made by the
+learned counsel for the parties it would be necessary to set out the relevant
+provisions of the NDPS Act. They are as under:-
+         “21. Punishment for contravention in relation to
+         manufactured drugs and preparations.—Whoever, in
+         contravention of any provision of this Act or any rule or order
+         made or condition of licence granted thereunder, manufactures,
+         possesses, sells, purchases, transports, imports inter-State,
+         exports inter-State or uses any manufactured drug or any
+WP(Crl) 1552/2010                                                Page 8 of 17
+
+         preparation containing any manufactured drug shall be
+         punishable,—
+         (a) where the contravention involves small quantity, with
+         rigorous imprisonment for a term which may extend to six
+         months, or with fine which may extend to ten thousand rupees,
+         or with both;
+         (b) where the contravention involves quantity, lesser than
+         commercial quantity but greater than small quantity, with
+         rigorous imprisonment for a term which may extend to ten
+         years, and with fine which may extend to one lakh rupees;
+         (c) where the contravention involves commercial quantity, with
+         rigorous imprisonment for a term which shall not be less than
+         ten years but which may extend to twenty years, and shall also
+         be liable to fine which shall not be less than one lakh rupees but
+         which may extend to two lakh rupees:
+         Provided that the court may, for reasons to be recorded in the
+         judgment, impose a fine exceeding two lakh rupees.”
+         “2. Definitions.—In this Act, unless the context otherwise
+         requires,—
+                  xxxx          xxxx         xxxx          xxxx        xxxx
+         (iii) “cannabis (hemp)” means—
+                  (a) charas, that is, the separated resin, in whatever form,
+                  whether crude or purified, obtained from the cannabis
+                  plant and also includes concentrated preparation and resin
+                  known as hashish oil or liquid hashish:
+                  (b) ganja, that is, the flowering or fruiting tops of the
+                  cannabis plant (excluding the seeds and leaves when not
+                  accompanied by the tops), by whatever name they may be
+                  known or designated; and
+WP(Crl) 1552/2010                                                      Page 9 of 17
+
+                  (c) any mixture, with or without any neutral material, of
+                  any of the above forms of cannabis or any drink prepared
+                  thereform;
+                  xxxx          xxxx         xxxx         xxxx        xxxx
+         (vi) “coca leaf” means—
+                  (a) the leaf of the coco plant except a leaf from which all
+                  ecgonine, cocaine and any other ecgonine alkaloids have
+                  been removed;
+                  (b) any mixture thereof with or without any neutral
+                  material, but does not include any preparation containing
+                  not more than 0.1 per cent of cocaine;
+                  (vii-a) “commercial quantity”, in relation to narcotic
+                  drugs and psychotropic substances, means any quantity
+                  greater than the quantity specified by the Central
+                  Government by notification in the Official Gazette;
+         (xi)     “manufactured drug” means—
+                  (a) all coca derivatives, medicinal cannabis, opium
+                  derivatives and poppy straw concentrate;
+                  (b) any other narcotic substance or preparation which the
+                  Central Government may, having regard to the available
+                  information as to its nature or to its nature or to a
+                  decision, if any, under any International Convention, by
+                  notification in the Official Gazette, declare to be a
+                  manufactured drug;
+         but does not include any narcotic substance or preparation
+         which the Central Government may, having regard to the
+         available information as to a decision, if any, under any
+         International Convention, by notification in the Official Gazette,
+         declare not to be a manufactured drug;
+WP(Crl) 1552/2010                                                     Page 10 of 17
+
+                  xxxx         xxxx         xxxx         xxxx        xxxx
+         (xiv) “narcotic drug” means coca leaf, cannabis (hemp), opium,
+         poppy straw and includes all manufactured drugs;
+                  xxxx         xxxx         xxxx         xxxx        xxxx
+          (xvi) “opium derivative” means—
+                  (a) medicinal opium, that is, opium which has undergone
+                  the processes necessary to adopt it for medicinal use in
+                  accordance with the requirements of the Indian
+                  Pharmacopoeia or any other pharmacopoeia notified in
+                  this behalf by the Central Government, whether in
+                  powder form or granulated or otherwise or mixed with
+                  neutral materials;
+                  (b) prepared opium, that is, any product of opium
+                  obtained by any series of operations designed to
+                  transform opium into an extract suitable for smoking and
+                  the dross or other residue remaining after opium is
+                  smoked;
+                  (c) phenanthrene alkaloids, namely, morphine, codeine,
+                  thebaine and their salts:
+                  (d) diacetylmorphine, that is, the alkaloid also known as
+                  diamorphine or heroin and its salts; and
+                  (e) all preparations containing more than 0.2 per cent of
+                  morphine or containing any diacetylmorphine;
+                  xxxx         xxxx         xxxx         xxxx        xxxx
+         (xx) “preparation”, in relation to a narcotic drug or psychotropic
+         substance means any one or more such drugs or substances in
+WP(Crl) 1552/2010                                                    Page 11 of 17
+
+         dosage form or any solution or mixture, in whatever physical
+         state, containing one or more such drugs or substances;
+                  xxxx       xxxx         xxxx          xxxx          xxxx
+         (xxiii-a) “small quantity”, in relation to narcotic drugs and
+         psychotropic substances, means any quantity lesser than the
+         quantity specified by the Central Government by notification in
+         the Official Gazette;”
+8.       It would also be necessary to refer to the notification S.O. 1055 (E)
+dated 19.10.2001. The said notification, to the extent relevant, as it stood
+prior to issuance of the impugned notification dated 18.11.2009, reads as
+under:-
+            “NOTIFICATION SPECIFYING SMALL QUANTITY
+                       AND COMMERCIAL QUANTITY
+         In exercise of the powers conferred by clauses (viia) and
+         (xxiiia) of section 2 of the Narcotic Drugs and Psychotropic
+         Substances Act, 1985 (61 of 1985) and in supersession of
+         Ministry of Finance, Department of Revenue Notification S.O.
+         527 (E) dated 16th July, 1996, except as respects things done or
+         omitted to be done before such supersession, the Central
+         Government hereby specifies the quantity mentioned in
+         columns 5 and 6 of the Table below, in relation to the narcotic
+         drugs or psychotropic substances mentioned in the
+         corresponding entry in columns 2 to 4 of the said Table, as the
+         small quantity and commercial quantity respectively for the
+         purposes of the said clauses of that section.
+                                      TABLE
+             [See sub-clause vii(a) and xxiii(a) of Section 2 of the Act]
+WP(Crl) 1552/2010                                                     Page 12 of 17
+
+           Sl.    Name of Narcotic   Other non-    Chemical Name    Small Comme
+          No.         Drug and       proprietary                    Quan    rcial
+                    Psychotropic        name                         tity Quantit
+                      Substance                                      (in      y
+                 (International non-                                gm.)     (in
+                  proprietary name                                        gm./kg.)
+                        (INN)
+          (1)             (2)            (3)              (4)        (5)     (6)
+           --              --             --               --         --      --
+          56    Heroin                           Diacetylmorphine     5   250 gm.
+           --              --             --               --         --      --
+                                                 [other than
+                                                 diacetyl morphine
+          93    Opium Derivatives                (heroin), morphine   5   250 gm.
+                                                 and those listed
+                                                 here in]
+           --              --             --               --         --      --
+                Any mixture or
+                preparation that of
+                with or without a                 …………………
+          239                                                         *      **
+                natural material, of                   ………
+                any of the above
+                drugs.
+         * Lesser of the small quantity between the quantities given
+         against the respective narcotic drugs or psychotropic substances
+         mentioned above forming part of the mixture.
+         ** Lesser of the Commercial quantity between the quantities
+         given against the respective narcotic drugs or psychotropic
+         substances mentioned above forming part of the mixture.
+         Note. –
+            1.    The small quantity and the commercial quantity given
+                  against the respective drugs listed above apply to
+                  isomers, within specific chemical designation, the esters,
+                  ethers and salts of these drugs, including salts of esters,
+WP(Crl) 1552/2010                                                          Page 13 of 17
+
+                  ethers and isomers; whenever existence of such substance
+                  is possible.
+           2.     The quantities shown against the respective drugs listed
+                  above also apply to the preparations of the drug and the
+                  preparations of substances of note 1 above.
+           3.     "Small quantity" and "Commercial Quantity" with
+                  respect to cultivation of opium poppy is not specified
+                  separately as the offence in this regard is covered under
+                  clause (c) of section 18 of the Narcotic Drugs and
+                  Psychotropic Substances Act, 1985.”
+It would be pertinent to remember that another note [Note (4)] has been
+added by virtue of the impugned notification dated 18.11.2009, which we
+have already set out in paragraph 4 above.
+9.       We have to first of all examine whether the legislature had empowered
+the Central Government to bring out a notification of the kind which is
+impugned before us. As indicated by us earlier in this judgment, the law
+prior to the issuance of the notification dated 18.11.2009 had been settled by
+the Supreme Court by holding that when any narcotic drug or psychotropic
+substance is found mixed with one or more neutral substance, for the
+purpose of imposition of punishment, it is only the content of the narcotic
+drug or psychotropic substance which has to be taken into consideration.
+That position is sought to be altered by virtue of the impugned notification
+dated 18.11.2009 inasmuch as the entire mixture and not just the pure drug
+content has to be considered by virtue of the said notification. The question
+which arises is whether the Central Government had the power to bring out
+such a notification.           While the case of a mixture of two drugs and
+combination of more than one drug and psychotropic substance was
+WP(Crl) 1552/2010                                                    Page 14 of 17
+
+specifically dealt with under Sl. No. 239 of the notification dated
+19.10.2001, there was no provision for dealing with the situation where the
+mixture was of just one narcotic drug or psychotropic substance with neutral
+material. It is in the context of the notification dated 19.10.2001 prior to its
+amendment in 2009 that the decision in Ansar Ahmed and E. Micheal Raj
+(supra) had been rendered. Now a specific note (that is note 4) has been
+added by virtue of the notification dated 18.11.2009 so as to include the case
+of a narcotic drug or psychotropic substance mixed with a neutral material.
+The distinction between S.L. No. 239 and note 4 is that while S.L. No.239
+required that the mixture was of one narcotic drug with another narcotic drug
+or psychotropic substance which may or may not also include neutral
+material, Note 4 widens the scope by introducing a mixture of one drug or
+psychotropic substance with a neutral substance. It is not at all necessary
+that the mixture must contain more than one drug or psychotropic substance
+along with neutral material for the said Note 4 to apply.
+10.      In order to understand as to whether the Central Government had the
+legislative mandate to do so, it would be necessary to examine as to what the
+exact limits of power of the Central Government were under section 2 (viia)
+and 2 (xxiiia). Whether we consider 2 (viia) which defines the commercial
+quantity or section 2 (xxiiia) which defines small quantity the language is
+virtually identical. The ‘small quantity’ and the ‘commercial quantity’ are in
+relation to narcotic drugs and psychotropic substances.           The Central
+Government has been given the power to specify, by a notification in the
+official gazette, the quantity representing the small quantity or commercial
+quantity in relation to each narcotic drug and psychotropic substance. In the
+WP(Crl) 1552/2010                                                 Page 15 of 17
+
+present case we are concerned with heroin and, therefore, we shall restrict
+our discussion to narcotic drugs. Narcotic drugs are defined in section 2
+(xiv) to include “all manufactured drugs”. The latter expression has also
+been defined in section 2 (xi) to inter alia, mean “opium derivative”. And,
+‘opium derivative’ itself has been defined in section 2 (xvi) to, inter alia,
+mean diacetylmorphine and all ‘preparations’ containing more than 0.2% of
+morphine or containing ‘any’ diacetylmorphine.             In other words a
+preparation containing ‘any’ diacetylmorphine would be regarded as an
+opium derivative.
+11.      The word ‘preparation’ itself has been defined in section 2 (xx) to,
+inter alia, mean any solution or mixture, in whatever physical state
+containing one or more such narcotic drug or psychotropic substance. It is
+obvious that if there is only one narcotic drug and we are referring to a
+mixture, then the other material must be a neutral material. Therefore, the
+word “preparation” includes reference to a mixture of one narcotic drug with
+a neutral material.    Once we understand this, it becomes clear that the
+Central Government has been given the power to specify the quantity of this
+‘preparation’ or mixture of a narcotic drug and a neutral substance. Once
+this is accepted then there is no escape from the conclusion that the Central
+Government had the power to specify the quantities shown in column 5 and
+6 of the Table appended to the notification dated 19.10.2001 with reference
+to the entire mixture and not just its pure drug content. This is so because all
+preparations which contain diacetylmorphine would be opium derivatives
+which, in turn, would be manufactured drugs and that would lead us to the
+expression narcotic drugs. And, ultimately to the said expression as used in
+WP(Crl) 1552/2010                                                  Page 16 of 17
+
+section 21 of the NDPS Act. We would tend to agree with the learned
+counsel for the respondent that the decision of the Supreme Court in the case
+of E. Micheal Raj (supra) was rendered at a point of time when this so-
+called “loop-hole” had not been plugged and therefore it is not as if we are
+taking a view contrary to the Supreme Court. The Central Government, at
+that point of time had catered to a situation which involved a mixture of one
+or more narcotic drugs and psychotropic substances with or without neutral
+material. It had not dealt with a situation which involved one narcotic drug
+or one psychotropic substance with some neutral material. Unless and until
+there was a specific provision for it, the courts could not supply the gap
+particularly because these were penal provisions. Now, that the gap has been
+filled by the amendment to the notification dated 19.10.2001 by introducing
+note 4 therein, the earlier decisions would really not be applicable. We make
+it clear that apart from the challenge to the notification as being ultra vires
+the provisions of the NDPS Act, there is no challenge whatsoever to the
+provisions of the NDPS Act.
+12.      In view of the foregoing discussion, we find that there is no merit in
+the writ petition. The same is dismissed. There shall be no orders as to
+costs.
+                                            BADAR DURREZ AHMED, J
+                                                  VEENA BIRBAL, J
+NOVEMBER 06 , 2012
+kb
+WP(Crl) 1552/2010                                                 Page 17 of 17
+
+

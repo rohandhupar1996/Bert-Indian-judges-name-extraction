@@ -1,0 +1,310 @@
+$~1 to 3
+*        IN THE HIGH COURT OF DELHI AT NEW DELHI
++                                      ITA 1058/2011
+         DIRECTOR OF INCOME TAX INTERNATIONAL TAXATION-II
+                                                                       ..... Appellant
+                                       Through: Mr. Rahul Kaushik, Senior Standing
+                                                  Counsel
+                                       versus
+         ROLLS ROYCE INDUSTRIAL POWER INDIA LTD.....Respondent
+                                       Through: Mr. M.S. Syali, Senior Advocate
+                                                  with Mr. Satyen Sethi, Mr. Mayank
+                                                  Negi & Mr. Arth Taran Panda,
+                                                  Advocates
+                                              WITH
++                                      ITA 1061/2011
+         DIRECTOR OF INCOME TAX INTERNATIONAL TAXATION-II
+                                                                       ..... Appellant
+                                       Through: Mr. Rahul Kaushik, Senior Standing
+                                                  Counsel
+                                       versus
+         ROLLS ROYCE INDUSTRIAL POWER INDIA LTD.... Respondent
+                                       Through: Mr. M.S. Syali, Senior Advocate
+                                                  with Mr. Satyen Sethi, Mr. Mayank
+                                                  Negi & Mr. Arth Taran Panda,
+                                                  Advocates
+                                              AND
+ITA Nos.1058/2011, 1061/2011 & 1063/2011                                  Page 1 of 11
+
++                                      ITA 1063/2011
+         DIRECTOR OF INCOME TAX INTERNATIONAL TAXATION-II
+                                                                        ..... Appellant
+                                       Through: Mr. Rahul Kaushik, Senior Standing
+                                                  Counsel
+                                       versus
+         ROLLS ROYCE INDUSTRIAL POWER INDIA LTD.... Respondent
+                                       Through: Mr. M.S. Syali, Senior Advocate
+                                                  with Mr. Satyen Sethi, Mr. Mayank
+                                                  Negi & Mr. Arth Taran Panda,
+                                                  Advocates
+         CORAM: JUSTICE S.MURALIDHAR
+                              JUSTICE CHANDER SHEKHAR
+                                       ORDER
+          %                            18.05.2017
+Dr. S. Muralidhar, J.:
+1. These are three appeals by the Revenue under Section 260A of the
+Income Tax Act, 1961 („Act‟) against the common order dated 5th October,
+2010 passed by the Income Tax Appellate Tribunal („ITAT‟) in ITA Nos.
+1410, 1411 and 1413/Del/2007 relating to Assessment Years („AYs‟) 1998-
+1999, 1999-2000 and 2001-2002.
+2. It must be mentioned at the outset that at the time of admission of these
+appeals, on 23rd March, 2012, there were 7, 4 and 6 questions of law framed
+in ITA Nos. 1058, 1061 and 1063 of 2011 respectively. In each of the said
+appeals, the first question framed reads as under:
+         “(1) Whether on the facts and circumstances of the case, ITAT was
+         right in law in holding that assumption of jurisdiction under section
+         148 of the Income tax Act, 1961 was not valid?”
+ITA Nos.1058/2011, 1061/2011 & 1063/2011                                  Page 2 of 11
+
+3. The other questions pertain inter alia to the treatment of payments
+received by the Assessee from the operation and maintenance of power plant
+projects i.e. whether these receipts were taxable either as business income or
+as fee for technical services (FTS). In these three appeals, however, the
+Court proposes to confine its examination to the first question viz., the
+validity of the assumption of jurisdiction under Section 148 of the Act.
+4. Having heard learned counsel for the parties, the Court is satisfied that the
+said question has, for reasons to follow, to be answered in favour of the
+Assessee. Resultantly all consequential assessment orders are rendered
+invalid thus obviating the need to examine the other questions that pertain to
+the additions made under the consequential assessment orders. The Court
+however clarifies that the other questions framed in these appeals, and which
+arise in certain other connected appeals of the Revenue against the Assessee
+for other AYs are left open to be decided in the other appeals.
+5. The Assessee, a company incorporated under the laws of the United
+Kingdom (U.K.), during the AYs in question, was engaged, inter alia, in the
+business         of      erection,       commissioning, supervision, operation       and
+maintenance of power plants. The business activities in India were carried
+out by the Assessee through various projects, offices, located in India.
+These, according to the Revenue constituted the Assessee's permanent
+establishment in India under Article 5 of the Double Taxation Avoidance
+Agreement (DTAA) between India and U.K.
+ITA Nos.1058/2011, 1061/2011 & 1063/2011                                Page 3 of 11
+
+6. The Assessee's returns for the three AYs in question i.e., AYs 1998-99,
+1999-2000 and 2001-2002 were picked up for scrutiny and the assessments
+were completed by the Assessing Officer (AO) by passing assessment orders
+under Section 143(3) of the Act. Placed before the Court are copies of the
+questionnaires issued by the AO for the relevant AYs and the replies thereto
+filed by the Assessee. These questionnaires refer to the nature of the
+transactions and the payments received in relation thereto.
+7. For the Financial Year 2004-2005 , the Assessee filed applications dated
+25th June, 2004 and 27th May, 2004 under Section 195(3) of the Act for
+issuance of nil deduction of Tax Deducted at Source („TDS‟). The Assistant
+Director of Income-Tax („ADIT‟) Circle-II (1), International Transactions,
+by an order dated 20th July, 2004 declined the application. He, inter alia,
+proposed to initiate reassessment/revision proceedings under Sections
+147/263 in respect of the earlier orders to bring the correct income to tax in
+accordance with law. The plea taken in this order was that payments
+received by the Assesse, pursuant to the Operations and Maintenance
+(O&M) Agreements should be treated as fees for technical services („FTS‟)
+within the meaning of Explanation 2 to Section 9(1)(vii) of the Act and
+Article 13(4) (c) of the DTAA between India and U.K.
+8. Aggrieved by the above order, the Petitioner applied to the Director of
+Income Tax („DIT‟) under Section 264 of the Act. By an order dated 20th
+December, 2004, the DIT set aside the order of the ADIT, holding that the
+“Assesse here is neither making available technical knowledge, experience
+nor is developing and transferring technical plan or design.” He concluded
+ITA Nos.1058/2011, 1061/2011 & 1063/2011                          Page 4 of 11
+
+that the services rendered under the O&M Agreements "cannot be
+considered as ancillary or subsidiary to the enjoyment of any right
+prescribed as „royalty‟." Further, “under Article 13 therefore the fee for
+technical services does not fit into the nature of receipt the assessee is
+having.”
+9. Notwithstanding the above orders, the AO proceeded to reopen the
+assessments under Section 147 read with 148 of the Act for the three AYs in
+question, i.e., 1998-1999, 1999-2000 and 2001-2002. The reasons therefor
+were issued by the AO on 28th March 2005. It was noted inter alia by him
+therein that in the original assessment orders under Section 143(3) of the Act
+“no opinion with regard to taxation of these technical services has been
+formed by the then AO.” It was further stated that “the facts relating to the
+nature of income being fees for technical services have never been brought
+to the notice of the AO.”
+10. The Assessee objected to the reopening inter alia on the ground that it
+was based on mere „change of opinion‟. Its objections were rejected by an
+order dated 9th September, 2005.
+11. The reassessments were completed by treating the payments as FTS. The
+Assessee then carried the matter by way of appeals to the Commissioner of
+Income Tax (Appeals) [CIT(A)]. By a common order dated 29th December,
+2006 passed in the appeals pertaining to the three AYs in question, the
+CIT(A), relying on the decision of the Division Bench („DB‟) of this Court
+in Consolidated Photo and Finvest Ltd. v. Assistant Commissioner of
+Income-Tax, [2006] 281 ITR 394(Del), came to the conclusion that since
+ITA Nos.1058/2011, 1061/2011 & 1063/2011                         Page 5 of 11
+
+the original assessment orders were silent on the aspect of treating the
+payments received by the Assessee as FTS, the jurisdictional pre-condition
+for attracting Section 147 stood fulfilled.
+12. Aggrieved by the above order, the Assessee went before the ITAT. In
+the impugned order, the ITAT noted that while for AYs 1998-1999 and
+1999-2000 the notices under Section 148 of the Act were issued after four
+years, the notice for the AY 2001-2002 had been issued within four years.
+The ITAT referred to the decision of the Full Bench („FB‟) of this Court in
+CIT v. Kelvinator of India Ltd. (2002) 256 ITR 1 (Del). It also noted the
+decision of this Court in CIT vs. Eicher Ltd. (2007) 294 ITR 310(Del)
+where it was held that if the entire material had been placed by the Assessee
+before the AO at the time when the original assessment was made and the
+AO had applied his mind to material and accepted the view of the Assessee,
+then the assessment cannot be reopened merely on the basis of change of
+opinion.
+13. The ITAT examined the assessment orders, queries raised by the AO and
+the other material on record and concluded that the Assessee had duly
+disclosed the very nature of its activities. As regards the observation of the
+AO that the Assessee should have filed the accounts of each project
+individually, instead of filing the consolidated statement of accounts, the
+ITAT noted that the Assesse had been filing audited accounts. It opined that
+“it was the duty of the AO to have examined this aspect in the scrutiny
+assessment.” Further, the AO had called for information in that regard and
+the Assessee had submitted an explanation on its activities. The ITAT,
+ITA Nos.1058/2011, 1061/2011 & 1063/2011                         Page 6 of 11
+
+therefore, held that it was "a different perception of the new incumbent on
+the same details." Thus, the assessment has been reopened by the AO "only
+on the basis of the change of opinion". Further, the ITAT noted that for the
+AYs 1998-1999 and 1999-2000, the AO was unable to point out which
+material facts had not been disclosed by the Assessee. The Assessee‟s
+appeals were allowed and the reassessment orders set aside.
+14. This Court has heard the submissions of both Mr. Rahul Kaushik,
+learned Senior Standing Counsel for the Revenue and Mr. M.S. Syali,
+learned Senior Counsel for the Assessee. The Court has also perused the
+notices/questionnaires issued by the AO in the course of the assessment
+proceedings and the replies thereto by the Assessee. The Court has also
+perused the original assessment orders passed under Section 143(3) of the
+Act and the reasons for the reopening of the assessments.
+15. The main plank of the submission of the Revenue before the CIT(A),
+which has been adverted to by the ITAT in the impugned order, is the
+decision of the DB of this Court in Consolidated Photo and Finvest Ltd. v.
+Assistant Commissioner of Income-Tax (supra). In particular, reliance is
+placed on the following observations:
+         “19.....The argument that the proposed reopening of assessment was
+         based only upon a change of opinion has not impressed us. The
+         assessment order did not admittedly address itself to the question
+         which the assessing officer proposes to examine in the course of re-
+         assessment proceedings. The submission of Mr. Vohra that even when
+         the order of assessment did not record any explicit opinion on the
+         aspects now sought to be examined, it must be presumed that those
+         aspects were present to the mind of the assessing officer and had been
+         held in favour of the assessee is too farfetched a proposition to merit
+ITA Nos.1058/2011, 1061/2011 & 1063/2011                           Page 7 of 11
+
+         acceptance. There may indeed be a presumption that the assessment
+         proceedings have been regularly conducted, but there can be no
+         presumption that even when the order of assessment is silent, all
+         possible angles and aspects of a controversy had been examined and
+         determined by the assessing officer. It is trite that a matter in issue can
+         be validly determined only upon application of mind by the authority
+         determining the same. Application of mind is, in turn, best
+         demonstrated by disclosure of mind, which is best done by giving
+         reasons for the view which the authority is taking. In cases where the
+         order passed by a statutory authority is silent as to the reasons for the
+         conclusion it has drawn, it can well be said that the authority has not
+         applied its mind to the issue before it nor formed any opinion. The
+         principle that a mere change of opinion cannot be a basis for
+         reopening computed assessments would be applicable only to
+         situations where the assessing officer has applied his mind and taken a
+         conscious decision on a particular matter in issue. It will have no
+         application where the order of assessment does not address itself to
+         the aspect which is the basis for reopening of the assessment, as is the
+         position in the present case. It is in that view inconsequential whether
+         or not the material necessary for taking a decision was available to the
+         assessing officer either generally or in the form of a reply to the
+         questionnaire served upon the assessed. What is important is whether
+         the assessing officer had based on the material available to him taken
+         a view. If he had not done so, the proposed reopening cannot be
+         assailed on the ground that the same is based only on a change of
+         opinion.”
+16. The fact of the matter is that later Benches of this Court, including two
+Full Benches in CIT v. Kelvinator of India Ltd.(supra) and CIT v. Usha
+International Ltd., (2012) 348 ITR 485 have disagreed with the view
+expressed by the DB in Consolidated Photo and Finvest Ltd. v. Assistant
+Commissioner of Income-Tax(supra). In fact, the decision of the FB in CIT
+v. Kelvinator of India Ltd.(supra) was affirmed by the Supreme Court in
+CIT v. Kelvinator of India Ltd. [2010] 320 ITR 561 (SC).
+ITA Nos.1058/2011, 1061/2011 & 1063/2011                              Page 8 of 11
+
+17. The Full Bench of this Court in CIT v. Usha International Ltd.(supra),
+specifically overruled the decision of the DB in Consolidated Photo and
+Finvest Ltd. v. Assistant Commissioner of Income-Tax(supra). Even prior
+thereto, in KLM Royal Dutch Airlines v. ADIT [2007] 292 ITR 49, another
+DB of this Court noticed the anomaly that had resulted from the decision in
+Consolidated Photo and Finvest Ltd. v. Assistant Commissioner of
+Income-Tax (supra), which was contrary to other decisions, including the
+decision of the FB in CIT v. Kelvinator of India Ltd.(supra). This was
+noticed by the DB in KLM Royal Dutch Airlines v. ADIT (supra) where it
+observed:
+         “16. The Full Bench of this Court in Commissioner of Income-Tax v.
+         Kelvinator of India Ltd. [2002] 256 ITR 1 had opined that the
+         amendments introduced into Section 147 with effect from 1.4.1989
+         have not altered the position that a mere change of opinion of the AO
+         was not sufficient ground for embarking on a reassessment. Calcutta
+         Discount was duly considered and applied by the Full Bench. The Full
+         Bench further observed that an order of assessment must be presumed
+         to have been passed by the AO concerned after due and proper
+         application of mind. In these circumstances the decision of the
+         Division Bench in Consolidated Photo and Finvest Ltd. v. Assistant
+         Commissioner of Income-Tax , inasmuch as it is irreconcilable with
+         the views of the Full Bench, must be held not to lay down the correct
+         law. This is especially so since the assessment proceedings had not
+         come to an end under the first sub-section of Section 143, but under
+         the third Sub-section. A Division Bench of a particular High Court is
+         fully bound by the view preferred by a larger Bench of that Court,
+         regardless of the fact that another High Court prefers a different view
+         in this case that of the Gujarat High Court as in Gruh Finance Ltd. v.
+         Joint Commissioner of Income-Tax (Assessment) , Praful Chunilal
+         Patel v. M.J. Makwana, Assistant CIT and Garden Silk Mills Ltd. v.
+         Deputy CIT (No. 1). The Full Bench of this Court has taken into
+         consideration both Praful Chunilal Patel as well as Garden Silk Mills.
+         In Kelvinator the Full Bench had also analysed the earlier Division
+ITA Nos.1058/2011, 1061/2011 & 1063/2011                           Page 9 of 11
+
+         Bench decisions, namely, Jindal Photo Films Ltd. v. Deputy
+         Commissioner of Income-Tax presided over by R.C. Lahoti J. (as
+         learned Chief Justice of India then was) and Bawa Abhai Singh v.
+         Deputy Commissioner of Income-Tax [2002] 253 ITR 83 comprising
+         Arijit Pasayat and D.K. Jain JJ. (as their Lordships then were). It is
+         quite possible that had the Court in Consolidated Photo been made
+         aware of the consistent opinion of this Court in Jindal Photo and
+         Bawa Abhai Singh, their conclusion may have been totally different,
+         notwithstanding alternative view of the Gujarat High Court.”
+18. There is no manner of doubt that the decision of the DB of this Court in
+Consolidated Photo and Finvest Ltd. v. Assistant Commissioner of
+Income-Tax(supra) is no longer good law. The main plank of the Revenue's
+case before this Court, therefore, fails. Nevertheless, the Court proceeds to
+examine the question of validity of the reopening of the assessments for the
+AYs in question.
+19. The fact of the matter is that during the course of the original
+assessments under Section 143 (3), the AO did serve upon the Assessee a
+detailed questionnaire. The AO examined the nature of the transactions
+involving the Assessee and the payments received therefor. The reopening
+was not based on any fresh material. By revisiting the same materials the
+successor AO now concluded that the payments received by the Assessee
+pursuant to the O&M Agreements should be treated as FTS. In the
+circumstances, the view taken by a successor AO on the same material was
+indeed nothing but a mere change of opinion. It is a well-settled legal
+proposition, as explained in Calcutta Discount Co. Ltd. v. ITO [1961] 41
+ITR 191(SC) that once an Assessee has discharged the burden of not only
+producing the account books and other documents, but also the specific
+ITA Nos.1058/2011, 1061/2011 & 1063/2011                          Page 10 of 11
+
+material relevant to the assessment, "it is for the Income-tax Officer to draw
+the proper inferences of fact and law therefrom and the Assessee cannot
+further be called upon to do so for him."      In Indian Oil Corporation v.
+ITO [1986] 159 ITR 956. the Court pertinently observed "it is for the taxing
+authority to draw inference. It is not necessary for the Assessee to draw
+inference.” These observations apply on all fours to the case on hand. Here
+the Assessee had discharged its burden of disclosing fully and truly all the
+material facts before the AO during the original assessments. There was no
+basis for the successor AO to conclude that "no opinion with regard to
+taxation" of the payments received for the services rendered had been
+formed by the AO. It is plain that the pre-condition for invoking Section 147
+did not exist. The assumption of jurisdiction under Section 148 of the Act
+was not valid.
+20. Consequently, the question framed by this Court on the above aspect is
+answered in the affirmative, i.e., in favor of the Assesse and against the
+Revenue. The appeals are dismissed, but with no order as to costs.
+                                                         S.MURALIDHAR, J
+                                                   CHANDER SHEKHAR, J
+MAY 18, 2017/tp
+ITA Nos.1058/2011, 1061/2011 & 1063/2011                         Page 11 of 11
+
+

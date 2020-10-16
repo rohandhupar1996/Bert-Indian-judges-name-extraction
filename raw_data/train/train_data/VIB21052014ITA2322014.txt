@@ -1,0 +1,281 @@
+            THE HIGH COURT OF DELHI AT NEW DELHI
+%                                 Judgment delivered on: 21.05.2014
++        ITA 232/2014
+COMMISSIONER OF INCOME TAX-VI                              ..... Appellant
+                                     versus
+WORLDWIDE TOWNSHIP PROJECTS LTD                            ..... Respondent
+Advocates who appeared in this case:
+For the Appellant : Mr Rohit Madan, Mr P. Roy Choudhary
+                       and Mr Akash Vajpai.
+For the Respondent: None.
+CORAM:
+HON'BLE MR. JUSTICE S. RAVINDRA BHAT
+HON'BLE MR. JUSTICE VIBHU BAKHRU
+                                 JUDGMENT
+VIBHU BAKHRU, J (ORAL)
+1.        This is an appeal filed by the Revenue under Section 260A of the
+Income Tax Act, 1961 (hereinafter referred to as ‘the Act’). The appellant
+impugns the order dated 31.10.2013 passed by the Income Tax Appellate
+Tribunal (ITAT), whereby the ITAT had held that the penalty order passed
+by the Assessing Officer under Section 271D of the Act was unsustainable,
+as it was passed beyond the period of six months as prescribed under
+Section 275(1)(c) of the Act.
+2.       The learned counsel for the Revenue contends that the ITAT erred in
+holding that Section 275(1)(c) of the Act was applicable in the present case.
+According to the Revenue, Section 275(1)(a) of the Act would be
+applicable in respect of the penalty imposed in the facts and circumstances
+ITA 232/2014                                                       Page 1 of 10
+
+of the case and not Section 275(1)(c) of the Act.
+3.       Briefly stated the facts are:-
+3.1      That the respondent/assessee filed its return of income for the
+assessment year 2007-08 on 30.10.2007. The return was taken up for
+scrutiny and the Assessing Officer found that during the year in question,
+the assessee had shown purchases of land worth `14.22 crores which was
+reflected as closing stock in trade. The assessee had also reflected a sum of
+`14,25,74,302/- as Sundry Creditors. The assessee explained that the
+Sundry Creditor reflected in its books was M/s PACL India Ltd., which had
+purchased lands on behalf of assessee from several land owners. M/s PACL
+India Ltd. had made payments through demand drafts to various land
+owners from whom the land was acquired on behalf of the assessee. The
+Assessing Officer concluded, that the transaction as disclosed by the
+assessee amounted to M/s PACL India Ltd. extending a loan to the
+assessee. The Assessing Officer further concluded that the said transaction
+fell foul of the provisions of Section 269SS/269T of the Act, which
+proscribed any person from accepting any loan or deposit exceeding
+`20,000/- otherwise than by an account payee cheque. Since no funds had
+passed through the bank accounts of the assessee for acquisition of the
+lands or the alleged loan extended by M/s PACL India Ltd, the Assessing
+Officer concluded that penalty proceedings under Section 271D of the Act
+were liable to be initiated.         Although, the Assessing Officer, by its
+assessment order dated 30.12.2009, accepted the income as returned by the
+assessee he issued directions for initiating penalty proceedings under
+Section 271D of the Act for alleged violation of the provisions of Section
+ITA 232/2014                                                      Page 2 of 10
+
+269SS/269T of the Act.
+3.2       The assessment order dated 30.12.2009 was carried in appeal by the
+assessee, inter alia, on the ground that the conclusion of the Assessing
+Officer, that the assessee had infringed the provisions of Section
+269SS/269T of the Act was erroneous, as no cash payments had been made
+or received by the appellant. The assessee also challenged initiation of
+penalty proceedings under Section 271(1)(c) and 271D of the Act. The CIT
+(Appeals) rejected the appeal filed by the assessee by an order dated
+23.02.2012, whereby it held that since no penalty had been levied by the
+Assessing Officer under Section 271(1)(c) or 271D of the Act, the appeal
+filed by the assessee was pre-mature and could not be adjudicated.
+3.3      Thereafter, the Assessing Officer passed a penalty order dated
+10.03.2012 under Section 271D of the Act whereby the Assessing Officer
+held that the assessee had violated the provisions of Section 269SS of the
+Act as sums aggregating `14,25,74,302/- were transferred to the loan
+account in the form of book entries, otherwise than through an account
+payee cheque or a account payee draft. This according to the Assessing
+Officer contravened the provisions of Section 269SS of the Act and,
+accordingly, a penalty of `14,25,74,302/- was imposed.
+3.4      This order was also carried in appeal before the CIT (Appeals). The
+assessee impugned the penalty order on the grounds that it was barred by
+limitation as well as on merits. The CIT (Appeals) rejected the contentions
+of the assessee that penalty order was beyond the prescribed period of
+limitation and held that the order fell within the purview of Section
+271(1)(a) and not Section 275(1)(c) of the Act. However, on merits the
+ITA 232/2014                                                     Page 3 of 10
+
+CIT (Appeals) referred to the decision of this Court in CIT v. Noida Toll
+Bridge Co. Ltd.: 262 ITR 260 and negated the finding of the Assessing
+Officer that Section 269SS of the Act was violated in the given
+circumstances of the case.
+3.5      The aforementioned order of CIT (Appeals) dated 28.01.2013 was
+challenged by both the Revenue as well as the assessee. Whilst the assessee
+was aggrieved with the conclusion of CIT (Appeals) that the penalty order
+was within time, the Revenue was aggrieved by the finding that Provisions
+of Section 269SS of the Act were not violated. The ITAT accepted the
+contention of the assessee that penalty order under Section 271D of the Act
+was barred by time as the provisions of Section 271(1)(c) of the Act were
+applicable in the given facts of the case. In view of this finding, the ITAT
+concluded that the appeal preferred by the Revenue has become
+infructuous.
+4.       The learned counsel for the Revenue has contended that the
+assessment order for the assessment year 2007-08 was passed on
+30.12.2009.     The assessee’s appeal, impugning this order before CIT
+(Appeals), was rejected on 23.02.2012. According to the Revenue, an order
+imposing penalty under Section 271D of the Act could be passed till
+31.03.2013 (i.e. one year after the end of the financial year 2011-12 during
+which the appeal order was passed). It was submitted that since the penalty
+order under Section 271D of the Act was passed on 10.03.2012, the same
+was within the period prescribed under Section 275(1)(a) of the Act. The
+said contention is permitted on the basis that provisions of Section
+275(1)(a) of the Act are applicable. This was disputed by the assessee. It is
+ITA 232/2014                                                     Page 4 of 10
+
+the assessee’s case that in the given facts and circumstances, Section
+275(1)(c) of the Act is applicable which provides that the penalty order has
+to be passed in the financial year in which the proceedings for imposing the
+penalty are initiated or within six months of initiation of such proceedings,
+whichever is later. Initiation of proceedings was referred to in the
+assessment order dated 30.12.2009. Thus, the time period for imposing
+penalty expired on 31.03.2010. The penalty order refers to a show cause
+notice dated 07.03.2011. There is some controversy whether this show
+cause notice was in fact, issued. However, without going into this
+controversy, it is apparent that if Section 275(1)(c) of the Act is applicable
+then in any view the period for passing the penalty order would expire
+within six months of the said date.
+5.       Concededly, if Section 275(1)(c) of the Act is applicable, the penalty
+order is beyond the prescribed period. In the present case, the penalty
+sought to be imposed on the assessee is for alleged violation of Section
+269SS of the Act. It is well settled that a penalty under this provision is
+independent of the assessment. The action inviting imposition of penalty is
+granting of loans above the prescribed limit otherwise than through banking
+channels and as such infringement of Section 269SS of the Act is not
+related to the income that may be assessed or finally adjudicated. In this
+view Section 275(1)(a) of the Act would not be applicable and the
+provisions of Section 275(1)(c) would be attracted. The Rajasthan High
+Court in the case of Commissioner of Income-Tax v. Hissaria Bros.:
+(2007) 291 ITR 244 (Raj.) after examining a case which was factually
+similar to the present one, expressed similar view and held as under:-
+ITA 232/2014                                                       Page 5 of 10
+
+                “The expression other relevant thing used in Section
+         275(1)(a) and clause (b) of Sub-section (1) of section 275 is
+         significantly missing from clause (c) of section 275(1) to
+         make out this distinction very clear.
+                We are, therefore, of the opinion that since penalty
+         proceedings for default in not having transactions through the
+         bank as required under sections 269SS and 269T are not
+         related to the assessment proceeding but are independent of it,
+         therefore, the completion of appellate proceedings arising out
+         of the assessment proceedings or the other proceedings during
+         which the penalty proceedings under sections 271D and 271E
+         may have been initiated has no relevance for sustaining or not
+         sustaining the penalty proceedings and, therefore, clause (a) of
+         sub-section (1) of section 275 cannot be attracted to such
+         proceedings. If that were not so clause (c) of section 275(1)
+         would be redundant because otherwise as a matter of fact
+         every penalty proceeding is usually initiated when during
+         some proceedings such default is noticed, though the final fact
+         finding in this proceeding may not have any bearing on the
+         issues relating to establishing default e.g. penalty for not
+         deducting tax at source while making payment to employees,
+         or contractor, or for that matter not making payment through
+         cheque or demand draft where it is so required to be made.
+         Either of the contingencies does not affect the computation of
+         taxable income and levy of correct tax on chargeable income;
+         if clause (a) was to be invoked, no necessity of clause (c)
+         would arise.”
+6.       The ITAT, following the aforesaid decision allowed the appeal
+preferred by the assessee. We do not find any infirmity with this view.
+7.       More importantly, we are unable to appreciate as to how in the given
+circumstance of the case an offence under Section 269SS of the Act is
+made out. At this stage, we may refer to Section 269SS of the Act. The
+relevant extract of the same reads as under:-
+ITA 232/2014                                                        Page 6 of 10
+
+         “269SS. Mode of taking or accepting certain loans and
+         deposits
+                No person shall, after the 30th day of June, 1984, take or
+         accept from any other person (hereafter in this section referred
+         to as the depositor), any loan or deposit otherwise than by an
+         account payee cheque or account payee bank draft if,—
+         (a) the amount of such loan or deposit or the aggregate amount
+              of such loan and deposit; or
+         (b) on the date of taking or accepting such loan or deposit, any
+              loan or deposit taken or accepted earlier by such person
+              from the depositor is remaining unpaid (whether
+              repayment has fallen due or not), the amount or the
+              aggregate amount remaining unpaid; or
+         (c) the amount or the aggregate amount referred to in clause
+              (a) together with the amount or the aggregate amount
+              referred to in clause (b),
+         is twenty thousand rupees or more:
+                Provided that the provisions of this section shall not
+         apply to any loan or deposit taken or accepted from, or any loan
+         or deposit taken or accepted by,—
+         (a) Government;
+         (b) any banking company, post office savings bank or co-
+              operative bank;
+         (c) any corporation established by a Central, State or
+              Provincial Act;
+         (d) any Government company as defined in section 617 of the
+              Companies Act, 1956 (1 of 1956);
+         (e) such other institution, association or body or class of
+              institutions, associations or bodies which the Central
+              Government may, for reasons to be recorded in writing
+              notify in this behalf in the Official Gazette:
+         Provided further that the provisions of this section shall not
+         apply to any loan or deposit where the person from whom the
+         loan or deposit is taken or accepted and the person by whom the
+ITA 232/2014                                                        Page 7 of 10
+
+         loan or deposit is taken or accepted are both having agricultural
+         income and neither of them has any income chargeable to tax
+         under this Act.
+               Explanation.—For the purposes of this section,—
+               (i)   “banking company” means a company to which
+                     the Banking Regulation Act, 1949 (10 of 1949),
+                     applies and includes any bank or banking
+                     institution referred to in section 51 of that Act;
+               (ii)  “co-operative bank” shall have the meaning
+                     assigned to it in Part V of the Banking Regulation
+                     Act, 1949 (10 of 1949);
+               (iii) “loan or deposit” means loan or deposit of
+                     money.”
+8.       A plain reading of the aforesaid Section indicates that (the import of
+the above provision is limited) it applies to a transaction where a deposit or
+a loan is accepted by an assessee, otherwise than by an account payee
+cheque or an account payee draft. The ambit of the Section is clearly
+restricted to transaction involving acceptance of money and not intended to
+affect cases where a debt or a liability arises on account of book entries.
+The object of the Section is to prevent transactions in currency. This is also
+clearly explicit from clause (iii) of the explanation to Section 269SS of the
+Act which defines loan or deposit to mean “loan or deposit of money”. The
+liability recorded in the books of accounts by way of journal entries, i.e.
+crediting the account of a party to whom monies are payable or debiting the
+account of a party from whom monies are receivable in the books of
+accounts, is clearly outside the ambit of the provision of Section 269SS of
+the Act, because passing such entries does not involve acceptance of any
+loan or deposit of money. In the present case, admittedly no money was
+transacted other than through banking channels. M/s PACL India Ltd.
+ITA 232/2014                                                         Page 8 of 10
+
+made certain payments through banking channels to land owners. This
+payment made on behalf of the assessee was recorded by the assessee in its
+books by crediting the account of M/s PACL India Ltd. In view of this
+admitted position, no infringement of Section 269SS of the Act is made out.
+This Court, in the case of Noida Toll Bridge Co. Ltd. (supra), considered a
+similar case where a company had paid money to the Government of Delhi
+for acquisition of a land on behalf of the assessee therein. The Assessing
+Officer levied a penalty under Section 271D of the Act for alleged violation
+of the provisions of Section 269SS of the Act since the books of the
+assessee reflected the liability on account of the lands acquired on its
+behalf. On appeal, the CIT (Appeals) affirmed the penalty. The order of
+the CIT was successfully impugned by the assessee before the ITAT. On
+appeal, this Court held as under:-
+                “While holding that the provisions of Section 269SS of
+         the Act were not attracted, the Tribunal has noticed that: (i) in
+         the instant case, the transaction was by an account payee
+         cheque, (ii) no payment on account was made in cash either
+         by the assessed or on its behalf, (iii) no loan was accepted by
+         the assessee in cash, and (iv) the payment of Rs. 4.85 crores
+         made by the assessee through IL & FS, which holds more
+         than 30 per cent. of the paid-up capital of the assessee, by
+         journal entry in the books of account of the assessed by
+         crediting the account of IL & FS.
+                Having regard to the aforenoted findings, which are
+         essentially findings of fact, we are in complete agreement
+         with the Tribunal that the provisions of section 269SS were
+         not attracted on the facts of the case. Admittedly, neither the
+         assessee nor IL & FS had made any payment in cash. The
+         order of the Tribunal does not give rise to any question of law,
+         much less a substantial question of law.
+ITA 232/2014                                                        Page 9 of 10
+
+              We accordingly decline to entertain the appeal.
+         Dismissed.”
+9.       In our view, the present appeal is bereft of any merit and is,
+accordingly, dismissed.
+                                              VIBHU BAKHRU, J
+                                           S. RAVINDRA BHAT, J
+MAY 21, 2014
+RK
+ITA 232/2014                                               Page 10 of 10
+
+

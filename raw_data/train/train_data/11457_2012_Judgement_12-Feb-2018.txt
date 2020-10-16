@@ -1,0 +1,1162 @@
+                                              1
+                                                                      REPORTABLE
+                              IN THE SUPREME COURT OF INDIA
+                               CIVIL APPELLATE JURISDICTION
+                             CIVIL APPEAL NOS. 104-109 OF 2015
+      MAXOPP INVESTMENT LTD.                                  .....APPELLANT(S)
+                                          VERSUS
+      COMMISSIONER OF INCOME TAX,
+      NEW DELHI                                           .....RESPONDENT(S)
+                                           WITH
+                                CIVIL APPEAL NO. 1423 OF 2015
+                                CIVIL APPEAL NO. 3267 OF 2013
+                                CIVIL APPEAL NO. 130 OF 2015
+                             CIVIL APPEAL NOS. 110-112 OF 2015
+                               CIVIL APPEAL NO. 1500 OF 2018
+                       (ARISING OUT OF SLP (CIVIL) NO. 19614 OF 2013)
+                               CIVIL APPEAL NO. 1508 OF 2018
+                       (ARISING OUT OF SLP (CIVIL) NO. 31417 OF 2016)
+Signature Not Verified
+Digitally signed by
+ASHWANI KUMAR
+Date: 2018.03.13
+17:10:40 IST
+Reason:                         CIVIL APPEAL NO. 115 OF 2015
+                                CIVIL APPEAL NO. 8596 OF 2014
+
+                         2
+         CIVIL APPEAL NO. 1505 OF 2018
+  (ARISING OUT OF SLP (CIVIL) NO. 27054 OF 2016)
+         CIVIL APPEAL NOS. 10096 OF 2013
+           CIVIL APPEAL NO. 123 OF 2015
+          CIVIL APPEAL NO. 6590 OF 2015
+          CIVIL APPEAL NO. 1576 OF 2018
+(@ SPECIAL LEAVE PETITION (CIVIL) NO. 4024 OF 2018
+             @ DIARY NO. 39820 OF 2017)
+         CIVIL APPEAL NO. 1579 OF 2018
+  (ARISING OUT OF SLP (CIVIL) NO. 20475 OF 2017)
+         CIVIL APPEAL NO. 1578 OF 2018
+  (ARISING OUT OF SLP (CIVIL) NO. 23123 OF 2017)
+          CIVIL APPEAL NO. 18019 OF 2017
+         CIVIL APPEAL NO. 1580 OF 2018
+    (ARISING OUT OF SLP (CIVIL) 32405 OF 2017)
+         CIVIL APPEAL NO. 1575     OF 2018
+(@ SPECIAL LEAVE PETITION (CIVIL) NO. 4023 OF 2018
+             @ DIARY NO. 36413 OF 2017)
+          CIVIL APPEAL NO. 2802 OF 2018
+(@ SPECIAL LEAVE PETITION (CIVIL) NO. 6746 OF 2018
+              @ DIARY NO. 1146 OF 2018)
+          CIVIL APPEAL NO. 2791 OF 2018
+
+                                        3
+          (@ SPECIAL LEAVE PETITION (CIVIL) NO. 6685 OF 2018
+                        @ DIARY NO. 39823 OF 2017)
+                    CIVIL APPEAL NO. 2792          OF 2018
+          (@ SPECIAL LEAVE PETITION (CIVIL) NO. 6686 OF 2018
+                        @ DIARY NO. 41903 OF 2017)
+                    CIVIL APPEAL NO. 1577          OF 2018
+          (@ SPECIAL LEAVE PETITION (CIVIL) NO. 4027 OF 2018
+                        @ DIARY NO. 41890 OF 2017)
+                     CIVIL APPEAL NO. 2793 OF 2018
+          (@ SPECIAL LEAVE PETITION (CIVIL) NO. 6687 OF 2018
+                        @ DIARY NO. 41203 OF 2017)
+                                     AND
+                    CIVIL APPEAL NO. 2794          OF 2018
+         (@ SPECIAL LEAVE PETITION (CIVIL) NO. 6688          OF 2018
+                        @ DIARY NO. 41922 OF 2017)
+                            JUDGMENT
+A.K. SIKRI, J.
+           Chapter IV of the Income Tax Act, 1961 (hereinafter referred to as
+     the ‘Act’) contains the provisions pertaining to ‘computation of total
+     income’.    Section 14 which is the first provision under this Chapter
+     enumerates five heads of income within which all income are to be
+     classified. Under the scheme of the Act, certain types of income are
+     exempt from tax and, in this behalf, specific provisions are made
+     stipulating that such incomes would not form part of the total income
+     under the Act as fortiorari, they are not included under any of the heads
+
+                                        4
+   of income and, therefore, no taxes levied on such exempted incomes. It
+   is in this backdrop, Section 14A of the Act clarifies that if any expenditure
+   is incurred in earning that income which does not form part of the total
+   income, such expenditure shall also not be allowed as deduction.
+   Though, Section 14A was inserted by the Finance Act, 2001, but it was
+   given retrospective effect from April 1, 1962. Original Section was in the
+   following terms:
+              “Section 14A - For the purposes of computing the total income
+              under this Chapter, no deduction shall be allowed in respect
+              of expenditure incurred by the assessee in relation to income
+              which does not form part of the total income under this Act.”
+2) By the Finance Act, 2006, the aforesaid provision was amended
+   whereby it was renumbered as sub-section (1) and sub-sections (2) and
+   (3) were added thereto.         Before that, a proviso was also added by
+   amendment vide Finance Act, 2002 which was to operate retrospectively
+   from May 11, 2001. In these batch of appeals, we are not concerned
+   with sub-sections (2), (3) or the proviso and it is only interpretation that
+   has to be given to sub-section (1), which arises for consideration.
+3) Though, it is clear from the plain language of the aforesaid provision that
+   no deduction is to be allowed in respect of expenditure incurred by the
+   assessee in relation to income which does not form part of the total
+   income under the Act, the effect whereof is that if certain income is
+   earned which is not to be included while computing total income, any
+
+                                      5
+   expenditure incurred to earn that income is also not allowed as a
+   deduction. It is well known that tax is leviable on the net income. Net
+   income is arrived at after deducting the expenditures incurred in earning
+   that income. Therefore, from the gross income, expenditure incurred to
+   earn that income is allowed as a deduction and thereafter tax is levied
+   on the net income. The purpose behind Section 14A of the Act, by not
+   permitting deduction of the expenditure incurred in relation to income,
+   which does not form part of total income, is to ensure that the assessee
+   does not get double benefit. Once a particular income itself is not to be
+   included in the total income and is exempted from tax, there is no
+   reasonable basis for giving benefit of deduction of the expenditure
+   incurred in earning such an income. For example, income in the form of
+   dividend earned on shares held in a company is not taxable. If a person
+   takes interest bearing loan from the Bank and invests that loan in
+   shares/stocks, dividend earned therefrom is not taxable.         Normally,
+   interest paid on the loan would be expenditure incurred for earning
+   dividend income. Such an interest would not be allowed as deduction
+   as it is an expenditure incurred in relation to dividend income which itself
+   is spared from tax net. There is no quarrel upto this extent.
+4) However, in these appeals, the question has arisen under varied
+   circumstances where the shares/stocks were purchased of a company
+   for the purpose of gaining control over the said company or as
+
+                                      6
+   ‘stock-in-trade’. However, incidentally income was also generated in the
+   form of dividends as well. On this basis, the assessees contend that the
+   dominant intention for purchasing the share was not to earn dividends
+   income but control of the business in the company in which shares were
+   invested or for the purpose of trading in the shares as a business activity
+   etc. In this backdrop, the issue is as to whether the expenditure incurred
+   can be treated as expenditure ‘in relation to income’ i.e. dividend income
+   which does not form part of the total income. To put it differently, is the
+   dominant or main object would be a relevant consideration in
+   determining as to whether expenditure incurred is ‘in relation to’ the
+   dividend income. In most of the appeals, including in Civil Appeal Nos.
+   104-109 of 2015, aforesaid is the scenario.         Though, in some other
+   cases, there may be little difference in fact situation. However, all these
+   cases pertain to dividend income, whether it was for the purpose of
+   investment in order to retain controlling interest in a company or in group
+   of companies or the dominant purpose was to have it as stock-in-trade.
+5) Before we proceed further, we may briefly note the facts of Civil Appeal
+   Nos. 104-109 of 2015, for better understanding of the issue involved.
+         The appellant company is engaged, inter alia, in the business of
+   finance, investment and dealing in shares and securities. The appellant
+   holds shares/securities in two portfolios, viz. (a) as investment on capital
+
+                                  7
+account; and, (b) as trading assets for the purpose of acquiring and
+retaining control over investee group companies, particularly Max India
+Ltd., a widely held quoted public limited company. Any profit/loss arising
+on sale of shares/securities held as ‘investment’ is returned as income
+under the head ‘capital gains’, whereas profit/loss arising on sale of
+shares/securities held as ‘trading assets’ (i.e. held, inter alia, with the
+intention of acquiring, exercising and retaining control over investee
+group companies) has been regularly offered and assessed to tax as
+business income under the head ‘profits and gains of business or
+profession’.
+      Consistent with the aforesaid treatment regularly followed, the
+appellant filed return for the previous year relevant to the Assessment
+Year 2002-03, declaring income of Rs.78,90,430/-.         No part of the
+interest expenditure of Rs.1,16,21,168/- debited to the profit and loss
+account, to the extent relatable to investment in shares of Max India
+Limited, yielding tax free dividend income, was considered disallowable
+under Section 14A of the Act on the ground that shares in the said
+company were acquired for the purposes of retaining controlling interest
+and not with the motive of earning dividend. According to the appellant,
+the dominant purpose/intention of investment in shares of Max India Ltd.
+was acquiring/retaining controlling interest therein and not earning
+dividend and, therefore, dividend of Rs.49,90,860/- earned on shares of
+
+                                        8
+     Max India Ltd. during the relevant previous year was only incidental to
+     the holding of such shares. The Assessing Officer (AO), while passing
+     the assessment order dated August 27, 2004, under Section 143(3)
+     worked out disallowance under
+     Section 14A of the Act at Rs.67,74,175/- by apportioning the interest
+     expenditure of Rs.1,16,21,168/- in the ratio of investment in shares of
+     Max India Ltd. (on which dividend was received) to the total amount of
+     unsecured loan. The AO, however, restricted disallowance under that
+     Section to Rs.49,90,860/- being the amount of dividend received and
+     claimed exempt.
+  6) In appeal, the Commissioner of Income Tax (Appeals) {CIT(A)} vide
+     order dated January 12, 2005 upheld the order of the AO. The appellant
+     herein carried the matter in further appeal to the Income Tax Appellate
+     Tribunal, New Delhi (for short the ‘ITAT’).    In view of the conflicting
+     decisions of various Benches by the ITAT with respect to the
+     interpretation of Section 14A of the Act, a Special Bench was constituted
+     in the matter of ITO v. Daga Capital Management (Private) Ltd. 1 The
+     appeal of the appellant was also tagged and heard by the aforesaid
+     Special Bench.
+  7) The Special Bench of the ITAT in the case of Daga Capital
+     Management (Private) Ltd., dismissing the appeal of the appellant,
+1                       312 ITR (AT) 1
+
+                                      9
+   inter alia, held that investment in shares representing controlling interest
+   did not amount to carrying on of business and, therefore, interest
+   expenditure incurred for acquiring shares in group companies was hit by
+   the provisions of Section 14A of the Act. The Special Bench further held
+   that holding of shares with the intention of acquiring/retaining controlling
+   interest would normally be on capital account, i.e. as investment and not
+   as ‘trading assets’. For that reason too, the Special Bench held that
+   there existed dominant connection between interest paid on loan utilized
+   for acquiring the aforesaid shares and earning of dividend income.
+   Consequently, the provisions of Section 14A of the Act were held to be
+   attracted on the facts of the case.
+8) On the interpretation of the expression ‘in relation to’, the majority
+   opinion of the Special Bench was that the requirement of there being
+   direct and proximate connection between the expenditure incurred and
+   exempt income earned could not be read into the provision. According
+   to the majority view, ‘what is relevant is to work out the expenditure in
+   relation to the exempt income and not to examine whether the
+   expenditure incurred by the assessee has resulted into exempt income
+   or taxable income’. As per the minority view, however, the existence of
+   dominant and immediate connection between the expenditure incurred
+   and dividend income was a condition precedent for invoking the
+   provisions of Section 14A of the Act. It was accordingly held, as per the
+
+                                        10
+     minority, that mere receipt of dividend income, incidental to the holding
+     of shares, in the case of a dealer in shares, would not be sufficient for
+     invoking provisions of Section 14A of the Act.
+  9) Against the aforesaid order of the Special Bench, the appellant preferred
+     appeal under Section 260A of the Act to the High Court. The High
+     Court of Delhi has, vide impugned judgment dated November 18, 2011,
+     held that the expression ‘in relation to’ appearing in Section 14A of the
+     Act was synonymous with ‘in connection with’ or ‘pertaining to’, and, that
+     the provisions of that Section apply regardless of the intention/motive
+     behind making the investment.           As a consequence, proportionate
+     disallowance of the expenditure incurred by the assessee is maintained.
+  10)      It would be pertinent to point out at this stage that Punjab and
+     Haryana High Court in a recent judgment in the case of Principal
+     Commissioner of Income Tax v. State Bank of Patiala2 has taken a
+     view which runs contrary to the aforesaid view taken by the Delhi High
+     Court. The Punjab and Haryana High Court followed, with approval, the
+     judgment of the High Court of Karnataka in CCI Ltd. v. Joint
+     Commissioner of Income Tax, Udupi Range 3 The Revenue has filed
+     appeals challenging the correctness of the aforesaid decisions. Thus, in
+     view of conflict of opinions of various High Courts, these batch of
+2                      (2017) 391 ITR 218 (P&H)
+3                      (2012) 206 Taxman 563
+
+                                        11
+  appeals are by those assessees who were lost before the High Court
+  and by the Income Tax Department against the judgments of the High
+  Court where the view taken is favourable to the assessee and against
+  the Revenue.
+11)     Before adverting to the discussions on these judgments, let us go
+  through the relevant statutory provisions, as that would enable us to
+  appreciate the ratio of these cases more appropriately. Since the focus
+  of discussion is Section 14A of the Act, we reproduce Section 14A in its
+  entirety hereinbelow:
+            “Expenditure incurred in relation to income not includible in
+            total income.
+            14A. (1) For the purposes of computing the total income
+            under this Chapter, no deduction shall be allowed in respect
+            of expenditure incurred by the assessee in relation to income
+            which does not form part of the total income under this Act.
+            (2) The Assessing Officer shall determine the amount of
+            expenditure incurred in relation to such income which does
+            not form part of the total income under this Act in accordance
+            with such method as may be prescribed, if the Assessing
+            Officer, having regard to the accounts of the assessee, is not
+            satisfied with the correctness of the claim of the assessee in
+            respect of such expenditure in relation to income which does
+            not form part of the total income under this Act.
+            (3) The provisions of sub-section (2) shall also apply in
+            relation to a case where an assessee claims that no
+            expenditure has been incurred by him in relation to income
+            which does not form part of the total income under this Act :
+                      Provided that nothing contained in this section shall
+            empower the Assessing Officer either to reassess under
+            section 147 or pass an order enhancing the assessment or
+            reducing a refund already made or otherwise increasing the
+            liability of the assessee under section 154, for any
+
+                                                  12
+                   assessment year beginning on or before the 1st day of April,
+                   2001.”
+    12)        Sub-section (2) of Section 14A deals with the proportionality as it
+       empowers the AO to extricate that amount of expenditure which is
+       incurred in relation to such income which does not form part of the total
+       income under the Act. However, this is to be done ‘in accordance with
+       such method as may be prescribed.’ This prescription is provided by the
+       delegated legislation, in the form of Rule 8D of the Income Tax Rules,
+       1962 (for short ‘Rules’) which Rule was inserted w.e.f. March 24, 2008
+       vide Income Tax (Fifth Amendment) Rules, 2008 4. We, thus, reproduce
+       Rule 8D hereunder:
+                   “Method for determining amount of expenditure in
+                   relation to income not includible in total income.
+                   8D.(1) Where the Assessing Officer, having regard to the
+                   accounts of the assessee of a previous year, is not satisfied
+                   with—
+                   (a) the correctness of the claim of expenditure made by the
+                   assessee; or
+                   (b) the claim made by the assessee that no expenditure has
+                   been incurred,
+                   in relation to income which does not form part of the total
+                   income under the Act for such previous year, he shall
+                   determine the amount of expenditure in relation to such
+                   income in accordance with the provisions of sub-rule (2).
+                   (2) The expenditure in relation to income which does not form
+                   part of the total income shall be the aggregate of following
+                   amounts, namely:—
+4                             In Civil Appeal No. 2165 of 2012 (Commissioner of Income Tax,
+Mumbai v. M/s. Essar Teleholdings Ltd. through its Manager pronounced on January 31, 2018,
+this Court has held that Rule 8D is prospective in nature.
+
+                                        13
+             (i) the amount of expenditure directly relating to income which
+             does not form part of total income;
+             (ii) in a case where the assessee has incurred expenditure by
+             way of interest during the previous year which is not directly
+             attributable to any particular income or receipt, an amount
+             computed in accordance with the following formula, namely:—
+             Where A = amount of expenditure by way of interest other
+             than the amount of interest included in clause (i) incurred
+             during the previous year;
+             B = the average of value of investment, income from which
+             does not or shall not form part of the total income, as
+             appearing in the balance sheet of the assessee, on the first
+             day and the last day of the previous year;
+             C = the average of total assets as appearing in the balance
+             sheet of the assessee, on the first day and the last day of the
+             previous year;
+             (iii) an amount equal to one-half per cent of the average of the
+             value of investment, income from which does not or shall not
+             form part of the total income, as appearing in the balance
+             sheet of the assessee, on the first day and the last day of the
+             previous year.
+             (3) For the purposes of this rule, the “total assets” shall mean,
+             total assets as appearing in the balance sheet excluding the
+             increase on account of revaluation of assets but including the
+             decrease on account of revaluation of assets.”
+  13)     With the aforesaid statutory scheme in mind, we traverse through
+    the judgments of the Delhi High Court in Maxopp Investment Ltd. and
+    that of Punjab and Haryana High Court in State Bank of Patiala.
+JUDGMENT OF DELHI HIGH COURT IN MAXOPP INVESTMENT LTD.
+  14)     Three questions fell for consideration before the High Court. For
+
+                                      14
+  the purpose of these appeals, it is only question No. 1 which is relevant,
+  and formulation thereof by the High Court was as under:
+           “1. Whether expenditure (including interest paid on funds
+           borrowed) in respect of investment in shares of operating
+           companies for acquiring and retaining a controlling interest
+           therein is hit by section 14A of the Income tax Act, 1961
+           inasmuch as the dividend received on such shares does not
+           form part of the total income?”
+15)     On facts, it was noted that the assessee company is in the
+  business of finance, investment and was dealing in shares and
+  securities. The assessee held shares and securities, partly as
+  investments on the “capital account” and partly as “trading assets” for
+  the purpose of acquiring and retaining control over its group companies,
+  primarily Max India Ltd. As per the assessee, any profit resulting on the
+  sale of shares held as trading assets was duly offered to tax as business
+  income of the assessee. During the previous year relevant to the
+  assessment year 2002-03, the assessee incurred total interest
+  expenditure of Rs. 1,61,21,168/-, which was claimed as business
+  expenditure under section 36(1)(iii) of the Income Tax Act, 1961
+  (hereinafter referred to as “the said act”). According to the assessee, the
+  expenditure claimed was not hit by section 14A of the Act, on the ground
+  that although borrowed funds were partly utilised for investment in
+  shares held as trading assets, such investment was made with the
+  intention to acquire and retain a controlling interest in the aforesaid
+  company and that the receipt of dividend thereon was merely incidental.
+
+                                   15
+The High Court then took note of legislative history of Section 14A of the
+Act and Rule 8D of the Rules. Thereafter, the Court went on to discuss
+the law which stood prior to insertion of Section 14A. Taking note of
+certain judgments, the High Court observed that prior to the insertion of
+Section 14A in the Act, the law was that when an assessee had a
+composite and indivisible business, which had elements of both taxable
+and non-taxable income, the entire expenditure in respect of the said
+business was deductible and, in such a case, the principle of
+apportionment of the expenditure relating to the non-taxable income did
+not apply. However, where the business was divisible, the principle of
+apportionment of the expenditure was applicable and the expenditure
+apportioned to the ‘exempt’ income or income not exigible to tax, was
+not allowable as a deduction. The High Court, then, took cognizance of
+the legislative intent and objective behind the insertion of Section 14A by
+referring to the Memorandum Explaining the Provisions of the Finance
+Bill, 2001.    It also reproduced passages from few judgments of this
+Court. Since, for the purpose of the present case, it is necessary to
+keep in mind the objectives behind this provision, we reproduce that part
+of the discussion hereunder:
+          “Objective behind insertion of section 14A
+          15. The object behind the insertion of section 14A in the said
+          Act is apparent from the Memorandum explaining the
+          provisions of the Finance Bill 2001 which is to the following
+          effect:-
+
+                            16
+    “Certain incomes are not includable while computing
+    the total income as these are exempt under various
+    provisions of the Act. There have been cases where
+    deductions have been claimed in respect of such
+    exempt income. This in effect means that the tax
+    incentive given by way of exemptions to certain
+    categories of income is being used to reduce also the
+    tax payable on the non-exempt income by debiting the
+    expenses incurred to earn the exempt income against
+    taxable income. This is against the basic principles of
+    taxation whereby only the net income, i.e., gross
+    income minus the expenditure is taxed. On the same
+    analogy, the exemption is also in respect of the net
+    income. Expenses incurred can be allowed only to the
+    extent they are relatable to the earning of taxable
+    income.
+    It is proposed to insert a new section 14A so as to
+    clarify the intention of the Legislature since the
+    inception of the Income-tax Act, 1961, that no deduction
+    shall be made in respect of any expenditure incurred by
+    the assessee in relation to income which does not form
+    part of the total income under the Income-tax Act.
+    The      proposed     amendment      will   take   effect
+    retrospectively from April 1, 1962 and will accordingly,
+    apply in relation to the assessment year 1962-63 and
+    subsequent assessment years.”
+16. As observed by the Supreme Court in the case
+of CIT v. Walfort Share and Stock Brokers P Ltd: 326 ITR 1
+(SC), the insertion of section 14 A with retrospective effect
+reflects the serious attempt on the part of Parliament not to
+allow deduction in respect of any expenditure incurred by the
+assessee in relation to income, which does not form part of
+the total income under the said act against the taxable
+income. The Supreme Court further observed as under:-
+    “.. In other words, section 14 A clarifies that expenses
+    incurred can be allowed only to the extent that they are
+    relatable to the earning of taxable income. In many
+    cases the nature of expenses incurred by the assessee
+    may be relatable partly to the exempt income and partly
+    to the taxable income. In the absence of section 14A,
+    the expenditure incurred in respect of exempt income
+    was being claimed against taxable income. The
+    mandate of section 14A is clear. It desires to curb the
+    practice to claim deduction of expenses incurred in
+
+                            17
+    relation to exempt income against taxable income and
+    at the same time avail of the tax incentive by way of an
+    exemption of exempt income without making any
+    apportionment of expenses incurred in relation to
+    exempt income…”
+    “..Expenses allowed can only be in respect of earning
+    taxable income. This is the purport of section 14A. In
+    section 14A, the first phrase is “for the purposes of
+    computing the total income under this Chapter” which
+    makes it clear that various heads of income as
+    prescribed in the Chapter IV would fall within section
+    14A. The next phrase is, “in relation to income which
+    does not form part of total income under the Act”. It
+    means that if an income does not form part of total
+    income, then the related expenditure is outside the
+    ambit of the applicability of section 14A..
+                                          (Emphasis supplied)”
+17. The Supreme Court also clearly held that in the case of an
+income like dividend income which does not form part of the
+total income, any expenditure/deduction relatable to such
+(exempt or non-taxable) income, even if it is of the nature
+specified in sections 15 to 59 of the said Act, cannot be
+allowed against any other income which is includable in the
+total income. The exact words used by the Supreme Court
+are as under:-
+    “Further, section 14 specifies five heads of income
+    which are chargeable to tax. In order to be chargeable,
+    an income has to be brought under one of the five
+    heads. Sections 15 to 59 lay down the rules for
+    computing income for the purpose of chargeability to
+    tax under those heads. Sections 15 to 59 quantify the
+    total income chargeable to tax. The permissible
+    deductions enumerated in sections 15 to 59 are now to
+    be allowed only with reference to income which is
+    brought under one of the above heads and is
+    chargeable to tax. If an income like dividend income is
+    not     a    part    of     the     total   income,    the
+    expenditure/deduction though of the nature specified in
+    sections 15 to 59 but related to the income not forming
+    part of the total income could not be allowed against
+    other income includable in the total income for the
+    purpose of chargeability to tax. The theory of
+    apportionment of expenditure between taxable and
+    non-taxable has, in principle, been now widened under
+
+                                     18
+               section 14 A.
+                                                (emphasis supplied)”
+16)     The High Court then undertook the exercise of analysing the
+  provisions of Section 14A of the Act and, in the process, examined the
+  contours and scope of the expressions ‘in relation to’ and ‘expenditure
+  incurred’ occurring therein. The High Court pointed out that contention
+  of the assessees, in this behalf, was that the word ‘incurred’ must be
+  taken literally in the sense that the expenditure must have actually taken
+  place. Moreover, the expenditure must also have taken place in relation
+  to income which does not form part of total income. Further, the
+  expression “in relation to” implies that there must be a direct and
+  proximate connection with the subject matter. In other words, only that
+  actual expenditure which is made directly and for the object of earning
+  exempt income (in the present appeals - dividend income) could be
+  disallowed under section 14A of the Act.        If the dominant and main
+  objective of spending was not the earning of ‘exempt’ income then, the
+  expenditure could not be disallowed under section 14A of the Act
+  provided it was otherwise allowable under sections 15 to 59 of the said
+  Act.   The High Court, however, did not agree with the aforesaid
+  propositions advanced by the learned counsel for the assessees which
+  according to it was mired by several difficulties. Distinguishing the case
+  law cited by the assessees where the expression ‘in relation to’ was
+  interpreted by this Court, as not applicable in the present context, the
+
+                                          19
+    High Court, instead, referred to the judgment in the case of Doypack
+    Systems Pvt. Ltd. v. Union of India5 wherein this Court has held that
+    expressions ‘pertaining to’, ‘in relation to’ and ‘arising out of’ used in the
+    deeming provisions, are used in an expansive sense. It also referred to
+    the judgment of this Court in CIT v. Walfort Share and Stock Brokers
+    P Ltd.6 wherein this Court has held that the basic principle of taxation is
+    to tax the net income, i.e., gross income minus the expenditure and on
+    the same analogy the exemption is also in respect of net income. In
+    other words, where the gross income would not form part of total
+    income, it's associated or related expenditure would also not be
+    permitted to be debited against other taxable income.
+  17)      Likewise, explaining the meaning of ‘expenditure incurred’, the
+    High Court agreed that this expression would mean incurring of actual
+    expenditure and not to some imagined expenditure. At the same time,
+    observed the High Court, the ‘actual’ expenditure that is in contemplation
+    under section 14A(1) of the said Act is the ‘actual’ expenditure in relation
+    to or in connection with or pertaining to exempt income. The corollary to
+    this is that if no expenditure is incurred in relation to the exempt income,
+    no disallowance can be made under section 14A of the said Act. On the
+    basis of the aforesaid discussion, the High Court answered the question
+    formulated by it in the affirmative.
+5                       (1988) 2 SCC 299
+6                       (2010) 326 ITR 1 (SC)
+
+                                      20
+JUDGMENT OF PUNJAB AND HARYANA HIGH COURT IN STATE BANK
+OF PATIALA
+  18)     This case arose in the context where exempt income in the form of
+    dividend was earned by the Bank from securities held by it as its stock in
+    trade.   The assessee filed its return declaring an income of about
+    Rs.670 crores which was selected for scrutiny. The return showed
+    dividend income exempt under section 10(34) and (35) of about
+    Rs.11.07 crores and net interest income exempt under section 10(15)(iv)
+    (h) of about Rs.1.12 crores. The total exempt income claimed in the
+    return was, therefore, Rs.12,19,78,015/-. The assessee while claiming
+    the exemption contended that the investment in shares, bonds, etc.
+    constituted its stock-in-trade; that the investment had not been made
+    only for earning tax free income; that the tax free income was only
+    incidental to the assessee’s main business of sale and purchase of
+    securities and, therefore, no expenditure had been incurred for earning
+    such exempt income; the expenditure would have remained the same
+    even if no dividend or interest income had been earned by the assessee
+    from the said securities and that no expenditure on proportionate basis
+    could be allocated against exempt income. The assessee also
+    contended that in any event it had acquired the securities from its own
+    funds and, therefore, section 14A was not applicable. The AO restricted
+    the disallowance to the amount which was claimed as exempt income by
+
+                                    21
+applying the formula contained in Rule 8D holding that Section 14A
+would be applicable. The CIT(A) issued notice of enhancement under
+Section 251 of the Act and held that in view of Section 14A of the Act,
+the assessee was not to be allowed any deduction in respect of income
+which is not chargeable to tax.        Therefore, he disallowed the entire
+expenditure claimed instead of restricting the disallowance to the
+amount which was claimed as exempt income as done by the AO. The
+ITAT set aside the order of the AO as well as CIT(A). It referred to a
+CBDT Circular No.18/2015 dated 02.11.2015 which states that income
+arising from investment of a banking concern is attributable to the
+business of banking which falls under the head “Profits and gains of
+business and profession”. The circular states that shares and stock held
+by the bank are ‘stock-in-trade’ and not ‘investment’. Referring to certain
+judgments (which we will also refer to) and the earlier orders of the
+Tribunal, it was held that if shares are held as stock-in-trade and not as
+investment even the disallowance under rule 8D would be nil as rule
+8D(2)(i) would be confined to direct expenses for earning the tax exempt
+income.     In the aforesaid factual backdrop, in appeal filed by the
+Revenue, the High Court noted that following substantial question of law
+arose for consideration:
+         “Whether in the facts and circumstances of the case, the
+         Hon’ble ITAT is right in law in deleting the addition made on
+         account of disallowance under section 14A of the Income Tax
+         Act, 1961?”
+
+                                      22
+19)      In its analysis, the High Court accepted the contention of the
+  counsel for the assessee that the assessee is engaged in the purchase
+  and sale of shares as a trader with the object of earning profit and not
+  with a view to earn interest or dividend. The assessee does not have an
+  investment      portfolio.  The    securities    constitute   the   assessee’s
+  stock-in-trade. The Department, in fact, rightly accepted, as a matter of
+  fact, that the dividend and interest earned was from the securities that
+  constituted the assessee’s stock-in-trade. The same is, in any event,
+  established. The assessee carried on the business of sale and purchase
+  of securities. It was supported by Circular No.18, dated November 02,
+  2015, issued by the CBDT, which reads as under:-
+            “Subject: Interest from Non-SLR securities of Banks – Reg.
+            It has been brought to the notice of the Board that in the case
+            of Banks, field officers are taking a view that, “expenses
+            relatable to investment in non-SLR securities need to be
+            disallowed u/s 57(i) of the Act as interest on non-SLR
+            securities is income from other sources.”
+            2. Clause (id) of sub-section (1) of Section 56 of the Act
+            provides that income by way of interest on securities shall be
+            chargeable to income-tax under the head “Income from Other
+            Sources”, if, the income is not chargeable to income-tax
+            under the head “Profits and Gains of Business and
+            Profession”.
+            3. The matter has been examined in light of the judicial
+            decisions on this issue. In the case of CIT Vs Nawanshahar
+            Central Cooperative Bank Ltd. [2007] 160TAXMAN 48(SC),
+            the Apex Court held that the investments made by a banking
+            concern are part of the business of banking. Therefore, the
+            income arising from such investments is attributable to the
+            business of banking falling under the head “Profits and Gains
+            of Business and Profession”.
+
+                                       23
+            3.2 Even though the abovementioned decision was in the
+            context of co-operative societies/Banks claiming deduction
+            under section 80P(2)(a)(i) of the Act, the principle is equally
+            applicable to all banks/commercial banks, to which Banking
+            Regulation Act, 1949 applies.
+            4. In the light of the Supreme Court’s decision in the matter,
+            the issue is well settled. Accordingly, the Board has decided
+            that no appeals may henceforth be filed on this ground by the
+            officers of the Department and appeals already filed, if any, on
+            this ground before Courts/Tribunals may be withdrawn/not
+            pressed upon. This may be brought to the notice of all
+            concerned.
+                                                      (emphasis supplied)”
+20)     The High Court pointed out that the Circular carves out a
+  distinction between stock-in-trade and investment and provides that if
+  the motive behind purchase and sale of shares is to earn profit then the
+  same would be treated as trading profit and if the object is to derive
+  income by way of dividend then the profit would be said to have accrued
+  from the investment. If the assessee is found to have treated the shares
+  and securities as stock-in-trade, the income arising therefrom would be
+  business income. A loss would be a business loss. Thus, an assessee
+  may have two portfolios, namely, investment portfolio and a trading
+  portfolio. In the case of the former, the securities are to be treated as
+  capital assets and in the latter as trading assets.
+21)     Further, as a banking institution, the assessee was also statutorily
+  required to place a part of its funds in approved securities, as held in
+
+                                            24
+    CIT v. Nawanshahar Central Co-operative Bank Ltd. 7.                     Since, the
+    shares, bonds, debentures purchased by the assessees constituted its
+    stock-in-trade, the provisions of Section 14A were not applicable. Here,
+    the Court noted distinction between stock-in-trade and investment and
+    made the following observations:
+               “17. Under section 14A, an expenditure can be disallowed
+               only if it is incurred by the assessee in relation to income
+               exempt from tax. The dividend or interest from the assessee’s
+               stock-in-trade i.e. the securities was exempt from tax in view
+               of sections 10(15)(iv)(h),(34) and (35). This was incidental to
+               its business of banking. The business income on account of
+               the assessee trading in the securities is assessable under the
+               head “Profits and gains of business and profession”. The
+               expenditure incurred in relation to stock-in-trade arising as a
+               result of investment in shares and debentures is deductible
+               under sections 28 to 37. There is a distinction between
+               stock-in-trade and investment. The object of earning profit
+               from trading in securities is different from the object of earning
+               income, such as, dividend and interest arising therefrom. The
+               object of trading in securities does not constitute the activity of
+               investment where the object is to earn dividend or interest.”
+  22)     The High Court then discussed in detail the judgment in Walfort
+    Share and Stock Brokers P Ltd. which related to dividend stripping.
+    After explaining the objective behind Section 14A of the Act (which is
+    already noted above), this Court in the facts of that case, had held that a
+    payback does not constitute an ‘expenditure incurred’ in terms of Section
+    14A as it does not impact the profit and loss account. This expenditure,
+    in fact, is a payout.
+  23)     According to the High Court, what is to be disallowed is the
+7                         (2007) 289 ITR 6 (SC)
+
+                                       25
+  expenditure incurred to “earn” exempt income. The words ‘in relation to’
+  in Section 14A must be construed accordingly. Applying that principle to
+  the facts at hand, the High Court concluded as under:
+            “Now, the dividend and interest are income. The question
+            then is whether the assessee can be said to have incurred
+            any expenditure at all or any part of the said expenditure in
+            respect of the exempt income viz. dividend and interest that
+            arose out of the securities that constituted the assessee’s
+            stock-in-trade. The answer must be in the negative. The
+            purpose of the purchase of the said securities was not to earn
+            income arising therefrom, namely, dividend and interest, but
+            to earn profits from trading in i.e. purchasing and selling the
+            same. It is axiomatic, therefore, that the entire expenditure
+            including administrative costs was incurred for the purchase
+            and sale of the stock-in-trade and, therefore, towards earning
+            the business income from the trading activity of purchasing
+            and selling the securities. Irrespective of whether the
+            securities yielded any income arising therefrom, such as,
+            dividend or interest, no expenditure was incurred in relation to
+            the same.”
+24)     We may also note here that the High Court referred to the
+  judgment of the Karnataka High Court in CCI Ltd. case and concurred
+  therewith. This judgment in CCI Ltd. is, however, a very short judgment
+  which records the submission of counsel for the parties very briefly and
+  thereafter the entire discussion is contained in para 5 that reads as
+  under:
+        “5. When no expenditure is incurred by the assessee in
+         earning the dividend income, no notional expenditure could be
+         deducted from the said income. It is not the case of the
+         assessee retaining any shares so as to have the benefit of
+         dividend. 63% of the shares, which were purchased, are sold
+         and the income derived therefrom is offered to tax as business
+         income. The remaining 37% of the shares are retained. It has
+         remained unsold with the assessee. It is those unsold shares
+         have yielded dividend, for which, the assessee has not
+         incurred any expenditure at all. Though the dividend income is
+
+                                         26
+           exempted from payment of tax, if any expenditure is incurred in
+           earning the said income, the said expenditure also cannot be
+           deducted. But in this case, when the assessee has not
+           retained shares with the intention of earning dividend income
+           and the dividend income is incidental to his business of sale of
+           shares, which remained unsold by the assessee, it cannot be
+           said that the expenditure incurred in acquiring the shares has
+           to be apportioned to the extent of dividend income and that
+           should be disallowed from deductions. In that view of the
+           matter, the approach of the authorities is not in conformity with
+           the statutory provisions contained under the Act. Therefore,
+           the impugned orders are not sustainable and require to be set
+           aside.”
+  25)     At this stage, it will also be useful to refer a judgment of Calcutta
+    High Court in Commissioner of Income Tax v. G.K.K. Capital Markets
+    (P.) Ltd.8 which has also agreed with the view taken by the Karnataka
+    High Court. In that case, the assessee was engaged in the business of
+    share trading.     In the computation of income, the assessee claimed
+    long-term capital gains as exempt income and declared expenditure
+    disallowable against it under Section 14A of the Act. The AO treated the
+    long-term capital gains as business income.            The Appellate Tribunal
+    found that the assessee did not have any investment and all the shares
+    were held as stock-in-trade as was evident from the orders of the lower
+    authorities. On those facts it held that once the assessee had kept the
+    shares as stock-in-trade, Rule 8D of the Rules would not apply. On the
+    questions whether the Appellate Tribunal was justified in deleting the
+    disallowance under Section 14A computed in accordance with Rule 8D
+8                       (2017) 392 ITR 196 (Cal)
+
+                                       27
+    and in holding the investments as shares stock-in-trade, the High Court
+    held that the AO had accepted the correctness of the disallowable
+    expenditure offered by the assessee on its claim of the amount as
+    long-term capital gains. He had not allowed the claim itself treating the
+    amount as business income to thereafter disallow the offered
+    expenditure. According to the High Court, since the finding of fact was
+    recorded by the AO regarding the exempt income claimed being treated
+    as business income and the shares held by the assessee having been
+    treated as stock-in-trade, there could not have been disallowance of
+    expenditure under Section 14A of the Act and that provision had no
+    application.
+  26)     It would be pertinent to mention that earlier judgment of the same
+    High Court in the case of Dhanuka and Sons v. CIT9 was cited by the
+    Revenue. However, this judgment was distinguished on the ground that,
+    in that case, there was no dispute that part of the income of the
+    assessee from its business was from dividend whereas the assessee
+    was unable to produce any material before the authorities below
+    showing the source from which such shares were acquired. For better
+    understanding, it would be necessary to note the discussion in the case
+    of Dhanuka and Sons, which was reproduced by the High Court in
+    G.K.K. Capital Markets (P.) Ltd. Para 6 to para 9 of Dhanuka and
+9                     (2011) 339 ITR 319 (Cal)
+
+                                    28
+Sons read as under:
+    “6. Mr. Sarkar, the learned advocate appearing on behalf of the
+     revenue, has, on the other hand, supported the order passed
+     by the Tribunal and has contended that the assessee itself
+     having failed to produce material in support of its contention,
+     the Assessing Officer rightly assessed the deductible income
+     on proportionate basis. Mr. Sarkar submits that the same is in
+     conformity with Rule 8D of the Income tax Rule and thus, we
+     should not interfere with the order passed by the Tribunal.
+     7. After hearing the learned counsel appearing for the parties
+     and after going through the materials on record and the
+     decisions cited by Mr. Khaitan, we find that the Supreme Court
+     in the cases of CIT v. Maharastra Sugar Mills Ltd. [1971] 82
+     ITR        452      and Rajasthan        State       Warehousing
+     Corpn. v. CIT [2000] 242 ITR 450/109 Taxman 145 having held
+     that where there is one indivisible business giving rise to
+     taxable income as well as exempt income, the entire
+     expenditure incurred in relation to that business would have to
+     be allowed even if a part of the income earned from the
+     business is exempt from tax, section 14A of the Act was
+     enacted to overcome those judicial pronouncements. The
+     object of section 14A of the Act is to disallow the direct and
+     indirect expenditure incurred in relation to income which does
+     not form part of the total income.
+     8. In the case before us, there is no dispute that part of the
+     income of the assessee from its business is from dividend
+     which is exempt from tax whereas the assessee was unable to
+     produce any material before the authorities below showing the
+     source from which such shares were acquired. Mr. Khaitan
+     strenuously contended before us that for the last few years
+     before the relevant previous year, no new share has been
+     acquired and thus, the loan that was taken and for which the
+     interest is payable by the assessee was not for acquisition of
+     those old shares and, therefore, the authorities below erred in
+     law in giving benefit of proportionate deduction.
+     9. In our opinion, the mere fact that those shares were old
+     ones and not acquired recently is immaterial. It is for the
+     assessee to show the source of acquisition of those shares by
+     production of materials that those were acquired from the
+     funds available in the hands of the assessee at the relevant
+     point of time without taking benefit of any loan. If those shares
+     were purchased from the amount taken in loan, even for
+     instance, five or ten years ago, it is for the assessee to show
+     by the production of documentary evidence that such loaned
+
+                                      29
+        amount had already been paid back and for the relevant
+        assessment year, no interest is payable by the assessee for
+        acquiring those old shares. In the absence of any such
+        materials placed by the assessee, in our opinion, the
+        authorities below rightly held that proportionate amount should
+        be disallowed having regard to the total income and the
+        income from the exempt source. In the absence of any material
+        disclosing the source of acquisition of shares which is within
+        the special knowledge of the assessee, the assessing authority
+        took a most reasonable approach in assessment.”
+27)     We have already stated as to how the two divergent opinions have
+  emerged from different High Courts and the respective reasons in
+  support of these conflicting outcome. Obviously, assessees are banking
+  upon the reasons which prevailed with the High Courts that have taken
+  the view which are favourable to the assessees and the Revenue is
+  relying upon the reasoning given by Delhi High Court as well as Calcutta
+  High Court in Dhanuka and Sons case.               Therefore, it may not be
+  necessary to give a detailed narrative of the arguments which were
+  advanced by various counsel appearing for the assessees as well as
+  counsel for the Revenue. A brief resume of their submissions would
+  serve the purpose.
+28)     Insofar as assessees are concerned, their arguments are
+  recapitulated in brief hereinbelow:
+  (i)   The holding of investment in group companies representing
+        controlling interest, amounts to carrying on business, as held in the
+        various cases.
+  (ii)  Notwithstanding that dividend income is assessable under the
+
+                                     30
+        head “income from other sources”, in view of the mandatory
+        prescription in Section 56 of the Act, the nature of dividend income
+        has to be ascertained on the facts of the case. Where dividend is
+        earned on shares held as stock-in-trade/shares purchased for
+        acquiring/retaining controlling interest, dividend income is in the
+        nature of business income.
+  (iii) Interest paid on loans borrowed for acquiring shares representing
+        controlling interest in the investee company is allowable business
+        expenditure in terms of Section 36(1)(iii) of the Act, since acquiring
+        controlling interest in companies and managing, administering,
+        financing and rehabilitating such companies are for business
+        and/or professional purposes and not for earned dividend.
+  (iv)  Conversely, interest paid on funds borrowed for investment in
+        shares representing controlling interest does not represent
+        expenditure incurred for earning dividend income and is not
+        allowable under Section 57(iii) of the Act (prior to introduction of
+        Section 14A).
+29)     Basing their case on the aforesaid principles, it was argued that
+  when the shares were acquired, as part of promoter holding, for the
+  purpose of acquiring controlling interest in the company, the dominant
+  object is to keep control over the management of the company and not
+  to earn the dividend from investment in shares. Whether dividend is
+
+                                   31
+  declared/earned or not is immaterial and, in either case, the assessee
+  would not liquidate the shares in investee companies. Therefore, no
+  expenditure was made ‘in relation to’ the income i.e. the dividend income
+  and, therefore, Section 14A would not be attracted. In this hue, it was
+  submitted that Section 14A was to be accorded plain and grammatical
+  interpretation meaning thereby mandating and requiring a direct and
+  proximate nexus/link between the expenditure actually incurred and the
+  earning of the exempt income.         It was also argued that even if
+  contextual/purposive interpretation is to be given, that also called for
+  direct and proximate connection between the expenditure incurred and
+  earning of dividend. According to the learned counsel appearing for the
+  assessees, the legislative intention behind inserting Section 14A in this
+  statute was to exclude both, viz. the receipts which are exempt under
+  the provisions of the Act as well as expenditure actually incurred ‘in
+  relation thereto’ from entering into the computation of assessable
+  income, so as to remove the double benefit to the assessee (i) in the
+  form of exempt income, on which no tax is leviable; and (ii) providing
+  deduction in respect of expenditure actually incurred which directly
+  resulted in the earning of exempt income by the assessee.
+30)      Mr. K. Radhakrishnan, learned senior counsel appearing for the
+  Revenue, on the other hand, made a fervent plea to accept the view
+  taken by the Delhi High Court. He submitted that the objective behind
+
+                                      32
+  insertion of Section 14A of the Act manifestly pointed out that
+  expenditure incurred in respect of income earned, which is exempted
+  from tax, has to be disallowed. He also pointed out that this message
+  was eloquently brought out by this Court in Walfort Share and Stock
+  Brokers P Ltd. case. Otherwise, argued the learned senior counsel, the
+  assessee will get double benefit, one, in the form of exemption from
+  income tax insofar as dividend income is concerned and other by getting
+  deduction on account of expenditure as well. He, thus, submitted that
+  expression ‘in relation to’ had to be given expansive meaning in order to
+  sub-serve the purpose of the said provision. He also emphasised that
+  literal meaning of Section 14A of the Act pointed towards that and that
+  was equally the purpose behind the insertion of Section 14A as well.
+31)      We have given our thoughtful consideration to the argument of
+  counsel for the parties on both sides, in the light of various judgments
+  which have been cited before us, some of which have already been
+  taken note of above.
+32)      In the first instance, it needs to be recognised that as per section
+  14A(1) of the Act, deduction of that expenditure is not to be allowed
+  which has been incurred by the assessee “in relation to income which
+  does not form part of the total income under this Act”. Axiomatically, it is
+  that expenditure alone which has been incurred in relation to the income
+
+                                     33
+  which is includible in total income that has to be disallowed.         If an
+  expenditure incurred has no causal connection with the exempted
+  income, then such an expenditure would obviously be treated as not
+  related to the income that is exempted from tax, and such expenditure
+  would be allowed as business expenditure. To put it differently, such
+  expenditure would then be considered as incurred in respect of other
+  income which is to be treated as part of the total income.
+33)      There is no quarrel in assigning this meaning to section 14A of the
+  Act. In fact, all the High Courts, whether it is the Delhi High Court on the
+  one hand or the Punjab and Haryana High Court on the other hand,
+  have agreed in providing this interpretation to section 14A of the Act.
+  The entire dispute is as to what interpretation is to be given to the words
+  ‘in relation to’ in the given scenario, viz. where the dividend income on
+  the shares is earned, though the dominant purpose for subscribing in
+  those shares of the investee company was not to earn dividend. We
+  have two scenarios in these sets of appeals. In one group of cases the
+  main purpose for investing in shares was to gain control over the
+  investee company. Other cases are those where the shares of investee
+  company were held by the assessees as stock-in-trade (i.e. as a
+  business activity) and not as investment to earn dividends.          In this
+  context, it is to be examined as to whether the expenditure was incurred,
+  in respective scenarios, in relation to the dividend income or not.
+
+                                    34
+34)     Having clarified the aforesaid position, the first and foremost issue
+  that falls for consideration is as to whether the dominant purpose test,
+  which is pressed into service by the assessees would apply while
+  interpreting Section 14A of the Act or we have to go by the theory of
+  apportionment. We are of the opinion that the dominant purpose for
+  which the investment into shares is made by an assessee may not be
+  relevant. No doubt, the assessee like Maxopp Investment Limited may
+  have made the investment in order to gain control of the investee
+  company. However, that does not appear to be a relevant factor in
+  determining the issue at hand. Fact remains that such dividend income
+  is non-taxable. In this scenario, if expenditure is incurred on earning the
+  dividend income, that much of the expenditure which is attributable to
+  the dividend income has to be disallowed and cannot be treated as
+  business expenditure. Keeping this objective behind Section14A of the
+  Act in mind, the said provision has to be interpreted, particularly, the
+  word ‘in relation to the income’ that does not form part of total income.
+  Considered in this hue, the principle of apportionment of expenses
+  comes into play as that is the principle which is engrained in Section 14A
+  of the Act. This is so held in Walfort Share and Stock Brokers P Ltd.,
+  relevant passage whereof is already reproduced above, for the sake of
+  continuity of discussion, we would like to quote the following few lines
+  therefrom.
+
+                                        35
+               “The next phrase is, “in relation to income which does
+               not form part of total income under the Act”. It means
+               that if an income does not form part of total income,
+               then the related expenditure is outside the ambit of the
+               applicability of section 14A..
+               xxx           xxx          xxx
+               The theory of apportionment of expenditure between
+               taxable and non-taxable has, in principle, been now
+               widened under section 14 A.”
+35)      The Delhi High Court, therefore, correctly observed that prior to
+  introduction of Section 14A of the Act, the law was that when an
+  assessee had a composite and indivisible business which had elements
+  of both taxable and non-taxable income, the entire expenditure in
+  respect of said business was deductible and, in such a case, the
+  principle of apportionment of the expenditure relating to the non-taxable
+  income did not apply.          The principle of apportionment was made
+  available only where the business was divisible. It is to find a cure to the
+  aforesaid problem that the Legislature has not only inserted Section 14A
+  by the Finance (Amendment) Act, 2001 but also made it retrospective,
+  i.e., 1962 when the Income Tax Act itself came into force. The aforesaid
+  intent was expressed loudly and clearly in the Memorandum explaining
+  the provisions of the Finance Bill, 2001. We, thus, agree with the view
+  taken by the Delhi High Court, and are not inclined to accept the opinion
+  of Punjab & Haryana High Court which went by dominant purpose
+  theory. The aforesaid reasoning would be applicable in cases where
+
+                                     36
+  shares are held as investment in the investee company, may be for the
+  purpose of having controlling interest therein.      On that reasoning,
+  appeals of Maxopp Investment Limited as well as similar cases where
+  shares were purchased by the assessees to have controlling interest in
+  the investee companies have to fail and are, therefore, dismissed.
+36)      There is yet another aspect which still needs to be looked into.
+  What happens when the shares are held as ‘stock-in-trade’ and not as
+  ‘investment’, particularly, by the banks? On this specific aspect, CBDT
+  has issued circular No. 18/2015 dated November 02, 2015.
+37)      This Circular has already been reproduced in Para 19 above. This
+  Circular takes note of the judgment of this Court in Nawanshahar case
+  wherein it is held that investments made by a banking concern are part
+  of the business or banking. Therefore, the income arises from such
+  investments is attributable to business of banking falling under the head
+  ‘profits and gains of business and profession’.      On that basis, the
+  Circular contains the decision of the Board that no appeal would be filed
+  on this ground by the officers of the Department and if the appeals are
+  already filed, they should be withdrawn. A reading of this circular would
+  make it clear that the issue was as to whether income by way of interest
+  on securities shall be chargeable to income tax under the head ‘income
+  from other sources’ or it is to fall under the head ‘profits and gains of
+
+                                     37
+  business and profession’. The Board, going by the decision of this Court
+  in Nawanshahar case, clarified that it has to be treated as income
+  falling under the head ‘profits and gains of business and profession’. The
+  Board also went to the extent of saying that this would not be limited
+  only to co-operative societies/Banks claiming deduction under Section
+  80P(2)(a)(i)   of  the Act     but   would   also  be   applicable   to all
+  banks/commercial banks, to which Banking Regulation Act, 1949
+  applies.
+38)      From this, Punjab and Haryana High Court pointed out that this
+  circular carves out a distinction between ‘stock-in-trade’ and ‘investment’
+  and provides that if the motive behind purchase and sale of shares is to
+  earn profit, then the same would be treated as trading profit and if the
+  object is to derive income by way of dividend then the profit would be
+  said to have accrued from investment. To this extent, the High Court
+  may be correct. At the same time, we do not agree with the test of
+  dominant intention applied by the Punjab and Haryana High Court,
+  which we have already discarded. In that event, the question is as to on
+  what basis those cases are to be decided where the shares of other
+  companies are purchased by the assessees as ‘stock-in-trade’ and not
+  as ‘investment’. We proceed to discuss this aspect hereinafter.
+39)      In those cases, where shares are held as stock-in-trade, the main
+
+                                    38
+  purpose is to trade in those shares and earn profits therefrom. However,
+  we are not concerned with those profits which would naturally be treated
+  as ‘income’ under the head ‘profits and gains from business and
+  profession’. What happens is that, in the process, when the shares are
+  held as ‘stock-in-trade’, certain dividend is also earned, though
+  incidentally, which is also an income. However, by virtue of Section 10
+  (34) of the Act, this dividend income is not to be included in the total
+  income and is exempt from tax. This triggers the applicability of Section
+  14A of the Act which is based on the theory of apportionment of
+  expenditure between taxable and non-taxable income as held in Walfort
+  Share and Stock Brokers P Ltd. case.           Therefore, to that extent,
+  depending upon the facts of each case, the expenditure incurred in
+  acquiring those shares will have to be apportioned.
+40)     We note from the facts in the State Bank of Patiala cases that the
+  AO, while passing the assessment order, had already restricted the
+  disallowance to the amount which was claimed as exempt income by
+  applying the formula contained in Rule 8D of the Rules and holding that
+  section 14A of the Act would be applicable. In spite of this exercise of
+  apportionment of expenditure carried out by the AO, CIT(A) disallowed
+  the entire deduction of expenditure. That view of the CIT(A) was clearly
+  untenable and rightly set aside by the ITAT. Therefore, on facts, the
+  Punjab and Haryana High Court has arrived at a correct conclusion by
+
+                                 39
+affirming the view of the ITAT, though we are not subscribing to the
+theory of dominant intention applied by the High Court. It is to be kept in
+mind that in those cases where shares are held as ‘stock-in-trade’, it
+becomes a business activity of the assessee to deal in those shares as
+a business proposition. Whether dividend is earned or not becomes
+immaterial. In fact, it would be a quirk of fate that when the investee
+company declared dividend, those shares are held by the assessee,
+though the assessee has to ultimately trade those shares by selling
+them to earn profits. The situation here is, therefore, different from the
+case like Maxopp Investment Ltd. where the assessee would continue to
+hold those shares as it wants to retain control over the investee
+company. In that case, whenever dividend is declared by the investee
+company that would necessarily be earned by the assessee and the
+assessee alone. Therefore, even at the time of investing into those
+shares, the assessee knows that it may generate dividend income as
+well and as and when such dividend income is generated that would be
+earned by the assessee. In contrast, where the shares are held as
+stock-in-trade, this may not be necessarily a situation.        The main
+purpose is to liquidate those shares whenever the share price goes up in
+order to earn profits. In the result, the appeals filed by the Revenue
+challenging the judgment of the Punjab and Haryana High Court in State
+Bank of Patiala also fail, though law in this respect has been clarified
+
+                                       40
+  hereinabove.
+41)     Having regard to the language of Section 14A(2) of the Act, read
+  with Rule 8D of the Rules, we also make it clear that before applying the
+  theory of apportionment, the AO needs to record satisfaction that having
+  regard to the kind of the assessee, suo moto disallowance under
+  Section 14A was not correct.           It will be in those cases where the
+  assessee in his return has himself apportioned but the AO was not
+  accepting the said apportionment.          In that eventuality, it will have to
+  record its satisfaction to this effect.       Further, while recording such a
+  satisfaction, nature of loan taken by the assessee for purchasing the
+  shares/making the investment in shares is to be examined by the AO.
+42)     Civil Appeal No. 1423 of 2015 is filed by M/s. Avon Cycles Limited,
+  Ludhiana, wherein the AO had invoked section 14A of the Act read with
+  Rule 8D of the Rules and apportioned the expenditure. The CIT(A) had
+  set aside the disallowance, which view was upturned by the ITAT in the
+  following words:
+            “...Admittedly the assessee had paid total interest of Rs.2.92
+            crores out of which interest paid on term loan raised for
+            specific purpose totals to Rs.1.70 crores and balance interest
+            paid by the assessee is Rs.1.21 crores. The funds utilized by
+            the assessee being mixed funds and in view of the provisions
+            of Rule 8D(2)(ii) of the Income Tax Rules the disallowance is
+            confirmed at Rs.10,49,851/-, we find no merit in the ad hoc
+            disallowance made by the CIT (Appeals) at Rs.5,00,000/-.
+            Consequently, ground of appeal raised by the Revenue is
+            partly allowed and ground raised by the assessee in
+            cross-objection is allowed...”
+
+                                      41
+        Taking note of the aforesaid finding of fact, the High Court has
+  dismissed the appeal of the assessee observing as under:
+           “In the present case, after examining the balance-sheet of the
+           assessee, a finding of fact has been recorded that the funds
+           utilized by the assessee being mixed funds, therefore, the
+           interest paid by the assessee is also an interest on the
+           investments made. Such being a finding of fact, we do not
+           find that any substantial question of law arises for
+           consideration of this Court.”
+        After going through the records and applying the principle of
+  apportionment, which is held to be applicable in such cases, we do not
+  find any merit in Civil Appeal No. 1423 of 2015, which is accordingly
+  dismissed.
+43)     Few appeals are filed by the Revenue against the assessees
+  which pertained to the period prior to the introduction of Rule 8D of the
+  Rules. Here, the case is decided in favour of the assessees also on the
+  ground that Rule 8D of the Rules is prospective in nature and could not
+  have been made applicable in respect of the Assessment Years prior to
+  2007 when this Rule was inserted. This view has already been upheld
+  by this Court in Civil Appeal No. 2165 of 2012 (Commissioner of
+  Income Tax, Mumbai v. M/s. Essar Teleholdings Ltd. through its
+  Manager), pronounced on January 31, 2018, that the said Rule is
+  prospective in nature.      On this ground alone, these appeals of the
+  Revenue fail as it is not necessary to go into the other issues.
+
+                                    42
+  44)     To sum up:
+    (a)   Appeals of the assessees, i.e. Civil Appeal Nos. 104-109, 110-112,
+       130, 1423 of 2015, are dismissed.
+    (b)   Appeals of the Revenue, i.e. Civil Appeal Nos. 3267, 19614, 10096
+       of 2013, 8596 of 2014, 18019 of 2017, 115, 123, 6590 of 2015, Civil
+       Appeals arising out of SLP (C) Nos. 27054, 31417 of 2016, 20475,
+       23123, 32405 of 2017, Diary Nos. 36413, 39820, 39823, 41890,
+       41903, 41922 of 2017 and 1146 of 2018 are dismissed.
+    (c)   Appeal of the Revenue, i.e. Civil Appeal arising out of Diary No.
+       41203 of 2017, is allowed.
+                                                .............................................J.
+                                                                            (A.K. SIKRI)
+                                                .............................................J.
+                                                              (ASHOK BHUSHAN)
+NEW DELHI;
+FEBRUARY 12, 2018.
+
+

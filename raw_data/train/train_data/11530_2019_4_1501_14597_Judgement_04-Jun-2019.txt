@@ -1,0 +1,923 @@
+                                  1
+                                         REPORTABLE
+               IN THE SUPREME COURT OF INDIA
+                CIVIL APPELLATE JURISDICTION
+                CIVIL APPEAL NO. 3747 OF 2019
+Hari Sankaran                                    ... Appellant
+                               Versus
+Union of India & Others                          ... Respondents
+                         JUDGMENT
+M.R. SHAH, J.
+1.   Feeling aggrieved and dissatisfied with the impugned Order
+dated 31.01.2019 passed by the National Company Law Appellate
+Tribunal, New Delhi in Company Appeal (AT) No. 29 of 2019 by
+which the learned Appellate Tribunal has dismissed the said
+appeal preferred by the appellant herein – Ex­Director of
+respondent No. 2 – Infrastructure Leasing & Financial Services
+Limited (hereinafter referred to as ‘the IL&FS’) and has confirmed
+the order passed by the National Company Law Tribunal,
+Mumbai Bench (hereinafter referred to as ‘the learned Tribunal’)
+dated 01.01.2019 by which the learned Tribunal allowed the said
+
+                                   2
+application preferred by the Central Government under Section
+130(1) & (2) of the Companies Act, 2013 (hereinafter referred to
+as the ‘Companies Act’) and has permitted re­casting and re­
+opening of the accounts of IL&FS, IL&FS Financial Services
+Limited (hereinafter referred to as the “IFIN”) and IL&FS
+Transportation Networks Limited (hereinafter referred as the
+“ITNL”) for the last five years, the original appellant has preferred
+the present appeal.
+2.   The facts leading to the present appeal in nutshell are as
+under:
+     That respondent No. 2 – IL&FS is a company incorporated
+under the provisions of the Companies Act, 1956. That the said
+company IL&FS has 348 group companies, including IFIN and
+ITNL.   That the said IL&FS is a core investment company and
+systemically important Non­Banking Finance Company duly
+approved under the Reserve Bank of India Act, 1931.         The said
+company was promoted by the Central Bank of India, HDFC Ltd.,
+the Union Trust of India.       That the said company is holding
+prominent infrastructure development and finance companies.
+Over the years, it had inducted institutional shareholders. That
+the said IL&FS, during the financial year 2017­18 had 169
+
+                                  3
+companies, out of which, 24 companies are direct subsidiaries,
+135 companies are indirect subsidiaries, 6 companies are joint
+ventures and 4 companies are associate companies.         That the
+appellant herein claims to be the Vice­President/Director of
+IL&FS who has been suspended as the Director of IL&FS and its
+group companies.
+2.1  That on 01.10.2018, the Central Government through the
+Ministry of Corporate Affairs filed a petition before the learned
+Appellate Tribunal under Sections 241 and 242 of the Companies
+Act alleging inter alia, mismanagement by the Board of IL&FS
+and that the affairs of IL&FS were being conducted in a manner
+prejudicial to public interest.     That the Central Government
+prayed for the following reliefs:
+    1.  That the existing Board of Directors of Respondent No. 1
+        company, comprising of R2 to R8, be suspended with
+        immediate effect and 10 (Ten) persons be appointed as
+        directors in terms of provisions of Section 242(2)(k) of the
+        Act, to manage the affairs of R1 company and its group
+        companies through their nominees, and such directors
+        any report and function under the Hon’ble Tribunal on
+        such matters as it may direct:
+
+                                 4
+     2.  That the Board of Directors appointed by the Hon’ble
+         Tribunal in terms of 242(2)(k) of the Act be authorized to
+         replace such number of directors of subsidiaries, joint
+         ventures and associate companies as may be required to
+         make the R1 and its group companies as going concern.
+2.2   That it was found that the management of IL&FS and other
+group company/companies were responsible for negligence and
+incompetence, and had falsely presented a rosy financial
+statement.     To unearth the irregularities committed by IL&FS
+and its companies, the provisions of Section 212(1)(c) of the
+Companies Act were invoked for investigation into the affairs of
+the company.     The investigation was to be carried out by the
+Serious Fraud Investigation Office (hereinafter referred to as ‘the
+SFIO’) in exercise of powers under Section 212 of the Companies
+Act.    The SFIO submitted an interim report dated 30.11.2018 to
+the Central Government placing on record that the affairs in
+respect of IL&FS group Companies were mis­managed, and that
+the manner in which the affairs of the company were being
+conducted was against the public interest.    The said report shall
+be referred to hereinbelow.
+
+                                    5
+      It appears that the Registrar of Companies also conducted
+an enquiry under Section 206 of the Companies Act, and prima
+facie concluded that mis­management and compromise in
+corporate governance norms and risk management has been
+perpetuated      on    IL&FS     and   its  group   companies      by
+indiscriminately      raising    long   term    and    short    terms
+loans/borrowings through Public Sector Banks and financial
+institutions.   It was also observed that IL&FS company has been
+presenting    a    rosy   picture   by  camouflaging    its  financial
+statements, and concealing and suppressing severe mismatch
+between its cash flows and payment obligations, total lack of
+liquidity and adverse financial ratios.      It was also found that
+IL&FS company has first defaulted on commercial paper and
+then on short term borrowings i.e. inter corporate deposits,
+negative cash flows in operating activities etc.      It was further
+observed that the consolidated balance­sheet of IL&FS company
+indicated the extremely precarious financial position, and was
+virtually in deep red.       It was found that intangible assets of
+approximately Rs.18,540 crores as on 31.03.2017, has increased
+to approximately Rs.20,004 crores as on 31.03.2018, thus
+
+                                  6
+creating a serious doubt about the correctness of the financial
+statements.   A Report dated 03.12.2018 was submitted by the
+Institute of Chartered Accountants of India (“ICAI”) which has
+been placed on the record of the Tribunal.
+2.3   In this background, the Union of India approached the
+learned Tribunal for reliefs under Sections 241 and 242 of the
+Companies Act.
+2.4   Thereafter, by a detailed and reasoned order, the learned
+Tribunal vide Order dated 01.10.2018 allowed the said prayers
+and suspended the Board of Directors of IL&FS, and appointed
+the newly constituted Board to conduct the business as per the
+Memorandum and Articles of the companies.         That the learned
+Tribunal issued the following directions:
+         “On the basis of the foregoing discussions and after
+    considering the facts of the case, a narrated in the Petition
+    filed by the Union of India, this Bench is of the considered
+    view that it is judicious to invoke the jurisdiction prescribed
+    under Section 241(2) of the Companies Act, 2013 and the
+    Tribunal is of the opinion that as per Section 242(1) of the
+    Companies Act, 2013, the affairs of the IL&FS were being
+    conducted in a manner prejudicial to public interest. The
+    Interim prayer of suspending the present Board of Directors
+
+                              7
+and reconstitution of the new Board of Directors is hereby
+allowed. At present, by an additional affidavit only 6 names
+(supra) of Board members have proposed by the Union of
+India.
+    Further directed that the present Board of Directors be
+suspended with immediate effect. The six Directors as
+reproduced    supra    shall   take   over the    R1    company
+immediately. Newly constituted Board shall hold a meeting
+on or before 8th October, 2018 and conduct business as per
+the Memorandum and Articles of Association of the company
+and the provisions of the Companies Act, 2013. Liberty is
+granted to the Board of Directors to select a Chairman among
+themselves. Thereafter, report the roadmap to NCLT, Mumbai
+Bench at the earliest possible not later than the next date of
+hearing. The suspended directors hence forth shall not
+represent the R1 company as a Director and shall also not
+exercise any powers as a director in any manner before any
+authority as well.
+    As a consequence of “Admission” of the Petition, issue
+notice to intimate next date of hearing. The Petition is to
+serve copy of this order along with Petition to all the
+Respondents. The Respondents in turn may file their reply by
+15th October, 2018, only after serving copy to the petitioner.
+The Petitioner can file rejoinder, if deem fit, by 30 th October,
+2018.”
+
+                                    8
+2.5    That thereafter the Union of India through the Ministry of
+Corporate Affairs approached the learned Tribunal under Section
+130(1) of the Companies Act seeking permission for re­opening of
+the books of accounts and re­casting thereof, including the
+financial statements of IL&FS, IL&FS Financial Services Limited
+and IL&FS Transportation Networks Limited for the last five years
+viz. from Financial Year 2012­2013 to Financial Year 2017­2018.
+The    learned   Tribunal    issued   notices to the   Income  Tax
+Authorities, SEBI, and any other statutory regulatory body or
+authority, or other persons concerned.        The learned Tribunal
+directed the Central Government to serve the notices upon the
+said parties.
+       At this stage, it is required to be noted that the aforesaid
+three companies through their new board of directors appeared
+through their counsel before the learned Tribunal at the time of
+hearing of the aforesaid application under Section 130 of the
+Companies Act.         That, thereafter, after hearing the counsel
+appearing on behalf of the respective parties, including the
+learned counsel appearing on behalf of the erstwhile directors,
+who opposed the application filed under Section 130 of the
+
+                                 9
+Companies Act, the learned Tribunal vide its Order dated
+01.01.2019 allowed the application filed under Section 130 of the
+Companies Act, and permitted the said application for re­opening
+the books of accounts, and re­casting the financial statements of
+the aforesaid three companies for the last five years viz. from
+Financial Year 2012­2013 to Financial Year 2017­2018.
+2.6  Feeling aggrieved and dissatisfied with the order passed on
+the application under Section 130 of the Companies Act by the
+learned Tribunal dated 01.01.2019, permitting the re­opening
+and re­casting of the financial statements of the aforesaid three
+companies for the last five years viz. from Financial Year 2012­
+2013 to Financial Year 2017­2018, the appellant herein who is a
+suspended Director of IL&FS alone preferred an appeal before the
+learned Appellate Tribunal. That by the impugned judgment and
+order, the learned Appellate Tribunal has dismissed the said
+appeal.
+3.   Feeling aggrieved and dissatisfied with the impugned
+judgment and order passed by the learned Appellate Tribunal
+dismissing the said appeal, and confirming the order passed by
+the learned Tribunal dated 01.01.2019 allowing the application
+
+                                10
+under Section 130 of the Companies Act, the original appellant
+i.e. the suspended Director/erstwhile Director of IL&FS has
+preferred the present appeal.
+4.     With the consent of the learned Senior Counsel appearing
+on behalf of the respective parties, and in the facts and
+circumstances of the case, we have heard the application for
+vacating the interim Order along with the main Appeal finally.
+5.    Shri Dhruv Mehta, learned senior counsel has appeared on
+behalf of the appellant and Shri Maninder Singh, learned Senior
+Counsel has appeared on behalf of the Union of India as well as
+the other contesting respondents.
+6.    Shri Dhruv Mehta, learned Senior Counsel appearing on
+behalf of the appellant has vehemently submitted that the
+impugned order passed by the learned Appellate Tribunal
+dismissing the said appeal and confirming the order passed by
+the learned Tribunal allowing the application under Section 130
+of the Companies Act is absolutely illegal and bad in law.
+6.1 Mr. Dhruv Mehta, learned Senior Counsel appearing on
+behalf of the appellant has submitted that the order passed by
+the learned Tribunal allowing the application under Section 130
+of the Companies Act is absolutely illegal and as such contrary to
+
+                                   11
+the provisions of Section 130 of the Companies Act.      It is further
+submitted by Mr. Dhruv Mehta that as such the pre­conditions
+before passing the order under Section 130 of the Companies Act
+for re­opening and re­casting the statements of account of the
+company, namely (i) the relevant earlier accounts were prepared
+in a fraudulent manner; or (ii) the affairs of the company were
+mismanaged during the relevant period, casting a doubt on the
+reliability of financial statements, have not been satisfied.
+6.2   Mr. Dhruv Mehta, learned Senior Counsel appearing on
+behalf of the appellant has submitted that as such there is no
+specific finding given by the learned Tribunal while allowing the
+application under Section 130 of the Companies Act that either
+the relevant earlier accounts were prepared in a fraudulent
+manner, or the affairs of the company were mismanaged, during
+the relevant period casting a doubt on the reliability of financial
+statements.      It is submitted that in the absence of any specific
+finding by the learned Tribunal on the aforesaid, it was not
+permissible for the learned Tribunal to pass the order under
+Section 130 of the Companies Act permitting re­opening of the
+books of accounts and re­casting of financial statements of the
+company/companies.
+
+                                12
+6.3  It is further submitted that, on the contrary, there is a
+specific finding/observation by the learned Tribunal in the order
+under Section 130 of the Companies Act itself that the accounts
+were not prepared in a fraudulent manner. It is submitted that
+the conditions precedent for invoking the powers under Section
+130 of the Companies Act were not satisfied, and the learned
+Tribunal was not justified in passing the impugned order under
+Section 130 of the Companies Act. It is further submitted that
+therefore the learned Appellate Tribunal ought to have quashed
+and set aside the order passed by the learned Tribunal.
+6.4  It is further submitted by Shri Dhruv Mehta learned Senior
+Counsel that, even otherwise, the order passed by the learned
+Tribunal is in breach of natural justice inasmuch as sufficient
+opportunity was not given to the appellant by the learned
+Tribunal before passing the order under Section 130 of the
+Companies Act.         It is submitted that the notice on the
+application under Section 130 of the Companies Act was issued
+on 27.12.2018 and the impugned order came to be passed on
+01.01.2019.     It is submitted that even though the appellant
+sought time to file the reply, the Tribunal without granting any
+further time to the appellant to file the reply, passed the
+
+                                  13
+impugned order. It is submitted that as per the amended Section
+130 of the Companies Act, before passing the order under Section
+130 of the Companies Act, not only the Income Tax Authorities
+and other authorities were required to be heard, even the “other
+persons concerned”, including the Directors/Ex­Directors of the
+company were required to be heard.        It is submitted that the
+order passed by the learned Tribunal was in violation of the
+principles of natural justice, therefore the same was required to
+be quashed and set aside by the learned Appellate Tribunal.
+      It is further submitted that though the aforesaid submission
+was made before the learned Appellate Tribunal, and the learned
+Appellate Tribunal accepted that the order passed by the learned
+Tribunal is in breach of the principles of natural justice, the
+learned Appellate Tribunal dismissed the appeal.    It is submitted
+that, therefore, in the facts and circumstances of the case, the
+learned Appellate Tribunal ought to have set aside the order
+passed by the learned Tribunal and ought to have remanded the
+matter to the learned Tribunal for fresh decision after giving
+opportunity of hearing to the appellant.    In support of the above
+submissions and request, Shri Dhruv Mehta, learned senior
+counsel appearing on behalf of the appellant has heavily relied
+
+                                 14
+upon the decisions of this Court in the case of Mannalal Khetan
+v. Kedar Nath Khetan (1977) 2 SCC 424 and in the case of
+Swadeshi Cotton Mills v. Union of India (1981) 1 SCC 664.
+Relying upon the above decisions of this Court, it is submitted
+that when the Statute provides that things are required to be
+done in a particular manner, it ought to have been done in the
+same manner as provided under the Statute. It is submitted that
+in the present case as the Statute specifically provides that before
+passing the order under Section 130 of the Companies Act, an
+opportunity is to be given to all concerned and that two
+conditions, as referred to hereinabove, are to be satisfied, the
+same are required to be followed and complied with.
+6.5   It is further submitted by Shri Dhruv Mehta, learned Senior
+Counsel appearing on behalf of the appellant that, even
+otherwise, there is no specific finding by the learned Tribunal
+with respect to the mismanagement by the erstwhile Directors.
+So far as the reliance placed upon the observations made in the
+earlier order dated 01.10.2018 is concerned, it is submitted that
+the order dated 01.10.2018 passed under Sections 241/242 of
+the Companies Act cannot be said to be the final order.         It is
+
+                                 15
+submitted that it is an interim order/report to which the
+appellant has already submitted the objections, which are yet to
+be considered. It is submitted that, therefore, condition No. (ii) of
+Section 130(1) of the Companies Act is not satisfied.
+6.6   It is submitted that therefore, as the condition precedent
+while invoking the powers under Section 130 of the Companies
+Act are not being met, the learned Tribunal ought not to have
+and could not have invoked and applied Section 130 of the
+Companies Act.     In support of his above submission, Shri Dhruv
+Mehta, learned Senior Counsel appearing on behalf of the
+appellant has relied upon the decision of this Court in the case of
+Calcutta Discount Company v. Income Tax Officer AIR 1961
+SC 372.
+6.7   It is further submitted by the learned Senior Counsel
+appearing on behalf of the appellant that all the three different
+provisions, namely Section 130, Sections 211/212 and Sections
+241/242 of the Companies Act, operate in the different fields and
+in different situations and as such they are in different chapters
+and therefore the observations made while passing the order
+
+                                  16
+under one provision cannot be made applicable to while passing
+the order under different provisions.
+6.8  Shri Dhruv Mehta, learned Senior Counsel appearing on
+behalf of the appellant has further submitted that what is
+required to be considered is the relevant material at the time
+when the learned Tribunal passed the order under Section 130 of
+the Companies Act. It is submitted that the respondents cannot
+support the order passed by the learned Tribunal under Section
+130 of the Companies Act relying upon the subsequent
+developments/events.       In support of his above submission, he
+has heavily relied upon the decisions of this Court in the cases of
+Mohinder Singh Gill v. Chief Election Commissioner, New
+Delhi (1978) 1 SCC 405 and T.P. Senkumar v. Union of India
+(2017) 6 SCC 801. It is submitted that the decision of this Court
+in the case of Chairman, All India Railway Recruitment
+Board v. K. Shyam Kumar (2010) 6 SCC 614 relied upon by the
+learned Counsel appearing on behalf of the Union of India shall
+not be applicable to the facts of the case on hand. It is submitted
+that in the case of K. Shyam Kumar (supra), this Court was
+considering   the   administrative     decision/order   and   while
+
+                                  17
+considering    such administrative order/decision,        this  Court
+observed that the subsequent events/reports can be considered
+while considering the legality and validity of the original
+action/order in the public interest.
+6.9   Shri Dhruv Mehta, learned Senior Counsel appearing on
+behalf of the appellant has further submitted that, therefore,
+neither the condition precedent provided in Section 130(1) of the
+Companies Act has been complied with/satisfied, nor even
+Section 130(2) of the Companies Act has been complied with, and
+it is in violation of the provisions of Section 130(1) of the
+Companies Act, and as sufficient opportunity was not given to
+the appellant, therefore, is in violation of the principles of natural
+justice. It is prayed that the present appeal be allowed and the
+order passed by the learned Tribunal allowing the application
+under Section 130 of the Act be set aside.
+6.10 It is further submitted by Shri Dhruv Mehta, learned Senior
+Counsel appearing on behalf of the appellant that so far as the
+impugned order passed by the learned Appellate Tribunal is
+concerned, it is submitted that none of the submissions/ground
+raised on behalf of the appellant have been dealt with and/or
+
+                                  18
+considered by the Appellate Tribunal.       It is submitted that the
+learned    Appellate   Tribunal    was   considering/deciding     the
+statutory appeal and therefore the learned Appellate Tribunal
+was supposed to deal with the grounds raised on behalf of the
+appellant.    It is submitted that though the plea of violation of
+principles of natural justice was specifically pleaded and even the
+learned Appellate Tribunal also observed that there may be
+violation of principles of natural justice, in that case, the learned
+Appellate Tribunal ought to have remanded the matter to the
+learned Tribunal.      It is submitted that the learned Appellate
+Tribunal ought to have appreciated that in view of the violation of
+principles of natural justice, it has caused great prejudice to the
+appellant.    It is submitted that as observed and held by this
+Court in the case of Swadeshi Cotton Mills (supra), when the
+principles of natural justice are prescribed by the statutory
+provision, no prejudice is required to be shown for invoking the
+ground of violation of principles of natural justice.
+6.11 it is further submitted by learned Counsel appearing on
+behalf of the appellant that the impugned orders have far
+reaching consequences.        It is submitted that the books of
+
+                                 19
+accounts once re­opened and re­casted are deemed to be final
+under the provisions of Section 130(2) of the Companies Act.
+6.12 Making the above submissions and relying upon the above
+decisions, it is prayed to quash and set aside the impugned order
+passed by the learned Tribunal, confirmed by the learned
+Appellate Tribunal.
+7.    The present appeal is vehemently opposed by Shri Maninder
+Singh, learned Senior Counsel appearing on behalf of the Union
+of India.
+7.1   It is vehemently submitted by the learned Senior Counsel
+appearing on behalf of the Union of India that the impugned
+order passed by the learned Tribunal, confirmed by the learned
+Appellate Tribunal do not suffer from any vice of illegality. It is
+submitted that the order passed by the learned Tribunal under
+Section 130 of the Companies Act is absolutely in the larger
+public interest and absolutely in consonance with the provisions
+of Section 130 of the Companies Act.
+7.2   It is further submitted by the learned senior Counsel
+appearing on behalf of the Union of India that there are very
+serious allegations of preparing the earlier accounts in a
+
+                                  20
+fraudulent     manner,   and   also   with   respect  to  the   mis­
+management of the affairs of the company during the relevant
+period.   It is submitted that, in the present case, after having
+satisfied that there are serious allegations against IL&FS group of
+companies, the Department of Economic Affairs took a conscious
+decision to approach the NCLT under Section 242 of the
+Companies Act to order re­constitution of the Board of Directors.
+It is submitted that by a detailed order and considering the
+material on record, and having been prima facie satisfied with
+respect to the allegations of mismanagement and relating to the
+affairs of IL&FS group of companies, the learned Tribunal passed
+an     order    dated    01.10.2018     suspending     the    earlier
+Directors/Board of Directors of the companies and appointed a
+new Board of Directors. It is submitted that even the Ministry of
+Corporate Affairs, Government of India in exercise of powers
+under Section 212 of the Companies Act had issued an order
+directing to conduct investigation into the affairs of IL&FS group
+of companies.      It is submitted that SFIO constituted under
+Section 212 of the Act has already commenced a specialized
+investigation into the affairs of IL&FS group of companies.     It is
+submitted that the appellant has been arrested on 02.04.2019,
+
+                                21
+and is presently in judicial custody.      It is submitted that
+thereafter when the Union of India through the Ministry of
+Corporate Affairs submitted an application before the learned
+Tribunal to re­open the books of accounts and to re­cast the
+financial statements of the three main companies for the last five
+years and thereafter considering the investigation reports and
+having been satisfied that the conditions precedent for invoking
+the powers exercised under Section 130 of the Companies Act are
+satisfied/complied with, thereafter when the learned Tribunal
+has passed the order, the same cannot be said to be illegal. It is
+submitted that all the requirements under Section 130 of the
+Companies Act have been complied with/satisfied.
+7.3   It is further submitted that the order dated 01.10.2018
+passed under Sections 241/242 of the Companies Act has
+attained finality inasmuch as the same is not challenged till date.
+It is submitted that therefore the same can be considered by
+passing an order under Section 130 of the Companies Act also.
+7.4     It is further submitted by the learned Senior Counsel
+appearing on behalf of the Union of India that all the three
+provisions, namely Sections 211/212, Sections 241/242 and
+
+                                  22
+Section 130 of the Companies Act are required to be considered
+and read conjointly. It is submitted that while considering the
+one provision and/or while passing the order under one
+provision, it is required to be seen that the effect of the
+order/orders passed in other provisions do not become nugatory
+and/or ineffective.      It is submitted that therefore if all the
+aforesaid three provisions are considered and read conjointly, in
+that case, it can be said that the order passed under Section 130
+of the Companies Act would be in the aid of the investigation
+going on by the SFIO under Section 212 of the Companies Act
+and the same shall be in the larger public interest.          It is
+submitted that, in the present case, Justice D. K. Jain, a former
+Judge of this Court, has been appointed to supervise the
+resolution process of IL&FS group of companies. It is submitted
+that the re­opening of the books of accounts and re­casting the
+financial statements of the aforesaid three companies is very
+much required and necessary, since the same shall be in the
+larger public interest, to find out the real truth.
+7.5  It is further submitted by the learned Senior Counsel
+appearing on behalf of the Union of India that the powers
+
+                                  23
+conferred under Section 130 of the Companies Act are less
+stringent than the powers conferred under Sections 241/242
+and/or Sections 211/212 of the Companies Act. It is submitted
+that while exercising powers under Section 130 of the Companies
+Act, there may not be any final conclusion/opinion that the
+relevant earlier accounts are prepared in a fraudulent manner or
+the affairs of the company were mismanaged during the relevant
+period.    It is submitted that if, on the basis of the material on
+record, the learned Tribunal is satisfied on either of the aforesaid
+two eventualities, it is always open to the Tribunal to pass the
+order to re­open the books of accounts and to re­cast the
+financial statements of the company.
+      It is further submitted that, in the present case, before
+passing the order under Section 130 of the Companies Act
+notices were issued under the first proviso to Section 130 of the
+Companies Act.       It is submitted that SEBI appeared and
+submitted that it had no objection to the accounts and financial
+statement of respondent Nos. 2 to 4, which are listed companies,
+being re­opened and re­casted.
+
+                                  24
+      It is submitted that, as observed by the Tribunal in the
+impugned order, the erstwhile directors had opposed the
+application under Section 130 of the Companies Act, that after
+hearing all parties, the impugned order has been passed by the
+learned Tribunal.    It is submitted that therefore the impugned
+order passed by the learned Tribunal cannot be said to be in
+violation of the principles of natural justice as alleged.
+7.6   Relying upon the subsequent interim investigation reports
+by the RBI, it is submitted that the impugned order passed by
+the learned Tribunal under Section 130 of the Companies Act is
+not required to be interfered with.      It is submitted that mere
+perusal of the report of the RBI dated 22.3.2019 demonstrates
+and    establishes   beyond     any  doubt    about    the complete
+correctness, validity and legality of the order under Section 130
+of the Act.    In support of his submission, the learned counsel
+has relied upon and requested to consider the subsequent event
+also, more particularly the report of the RIB dated 22.03.2019.
+The learned counsel appearing on behalf of the Union of India
+has heavily relied upon the decision of this Court in the case of
+
+                                 25
+K. Shyam Kumar (supra) in support of the prayer to consider
+the subsequent Report of RBI also.
+7.7   Making the above submissions, it is prayed to dismiss the
+present appeal, more particularly, considering the larger public
+interest as, in the present case, thousands of crores of the public
+money is involved.
+8.    We have heard the learned counsel for the respective parties
+at length and perused the written submissions filed by them.
+      At the outset, it is required to be noted that by the
+impugned order and in exercise of powers under Section 130 of
+the Companies Act, the learned Tribunal has allowed the said
+application preferred by the Central Government and has
+directed/permitted re­opening of the books of accounts and re­
+casting the financial statements of         IL&FS and other two
+companies for the last 5 years, viz., F.Y 2012­2013 to 2017­2018.
+The order passed by the learned Tribunal has been affirmed by
+the learned Appellate Tribunal.      Therefore, the short question
+which is posed for consideration before this Court, whether in the
+facts and circumstances of the case, can it be said that the order
+
+                                26
+passed by the learned Tribunal is illegal and/or contrary to
+Section 130 of the Companies Act?
+8.1   While considering the aforesaid question/issue, few facts
+and the relevant provisions of the Companies Act which are
+relevant for determining/considering the legality and validity of
+the order passed by the learned Tribunal are required to be
+referred to and considered, which are as under:
+      Section   211    of  the   Companies    Act   provides    for
+establishment of Serious Fraud Investigation Office to investigate
+frauds relating to a company. Section 212 of the Companies Act
+provides for investigation into affairs of company by SFIO.
+Section 212 of the Companies Act provides that if the Central
+Government is of the opinion that it is necessary to investigate
+into the affairs of a company by SFIO....in the public interest; or
+on a request made by any department of the Central Government
+or a State Government.        In the present case, the Central
+Government has already constituted SFIO and has also ordered
+investigation into the affairs of IL&FS and other group of
+companies and the investigation by the SFIO is under progress.
+It is also required to be noted that SFIO had also submitted its
+
+                                 27
+preliminary report.     In the preliminary SFIO report, there are
+specific findings with respect to mismanagement of the affairs of
+the aforesaid companies, and also with respect to preparing
+fraudulent accounts. At this stage, it is also required to be noted
+that ICAI had also conducted an enquiry into the accounts for
+the past five years, and in the preliminary report, the ICAI has
+mentioned that “accounts for the post five years have been
+prepared in a fraudulent and negligent manner by the erstwhile
+auditors”. That the Registrar of Companies had also conducted
+an enquiry under Section 206 of the Companies Act and prima
+facie  concluded    that   mismanagement     and   compromise     in
+corporate governance norms and risk management has been
+perpetuated     on    IL&FS    and   its   group   companies     by
+indiscriminately     raising   long    term    and    short    term
+loans/borrowings through public sector banks and financial
+institutions.  Considering the fact that thousands of crores of
+public money is involved, and in the public interest, the Central
+Government has thought it fit to handover the investigation with
+respect to the affairs of IL&FS and other group companies to
+SFIO.
+
+                                  28
+8.1.1      Sub­section (2) of Section 241 of the Companies Act
+provides that if the Central Government is of the opinion that the
+affairs of the company are being conducted in a manner
+prejudicial to public interest, it may itself apply to the Tribunal
+for an appropriate order under Chapter XVI, more particularly
+the order under Section 242 of the Companies Act.            In the
+present case, the Central Government had approached the
+learned Tribunal under Section 241 of the Companies Act and for
+an appropriate order to suspend the existing Board of Directors
+of the Companies and to appoint new Directors in terms of the
+provisions of Section 242(2)(k) of the Companies Act, to manage
+the affairs of IL&FS and group companies.        That by an order
+dated 01.10.2018, the learned Tribunal, in exercise of powers
+under Section 242(2) of the Companies Act, has suspended the
+Board of Directors of IL&FS and has further passed an order for
+reconstitution of the new Board of Directors.      Six persons are
+appointed as Directors as Board members. While issuing such
+directions, the learned Tribunal has specifically observed that the
+learned Tribunal is satisfied that the affairs of the IL&FS were
+being conducted in a manner prejudicial to public interest.
+Thus, pursuant to the said order dated 01.10.2018, the erstwhile
+
+                                 29
+Board Members/Directors of the IL&FS are suspended, and new
+Directors are appointed as Board Members and the new Board of
+Directors are conducting the affairs of the IL&FS and group
+companies.    It is further ordered that the suspended Directors
+henceforth shall not represent the IL&FS company as Directors,
+and shall also not exercise any power as Directors in any manner
+before any authority as well.    The appellant herein is the Vice
+President and suspended Director of the company, who alone has
+challenged the impugned order passed by the learned Tribunal
+passed under Section 130 of the Companies Act.
+8.2  In between there is one another development. Pursuant to
+the order passed by the NCLAT, a former Judge of this Court –
+Hon’ble Justice (Retd.) D.K. Jain has been appointed to supervise
+the operation of the “Resolution Process” of the IL&FS group
+companies.    Considering the aforesaid facts and circumstances
+and in the larger public interest and having found on the basis of
+the reports/preliminary reports of SFIO, ICAI and ROC and
+having observed and found that the relevant earlier accounts of
+IL&FS and other group companies, named hereinabove, were
+prepared in a fraudulent manner and the affairs of the company
+
+                                  30
+were mismanaged during the relevant period, casting a doubt on
+the   reliability  of  the  financial statements,  the   Union  of
+India/Central Government considered it fit to submit an
+application before the learned Tribunal under Section 130 of the
+Companies Act. After issuing notice to all concerned including
+the Central Government, Income Tax Authorities, SEBI, other
+Statutory Regulatory Body and even to the erstwhile Directors of
+IL&FS and other two companies, by the impugned order, the
+learned Tribunal has permitted/directed the Central Government
+to re­open the books of accounts and to recast the financial
+statements      of  IL&FS   and   other  two  companies,   named
+hereinabove, of last 5 years.
+8.3   Considering the aforesaid facts and circumstances, the
+legality and validity of the impugned order passed by the learned
+Tribunal passed under Section 130 of the Act, confirmed by the
+learned Appellate Tribunal is required to be considered.
+9.    On going through the order passed by the learned Tribunal
+passed under Section 130 of the Act, it appears that the learned
+Tribunal is conscious of the relevant provisions of the Act, more
+particularly Section 130 of the Companies Act and more
+
+                                 31
+particularly   the    conditions    precedent   to  be   complied
+with/satisfied while directing/permitting re­opening of the books
+of accounts and re­casting of the financial statements of the
+company. From the order passed by the learned Tribunal under
+Section 130 of the Companies Act, it appears that the learned
+Tribunal has considered the preliminary report submitted by the
+ICAI and SFIO and the observations made in the aforesaid
+reports/preliminary reports. That thereafter having satisfied that
+the conditions precedent for invoking powers under Section 130
+of the  Companies Act, stated in Section 130 (i) OR (ii) of the
+Companies Act are satisfied, thereafter the learned Tribunal has
+passed an order allowing the application under Section 130 of the
+Companies Act for re­opening the books of accounts and re­
+casting the financial statements of IL&FS and other two
+companies, viz, for the last 5 years.
+10.  While assailing the order passed by the Tribunal under
+Section 130 of the Act, it is vehemently submitted on behalf of
+the appellant, who as such is a suspended director of the
+company that there is no specific finding recorded by the learned
+Tribunal that (i) the relevant earlier accounts were prepared in a
+
+                                  32
+fraudulent manner; and (ii) the affairs of the company were
+mismanaged during the relevant period casting a doubt on the
+reliability of the financial statements. It is the case on behalf of
+the appellant that in the order dated 01.01.2019 passed under
+Section 130 of the Companies Act, learned Tribunal has
+specifically given a finding that the alleged accounts of the
+companies cannot be said to have been prepared in a fraudulent
+manner. However, it is required to be noted that the aforesaid
+observations by the Tribunal are required to be considered in the
+context for which the observations are made. It appears that the
+said observations are made with respect to role of the auditors. It
+is to be noted that in the same para, the learned Tribunal has
+specifically observed that in the earlier order dated 01.10.2018, it
+is observed that the affairs of the company were mismanaged
+during the relevant period and that the affairs of the company
+and subsidiary companies were being mismanaged during the
+relevant period, as contemplated under Sub­Section (1) and (2).
+At this stage, it is required to be noted that as per Section 130 of
+the Act, the Tribunal may pass an order of re­opening of
+accounts if the Tribunal is of the opinion that (i) the relevant
+earlier accounts were prepared in a fraudulent manner; OR (ii)
+
+                                  33
+the affairs of the company were mismanaged during the relevant
+period casting a doubt on the reliability of the financial
+statements.     Therefore, the word used is “OR”.       Therefore, if
+either of the conditions precedent is satisfied, the Tribunal would
+be justified in passing the order under Section 130 of the Act.
+Considering the order passed by the Tribunal passed under
+Section 130 of the Companies Act, it appears that the learned
+Tribunal has passed the order on being satisfied with respect to
+the second part of Section 130 of the Companies Act. It is also
+required to be noted that the learned Tribunal has also taken
+note of the preliminary report submitted by the ICAI with respect
+to the earlier accounts were being prepared in a fraudulent
+manner. On a fair reading of Section 130 of the Companies Act,
+if the Tribunal is satisfied that either of the conditions precedent
+is satisfied, the Tribunal would be justified in passing the order
+under Section 130 of the Companies Act.
+11.   Considering    the   facts  narrated    hereinabove   and  the
+preliminary reports of SFIO and ICAI which came to be
+considered by the learned Tribunal and considering the specific
+observations made by the learned Tribunal while passing the
+
+                                  34
+order under Section 241/242 of the Companies Act and
+considering the fact that the Central Government has entrusted
+the investigation of the affairs of the company to SFIO in exercise
+of powers under Section 242 of the Companies Act, it cannot be
+said that the conditions precedent while invoking the powers
+under Section 130 of the Act are not satisfied. We are more than
+satisfied that in the facts and circumstances of the case, narrated
+hereinabove, and also in the larger public interest and when
+thousands of crores of public money is involved, the Tribunal is
+justified in allowing the application under Section 130 of the
+Companies Act, which was submitted by the Central Government
+as provided under Section 130 of the Companies Act.
+12.   Now so far as the submission on behalf of the appellant that
+all the three provisions, viz., Section 130, Sections 211/212 and
+Sections 241/242 operate in different fields and in different
+circumstances and they are in the different Chapters and
+therefore any observation made while passing the order/orders
+with respect to a particular provision may not be considered
+while passing the order under relevant provisions is concerned, it
+is required to be noted that all the three provisions are required
+
+                                  35
+to be considered conjointly.        While passing an order in a
+particular provision, the endeavour should be to see that the
+order/orders passed under other provisions of the Companies Act
+are given effect to, and/or in furtherance of the order/orders
+passed under other Sections. Therefore, the observations made
+while passing order under Section 241/242 of the Companies Act
+can be said to be relevant observations for passing the order
+under Section 130 of the Companies Act.          At this stage, it is
+required to be noted that even otherwise in the order passed by
+the Tribunal under Section 130 of the Companies Act, there is a
+specific observation made by the learned Tribunal with respect to
+mismanagement of the affairs of the company, and even with
+respect to the relevant earlier accounts prepared in a fraudulent
+manner.
+13.   It is next contended on behalf of the appellant that proviso
+to Section 130 of the Act has not been complied with and that the
+order passed by the learned Tribunal passed under Section 130
+of the Act is in violation of the principle of natural justice. At the
+outset, it is required to be noted that while passing he order
+under Section 130 of the Companies Act, the learned counsel
+
+                                 36
+appearing on behalf of the erstwhile directors appeared and
+opposed the application under Section 130 of the Companies Act.
+Therefore, the learned counsel appearing on behalf of the
+erstwhile directors was heard before passing he order under
+Section 130 of the Companies Act. Therefore, it can be said that
+there is a compliance/substantial compliance of the principle of
+natural justice to be followed. It is required to be noted that as
+per proviso to Section 130 of the Companies Act before passing
+the order under Section 130 of the Act, the Tribunal is required
+to  issue  notice   to  the  Central   Government,    Income  Tax
+Authorities, SEBI or any other statutory regulatory body or
+authorities concerned or any “other person concerned” and is
+required to take into consideration the representation, if any
+made.    The “other person concerned” is as such not defined.
+Who can be said to be “other person concerned”, that question is
+kept open.   At this stage, it is required to be noted that while
+passing the order under Section 130 of the Act, there shall be
+reopening of the books of accounts and re­casting of the financial
+statements of the company and therefore the Board of Directors
+of the company may make a grievance. The erstwhile directors
+cannot represent the company as they are suspended pursuant
+
+                                  37
+to the earlier order passed under Section 242 of the Companies
+Act. Be that as it may, even otherwise in the present case and as
+observed hereinabove the erstwhile directors of the company
+represented before the Tribunal and they opposed the application
+under Section 130 of the Act. Therefore, in the facts and
+circumstances of the case, it cannot be said that the order
+passed by the learned Tribunal is per se in violation of the
+principle of natural justice as alleged.
+14.  The submission by learned Counsel appearing on behalf of
+the appellant that in the impugned order passed by the learned
+Appellate    Tribunal,   the   learned     Appellate  Tribunal    has
+specifically observed that there is a violation of principle of
+natural justice and therefore the learned Appellate Tribunal
+ought to have remanded the matter to the Tribunal is concerned,
+on considering/fair reading of the impugned order passed by the
+learned Appellate Tribunal, as such, there is no specific finding
+by the learned Appellate Tribunal that there is a violation of
+principle of natural justice. What is observed by the learned
+Appellate Tribunal is that “even if it is accepted that the appellant
+on receipt of notice wanted to file reply” cannot be considered as
+
+                                  38
+a specific finding given that the order passed by the Tribunal was
+in violation of principle of natural justice.
+15.   Now insofar as the submission on behalf of the appellant
+that the order dated 01.10.2018 passed under Section 241/242
+of the Companies Act is an interim order and the same is not a
+final order suspending the directors and the erstwhile board of
+directors of the company, and therefore the observations made in
+the order dated 01.10.2018 cannot be considered, has no
+substance. It is required to be noted that as on today the order
+dated 01.10.2018 suspending the erstwhile directors of the
+company      including   the  appellant    stands and  remains  in
+operation. The same is not challenged by way of an appeal before
+an appropriate appellate Tribunal/Court.
+16.   Now so far as the submission on behalf of the appellant that
+the impugned order passed by the learned Appellate Tribunal is a
+non­speaking and non­reasoned order and the grounds urged
+before the learned Appellate Tribunal have not been dealt with by
+the learned Appellate Tribunal and therefore the prayer to set
+aside the order is concerned, in view of our specific findings
+
+                                 39
+recorded hereinabove on the legality and validity of the order
+passed by the learned Tribunal under Section 130 of the
+Companies Act, we do not propose to remand the matter to the
+learned Appellate Tribunal. It is true that the learned Appellate
+Tribunal could have passed a reasoned/speaking order. But in
+the facts and circumstances of the case and our findings
+recorded hereinabove and as observed hereinabove, the order
+passed by the Tribunal under Section 130 of the Companies Act
+does not suffer from any illegality and the same is passed in the
+larger public interest, we have considered the order passed by the
+learned Tribunal under Section 130 of the Companies Act on
+merits.
+17.   In view of the aforesaid findings recorded by us, the
+decisions relied upon by the learned counsel appearing on behalf
+of the appellant shall not be applicable to the facts of the case on
+hand. There cannot be any dispute to the proposition of law laid
+down by this Court in the aforesaid decisions relied upon by the
+learned counsel appearing on behalf of the appellant. However,
+in the light of the aforesaid findings recorded by us, none of the
+
+                                40
+decisions relied upon by the learned counsel appearing on behalf
+of the appellant shall be applicable to the facts of the case on
+hand.
+18.  Now so far as reliance placed upon the subsequent report of
+the RBI and the objection by the learned counsel appearing on
+behalf of the appellant to rely upon the subsequent report and
+the reliance placed upon the decision of this Court in the case of
+Mohinder Singh (supra) is concerned, as the impugned order
+passed by the learned Tribunal is in the larger public interest,
+this Court can take note of the subsequent development/report.
+However, at the same time, the same shall be in support of the
+order under challenge. Even otherwise, it is required to be noted
+and as observed hereinabove, independent to the subsequent
+report of the RBI, there is a specific finding with respect to the
+mismanagement      and   the   fraudulent    accounts.   Therefore
+subsequent Report of the RBI Report can be taken note of, while
+upholding the order passed by the learned Tribunal under
+Section 130 of the Companies Act. As observed hereinabove, a
+larger public interest has been involved and reopening of the
+
+                                 41
+books of accounts and recasting of financial statements of the
+aforesaid companies is required to be carried out in the larger
+public interest, to find out the real truth, and as observed
+hereinabove both the conditions precedent while invoking power
+under Section 130 of the Companies Act are satisfied/complied
+with, therefore in the facts and circumstances of the case, we are
+of the opinion that the order passed by the learned Tribunal
+passed under Section 130 of the Companies Act, confirmed by
+the learned Appellate Tribunal, is not required to be interfered
+with.
+19.   In view of the above and for the reasons stated above, we
+see no reason to interfere with the impugned order dated
+01.01.2019 passed by the learned Tribunal under Section 130 of
+the Companies Act for re­opening of the books of accounts and
+re­casting the financial statements of the Infrastructure Leasing
+& Financial Services Limited; IL&FS Financial Services Limited
+and    IL&FS Transportation Networks Limited for the last five
+years, viz. from Financial Year 2012­13 to the Financial Year
+2017­18, which came to be confirmed by the learned Appellate
+
+                                42
+Court vide impugned judgment and order dated 31.01.2019.
+Consequently, the present appeal fails and deserves to be
+dismissed and is accordingly dismissed.
+     All connected IAs are also disposed of.
+                                        ...................................J
+                                        [INDU MALHOTRA]
+                                        ..................................J.
+                                        [M. R. SHAH]
+NEW DELHI,
+JUNE 4, 2019
+
+

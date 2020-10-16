@@ -1,0 +1,1988 @@
+$~
+*      IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                          Reserved on : 22nd January , 2018
+                                         Date of decision :22nd March, 2018
++            RFA 43/2017 & CM APPL. 1337/2017 (stay)
+   EAST DELHI MUNICIPAL CORPORATION                           ….. Appellant
+                          Through: Ms. Mini Pushkarna, Standing
+                                      Counsel for EDMC with Ms.
+                                      Anushruti and Ms. Vasundhara
+                                      Nayyar, Advocates.
+                          versus
+    ASHWANI KUMAR AGGARWAL                                   ..... Respondent
+                          Through: None.
+       CORAM:
+        JUSTICE PRATHIBA M. SINGH
+                          JUDGMENT
+Prathiba M. Singh, J.
+1.     These are a batch of appeals which have arisen out of disputes
+between Contractors/Plaintiffs (hereinafter, „Contractors‟) on the one hand
+and the North Delhi Municipal Corporation (hereinafter, „NrDMC‟) and
+East Delhi Municipal Corporation (hereinafter, „EDMC‟), on the other.
+NrDMC and EDMC are collectively referred to as `Corporations'. The facts
+in each appeal are different and hence separate judgements are being passed
+in each of the appeals.
+2.     Briefly, these are cases where various work orders were placed on
+Contractors by both the Corporations. The works were executed by the
+Contractors and thereafter, the Engineer-in-Charge has passed the final bills.
+Payments in respect thereof were not made. Suits for recovery were filed by
+the Contractors. The Trial Court decreed the suits in favour of the
+RFA 43/2017                                                       Page 1 of 58
+
+Contractors.
+3.     In respect of each of the work orders, the Contractors seek either/all
+of the following payments:
+       a.     Payment of the principal amount as passed in the final bill;
+       b.     Refund of security deposit;
+       c.     Interest on account of late payment of the principal amount, as
+              also due to delay in refund of security deposit.
+4.     The Corporations rely on Clauses 7 and 9 of the General Conditions
+of Contract in respect of payment of principal amount and interest, read with
+the amendment of 19th May, 2006. In respect of the security deposit, the
+Corporations rely on Clauses 17 and 45 of the General Conditions of
+Contract for Municipal Corporation of Delhi Works (hereinafter, ‟General
+Conditions of Contract‟). In addition, the Corporations also rely upon
+Circular dated 10th June 2014 signed by the Chief Engineer, MCD which
+was issued in the nature of a clarification. The questions that have arisen in
+all these cases are -
+       (i)    Whether payment of the principal amount can be delayed in
+       view of Clause 7 and Clause 9 of the General Conditions of Contract
+       read with the amendments?
+       (ii)   Whether the refund of earnest money/security deposit can be
+       delayed in view of Clauses 17 and 45 of the General Conditions of
+       Contract?
+       (iii)  Whether interest is payable on delayed payments/refunds and if
+       so, for which period?
+5.     Arguments have been addressed by Mr. Sunil Goel and Ms. Mini
+Pushkarna on behalf of the Corporations - NrDMC and EDMC, respectively.
+RFA 43/2017                                                       Page 2 of 58
+
+On behalf of the Contractors in some matters, Mr. Vinay Kumar has made
+submissions.
+Background of the case
+6.     In the present case, work order No.43 dated 27th May, 2013 was
+placed on the Contractor. After completion of the work to the satisfaction of
+the Engineer-in-Charge, the final bill was passed on 31st July, 2013 for a net
+amount of Rs.3,96,597/- (net amount), security of Rs.46,644/- and certain
+overhead charges resulting in total amount of Rs.4,66,445/-. The Contractor
+served a notice dated 5th March, 2015 calling upon EDMC to make the
+payment which was not done. Accordingly, the Contractor filed the subject
+suit claiming the entire sum of Rs.4,66,445/- alongwith pendente lite
+interest. The Corporation, in its written statement, pleaded as under:
+            “6-11. That the contents of para no. 6 to 11 of the
+            plaint are wrong and denied. However it is submitted
+            that the EDMC has issued the work order no. EE M-
+            III/SH/N/TC/2013-14/43 dt. 27/05/2013, Name of
+            Work: -IMP./Dev of gali No. 2 East Nathu Colony
+            Ashok Nagar by pdg. RMC in C-246, Shahdara North
+            Zone. It is further submitted that plaintiff had carried
+            out works as mentioned above and completed the
+            works. It is further submitted that first and final bills of
+            plaintiff was passed on 31/07/2013 gross amount Rs.
+            4,66,445/- (Net amount Rs. 3,96,597/-). After passing
+            the bill of the plaintiff, the said passed bill were sent to
+            the accounts department of EDMC/HQ for releasing
+            the payment, but till date no payment have been release
+            to the plaintiff due to paucity of funds under non- plan
+            head. It is further submitted that even necessary and
+            unavoidable payments such as medicines, essential
+            hospital          items,          pensions,        medical
+            reimbursement/salary of the employee of the EDMC
+RFA 43/2017                                                            Page 3 of 58
+
+            are also pending due to shortage of funds. Therefore,
+            the payment of the plaintiff will be released once the
+            financial position of the EDMC improved.”
+7.     Thus, the Corporation simply claimed that due to paucity of funds, it
+was unable to pay the contractor’s dues. An application was filed by the
+Contractor under Order XII Rule 6 of the CPC, in view of the stand taken by
+the Corporation in its pleadings. No reply to the application was filed by the
+Corporation. The Contractor led the evidence of the proprietor, Mr. Ashwani
+Kumar Aggarwal/PW-1, who in his cross examination stated as under:
+            “It is correct that I have gone through the contents of
+            NIT, terms and conditions of the tender documents. I
+            have knowledge that there were some amendments in
+            the terms and conditions vide circular dated 19.5.2006
+            of MCD Ex.PW1/D1. It is correct that I have accepted
+            terms and conditions of NIT. I do not know if there is
+            no clause in the terms and conditions about the award
+            of interest. I have not received any interest from MCD
+            on account of delay. Vol. As long delay never took
+            place earlier. It is correct that I did not submit the bill
+            for the work order in question and the bill was
+            prepared by the engineer incharge of the defendant
+            and thereafter it was accepted by me as correct. Vol.
+            After measurement. I do not recollect if I have not
+            applied for refund of security.
+            I do not dispute general terms and conditions of the
+            tender documents of MCD consisting of 82 pages. It is
+            correct that security amount is refunded after making
+            of final payment of EDMC. It is correct that after final
+            payment contractor has to apply for refund of security.
+            It is correct that I have not received final payment in
+            the present case so far. It is correct to suggest that
+            payment in the present case so far. It is incorrect to
+            suggest that payment is made to the contractor on the
+RFA 43/2017                                                           Page 4 of 58
+
+            queue basis in a particular head of account.”
+8.     The Corporation led the evidence of Mr. J.K. Sharma/DW-1,
+Assistant Engineer, who stated as under:
+            “The payment by EDMC is made to the contractors on
+            queue basis only. It is incorrect that payment of
+            plaintiff has been delayed. I am not aware if the
+            plaintiff been requesting the EDMC repeatedly for
+            making his payment. It is incorrect to suggest that
+            EDMC has sufficient fund for making payment to the
+            plaintiff. It is incorrect to suggest that plaintiff suffered
+            any loss due to blockage if money rotation.”
+9.     In view of the categorical admission by the Corporation, the Trial
+Court vide judgement dated 25th July, 2016 decreed the suit as under:
+            “Consequent upon the decision of issue nos.1 to 3 in
+            favour of the plaintiff and against the defendant, it is
+            held that the plaintiff is entitled not only to get interest
+            but also he is entitled to get cost of the suit in his
+            favour and against the defendant. Accordingly, interest
+            @9% per annum on the principal amount i.e. Rs.
+            4,66,445/- is awarded in favour of the plaintiff and
+            against the defendant from the date of completion of
+            contract work till the payment of principal amount was
+            paid to him in pursuance to order of this court with
+            cost of the suit and lawyer fee of Rs. 10,000/-.”
+10.    EDMC submits that this very Contractor, qua separate transactions
+had given consent and his appeals therein were disposed of vide order dated
+1st December, 2016 in RFA 192/2016. The fact that the Contractor had
+agreed to settle a different transaction by consent terms as recorded in the
+said order does not mean that the transaction in the current appeal is also to
+RFA 43/2017                                                             Page 5 of 58
+
+be disposed of as per the consent order. The transactions are distinct and
+separate. Consent cannot be borrowed into the current transaction where it is
+expressly submitted by the Contractor that he does not consent to the terms
+contained in order dated 1st December, 2016.
+11. History of litigations between contractors and Corporations -
+EDMC/ Nr.DMC in the Delhi High Court.
+       (i)    Order No.1 - Order dated 1st December, 2016 passed in lead
+matter RFA 786/2016 and 192/2016 - These orders were passed in appeals
+preferred by the Nr.DMC and EDMC, respectively - In this order, a Learned
+Single Judge of this Court records that a consensus has been arrived between
+the Corporations and Contractors in the following terms:
+            “2.         On 17.11.2016, with the consent of the
+            parties, the following order was passed :
+                  “6. After interacting with the counsels for the
+                  parties, a consensus has been arrived at and
+                  the following consent order is passed:-
+                (i) The appellants shall file fresh compilations,
+                  complete in all respects in respect of the
+                  respondents and the other contractors,
+                  irrespective of whether they have filed any
+                  appeals/suits of recovery or not, so that there
+                  is a clarity about their priority in the wait
+                  list.
+                (ii) The appellants undertake to strictly adhere
+                  to the timeline mentioned in the compilation,
+                  for releasing payments to the respondents.
+                (iii) No payment shall be released out of turn
+                  by the appellants.
+                (iv) The appellants shall ensure that the
+                  budget for release of amounts under the head
+RFA 43/2017                                                       Page 6 of 58
+
+              of Non-Plan Expenditure is increased on a
+              regular basis so that the release of payments
+              can be expedited to the respondents and
+              other contractors in the wait list, even prior
+              to the dates of priority mentioned against
+              their names.
+            (v) The appellants shall upload the
+              compilation on their websites for ease of
+              access and update it regularly at the end of
+              each month for the respondents and others to
+              know what their status is in the wait list.
+            (vi) Having regard to the fact that the
+              appellants expect the respondents to stay
+              their hands and not pursue their legal
+              remedies for execution of the impugned
+              judgments and decrees for a period
+              mentioned hereinafter, it is agreed that
+              interest shall be payable to the respondents
+              on the principal amount after the expiry of
+              three years and ninety days reckoned from
+              the date the concerned Division had passed
+              the bills of the respondents for payment. In
+              other words, a cushion of 90 days is being
+              provided to the Head Quarters of both the
+              appellants for completing the administrative
+              work of receiving and diarising the bills
+              received from different Divisions and
+              preparing a combined list for payment and it
+              is agreed that for the said period, no interest
+              shall be payable to the respondents.
+            (vii) It is further agreed that the appellants
+              will not be liable to pay interest on the
+              principal amounts payable to the
+              respondents under the impugned judgments
+              and decrees, for a period of three years
+              reckoned from the date of expiry of 90 days
+              mentioned above.
+RFA 43/2017                                                   Page 7 of 58
+
+            (viii) However, immediately on expiry of three
+              years as noted above, if the amounts remain
+              outstanding for any reason whatsoever, the
+              appellants shall pay interest @ 9% per
+              annum on the principal amount to the
+              respondents, for the remaining period, till
+              realization.
+            (ix) It is further agreed that the aforesaid
+              arrangement of payment of interest by the
+              appellants @ 9% per annum on the
+              outstanding principal amount to the
+              respondents shall continue only for a period
+              of two years, reckoned from the end of the
+              third year as mentioned in clause (vii)
+              hereinabove.
+            (x) If the amounts remain payable by the
+              appellants even thereafter, the respondents
+              shall be entitled to seek legal recourse for
+              execution of the impugned judgments and
+              decrees and claim interest on the decretal
+              amount from day one.
+            (xi) The respondents undertake that in view of
+              the settlement arrived at with the appellants,
+              as recorded above, they shall not take any
+              steps to file execution petitions in respect of
+              the impugned judgments and decrees, subject
+              matter of the present appeals, for the period
+              mentioned hereinabove.
+            (xii) As for the already pending execution
+              petitions, orders passed in these proceedings
+              shall be placed on record so that they can be
+              disposed of by the concerned courts on the
+              basis of the consent order, with liberty
+              granted to the respondents to file fresh
+              execution petitions in case of default on the
+              part of the appellants, as has been detailed
+              above.”
+RFA 43/2017                                                   Page 8 of 58
+
+12.    The said order further records in paragraph Nos.14 to17 as under:
+            “14.       The said offer is however unacceptable to the
+            counsels for the respondents who submit that they
+            would rather pursue the pending suits for payments of
+            the security amount with interest etc. as the time line
+            mentioned by the appellants for release of the
+            payments is too long.
+            15.       It is therefore clarified that the consent orders
+            passed in these appeals shall only govern the payments
+            that are the subject matter of the impugned judgments
+            and decrees and the suits that have been instituted by
+            the respondents against the appellants for recovery of
+            the security amount with interest, etc., and are pending
+            adjudication in the trial court, shall continue.
+            16.        At this stage, Mr. Sudhir Gupta, learned
+            counsel appearing for the respondents in RFA
+            701/2016, RFA No.707/2016, RFA 788/2016, RFA
+            789/2016, RFA 791/2016 submits, on instructions from
+            his clients, that they are ready and willing to settle the
+            entire dispute with the appellant/NrDMC by accepting
+            the timeline for release of payments, including the
+            amount due towards security deposit, as mentioned in
+            Annexure-A. The other side is in any case agreeable to
+            the said suggestion.
+            17.       Accordingly, the entire dispute, subject matter
+            of the captioned appeals including the claim of refund
+            of security deposit with interest etc. raised in the suits
+            instituted by the said respondents out of which the
+            appeals have arisen, stand full and finally settled in
+            terms of the consent order passed on 17.11.2016. It is
+            clarified that the appellant/NrDMC shall refund the
+            security amounts to the said respondents, subject
+            matter of the pending suits, contemporaneous to the
+            release of the decretal amounts, as per the seniority
+RFA 43/2017                                                           Page 9 of 58
+
+            assigned to them in the wait list on the same terms and
+            conditions as recorded on 17.11.2016. In view of a
+            comprehensive settlement having been arrived at
+            between the appellant/NrDMC and the respondents in
+            the appeals mentioned in para 16 above, the
+            respondents in the said cases shall file copies of the
+            orders passed in these proceedings in their respective
+            suits and be at liberty to approach the trial court for
+            seeking refund of the court fees under Section 16 of the
+            Court Fees Act.”
+13.    Order No.1 dated 1st December, 2016 was passed in lead matter RFA
+786/2106 and RFA 192/2016 involving NrDMC and EDMC. By this order,
+the Learned Single Judge of this Court disposed of a bunch of NrDMC and
+EDMC appeals based on a consensus arrived at between the parties. The
+Court refers to an earlier order dated 17th November, 2016 and disposes of
+all the appeals in the following terms -
+       i)      That the Corporation would prepare a complete list of
+       contractors whose payments are due;
+       ii)     As and when funds become available, payments would be
+       released to the Contractors on the basis of the priority in the waiting
+       list. No out of turn payments would be released. The list of the
+       Contractors would be uploaded on the website;
+       iii)    Interest would be payable after a period of three years and 90
+       days from the date when the bill is passed by the concerned division;
+       iv)     Interest would not run for a period of three years and 90 days as
+       mentioned above;
+       v)      Upon the expiry of the said period, if amounts remain
+       outstanding, the said interest @ 9 % p.a. on the principal amount for
+RFA 43/2017                                                         Page 10 of 58
+
+       the remaining period shall be paid;
+       vi)    The said interest @ 9% p.a. shall be liable to be paid for a
+       period of two years;
+       vii)   If after the period of two years, amounts remain outstanding,
+       the Contractor shall be free to pursue their legal remedies and seek
+       execution of the judgments and decrees passed in their favour and
+       also claim interest on the decretal amount as per their respective
+       entitlement from day one;
+       viii) No execution shall be filed for the period agreed. In so far as
+       security amount and interest is concerned, as per paragraph 15, the
+       Contractors were at liberty to pursue their remedies, since suits for
+       recovery were already pending;
+       ix)    In few of the appeals mentioned in paragraph 16 executed
+       herein above, settlements was arrived at even qua refund of security
+       deposit and interest.
+       For the sake of convenience, the above mentioned order dated 1 st
+       December, 2016 is referred to as `Order No.1'. On the basis of this
+       order, several appeals of the Corporation were disposed of.
+14.    Thus, in so far as security amount and interest is concerned, the suits
+that are pending adjudication in the Trial Court would continue. Only some
+Appellants, therein, agreed for a simple refund of security deposit without
+interest and the matter was closed qua the said Contractors. NrDMC and
+EDMC had attached Annexure-A along with the said order along with the
+details of the names of the Contractors, work orders, proper wait list of the
+Contractors with the expected month/year for payments.
+       (ii)   Order No.2- Order dated 23rd January, 2017 passed in writ
+RFA 43/2017                                                      Page 11 of 58
+
+petitions with the lead matter W.P. (C) 10055/2015 - Several writ petitions
+were filed before the Delhi High Court by Contractors seeking their dues
+from the Corporation. The Corporation relied upon Clause 7 of the General
+Conditions of Contract. A Learned Single Judge of this Court held that the
+said writ petitions could be disposed of on the same terms and conditions as
+Order No.1, as there is no dispute to the fact that the cases of the writ
+petitioners were similar to the parties in the Order No.1. The Court directed
+that the Corporation would abide by the timeline. Thus, Order No.1 came to
+be followed and the writs came to be disposed of in terms thereof. For the
+sake of convenience, the order dated 23rd January 2017 is referred to as
+`Order No. 2’.
+       (iii) Order No.3 - Orders passed in RFA Nos. 835/2017, 836/2017,
+837/2017, 838/2017, 839/2017, 840/2017, and 841/2017 dated 27 th
+September, 2017 which relied on an order of this Court dated 25 th
+September, 2017 passed in RFA 818/2017, 820/2017 and 821/2107. The
+Learned Single Judge of this Court, in Order No.3 followed Order no.2 and
+directed as under:
+            “3.      I do not find any inconsistency or conflict in
+            the order passed by this Court on 25.09.2017 with the
+            judgment passed by a learned Single Judge of this
+            Court on 01.12.2016 in RFAs 192/2016 and 786/2016.
+            The sum and substance continues to remain is that
+            payment will be made in queue in terms of Clause 9 of
+            the Contract with the earlier final bills prepared being
+            paid earlier to the final bills which are prepared
+            later.”
+       (iv)    Order No.4 - Order dated 9th October, 2017 in RFA 847/2017
+and RFA 849/2017 - In these matters also the appeals were disposed of in
+RFA 43/2017                                                        Page 12 of 58
+
+terms of Order No.1. The relevant portion of the order reads as under:
+            “....“3. I do not find any inconsistency or conflict in
+            the order passed by this Court on 25.09.2017 with the
+            judgment passed by a learned Single Judge of this
+            Court on 01.12.2016 in RFAs 192/2016 and 786/2016.
+            The sum and substance continues to remain is that
+            payment will be made in queue in terms of Clause 9 of
+            the Contract with the earlier final bills prepared being
+            paid earlier to the final bills which are prepared later.
+            4. Appeals are accordingly disposed of.”
+            3. These appeals are therefore also disposed of in
+            terms of the order dated 27.9.2017 passed in RFA Nos.
+            835/2017, 836/2017 and 837/2017 decided on
+            27.9.2017.
+            4. RFAs stand disposed of accordingly.”
+For the sake of convenience, this order would be referred as ‘Order No.4’.
+15.    A summary of all the above mentioned 4 orders shows that each of
+the orders is based on Order No.1 of 1st December, 2016. The said order i.e.
+Order No.1 has the following unique features:
+       a)      It was an order passed in appeals by consent of parties;
+       b)      The order dealt with payments of Principal amounts and
+       interest thereon qua the bills that were already passed and consent
+       terms were recorded in respect thereof.
+       c)      The order also deals with security deposit and refunds thereof.
+       On this aspect, some parties accepted the terms for refunds as
+       submitted by the Corporation but some parties agreed to continue to
+       pursue their respective suits.
+       d)      In so far as interest on the payment of the bills were concerned,
+       the parties therein consented that interest would be paid only if the
+RFA 43/2017                                                         Page 13 of 58
+
+       amounts remained outstanding after a period of three years.
+       e)      None of the four orders above adjudicated the legal issues on
+       merits. The orders did not go into the validity of Clauses 7 and 9 of
+       the General Conditions of Contract.
+16.    Orders 1 - 4 would have been binding on this Court except for the fact
+that Order No.1 dated 1st December, 2016, thereafter, became subject matter
+of Special Leave Petitions, filed by various contractors, in the Supreme
+Court. In addition, the Contractors in the present appeals have refused to
+abide by the terms of Order No.1 as the said order was a consent order.
+Proceedings before the Supreme Court.
+17.    Order No.1 came to be assailed before the Supreme Court in Special
+Leave to Appeal (C) No. 9623/2017 Yashpal Gulati v. EDMC. The
+Supreme Court recorded on 15th September, 2017 as under:
+            “It is stated by the learned counsel for the East Delhi
+            Municipal Corporation that two bills have already
+            been paid to the petitioner and the third bill in respect
+            of which payment is due will be cleared in the month of
+            November, 2017.
+            The respondent- Corporation is directed to act
+            accordingly.
+            List the matter in the first week of December, 2017.”
+18.    In many connected Special Leave Petitions (hereinafter, „SLPs‟), the
+Supreme Court vide order dated 15th September 2017 recorded as under:
+            “Heard the learned counsel for the petitioner and
+            perused the relevant material.
+            Delay condoned.
+            Issue Notice.
+            List the matter along with Special Leave Petitioner
+            (Civil) No.9623 of 2017.
+RFA 43/2017                                                        Page 14 of 58
+
+            All amounts admitted to be due to the petitioner will
+            be paid by the respondent- Corporation in the
+            meantime.”
+19.    On 5th January, 2018, in several appeals/SLPs arising out of Order
+No.1, the Supreme Court passed the following order:
+            “Delay condoned.
+                   In this group of cases some of the petitioners
+            have been paid the principal amount and the earnest
+            money whereas some of the petitioners have been paid
+            only the principal amount. Some of the petitioners have
+            not been paid even the principal amount. Such of the
+            petitioners who have not been paid the principal
+            amount/earnest money/security deposit be paid the
+            amounts due under the aforesaid heads.
+            The present Special Leave Petitions have been filed
+            against order(s) of the High Court which appears to be
+            consent order(s). Disputes have been raised that the
+            petitioners have not given their consent. We are not
+            inclined to go into the said aspect of the matter.
+            However, we leave it open for the petitioners to agitate
+            the said question before the High Court, if they are so
+            advised.
+                   With the aforesaid observation, the present
+            Special Leave Petitions as well as all pending
+            applications therein shall stand disposed of”.
+20.    The Supreme Court directed payments to be made to the Contractors
+who approached the Court by way of SLPs, “in the meantime”, on the first
+hearing. By the order disposing of the SLPs, the payment of Principal
+amount, Earnest money and Security deposit were directed to be made. This
+in effect meant that the said Contractors were not to stand in the queue but
+payments were released to them under Supreme Court orders. The Supreme
+Court did not adjudicate the matter on the question of interest or the question
+RFA 43/2017                                                        Page 15 of 58
+
+as to whether consent was given.
+21.     Thus, in effect, Order No.1 dated 1st December, 2016, to the extent
+that it gave sanctity to the queue system which was also subsequently
+followed by Learned Single Judges of this Court, appears to have been
+superseded by the Supreme Court insofar as the Queue system of payment is
+concerned. In any event, all the three issues on which consent had been
+initially recorded in order dated 1st December, 2016 i.e. payment of principal
+on queue basis, payment of interest only after three years and 90 days, as
+also security deposit, was open for re-agitation. Order No.1 was in effect
+modified in respect of the Contractors who approached the Supreme Court.
+Subsequent Orders No.2, 3 and 4 are passed on the basis of Order No.1. On
+the issues of law raised in those appeals and writs, there was no decision on
+merits.
+22.     It is settled as far back as in 1989, when the Supreme Court in
+Municipal Corporation of Delhi v. Gurnam Kaur (1989) 1 SCC 101 held
+that consent orders do not adjudicate upon the merits of the dispute and
+hence do not constitute binding precedents. Relevant extract of the judgment
+is as under:
+            “10. It is axiomatic that when a direction or order is
+            made by consent of the parties, the court does not
+            adjudicate upon the rights of the parties nor does it lay
+            down any principle. Quotability as „law‟ applies to the
+            principle of a case, its ratio decidendi. The only thing
+            in a judge‟s decision binding as an authority upon a
+            subsequent judge is the principle upon which the case
+            was decided. Statements which are not part of the ratio
+            decidendi are distinguished as obiter dicta and are not
+            authoritative...”
+RFA 43/2017                                                         Page 16 of 58
+
+This position taken by the Supreme Court has been followed by a Single
+Judge of this Court in Yash Sehrawat v. Board of Control for Cricket in
+India 2014 (141) DRJ 518.
+23.    There are two different sets of appeals in this batch. The first batch of
+appeals are those in which the order dated 1 st December, 2016 was passed in
+respect of the same work orders. The second set of appeals arises out of
+different work orders, though sometimes the contractors are the same. To the
+extent the appeals relate to the same work order, the parties shall be bound
+by the 1st December, 2016 order. However, the said order cannot apply in
+the second set of cases as the transactions are completely separate and
+distinct. The appeals arise out of completely different suits. Consent terms of
+different proceedings and transactions cannot be imposed. Moreover, even
+insofar as the first set of appeals are concerned, Contractors have pressed for
+the relief of interest on Principal amounts. Order Nos.1 to 4 do not constitute
+precedents as they were based on the initial consent order which stood
+modified/merged in the orders passed by the Supreme Court. The question
+of consent was also left open by the Supreme Court for being re-agitated.
+Even in the first set of appeals where the issue of security deposit and
+interest thereon was left open by the order of 1 st December 2016,
+Corporations argue that security deposit is not liable to be refunded until the
+final bill is passed – which can only happen as per the queue system, subject
+to availability of funds. This is not acceptable to Contractors who argue that
+refund of security deposit is not dependent on the passing of the final bill.
+Hence, the legal and factual issues in these appeals have to be adjudicated
+on their own merits.
+RFA 43/2017                                                        Page 17 of 58
+
+Questions
+24.    The questions, therefore, that arise in this appeal and all the connected
+appeals are:
+       (i)    Whether payment of the principal amount can be delayed in
+       view of Clause 7 and Clause 9 of the General Conditions of Contract
+       read with the amendments?
+       (ii)   Whether the refund of earnest money/security deposit can be
+       delayed in view of Clauses 17 and 45 of the General Conditions of
+       Contract?
+       (iii)  Whether interest is payable on delayed payments/refunds and if
+       so, for which period?
+Question No. 1- Payment of Principal amount
+25.    Whenever tenders are called for and work orders are placed by the
+Corporation, all Contractors are bound by the General Conditions of
+Contract. The said conditions are published by the Corporations and are
+"Standard Form". No deviation is usually permissible from the said General
+Conditions of Contract. Registered Contractors are aware of the General
+Conditions of Contract and apply for the tenders accordingly. They also
+execute the work orders, fully conscious of the General Conditions of
+Contract. However, the question that arises is whether the two clauses
+relating to non-payment of bills indefinitely, though the bills are passed by
+the Executive Engineer and non-payment of interest for delayed payment,
+would be legal and valid?
+RFA 43/2017                                                          Page 18 of 58
+
+Clauses relied upon
+26.    The Corporations rely on Clauses 7 and 9 of the General Conditions
+of Contract, so do the Contractors. There are however, different versions of
+the said clauses, especially Clause 9. The work orders have been awarded
+post-2008. There is actually no clarity as to which version of the clause was
+applicable during which period and hence the latest clause is being applied
+uniformly in all cases. The Clauses relied upon by the Corporation are
+Clauses 7 and 9 of the General Conditions of Contract, which are
+reproduced below:
+            “CLAUSE 7
+            Payment on Intermediate Certificate to be Regarded
+            as Advances:
+               No payment shall be made for work estimated to
+            cost Rs. Twenty thousand or less till after the whole of
+            the work shall have been completed and certificate of
+            completion given. For works estimated to cost over Rs.
+            twenty thousand, the interim or running account bills
+            shall be submitted by the contractor for work executed
+            on the basis of such recorded measurement on the
+            format of the department in the triplicate on or before
+            the date of every month of the fixed for the same by the
+            Engineer-in-Charge. The contractor shall not be the
+            entitled to be paid any such interim payment if the
+            gross work done together with the note
+            payment/adjustment of advances of material collected,
+            if any, since the last such payment is less then the
+            amount specified in Schedule „F‟ in which case the
+            interim bill shall be prepared on the appointed date of
+            month after the requisite progress is achieved.
+            Engineer-in-charge shall arrange to have the bill
+            verified by taking or causing to be taken, where
+            necessary, the requisite measurement of the work. In
+            the event of the failure of the contractor to submit the
+            bills. progress is achieved. Engineer-in-Charge shall
+RFA 43/2017                                                        Page 19 of 58
+
+            prepare or cause to be prepared such bills in which
+            event no claims whatsoever due to delays on payment
+            including that of interest shall be payable to the
+            contract. Payment on account of admissible shall be
+            made by the Engineer-in-Charge certifying the sum to
+            which the contractor is considered entitled by the way
+            of interim payment at such rates as decided by the
+            Engineer-in-Charge. The amount admissible shall be
+            paid by the 30th working day after the day of
+            presentation of the bill by the contractor to the
+            Engineer-in-Charge of his Asst. Engineer together with
+            the account of the material is issued by the department,
+            or dismantled materials, if any. The payment of
+            passed bills will be subject to availability of funds in
+            particular head of account from time to time in MCD.
+            Payment of bills shall be made strictly on Queue basis
+            the i.e. first the past liabilities will be cleared and after
+            that the release of payment for passed bills be in order
+            of the demand received at HQ under particular head of
+            accounts. No interest shall be payable to the
+            contractor in case of delay in payment on account of
+            non-availability of fund in the particular head of
+            account of the MCD.
+             All such payment shall be regarded as payments by
+            way of advances against final payment only and shall
+            not preclude the requiring of bad, unsound and
+            imperfect or unskilled work to be rejected, removed,
+            taken away and reconstructed or re-erected. Any
+            certificate given by the Engineer-in-Charge relating to
+            the work done or materials delivered forming part of
+            such payment, may be modified or corrected by any
+            subsequent such certificates(s) or by the final
+            certificate and shall not by itself be conclusive
+            evidence that any work or materials to which it relates
+            is/are in accordance with the contract and
+            specifications. Any such interim payment or any part
+            thereof shall not it any respect conclude, determine or
+            effect in any way powers of Engineer-in-Charge under
+RFA 43/2017                                                             Page 20 of 58
+
+            the contract or any of such payments be treated as final
+            settlement and adjustment of accounts or in any way
+            vary or effect the contract.
+               Pending consideration of extension of date of
+            completion interim payments shall to be made as
+            herein provides, without prejudice to the right of the
+            departments to take action under the terms of this
+            contract for delay in the completion of work, if the
+            extension of date of completion is not granted by the
+            competent authority.
+               The Engineer-in-Charge in his sole discretion on the
+            basis of a certificate from the Asstt. Engineer to the
+            effect that the work has been completed upto the level
+            in question make interim advance payments without
+            detailed measurements for work done (other than
+            foundations, items to be covered under finishing items)
+            upon lintel level (including sunshade etc.) and slab
+            level, for each floor working out at 75% of the assessed
+            value. The advance payment so allowed shall be
+            adjusted in the subsequent interim bill by taking
+            detailed measurements thereof.
+            CLAUSE-9 Payment of final bill
+            The final bill shall be submitted by the contractor in
+            the same manner as specified in interim bills within
+            three months of physical completion of the work or
+            within one month of the date of the final certificate of
+            completion furnished by the Engineer-in-Charge
+            whichever is earlier. No further claims shall be made
+            by the contractor after submission of the final bill and
+            these shall be deemed to have been waived and
+            extinguished. Payment of those items of the bill in
+            respect of which there is no dispute and of items in
+            dispute, for quantities and rates as approved by
+            Engineer-in-Charge, will, as far as possible be made
+            after the period specified hereinunder the period being
+            reckoned from the date of receipt of bill by the
+            Engineer-in-Charge or his authorised Asstt. Engineer,
+RFA 43/2017                                                        Page 21 of 58
+
+            complete with account of material issued by the
+            department and dismantled. The payment of passed
+            bills will depend on availability of funds in particular
+            head of account from time to time in MCD. Payment of
+            bills shall be made strictly on Queue basis i.e. first the
+            past liability will be cleared and after that the release
+            of payment for passed bills will be in order of the
+            demand received at the HQ and the particular head of
+            account. No interest shall be payable to the contractor
+            in case of delay in payment on account of non-
+            availability of fund in the particular head of account
+            of MCD.
+            (i) If the tendered value of work is upto Rs. 5 lacs: 6
+            months
+            (ii) If the tendered value of work exceeds Rs. 5 lacs: 9
+            months”
+27.    In addition, the Corporation also relies on the amendment to the
+General Conditions of Contract dated 19th May, 2006 which reads as under:
+            “Addition to clause 7, clause 9 and clause 9A,
+            regarding payment of bills to the contractors
+            The payment of passed bills will depend on availability
+            of funds in particular head of account from time to
+            time in MCD. Payments of bills shall be made strictly
+            on Queue basis i.e. first the past liabilities will be
+            cleared and after that the release of payment for
+            passed bills will be in order of the demand received at
+            HQ under particular head of account.”
+28.    A further Circular was issued on 10th June 2014 by the Office of Chief
+Engineer of the Corporation to the following effect:
+            “                       CIRCULAR
+            Subject:- Implementation of various protection clause
+            available in the General Terms & Conditions.
+            It has been brought to the notice of the Chief Law
+            Officer that following clauses existing in the General
+RFA 43/2017                                                          Page 22 of 58
+
+            Terms & Conditions are not taken care of while
+            pleading cases before the arbitrators & ADJ Courts
+            i.e. at first court level. It is a well settled law that a
+            plea not taken up before the first court cannot be
+            aggregated before the higher court i.e. the appellate
+            court. The protection clauses are enumerated as
+            under:-
+            1. Clause 7 : It says that if the Contractor does not
+            prepare and submit the bills, then Engineer-in-Charge
+            of MCD will prepare the same and in such an event the
+            contractor will not be entitled to any claims
+            whatsoever due to delay in payment including that of
+            interest.
+            2. Clause 17: The security deposit shall not be
+            refunded before expiry of one year from the date of
+            completion of work.
+            3. Clause 45: Security deposit shall not be refunded till
+            the contractor produces clearance certificate from the
+            Labour Officer.
+            4. Clause 9: Contractor will get payment of his passed
+            bills depending upon availability of funds in particular
+            head of account. Payment will be made strictly on
+            queue basis. No interest will be payable to contractor
+            in case if delay in payment on account of non-
+            availability of funds in particular head of account of
+            MCD.
+            All Chief Engineers are hereby requested to direct the
+            concerned EEs to take care of above mentioned clauses
+            of agreement while pleading Arbitration/Court Cases
+            at initial level itself.
+                                                         Sd/-
+                                            Chief Engineer (Plg.)”
+29.    On the basis of the above Clauses, amendment and Circular, the
+submission of the Corporation is that:
+       a)      For both advance payment and for final bills, the payment has
+       to be certified by Engineer-in-Charge;
+RFA 43/2017                                                          Page 23 of 58
+
+        b)    The payment of the passed bills will be made subject to
+        availability of funds in the specific head from time to time with the
+        Corporation;
+        c)    The payment of bills shall be strictly made on queue basis;
+        d)    No interest shall be payable in case of delay in payment, on
+        account of non-availability of funds.
+30.     On the other hand, it is the submission on behalf of the Contractors
+that since their clients, in these cases, have not given any consent they
+cannot be made to be bound by Orders 1-4. Further, it is their submission
+that the queue system was not followed by the Supreme Court in the SLPs,
+in respect of payment of Principal, Security deposit etc. Thus, it is their
+submission, that the present suits arise out of different transactions and
+consent has not been given by their clients. It is their further submission that
+even in those cases, the Supreme Court has reopened the issue of consent
+itself and thus, the said orders cannot bind the contractors in these cases.
+Analysis of the Clauses
+31.     Clause 7 of the General Conditions of Contract deals with the
+payment on the basis of intermediate certificates as advance payments and
+Clause 9 of the General Conditions of Contract relates to payment of final
+bills. In both cases, the Engineer-in-Charge has to certify the payments. So
+far there can be no issue. Obviously if payments have to be made to
+Contractors, the Engineer-in-Charge who is getting the work done has to
+certify that the work has actually been done on site and the material etc. for
+which payment is being executed has been duly employed in the works.
+32.     However, the quandary for the Contractor begins after the bills are
+RFA 43/2017                                                         Page 24 of 58
+
+passed by the Engineer-in-Charge. Clause 7 provides that the amount so
+certified shall be paid by the 30th working day after the presentation of the
+bill by the Contractor. However, thereafter comes the big caveat i.e. that the
+Corporation should have funds available with it under the specific head of
+account.
+33.    It is slightly unfathomable as to how the Corporation can postpone the
+payment to the Contractor, indefinitely. The issuance of the tender and the
+work order in favour of the Contractor has to be on the pre-condition that
+funds are available with the Corporation. To ask the Contractor to wait
+endlessly for his payment is wholly arbitrary. The Corporation which hands
+over the works contract to the Contractor cannot say “Do the work now, I
+will pay when I have the money”. Even if such a clause has been signed and
+accepted by the Contractor, it does not make the clause valid inasmuch as it
+would render a fundamental condition of contract being hit by provisions of
+the Indian Contract Act, 1872 (hereinafter, „Contract Act‟). Every contract,
+to be valid, has to have consideration and the indefinite postponement of
+consideration would be wholly unconscionable. In fact a Single Judge of this
+Court in Jagbir Singh Sharma v. Municipal Corporation of Delhi [order
+dated 15th July, 2007 in CS(OS) 1797/2007] (hereinafter, „Jagbir Singh‟),
+while dealing with Clause 9 of the General Conditions of Contract (as it then
+stood) has held as under:
+            “7.       …A careful reading of the said clause
+            indicates that it stipulates two different time periods
+            for making payment. In cases where tendered value of
+            the work is upto Rs.5 lakhs, payment is required to be
+            made within three months and where the tendered
+            value of the work exceeds Rs.5 lakhs, the payment is to
+            be made within six months. Learned counsel for the
+RFA 43/2017                                                       Page 25 of 58
+
+            defendant submitted that the contract uses the
+            expression “as far as possible”. This expression to my
+            mind supports the case of the Plaintiffs. The expression
+            “as far as possible” is a pointer that every endeavor
+            should be made by MCD to make payment within the
+            time period stipulated in Clause 9. Normally and in
+            due course, payments will be made within the time limit
+            mentioned. The applications filed for leave to defend
+            do not set out and give any reason for the delay in
+            making the payments. Normally, payment should be
+            made within a reasonable time after the contract has
+            been executed and the party has performed his
+            obligations under the contract. Section 46 of the Indian
+            Contract Act, 1872 stipulates that where no time limit
+            is specified, the engagement must be performed within
+            a reasonable time.
+            8. In the applications for leave to defend, it is stated
+            that payments will be made as and when funds in a
+            particular budget head are available with the MCD. Ex
+            facie, the stand taken in the leave to defend
+            applications cannot be accepted and has to be rejected.
+            Once the defendant-MCD admits its obligation to make
+            payment, the said payment has to be arranged for and
+            budgeted for by them. The plaintiffs have no role to
+            play in the said exercise. How the defendant manages
+            their internal affairs is their own business. In fact,
+            Clause 9 of the Contract stipulates that “as far as
+            possible the MCD will make endeavor to make the
+            payment within the said period”…..”
+34.    The clause which the Court dealt with in the said case reads as under:
+            "CLAUSE 9
+            Payment of Final Bill
+               The final bill shall be submitted by the contractor in
+            the same manner as specified in interim bills within
+            three months of physical completion of the work or
+            within one month of the date of the final certificate
+            completion furnished by the Engineer-in-Charge
+RFA 43/2017                                                         Page 26 of 58
+
+            whichever is earlier. No further claims shall be made
+            by the contractor after submission of the final bill and
+            these shall be deemed to have been waived and
+            extinguished. Payments of those items of the bill in
+            respect of which there is no dispute and of items in
+            dispute, for quantities and rates as approved by the
+            Engineer-in-Charge, will, as far as possible, be made
+            within the period specified hereinunder, the period
+            being reckoned from the date of receipt of bill by the
+            Engineer-in-Charge or his authorized Asstt. Engineer,
+            complete with account of materials issued by the
+            Department and dismantled materials
+            (i)      If the Tendered value of work is upto Rs. 5
+                     lakhs : 3 months
+            (ii)     If the Tendered value of work exceeds Rs. 5
+                     lakhs : 6 months "
+35.     A perusal of the old Clause 9 reveals that there was an actual limit for
+making of payment i.e. 3 months and 6 months and in the context of the said
+Clause, it was held in Jagbir Singh (supra) that “every endeavor should be
+made by MCD to make payment with the time period stipulated in Clause
+9”. In the case of Jagbir Singh (supra), the Corporation, in its leave to
+defend application had submitted that payment would be made as and when
+funds in a particular budget head are available with it. This Court
+categorically rejected this stand of the Corporation by holding “Ex facie, the
+stand taken in the leave to defend applications cannot be accepted and has
+to be rejected”. This Court held that the Contractors have no role to play in
+the internal affairs of the Corporation. But a perusal of the present Clause
+i.e., the new Clause 9 of the General Conditions of Contract shows that what
+was expressly rejected by this Court, even as a defense in the leave to defend
+application in Jagbir Singh (supra), has now come to be added in the
+RFA 43/2017                                                        Page 27 of 58
+
+Clause itself along with a second element of a queue basis, which were not
+part of the earlier Clause and has now been made part of the new Clause. It
+is, however, completely incongruous that the addition of conditions of
+availability of funds and queue basis has been made, while at the same time
+retaining an upper limit of 6 months and 9 months as against the earlier 3
+months and 6 months in Clause 9 of the General Conditions of Contract.
+Clause 9 is, therefore, in the teeth of the judgment of this court in Jagbir
+Singh (supra) and is nothing but an attempt to neutralize the said judgment.
+A Corporation which gets works executed cannot therefore include a term in
+the contract which is per se unconscionable and unreasonable as -
+       a)     There is no fixed time period as to when the funds would be
+       available;
+       b)     There is also no fixed mechanism to determine as to when and
+       in what manner the head of account is to be determined and as to how
+       the contractor would acquire knowledge of these two facts;
+       c)     There is also no certainty as to how many persons are in the
+       queue prior to the Contractor and for what amounts;
+       d)     There is enormous ambiguity in the receipt under the particular
+       heads of accounts.
+36.    These clauses in effect say that the Contractor is left with no remedy
+if the Corporation does not pay for the work that has been executed. Such a
+Clause would be illegal and contrary to law.
+37.    Corporations which form a part of the State as envisaged under
+Article 12 of the Constitution have to conduct their activities in accordance
+with law and public policy. Instrumentalities of States ought to be saddled
+with a higher responsibility to behave reasonably and not arbitrarily. It can
+RFA 43/2017                                                       Page 28 of 58
+
+be no justification for a Corporation to claim that it would float the tender, it
+would issue the works contract, it would get the work executed, its Engineer
+would supervise the work, the Engineers would pass the bills, but yet no
+payment would be made. Such a luxury ought not to be available to anyone,
+even a private individual/corporation who enters into a contract, let alone a
+State Corporation.
+38.    While the Contractors have argued that they have an unequal
+bargaining power with the Corporation, the Corporation argues that these are
+commercial contracts and the Contractor has signed the contract with open
+eyes. In Central Inland Water Transport Corporation Limited and Anr. v.
+Brojo Nath Ganguly and Anr. (1986) 3 SCC 156, the Supreme Court held:
+            “89. ....The principle deducible from the above
+            discussions on this part of the case is in consonance
+            with right and reason, intended to secure social and
+            economic justice and conforms to the mandate of the
+            great equality clause in Article 14. This principle is
+            that the courts will not enforce and will, when called
+            upon to do so, strike down an unfair and unreasonable
+            contract, or an unfair and unreasonable clause in a
+            contract, entered into between parties who are not
+            equal in bargaining power. It is difficult to give an
+            exhaustive list of all bargains of this type. No court can
+            visualize the different situations which can arise in the
+            affairs of men. One can only attempt to give some
+            illustrations. For instance, the above principle will
+            apply where the inequality of bargaining power is the
+            result of the great disparity in the economic strength of
+            the contracting parties. It will apply where the
+            inequality is the result of circumstances, whether of the
+            creation of the parties or not. It will apply to situations
+            in which the weaker party is in a position in which he
+            can obtain goods or services or means of livelihood
+            only upon the terms imposed by the stronger party or
+RFA 43/2017                                                           Page 29 of 58
+
+            go without them. It will also apply where a man has no
+            choice, or rather no meaningful choice, but to give his
+            assent to a contract or to sign on the dotted line in a
+            prescribed or standard form or to accept a set of rules
+            as part of the contract, however unfair, unreasonable
+            and unconscionable a clause in that contract or form
+            or rules may be. This principle, however, will not apply
+            where the bargaining power of the contracting parties
+            is equal or almost equal. This principle may not apply
+            where both parties are businessmen and the contract is
+            a commercial transaction. In today's complex world of
+            giant corporations with their vast infra-structural
+            organizations and with the State through its
+            instrumentalities and agencies entering into almost
+            every branch of industry and commerce, there can be
+            myriad situations which result in unfair and
+            unreasonable bargains between parties possessing
+            wholly disproportionate and unequal bargaining
+            power. These cases can neither be enumerated nor
+            fully illustrated. The court must judge each case on its
+            own facts and circumstances.
+            90. It is not as if our civil courts have no power under
+            the existing law. Under Section 31(1) of the Specific
+            Relief Act, 1963 (Act No. 47 of 1963), any person
+            against whom an instrument is void or voidable, and
+            who has reasonable apprehension that such
+            instrument, if left outstanding, may cause him serious
+            injury, may sue to have it adjudged void or voidable,
+            and the court may in its discretion, so adjudge it and
+            order it to be delivered up and cancelled.
+            91. Is a contract of the type mentioned above to be
+            adjudged voidable or void? If it was induced by undue
+            influence, then under Section 19A of the Indian
+            Contract Act, it would be voidable. It is, however,
+            rarely that contracts of the types to which the principle
+            formulated by us above applies are induced by undue
+            influence as defined by Section 16(1) of the Indian
+            Contract Act, even though at times they are between
+RFA 43/2017                                                         Page 30 of 58
+
+            parties one of whom holds a real or apparent authority
+            over the other. In the vast majority of cases, however,
+            such contracts are entered into by the weaker party
+            under pressure of circumstances, generally economic,
+            which results in inequality of bargaining power. Such
+            contracts will not fall within the four corners of the
+            definition of "undue influence" given in Section 16(1).
+            Further, the majority of such contracts are in a
+            standard or prescribed form or consist of a set of rules.
+            They are not contracts between individuals containing
+            terms meant for those individuals alone. Contracts in
+            prescribed or standard forms or which embody a set of
+            rules as part of the contract are entered into by the
+            party with superior bargaining power with a large
+            number of persons who have far less bargaining power
+            or no bargaining power at all. Such contracts which
+            affect a large number of persons or a group or groups
+            of persons, if they are unconscionable, unfair and
+            unreasonable, are injurious to the public interest. To
+            say that such a contract is only voidable would be to
+            compel each person with whom the party with superior
+            bargaining power had contracted to go to court to
+            have the contract adjudged voidable. This would only
+            result in multiplicity of litigation which no court should
+            encourage and would also not be in the public interest.
+            Such a contract or such a clause in a contract ought,
+            therefore, to be adjudged void. While the law of
+            contracts in England is mostly judge-made, the law of
+            contracts in India is enacted in a statute, namely, the
+            Indian Contract Act, 1872. In order that such a
+            contract should be void, it must fall under one of the
+            relevant sections of the Indian Contract Act. The only
+            relevant provision in the Indian Contract Act which
+            can apply is Section 23 when it states that "The
+            consideration or object of an agreement is lawful,
+            unless . . . the court regards it as . . . opposed to public
+            policy."
+RFA 43/2017                                                            Page 31 of 58
+
+            92 . The Indian Contract Act does not define the
+            expression "public policy" or "opposed to public
+            policy". From the very nature of things, the expressions
+            "public policy", "opposed to public policy" or
+            "contrary to public policy" are incapable of precise
+            definition. Public policy, however, is not the policy of a
+            particular government. It connotes some matter which
+            concerns the public good and the public interest. The
+            concept of what is for the public good or in the public
+            interest or what would be injurious or harmful to the
+            public good or the public interest has varied from time
+            to time. As new concepts take the place of old,
+            transactions which were once considered against
+            public policy are now being upheld by the courts and
+            similarly where there has been a well recognized head
+            of public policy, the courts have not shirked from
+            extending it to new transactions and changed
+            circumstances and have at times not even flinched from
+            inventing a new head of public policy. There are two
+            schools of thought - "the narrow view" school and "the
+            broad view" school. According to the former, courts
+            can not create new heads of public policy whereas the
+            latter countenances judicial law-making in this area.
+            The adherents of "the narrow view" school would not
+            invalidate a contract on the ground of public policy
+            unless that particular ground had been well-
+            established by authorities..... Hardly ever has the voice
+            of the timorous spoken more clearly and loudly than in
+            these words of Lord Davey in Janson v. Driefontein
+            Consolidated Gold Mines Limited 1902 A.C.
+            484"Public policy is always an unsafe and treacherous
+            ground for legal decision." That was in the year 1902.
+            Seventy-eight years earlier, Burrough, J., in
+            Richardson v. Mellish 1824 (2) Bing. 229; (s.c.) 130
+            E.R. 294 and 1824 All E.R. Rep 258, described public
+            policy as "a very unruly horse, and when once you get
+            astride it you never know where it will carry you." The
+            Master of the Rolls, Lord Denning, however, was not a
+RFA 43/2017                                                          Page 32 of 58
+
+            man to shy away from unmanageable horses and in
+            words which conjure up before our eyes the picture of
+            the young Alexander the Great taming Bucephalus, he
+            said in Enderyby Town Football Club Ltd. v. Football
+            Association Ltd. 1971 Ch. 591. "With a good man in
+            the saddle, the unruly horse can be kept in control. It
+            can jump over obstacles." Had the timorous always
+            held the field, not only the doctrine of public policy but
+            even the Common Law or the principles of Equity
+            would never have evolved. Sir William Holdsworth in
+            his "History of English Law", Volume III, page 55, has
+            said:
+            In fact, a body of law like the common law, which has
+            grown up gradually with the growth of the nation,
+            necessarily acquires some fixed principles, and if it is
+            to maintain these principles it must be able, on the
+            ground of public policy or some other like ground, to
+            suppress practices which, under ever new disguises,
+            seek to weaken or negative them.
+            It is thus clear that the principles governing public
+            policy must be and are capable, on proper occasion, of
+            expansion or modification. Practices which were
+            considered perfectly normal at one time have today
+            become obnoxious and oppressive to public
+            conscience. If there is no head of public policy which
+            covers a case, then the court must in consonance with
+            public conscience and in keeping with public good and
+            public interest declare such practice to be opposed to
+            public policy. Above all, in deciding any case which
+            may not be covered by authority our courts have before
+            them the beacon light of the Preamble to the
+            Constitution. Lacking precedent, the court can always
+            be guided by that light and the principles underlying
+            the Fundamental Rights and the Directive Principles
+            enshrined in our Constitution.”
+RFA 43/2017                                                          Page 33 of 58
+
+39.    The question therefore would be as to whether the Court in this case
+should take a narrow view or a broad view. In Brojo Nath Ganguly and
+Anr. (supra), the Supreme Court clearly held that:
+            “The types of contracts to which the principle
+            formulated by us above applies are not contracts which
+            are tainted with illegality but are contracts which
+            contain terms which are so unfair and unreasonable
+            that they shock the conscience of the court. They are
+            opposed to public policy and require to be adjudged
+            void.”
+40.    Thus, the argument of `unequal bargaining power' may not apply in
+commercial contracts of the kind, which are the subject matter of the present
+appeal. This however does not take away the important aspect of the
+contract i.e., that it is still a Standard Contract, signed by the Contractor on
+the dotted line. With most of the work orders, the General Conditions of the
+Contract are not even attached. They are simply taken to be read and known
+to the Contractor. Even presuming that the parties are of equal bargaining
+power, the question is whether the clauses in such General Conditions stand
+the test of `reasonableness'.
+41.    In Indian Oil Corporation Limited v. Nilofer Siddiqui & Ors. (2015)
+16 SCC 125 (hereinafter, „Nilofer Siddiqui‟), the Supreme Court has, in the
+context of an LPG dealership and termination of the same, held as under:
+            “32. We agree with the contentions advanced by Mr.
+            Sibal that Condition 8 of the letter of allotment is
+            unconscionable as it gives IOCL an unfettered right to
+            terminate the distributorship without assigning any
+            reason. In the instant case, Respondent 2 is far weaker
+            in economic strength and has no bargaining power
+            with IOCL. At the time when the letter of allotment was
+            issued, Respondent 2 had no other means of livelihood
+RFA 43/2017                                                         Page 34 of 58
+
+            and was dependent on the grant of Indane Gas agency
+            by IOCL for sustenance of himself and his family
+            members. The letter of allotment contains standard
+            terms and Respondents 2 and 3 had no opportunity to
+            vary the same.
+            33. Condition 8 of the letter of allotment provides for
+            unilateral termination of distributorship without
+            assigning any reason which is liable to be read down
+            in the light of Article 14 of the Constitution of India as
+            well as observations made by this Court in Central
+            Inland Water Transport Corpn. Ltd. case……”
+42.    In Nilofer Siddiqui (supra), the Court found that the distributorship
+had been terminated arbitrarily and unfairly. On the strength of Article 14 of
+the Constitution of India and the decision in Brojo Nath Ganguly and Anr.
+(supra), the Supreme Court read down the provisions of the condition of the
+contract that gave unfettered powers of termination to the IOCL and restored
+the distributorship of the petitioner. Thus, irrespective of the bargaining
+power of the parties, the clauses of a contract have to abide by the test of
+reasonableness and have to be conscionable.
+43.    In the present case, the combined effect of the Clauses and the
+Circular and amendments, set out above, is that if the Corporation does not
+procure funds, it is not liable to even pay the Contractor any interest and the
+Contractor has no remedy. This by itself would mean that such a Clause
+could be read as leading to a contract without consideration and hence
+unlawful under Section 23 of the Contract Act. The Corporation being an
+instrumentality of State, such a contract would also be opposed to public
+policy under Section 23 of the Contract Act. Section 46 of the Contract Act
+is also clear that if no time for performance of a contract is specified, it has
+to be performed within a reasonable time. Reading these provisions
+RFA 43/2017                                                          Page 35 of 58
+
+together, it is clear that an open ended Clause which in effect says that the
+payment shall be made at an undetermined time in the future, subject to
+availability of funds, in a particular head of accounts is wholly unreasonable
+and such a term would also be unfair.
+44.    It is equally strange that the Corporation seeks to justify the non-
+payment on the ground of non-availability of funds for medicines or hospital
+items or pensions or salaries of the Corporation. Running the Corporation is
+not the business of the Contractor. It is for the Corporation to manage its
+affairs as per the funds available with it and it cannot be a defense that the
+Contractor should bear the brunt of non-payment for years, of works
+executed by him.
+45.    Mrs. I.K. Sohan Singh v. State Bank of India AIR 1964 P&H 123,
+involved a transaction of a sale deed wherein the balance sale consideration
+was to be paid “as soon as possible” but at a time when the vendee is in a
+position to make the payment. The question arose as to whether the time
+prescribed for making the payment of balance consideration was reasonable.
+The Punjab & Haryana High Court, following the dicta of Justice
+Warrington in Watling v. Lewis 1911 1 Ch. 414, held the balance sum ought
+to be paid within a reasonable time in view of Section 46 of the Contract
+Act. The Court held as under:
+            “9 . The words "as soon as possible" which preceded
+            the words "but at a time when the former is in a
+            position to make the payment" also relate to the time of
+            payment. It was neither pleaded nor was it the case of
+            the defendant that if she never had the financial
+            resources or the means to make the payment of the
+            amount of Rs. 25,000, she was to be altogether
+            absolved from all liability to make payment of the
+RFA 43/2017                                                        Page 36 of 58
+
+            balance amount of sale consideration. While
+            construing the disputed contract embodied in the sale
+            deed, the real covenant cannot be so construed that an
+            absolute obligation arising under it can be allowed to
+            be destroyed by a subsequent clause contained in the
+            same deed. In re Tewkesbury Gas Company Tysoe v.
+            The Company 1911 2 Ch.279, a company had issued a
+            series of debentures each of which contained a
+            covenant by the company that it would 'on or after'
+            January 1, 1898, pay to' the registered holder of the
+            debenture the principal sum thereby secured. The
+            debenture then stated as follows: "The debentures to be
+            paid off will be determined by ballot, and six calendar
+            months' notice will be given by the company of the
+            debentures drawn for payment." The company never
+            paid off any of the debentures or held any ballot. In an
+            action by one of the debenture-holders, it was held that
+            on the construction of the covenant and in the events
+            that had happened the principal money secured by the
+            debenture was presently due and payable, and that, if
+            the provision as to balloting and notice meant that the
+            company was never to be bound to pay off any
+            debenture unless it elected to do so and balloted and
+            gave notice accordingly, the provision was void for
+            repugnancy on the principle stated in Sheppard's
+            Touchstone, p. 273, and illustrated in Watting v. Lewis
+            1911 1 Ch. 414. In the latter case Warrington, J., came
+            to the following conclusion:-
+            “The result is, I think, that first there is a covenant to
+            pay the money and to indemnify, and then the parties
+            have attempted to qualify that covenant by using words
+            the effect of which, if effect is to be given to them,
+            would be to destroy the personal liability. That being
+            so, the words they have used can have no effect at law
+            and the liability remains”.
+            10. Consequently there is a good deal of force in the
+            submission of Mr. Kapur that the true import of the
+            stipulation in the sale deed with regard to payment of
+RFA 43/2017                                                          Page 37 of 58
+
+            the amount of balance consideration of Rs. 25,000 was
+            that the same would be payable within a reasonable
+            time by virtue of the application of Section 46 of the
+            Contract Act as it must be deemed that no time for
+            performance had been specified. It may be mentioned
+            that this view justifiably commended itself to the Court
+            below.”
+46.    A similar view is echoed in Hungerford Investment Trust Ltd. v.
+Haridas Mundhra and others AIR 1972 SC 1826 wherein it was held that
+though no specific time was provided for payment of purchase money, it has
+to be construed as reasonable time under Section 46 of the Contract Act. The
+Court, however, held that what is reasonable is a question of fact. The
+observation of the Supreme Court reads as under:
+            “25. It was contended on behalf of Mundhra that he
+            was always ready and willing to pay the purchase
+            money but since the decree did not specify any time for
+            payment of the money, there was no default on his part.
+            In other words, the contention was that since the
+            decree did not specify a time within which the purchase
+            money should be paid and, since an application for
+            fixing the time was made by the appellant and
+            dismissed by the Court, Mundhra cannot be said to
+            have been in default in not paying the purchase money
+            so that the appellant might apply for rescission of the
+            decree. If a contract does not specify the time for
+            performance, the Law will limply that the parties
+            intended that the obligation under the contract should
+            be performed within a reasonable time. Section 46 of
+            the Contract Act provides that where, by a contract a
+            promissory is to perform his promise without
+            application by the promisee and no time for
+            performance is specified, the engagement must be
+            performed within a reasonable time and the question
+            “what is reasonable time” is, in each particular case,
+            a question of fact. We have already indicated that the
+RFA 43/2017                                                       Page 38 of 58
+
+            contract between the parties was not extinguished by
+            the passing of the decree, that it subsisted
+            notwithstanding the decree. It was an implied term of
+            the contract and, therefore, of the decree passed
+            thereon that the parties would perform the contract
+            within a reasonable time. To put it in other words, as
+            the contract subsisted despite the decree and as the
+            decree did not abrogate or modify any of the express or
+            implied term of the contract, it must be presumed that
+            the parties to the decree had the obligation to complete
+            the contract within a reasonable time.”
+47.    Learned counsel for the Corporation has relied upon Bank of India v.
+K. Mohandas (2009) 5 SCC 313 and Super Poly Fabriks Ltd. v.
+Commissioner of Central Excise, Punjab (2008) 11 SCC 398 to argue that
+the contract has to be read as a whole. This position is not in dispute.
+However, the contract has to be construed as per the principles contained in
+Section 46 of the Contract Act.
+48.    The learned counsel for the Corporation also relies upon Cauvery
+Coffee Traders, Mangalore v. Hornor Resources (International) Co. Ltd.
+(2011) 10 SCC 420 (hereinafter, „Cauvery Coffee Traders‟) to argue that
+Contractors cannot approbate and reprobate. Since Contractors wanted to
+obtain benefits under the work order and the terms of the work order
+(including the General Conditions of Contract) were well known to them,
+they cannot then argue that “I want the work order but without clause 7 &
+9”. This argument would have been acceptable and appealing if the Clause
+under the contract had some reasonable time limit fixed for the payment to
+be made, while following a queue system. However, the Corporation argues
+that there is no time limit fixed at all. There are too many contingencies and
+conditions that are stipulated in order to make payment, namely:
+RFA 43/2017                                                        Page 39 of 58
+
+             (i) funds should be available with the Corporation;
+             (ii) funds should be available under specific head;
+             (iii) the Contractors’ turn to be paid should arise; and
+             (iv) Interest would not be paid for the delayed period.
+49.    These four conditions are so vague and ambiguous into the future that
+at no point would a Contractor, who had executed the work order, be able to
+demand payment. On the one hand, the Contractor is expected to obtain all
+the construction material at his own expenses, employ labour at his own
+expenses and execute the work order. Thereafter, he has to submit his bills
+to the Corporation and the Engineer-in-Charge has to pass the said bills. So
+far, the conditions are reasonable. However, to say that even after the bills
+are passed the payment would be made if and when the funds are available,
+if and when Contractor’s turn comes, is in effect to say that it would make
+the payment in 1 year, 5 years, 10 years or not pay at all. Such a condition in
+any contract would be illegal, unconscionable and unreasonable. There is no
+question of estoppel by election in such a case. In Cauvery Coffee Traders
+(supra) the Supreme Court's observation on approbate and reprobate was in
+the context of a transaction that stood concluded `after extensive and
+exhaustive bilateral deliberations'. The position in the present cases is the
+opposite. Here it is a standard form contract which is to be accepted without
+much choice. The only choice before a Contractor is simply to not to apply
+for or accept the work order itself. Thus, the authority cited on this
+proposition would not apply.
+50.    The counsel for the Corporation also relies upon New Bihari Biri
+Leaves Co. v. State of Bihar (1981) 1 SCC 537 to submit that once a party
+has accepted the terms of the contract and takes the advantage of the terms
+RFA 43/2017                                                         Page 40 of 58
+
+which are in his favour, he cannot then repudiate the other parts of the
+contract. This is again a general principle. The payment of consideration
+goes to the root of a contract. Without consideration, there is no valid
+contract. The contractor, apart from having the work orders placed on him,
+and making the deposit of the earnest money/security amount has executed
+the contract after making his own expenditure in terms of the material used
+and the payments to labour and other overheads. Under the contract entered
+into with the Corporation apart from placing of the work order and hoping of
+clearance of the final bills, there is no other term of which the other
+Contractor has taken advantage of. Any term of the contract has to be
+construed within the four corners of law. A term in a contract which is
+contrary to law has to be interpreted as per the applicable provisions. In that
+sense, there is no repudiation by the Contractor.
+51.    On the word `reasonable' the Corporation relies on Veerayee Ammal
+Vs. Seeni Ammal AIR 2001 SC 2920. Even in the said judgment the
+Supreme Court holds:
+            "13. The word "reasonable" has in law prima facie
+            meaning of reasonable in regard to those
+            circumstances of which the person concerned is called
+            upon to act reasonably knows or ought to know as to
+            what was reasonable. It may be unreasonable to give
+            an exact definition of the word "reasonable". The
+            reason varies in its conclusion according to
+            idiosyncrasy of the individual and the time and
+            circumstances in which he thinks. The dictionary
+            meaning of the "reasonable time" is to be so much time
+            as is necessary, under the circumstances, to do
+            conveniently what the contract or duty requires should
+            be done in a particular case. In other words it means
+RFA 43/2017                                                       Page 41 of 58
+
+            as soon as circumstances permit. In Law Lexicon it is
+            defined to mean:
+               "A reasonable time, looking at all the
+               circumstances of the case; a reasonable time
+               under ordinary circumstances; as soon as
+               circumstances will permit; so much time as is
+               necessary under the circumstances, conveniently
+               to do what the contract requires should be done;
+               some more protracted space than 'directly'; such
+               length of time as may fairly, and properly, and
+               reasonably be allowed or required, having regard
+               to the nature of the act or duty and to the
+               attending circumstances; all these convey more or
+               less the same idea.""
+Thus, the reasonableness has to be seen from the facts of each case.
+52.    A harmonious interpretation of the Clauses in the General Conditions
+of Contract and the amendment of 2006, has to be made, failing which, the
+Clauses would be contrary to law and to the basic principles of valid
+contracts. An indefinite open ended Clause for making payment would be
+unreasonable and hence contrary to Section 46 of the Contract Act. Reading
+the contract as a whole with the amendment of May, 2006, it is clear that
+insofar as payment under Clause 9 of the General Conditions of Contract is
+concerned, the Corporation itself specifies the time for payment of the final
+bills as 6 months and 9 months. Thus, the contract itself considers and
+specifies the reasonable time. However, the same is sought to be diluted by
+specifying that this period shall be adhered to `as far as possible'. The queue
+system and availability of funds are deemed by the Corporation to override
+the 6 months and 9 months period. There is no reason as to why the court
+should consider that the intention was to prescribe no upper limit for making
+of payment and leave the period for payment as an open ended one.
+RFA 43/2017                                                        Page 42 of 58
+
+Question No.2 - Refund of Security deposit
+53.    In respect of each work order, the Contractors have to deposit 10% as
+the security deposit at the initial stage. Upon the payment of the final bill
+and after issuance of labour clearance certificate, the security deposit is
+liable to be refunded. The Contractors have, in some of the appeals included
+the security deposit amount in the principal amount claimed and in some
+other cases the refund of security deposit has been sought for separately. In
+either case, there is no doubt that the security deposit is liable to be refunded
+after the submission of the documents, certificates from the Labour Officer.
+Clause 17 and Clause 45 relating to refund of security deposit reads as
+under:
+            “CLAUSE 17
+            Contractor liable for damages, defects during
+            maintenance period :
+               If the contractor or his working people or servants
+            shall break, deface, injure or destroy any part of
+            building in which they may be working, or any
+            building, road, road kerb, fence, enclosure, water pipe,
+            cables, drains, electric or telephone post or wires,
+            trees, grass or grassland, or cultivated ground
+            contiguous to the premises on which the work or any
+            part is being executed, or if any damage shall happen
+            to the work while in progress, from any cause whatever
+            or if any defect, shrinkage or other faults appears in
+            the work within twelve months (six months in the case
+            of work costing Rs.5.00 lacs and below except road
+            work) after a certificate final or otherwise of its
+            completion shall have been given by the Engineer-in-
+            Charge as aforesaid arising out of defect or improper
+            materials or workmanship the contract shall upon
+            receipt of a notice in writing on that behalf make the
+            same good at his own expense or in default the
+RFA 43/2017                                                          Page 43 of 58
+
+            Engineer-in-Charge cause the same to be made good
+            by other workmen and deduct the expense from any
+            sums that may be due or at any time thereafter may
+            become due to the contractor, or from his security
+            deposit or the proceeds of sale thereof or of a sufficient
+            portion thereof. The security deposit of the contractor
+            shall not be refunded before the expiry of twelve
+            months (six months in the case of work costing Rs.5.00
+            lacs except dense carpet works) after the issue of the
+            certificate final or otherwise, of completion of work or
+            till the final bill has been prepared and passed
+            whichever is later. In case of dense carpet works the
+            Security Deposit of the contractor shall not be
+            refunded before the expiry of 5 & 7 years of
+            maintenance from last day of the month in which a
+            particular road is completed in case of binder of
+            penetration 60/70 grade & CRMB 60 binders
+            respectively.
+            CLAUSE 45
+            Release of Security deposit after labour clearance :
+                Security Deposit of the work shall not be refunded
+            till the contractor produces a clearance certificate
+            from the Labour Officer. As soon as the work is
+            virtually complete the contractor shall apply for the
+            clearance certificate to the Labour Officer under
+            intimate on to the Engineer-in-Charge. The Engineer-
+            in-Charge on receipt of the said communication, shall
+            write to the Labour Officer to intimate if any complaint
+            is pending against the contractor in respect of the
+            work. If complaint is pending on record till after 3
+            months after completion of the work and/or no
+            communication is received from the Labour Officer to
+            this effect till six months after the date of completion it
+            will be deemed to have received the clearance
+            certificate and the security Deposit will be released if
+            otherwise due.”
+RFA 43/2017                                                          Page 44 of 58
+
+54.    Clauses 17 and 45 relating to security deposits have also been
+interpreted in the Circular dated 10th June 2014, as under:
+            “Clause 17:- The security deposit shall not be
+            refunded before expiry of one year from the date of
+            completion of work.
+            Clause 45:- Security deposit shall not be refunded till
+            the contractor produces clearance certificate from the
+            Labour Officer.
+55.    A perusal of all the aforementioned Clauses reveals that:
+       a) For refund of security deposit, a clearance certificate is needed
+       from the Labour Officer;
+       b) Once the work is completed, the Contractor would apply for the
+       clearance certificate under intimation to the Engineer-in-Charge;
+       c) The Engineer-in-Charge has to communicate to the Labour Officer
+       if there is any complaint in respect of the work executed;
+       d) If after completion of the work, 3 months have elapsed and no
+       communication is received, after date of completion, there is a
+       deemed clearance certificate and the security deposit is liable to be
+       released.
+56.    Thus, irrespective of the date of payment of the principal amount, the
+security deposit cannot be held back beyond a period of 6 months from the
+date when application is made to the Labour Officer for issuance of the
+clearance certificate. These Clauses do not brook any delay in so far as the
+refund of the security deposit is concerned. Moreover, there is no clarity
+whatsoever as to how the refund of Security deposit is subject to the queue
+system and availability of funds. The Clause itself does not contemplate any
+such condition. Thus, the security deposit is liable to be refunded upon the
+RFA 43/2017                                                       Page 45 of 58
+
+compliance of the conditions in Clauses 17 and 45 of the General Conditions
+of Contract. The Supreme Court also directed immediate payment of
+Security deposit in its order dated 5th January 2018.
+Order XII Rule 6
+57.    Further reliance has also been placed on a number of orders in respect
+of Order XII Rule 6 and as to when a decree on admission can be passed. In
+the present case, no oral evidence is actually required to be adduced. The
+awarding of the contract is not disputed. The execution of the contract is not
+disputed. The final bill having been passed by the Engineer-in-Charge is not
+disputed. What is disputed is the time when the payment is to be made. This
+is only a matter of interpretation of the Clauses of the General Conditions of
+Contract. In cases where there are factual disputes, evidence can be led to
+adjudicate those facts. However, in the present cases, there being no factual
+dispute and only a question of application of the Clauses of the General
+Conditions of Contract and their interpretation is involved, the approach of
+the Trial Court in applying Order XII Rule 6 of the CPC cannot be faulted.
+58.    It is the settled position in law, even in the authorities cited by the
+Corporation that when the pleadings are clear, they constitute admission. A
+reading of the written statement shows that the Corporation does not
+seriously dispute the passing of the final bills and the amount of Security
+deposited. Only the interest component is seriously disputed.
+59.    As per Himani Alloys Ltd. v. Tata Steel Ltd. (2011) 15 SCC 273 cited
+by the Corporation, the test for the invoking of Order XII Rule 6 of the CPC
+being that the admission so made must clear and unequivocal, on the face of
+which it is impossible for the party making it to succeed. In the light of the
+RFA 43/2017                                                       Page 46 of 58
+
+stand in the written statement, there is a clear admission as to the final bill
+amount as also that the Contractor has to wait in a queue. Thus the Trial
+Court has rightly invoked the provisions of Order XII Rule 6.
+Question No.3- Whether Interest is payable?
+60.    The question that now arises is as to whether interest is payable on the
+principal amount and the delay in refund of security deposit. This question
+has been considered by two Single Judges of this Court in cases involving
+almost identical clauses in R.K. Pabbi v. DDA [CS(OS) No. 1368/2012
+dated 9th January, 2014] and Varinder Jeet Singh v. Municipal
+Corporation of Delhi & Anr. 2013 (134) DRJ 284 (hereinafter, „Varinder
+Jeet Singh‟), which in turn relied upon the decision of a Single Judge of this
+Court in Jagbir Singh (supra).The judgement in Varinder Jeet Singh
+(supra), after discussing the law on the subject held:
+            “15. It is settled law that if a person is deprived of the
+            use of money to which he is legitimately entitled, he
+            has a right to be monetarily compensated for the said
+            deprivation. [Ref: (1992) 1 SCC 508: Secretary,
+            Irrigation Deptt. Govt. of Orissa vs. G.C. Roy; (2004)
+            5 SCC 65: Ghaziabad Development Authority vs.
+            Balbir Singh, and (2009) 8 SCC 507: Sri
+            Venkateswara Syndicate vs. Oriental Insurance
+            Company Ltd. and Anr.]. The object behind awarding
+            interest to a party, who has suffered loss, due to a
+            legitimate deprivation of the enjoyment of the use of
+            money that he was entitled to rightfully, is to balance
+            the equities and while doing so, the facts involved in
+            each case must be examined by the Court.
+            16. The statutory provisions with regard to payment of
+            interest are laid down in Section 3 of the Interest Act,
+            1978, that provides that in any proceedings for the
+RFA 43/2017                                                          Page 47 of 58
+
+            recovery of any debt or damages or in any proceedings
+            in which a claim for interest in respect of any debt or
+            damages already paid is made, the court may, if it
+            thinks fit, allow interest to the person entitled to the
+            debt or damages or to the person making such claim,
+            as the case may be, at a rate not exceeding the current
+            rate of interest, if the proceedings do not relate to a
+            debt payable by virtue of a written instrument at a
+            certain time, from the date mentioned in this regard in
+            a written notice given by the person entitled or the
+            person making the claim to the person liable, then
+            interest will be claimed, till the date of institution of the
+            proceedings.
+            17. In the present case, admittedly, the plaintiff had
+            issued a notice dated 09.04.2009, calling upon the
+            defendants/MCD to clear the outstanding dues with
+            interest payable @ 24% per annum. In view of the
+            provisions contained in Section 3 of the Interest Act,
+            1978, the plaintiff is entitled to claim interest from the
+            date, the principal amount was due and payable to him
+            by the defendants/MCD...”
+61.    In almost similar circumstances, a Contractor had filed a suit under
+Order XXXVII of the CPC against the MCD claiming interest on delayed
+payments. In NDMC v. Prem Chand Gupta [RFA Nos. 623/2017 and
+628/2017 dated 17th July, 2017] (hereinafter, „Prem Chand Gupta‟) a Single
+Judge of this Court held that under Clause 9 of the General Conditions of
+Contract, interest is liable to be paid. The relevant portion is extracted herein
+below:
+            “5. In view of the ratio laid down in the case of M/s
+            N.K. Garg Co. (supra), it is held that the
+            appellant/defendant cannot claim on the basis of
+            Clause 9, that it is not liable to pay interest. The court
+            below has thus rightly decreed the suit for the rate of
+RFA 43/2017                                                             Page 48 of 58
+
+            interest at 8/9% per annum.”
+62.    This judgment has relied upon another judgment of a Single Judge of
+this Court in       Union of India v. N.K. Garg 2015 (224) DLT 668
+(hereinafter, „N.K. Garg‟) wherein the Court had held that non-payment of
+interest would be contrary to the provisions of the Interest Act, 1978. The
+Corporation argues that the judgment in N.K. Garg (supra) has been stayed
+by a Division Bench of this Court in FAO(OS) No. 73/2016 vide order dated
+9th March, 2016. However, the judgment in Prem Chand Gupta (supra) has
+not been reversed or set aside. In fact, the order in Prem Chand Gupta
+(supra) has also been reiterated subsequently on 14th September, 2017, when
+the Corporation had sought recall of the order dated 17 thJuly, 2017 on the
+ground that the judgment in N.K. Garg (supra) had been stayed. While
+dealing with the judgment in N.K. Garg (supra), the Single Judge of this
+Court reiterated the order dated 17th July, 2017 in the following terms:
+            2. The applications for recall of the judgment dated
+            17.7.2017 are misconceived. Whenever a judgment
+            is appealed from and operation of the judgment is
+            stayed, it is the operative part of the judgment
+            which is stayed and not the legal position on the
+            basis of which the case is decided. This is because
+            a judgment is judgment between two private
+            parties and is a judgment in personam and not a
+            judgment in rem. The judgment of this Court dated
+            17.7.2017 relying upon Union of India Vs. M/s
+            N.K. Garg & Co. 2015 (224) DLT 668 is therefore
+            not wrong as argued by the appellant and simply
+            because the judgment in the case of M/s N.K. Garg
+            & Co. (supra) has been challenged before a
+            Division Bench of this Court and the Division
+            Bench has stayed operation of the judgment in the
+            case of M/s N.K. Garg & Co. (supra).
+RFA 43/2017                                                        Page 49 of 58
+
+            3. If the contention of the applicant/appellant is
+            accepted as correct, then, the same would result in
+            the fact that if a case is decided on a particular
+            legal position, and the judgment in that case is
+            subject matter of appeal and operation of which is
+            stayed, then, no further case can at all be decided
+            in terms of the legal proposition laid down in the
+            judgment which is appealed.
+             4. Another argument which is urged before this
+            Court is that other coordinate benches of this
+            Court have held that in view of clause that interest
+            is not payable, hence, interest could not be paid,
+            however, the argument is misconceived because
+            the judgment in the case of M/s N.K. Garg & Co.
+            (supra) proceeds on the basis that such a clause
+            denying interest is itself hit by Section 23 of the
+            Contract Act, 1872 and hence such a clause
+            denying interest is void and therefore cannot be
+            relied upon.”
+63.    On this aspect, the Corporation unabashedly relies on the amendment
+dated 19th May, 2006. In effect, therefore, the Corporation says that it would
+not pay any interest in case of delayed payments as per the amended
+conditions of contract. Thus, even if a Contractor is willing to wait, for God
+knows how long, he would not be entitled to any interest.
+64.    The provisions of Section 3 of The Interest Act, 1978 and Section 34
+of the CPC clearly recognize that the Court may allow interest to the person
+entitled to the debt or damages. The question is whether interest would be
+awardable even if the contract prohibits the same. The question of award of
+interest in commercial contracts has been discussed by the Supreme Court in
+Union of India Vs. M/s. Bright Power Projects (I) P. Ltd (2015) 7 SCALE
+638 (hereinafter `Bright Power') and recently in Chittaranjan Maity Vs.
+RFA 43/2017                                                       Page 50 of 58
+
+Union of India (2017) 9 SCC 611 (hereinafter `Chittaranjan Maity'). Both
+these cases dealt with the prohibition of award of interest in the context of
+Section 31(7)(a) of the Arbitration & Conciliation Act, 1996 (hereinafter,
+„1996 Act‟). In these two cases the Supreme Court held that when the terms
+of the agreement had prohibited award of interest, the arbitrator could not
+award interest pendente lite.
+65.    Clause 9 in the present case, which deals with interest not being liable
+to be paid, merely stipulates as under:
+            "Clause 9.............. No interest shall be payable to the
+            contractor in case of delay in payment on account of
+            non-availability of fund in the particular head of
+            account of MCD.
+            (i) If the tendered value of work is upto Rs. 5 lacs: 6
+            months
+            (ii) If the tendered value of work exceeds Rs. 5 lacs: 9
+            months”
+66.    The Clause in the present case does not prohibit award of interest. It
+merely stipulates that no interest is payable in case of delay due to non-
+availability of funds, for a period of 6 months and 9 months, meaning
+thereby any delay beyond the said period would attract interest. This is in
+contradistinction to clauses which contain absolute prohibitions for payment
+of interest. The Supreme Court in Secy, Irrigation Deptt Govt of Orissa Vs.
+G.C.Roy (1992) 1 SCC 508 (hereinafter `G.C.Roy') held as under:
+            "43. The question still remains whether arbitrator has
+            the power to award interest pendente lite, and if so on
+            what principle. We must reiterate that we are dealing
+            with the situation where the agreement does not
+            provide for grant of such interest nor does it prohibit
+            such grant. In other words, we are dealing with a case
+            where the agreement is silent as to award of interest.
+RFA 43/2017                                                           Page 51 of 58
+
+            On a conspectus of aforementioned decisions the
+            following principles emerge:
+            (i) A person deprived of the use of money to which he is
+            legitimately entitled has a right to be compensated for
+            the deprivation, call it by any name. It may be called
+            interest, compensation or damages. This basic
+            consideration is as valid for the period the dispute is
+            pending before the arbitrator as it is for the period
+            prior to the arbitrator entering upon the reference.
+            This is the principle of Section 34, Civil Procedure
+            Code, and there is no reason or principle to hold
+            otherwise in the case of arbitrator.
+            (ii) An arbitrator is an alternative form (sic forum) for
+            resolution of disputes arising between the parties. If so,
+            he must have the power to decide all the disputes or
+            differences arising between the parties. If the
+            arbitrator has no power to award interest pendente
+            lite, the party claiming it would have to approach the
+            court for that purpose, even though he may have
+            obtained satisfaction in respect of other claims from
+            the arbitrator. This would lead to multiplicity of
+            proceedings.
+            (iii) An arbitrator is the creature of an agreement It is
+            open to the parties to confer upon him such powers
+            and prescribe such procedure for him to follow, as they
+            think fit, so long as they are not opposed to law. (The
+            proviso to Section 41 and Section 3 of Arbitration Act
+            illustrate this point). All the same, the agreement must
+            be in conformity with law. The arbitrator must also act
+            and make his award in accordance with the general
+            law of the land and the agreement.
+            (iv) Over the years, the English and Indian Courts have
+            acted on the assumption that where the agreement does
+            not prohibit and a party to the reference makes a claim
+            for interest, the arbitrator must have the power to
+            award interest pendente lite. Thawardas has not been
+            followed in the later decisions of this Court. It has been
+RFA 43/2017                                                          Page 52 of 58
+
+            explained and distinguished on the basis that in that
+            case there was no claim for interest but only a claim
+            for unliquidated damages. It has been said repeatedly
+            that observations in the said judgment were not
+            intended to lay down any such absolute or universal
+            rule as they appear to, on first impression. Until Jena
+            case almost all the Courts in the country had upheld
+            the power of the arbitrator to award interest pendente
+            lite. Continuity and certainty is a highly desirable
+            feature of law.
+            (v) Interest pendente lite is not a matter of substantive
+            law, like interest for the period anterior to reference
+            (pre-reference period). For doing complete justice
+            between the parties, such power has always been
+            inferred"
+67.    The judgment of the Constitution Bench in G.C. Roy (supra) was
+under the Arbitration Act, 1940 where a provision similar to Section
+37(1)(a) of the 1996 Act, was not present. G.C. Roy (supra) clearly holds
+that interest would be payable depending on the terms of the contract.
+68.    Such a clause is clearly violative of the provisions of the Interest Act,
+1978 and the Contract Act as has been held in Prem Chand Gupta (supra)
+wherein this Court has held that non-payment of interest is invalid and void
+as per Sections 16(2) and 23 of the Contract Act.
+69.    A conjoint reading of Clauses 7 & 9 along with the amendment dated
+19th May, 2006, clearly shows that for the payment of bills, the Contractors
+have to follow the queue basis and as and when the amount is available
+under the particular head of account, the amount would be payable. The
+amendment does not, however, have a condition that no interest is payable
+for delayed payment. Such a condition exists only in Clause 7. Clause 9,
+therefore, when read with the amendment has to mean that the Corporation
+RFA 43/2017                                                         Page 53 of 58
+
+itself considers 6 months and 9 months to be the reasonable periods for
+which the payments of the final bills can be held back. Obviously, therefore,
+if payments are made, whether on a queue basis or otherwise, beyond the
+period of 6 months and 9 months, interest is payable.
+70.    In view of the question of interest having been gone into detail and
+non-payment having been held to be illegal by various Single Judges of this
+Court, in cases involving the Corporations, it is held that non-payment of
+interest beyond the period of 6 months and 9 months, as stipulated in Clause
+9 of the General Conditions of Contract, would be contrary to law. Hence,
+the Contractors are entitled for payment of interest after a period of 6
+months - 9 months respectively.
+71.    It is completely unconscionable and illegal for the Corporation to
+argue that no interest is payable. Thus, in those cases where the Contractor
+has complied with the various conditions in respect of Principal and refund
+of Security deposit, interest would be payable.
+Conclusions and Findings
+72.    The General Conditions of Contract i.e., clauses 7 and 9 which are
+admittedly part of the work orders issued by both the NrDMC and the
+EDMC are being tested in these batch of cases. A contract which stipulates
+that the consideration would be paid in an unforeseen time in the future
+based on certain factors which are indeterminable, would in effect be a
+contract without consideration. Even if the contract is held to be a valid
+contract, then the concept of `reasonableness' has to be read into the same.
+Section 46 of the Contract Act and the explanation thereto is clear that
+“what is a reasonable time is a question of fact in each case.” A
+RFA 43/2017                                                     Page 54 of 58
+
+Corporation which gets works executed cannot therefore include terms in
+the contract which are per se unconscionable and unreasonable as -
+       a)      There is no fixed time period as to when the funds would be
+       available;
+       b)      There is also no fixed mechanism to determine as to when and
+       in what manner the head of account is to be determined and as to how
+       the Contractor would acquire knowledge of these two facts;
+       c)     There is also no certainty as to how many persons are in the
+       queue prior to the Contractor and for what amounts;
+       d)     There is enormous ambiguity in the receipt under the particular
+       heads of accounts.
+73.    These clauses in effect say that the Contractor is left with no remedy
+if the Corporation does not pay for the work that has been executed. Such a
+Clause would be illegal and contrary to law. Such clauses, even in
+commercial contracts, would be contrary to Section 25 read with Section 46
+of the Contract Act.
+74.    The clauses do not specify an outer time limit for payment. The
+expression reasonable time has to be `a time'. The concept of time itself is
+ensconced with specificity and precision. Clause 9 is the opposite of being
+precise. It is as vague and ambiguous as it could be because it depends on
+factors which are totally extraneous to the contract, namely -
+      Allotment of funds to the Corporation by the Government;
+      Allotment of funds in a particular head;
+      Allotment of funds for payments who are in queue prior to the
+        contractor;
+75.    Thus, these factors, which are beyond the control of the Contractor
+RFA 43/2017                                                       Page 55 of 58
+
+and which would govern the payment of consideration, make the said
+clauses of the contract completely unreasonable. The clauses have to thus,
+be read or interpreted in a manner so as to instill reasonableness in them.
+76.    By applying the above said principles, in respect of final bills raised
+by Contractors for works executed, that have been approved by the
+Engineer-in-Charge, the Clauses have to be read in the following manner:
+       a)      Reasonable time for making of payments of final bills in
+       respect of work orders up to Rs.5 lakhs shall be 6 months and work
+       orders exceeding Rs.5 lakhs shall be 9 months from the date when the
+       bill is passed by the Engineer-in-Charge.
+       b)      The queue basis can be applicable for the payments to be made
+       in chronology. However, the outer limit of 6 months and 9 months
+       cannot be exceeded, while applying the queue system.
+       c)      The payments are held to become due and payable immediately
+       upon the expiry of 6 months and 9 months and any non-payment
+       would attract payment of interest for the delayed periods.
+       d)      A conjoint reading of Clauses 7 & 9 along with the amendment
+       dated 19th May, 2006, clearly shows that for the payment of bills, the
+       contractors have to follow the queue basis and as and when the
+       amount is available under the particular head of account, the amount
+       would be payable. The amendment does not, however, have a
+       condition that no interest is payable for delayed payment. Such a
+       condition exists only in Clause 7. Clause 9, therefore, when read with
+       the amendment has to mean that the Corporation itself considers 6
+       months and 9 months to be the reasonable periods for which the
+       payments of the final bills can be held back. Obviously, therefore, if
+RFA 43/2017                                                        Page 56 of 58
+
+       payments are made, whether on a queue basis or otherwise, beyond
+       the period of 6 months and 9 months, interest is payable.
+       e)     To the extent that queue basis is applied only for clearing of
+       payments which do not extend beyond the period of 6 months and 9
+       months period, it is reasonable. However, if the queue basis is applied
+       in order to make Contractors wait for indefinite periods for receiving
+       payments, then the same would be unreasonable and would have to
+       therefore be read down.
+       f)     The Security amount/Earnest money deposited would be
+       refundable upon the fulfilment of the conditions contained in Clauses
+       17 and 45 of the General Conditions of Contract. Interest would be
+       payable on delayed payments.
+Final decree on facts
+77.    The Trial Court, in its judgment dated 26th May, 2016, has directed a
+decree for the entire sum along with interest. The interest rate is being
+modified and insofar as refund of security amount is concerned, interest is
+being granted only from the date of filing of the suit, as the records do not
+reflect either compliance or non-compliance with Clauses 17 and 45 of the
+General Conditions of Contract.
+78.    On the basis of the facts, the pleadings and the evidence recorded and
+the conclusions above, the Contractor’s suit is liable to be decreed as under:
+       (i)    Decree for principal amount of Rs.3,96,597/- as per the final
+              bill duly approved by the Engineer-in-Charge along with
+              interest @ 8% simple interest p.a. payable upon the expiry of
+RFA 43/2017                                                        Page 57 of 58
+
+            six months from 31st July, 2013, i.e.,date of approval of final
+            bill;
+       (ii) Decree for a sum of Rs.46,664/- towards refund of security
+            deposit along with interest @ 8% from the date of institution of
+            suit till date;
+79.    The Corporation is directed to compute the payments to be made to
+the Contractor in terms of the principal, security deposit and interest as
+decreed above, within four weeks. The payment shall be made within 8
+weeks thereafter, failing which, interest @ 12% per annum would be
+payable, upon expiry of the said period till date of payment.
+80.    The impugned judgment/decree is modified in the above terms.
+Decree sheet be drawn accordingly. Appeal stands disposed of along with all
+pending applications. No order as to costs.
+81.    By way of separate order passed today in these appeals, certain
+guidelines are issued.      These guidelines shall be read along with the
+judgment pronounced today in all these appeals.
+                                                  PRATHIBA M. SINGH, J.
+                                                          Judge
+MARCH 22, 2018/Rahul/dk
+RFA 43/2017                                                     Page 58 of 58
+
+$~
+*      IN THE HIGH COURT OF DELHI AT NEW DELHI
++ RFA Nos.160/2017, 167/2017, 171/2017, 208/2017, 136/2017, 56/2017,
+58/2017, 50/2017, 53/2017, 166/2017, 573/2017, 571/2017, 570/2017,
+397/2017, 42/2017, 43/2017, 419/2017, 420/2017, 421/2017, 422/2017,
+425/2017, 427/2017, 429/2017, 430/2017, 431/2017, 432/2017, 434/2017,
+436/2017, 437/2017, 438/2017, 439/2017, 440/2017, 443/2017, 444/2017,
+445/2017, 447/2017, 558/2017, 563/2017, 574/2017, 410/2017, 418/2017,
+1009/2016 & 560/2017
+       CORAM:
+        JUSTICE PRATHIBA M. SINGH
+                            ORDER
+       %                    22.03.2018
+       These are a batch of appeals which have arisen out of disputes
+between Contractors/Plaintiffs (hereinafter, „Contractors‟) on the one hand
+and the North Delhi Municipal Corporation (hereinafter, „NrDMC‟) and
+East Delhi Municipal Corporation (hereinafter, „EDMC‟), on the other.
+NrDMC and EDMC are collectively referred to as `Corporations'. The facts
+in each appeal are different and hence separate judgements are being passed
+in each of the appeals.
+       The present guidelines are being issued in all the appeals. The Court
+has had the opportunity of perusing the trial court records in all these 43
+appeals. A perusal of the records reveals the following:-
+    1. In most cases, the Contractors who are awarded the work orders do
+       not submit the interim or final bills to the Engineer-in-Charge for
+       approval;
+    2. The final measurement recordal is done by the Engineer-in-Charge;
+    3. The final bill is also prepared and passed by the Engineer-in-Charge
+       on his own accord and the Contractor then accepts it;
+RFA 43/2017                                                       Page 1 of 4
+
+    4. The procedure for obtaining labour clearance certificate from the
+        Labour Officer is not followed;
+    5. Once the bills are passed, Contractors are made to wait endlessly for
+        their payments on the ground of non-availability of funds;
+    6. Even for refunds of Security Deposit and Earnest money deposits, the
+        Contractor is made to wait till the final payment is made;
+    7. The measurement books and the photographs of work, actually carried
+        out, are not produced in evidence.
+        The above process is contrary to the General Conditions of Contract.
+It is therefore, necessary and important that all the steps of the Contract are
+followed by the Contractors and the Corporations. The following guidelines
+are being passed:
+    1. Along with the work order, all the Clauses of the General Conditions
+        of Contract should be attached;
+    2. On the award of the Work order, periodic inspections of the work
+        being carried out should be done by the Engineer-in-Charge;
+    3. If possible, photographs of the works at different stages should be
+        taken and maintained on the record;
+    4. Interim bills should be submitted by the Contractor – duly certifying
+        the work which has been carried out;
+    5. Final bills should be submitted by the Contractor – duly certifying the
+        work carried out along with photographs;
+    6. The Bill should be scrutinised by the Engineer-in-Charge, works
+        should be recorded in the measurement book and thereafter, the bill
+        should be passed;
+RFA 43/2017                                                        Page 2 of 4
+
+   7. Once the Bill is passed, the payment schedule of 6 months and 9
+       months should be adhered to. Delay in payments would result in
+       Interest being levied;
+   8. For refunds of Security deposit and Earnest Money deposit, the
+       Contractor should unscrupulously comply with the conditions in
+       Clauses 17 and 45. For refunds to be made, payment of final bill need
+       not be awaited. Once the conditions of Clauses 17 and 45 are
+       complied with and the final bill is passed, refunds ought to be made;
+   9. In suits relating to recovery of Contractor’s dues, all the evidence
+       including the NIT, General Conditions of Contract, periodic
+       inspection reports, Final bill as submitted, Final bill as passed,
+       Measurements carried out, Photographs etc., should be produced and
+       duly exhibited.
+   10.IT infrastructure ought to be created to maintain records of the work
+       orders, inspection reports, final bills, photographs etc., digitally, as it
+       is noticed that the trial court record does not contain all the relevant
+       documents and in several cases, different versions of clauses are
+       relied upon by both sides, bills are not properly understandable and
+       there is no evidence of actual inspections or measurements having
+       been taken. Maintenance of digital records will make it more
+       transparent and easily accessible for the officials and for production in
+       the Court in case of future litigation.
+       Adherence to the above shall ensure that the works are duly carried
+out as per the quality standards prescribed and there is proper record of work
+being done. Once the work is carried out payments ought not to be delayed,
+RFA 43/2017                                                         Page 3 of 4
+
+inasmuch as delay in payments compromises on availability of quality civil
+work for the Corporations, who take care of basic amenities for citizens such
+as roads, pavements, civil works, sewerage lines etc.
+       These guidelines shall be read along with the judgments pronounced
+today in these appeals.
+                                                PRATHIBA M. SINGH, J.
+                                                         Judge
+MARCH 22, 2018/Rahul/dk
+RFA 43/2017                                                      Page 4 of 4
+
+

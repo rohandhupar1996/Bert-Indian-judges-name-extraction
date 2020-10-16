@@ -1,0 +1,833 @@
+*     IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                               Date of decision: May 26, 2014
++1.   CRL.REV.P. 683/2012
+ANIRUDDHA BAHAL                                                    ..... Petitioner
+                                Through: Mr. Pramod Kumar Dubey with
+                                Mr. Shiv Pande, Mr. Shiv Chopra, Mr. Nishank
+                                Mattoo & Mr. Hemant Shah, Advocates
+                                versus
+CENTRAL BUREAU OF INVESTIGATION                                  ..... Respondent
+                                Through: Mr. P.K.Sharma, St. Counsel with
+                                Mr. Rakesh Sharma, Ms. Somi Mehra, Ms. Renu
+                                Malik & Mr.Pulkit Mishra, Advocates
++2.   CRL.REV.P. 707/2012
+NIRAJ KUMAR                                                         ..... Petitioner
+                                Through: Mr. Shri Singh with Mr.Dheeraj Kumar
+                                & Ms. Aakanksha Singh, Advocates
+                                versus
+CENTRAL BUREAU OF INVESTIGATION                                   ..... Respondent
+                                Through: Mr. P.K.Sharma, St. Counsel with
+                                Mr. Rakesh Sharma, Ms. Somi Mehra & Ms. Renu
+                                Malik, Advocates
++3.   CRL.REV.P. 34/2013
+THOMAS MATHEW                                                        ..... Petitioner
+                                Through: Dr. M.P. Raju with Mr. J.P. Thomas,
+                                Advocates
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                                Page 1 of 28
+
+                                versus
+CENTRAL BUREAU OF INVESTIGATION THR. THE DY
+SUPERINTENDENT OF POLICE                                        ..... Respondent
+                                Through: Mr. P.K.Sharma, St. Counsel with
+                                Mr. Rakesh Sharma, Ms. Somi Mehra & Ms. Renu
+                                Malik, Advocates
+CORAM:
+HON'BLE MS. JUSTICE VEENA BIRBAL
+VEENA BIRBAL, J.
+1.     The present three revision petitions are filed by the petitioners against
+the order dated 16th October, 2012 passed by the ld.Additional Sessions
+Judge-FTC(Central) Delhi.
+2.     These revision petitions arise out of FIR i.e., Crime No.RC
+No.1(S)/2001/SIC.IV New Delhi dated 30.3.2001 registered by the Central
+Bureau of Investigation (in short referred to as C.B.I.) under Section 3 and 5
+of Official Secrets Act, 1923 (hereinafter referred to as “the Act”) and
+Section 120-B of IPC on the complaint of Mr. S.P.Shokhanda, Under
+Secretary, Ministry of Home Affairs, New Delhi dated 21.3.2001 vide OM
+No.-1202/184/2000-VC dated 29.3.2000. It was alleged in the OM that a
+meeting was held on 29.9.1999 under the Chairmanship of Shri G.K.Pillai,
+Joint Secretary, to discuss the activities of Dutch NGOs in India appeared on
+the website of Tehelka.com, a news portal, on 9.10.2000. It was alleged that
+the minutes were classified in nature and were marked „secret‟ and leakage
+of these classified documents constitutes an offence under the Act. It was
+further alleged that the portal had deleted the website pages subsequently.
+It was alleged that there was reason to believe that Niraj Kumar/petitioner,
+Section Officer in the Ministry of Home Affairs, NE Division who was the
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                             Page 2 of 28
+
+custodian of the file at the relevant time, leaked the information along with
+some other sensitive information in collusion with another officer of the
+MHA.
+3.     In pursuance to the FIR, CBI through its Dy.Supdt. of Police, Sh.N.S.
+Kharayat, filed a complaint dated 4.6.2003 u/s 13 of the Official Secrets
+Act, 1923 (hereinafter referred to as „the Act‟) for the offences u/s 3(1)(c),
+5(1)(2)(4) of the Act read with section 120-B IPC before the learned
+C.M.M., Delhi.
+4.     In the complaint, the reference is made to aforesaid FIR registered
+with the CBI. It is alleged that during the investigation it came to light that
+accused Niraj Kumar while working as Section Officer in NE-IV Section of
+MHA submitted a note dated 5.9.1999 titled “Dutch interest in India‟s fringe
+politics” to Sh. G.K. Pillai, the then Joint Secretary.      The file bearing
+No.11011/40/99 NE-IV was opened and marked “secret” as it was observed
+that the activities of Dutch NGOs could bring long term implications. It is
+alleged that a meeting was held on 29.9.1999 on the subject under the
+Chairmanship of Sh. G.K. Pillai, Joint Secretary, MHA in which officers
+from the Ministry of Home Affairs, Ministry of External Affairs, RAW and
+Intelligence Bureau had attended. The minutes of meeting were drawn and
+after it was approved by the Joint Secretary, the copy of same was
+forwarded to the concerned Officers vide letter dated 7/8.10.2000 marked
+“Secret”.
+5.     It was alleged that the investigation had revealed that on 9.10.2000
+the minutes of meeting dated 29.9.1999 almost verbatim appeared on the
+portal of tehelka.com besides a report containing secret matters of the said
+file No. 11011/40/99/NE-IV under the title “Dutch Support Revealed For
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                         Page 3 of 28
+
+Rebels In Bihar and North East” was also displayed.           On 10.10.2000,
+another report under the title “unravelled : The Dutch role in aiding and
+abetting Indian Insurgents” containing information from the said Secret file
+of the Ministry of Home Affairs was also displayed by tehelka.com.     It     is
+alleged that after the minutes were displayed, Joint Secretary (EW), Ministry
+of External Affairs vide DO letter dated 24.10.2000 addressed to Sh. G.K.
+Pillai, JS (NE) MHA, New Delhi conveyed that Dutch ambassador Mr. Peter
+Coch had brought to the MEA‟s attention about the information available on
+the website of tehelka.com. Consequently, Shri G.K.Pillai, Joint Secretary
+(NE) requested for an enquiry by Intelligence Bureau. In the report the IB
+pointed out that Shri Niraj Kumar could be involved in leakage of the secret
+information.
+6.      As per allegations in complaint, accused Niraj Kumar considered
+accused Thomas Mathew, the then Director, MHA, as his god father.
+Accused Thomas Mathew knew accused Mathew Samuel from tehelka.com.
+It is alleged that accused Mathew Samuel also visited the office of accused
+Thomas Mathew before and after the story had appeared on tehelka.com
+website. It is alleged that as per investigation, the article appeared on
+tehelka.com on 9.10.2000 and 10.10.2000 was extracted from secret file
+no.11011/40/99 NE-IV of MHA. It is alleged that accused persons i.e. Niraj
+Kumar, Thomas Matthew, Mathew Samuel and Aniruddha Bahal were close
+to each other and had been visiting each other. They were also in touch with
+each other on phone.
+7.      As per allegations it was accused Niraj Kumar who handed over the
+relevant document on the assurance of Thomas Mathew to Mathew Samuel
+that the same would not be published.
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                        Page 4 of 28
+
+8.     It is alleged that investigation had revealed that UD & MD Agencies
+Pvt. Ltd was registered with Registrar of Companies Mumbai on 2.9.96
+where Tarunjeet Tejpal and Aniruddha Bahal were appointed as Directors
+on 20.3.2000. On 1.5.2000, Tarunjeet Tejpal was appointed as MD.              On
+6.8.2000, UD & MD Agencies entered into an agreement with 4C Plus
+(Internet).com Pvt.Ltd for operating tehelka.com.       Buffalo Networks was
+incorporated as a company on 23.6.2000 and Tarunjeet Tejpal, Kunwarjeet
+Tejpal and Aniruddha Bahal were Directors of the company. Later on i.e.,
+from 1.7.2000 Tarunjeet Tejpal was appointed as MD of said company. On
+20.7.2000 Buffalo Network entered into an agreement with UD & MD
+Agencies to take over the operations of tehelka.com which was signed by
+Aniruddha Bahal on behalf of UD & MD Agencies and Tarunjeet Tejpal on
+behalf of Buffalo Networks.
+9.     It is alleged that as per investigations, accused persons i.e. Niraj
+Kumar, Aniruddha Bahal, Thomas Mathew, Mathew Samuel, Tarunjeet
+Tejpal entered into a criminal conspiracy in furtherance whereof they
+obtained the said secret file and displayed its contents on tehelka.com.
+10.    On the same allegations, subsequently charge sheet was filed before
+learned C.M.M. on 12.4.2005.
+11.    Vide order dated 15.6.2005, the ld.CMM took cognizance of the
+offence punishable u/s 3 and 5 of the Act read with section 25/27/54/59
+Arms Act and issued process against all the accused persons including the
+petitioners in these revision petitions. By order dated 7.7.2005, the ld.CMM
+amended the order dated 15.6.2005 and reference to offence u/s 25/27/57/59
+of the Arms Act was removed by stating that it was a clerical mistake and
+cognizance was clarified to be taken u/s 3 and 5 of the Official Secrets Act,
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                          Page 5 of 28
+
+1923 read with section 120B IPC.
+12.    On 13.12.2006, the case was transferred from the court of ld.CMM,
+Tis Hazari Courts, Delhi to the court of the ld. Special Judge, Tis Hazari.
+13.    Vide the impugned order dated 16.10.2012, the ld.Additional Sessions
+Judge concluded that the material on record discloses prima facie
+commission of offence under section 3(1)(c) and 5(1)(2) and (4) of the Act
+read with section 120B IPC by all the accused persons, namely, Niraj
+Kumar, Thomas Mathew, Mathew Samuel, Aniruddha Bahal and M/s
+Buffalo Net Works Pvt. Ltd and further framed a charge u/s              5(1)(a)
+punishable u/s 5(4) of the Act against accused Niraj and u/s 5(2) punishable
+u/s 5(4) of the Act against the accused Mathew Samuel and Thomas
+Mathew.
+14.    Aggrieved by the order dated 16.10.2012, the present revision
+petitions have been filed by accused persons, namely, Niraj Kumar,
+Aniruddha Bahal and Thomas Mathew.
+15.    At this stage, it would be useful to reproduce section 3(1)(c) and
+5(1)(2) and (4) of the Act which read as under:-
+               “Section 3 - Penalties for spying
+                (1) If any person for any purpose prejudicial to the
+                    safety or interests of the State—
+                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+               (c) obtains, collects, records or publishes or
+               communicates to any other person any secret
+               official code or pass word, or any sketch, plan,
+               model, article or note or other document or
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                          Page 6 of 28
+
+               information which is calculated to be or might be
+               or is intended to be, directly or indirectly, useful to
+               an enemy or which relates to a matter the
+               disclosure of which is likely to affect the
+               sovereignty and integrity of India, the security of
+               the State or friendly relations with foreign States,
+               he shall be punishable with imprisonment for a
+               term which may extend, where the offence is
+               committed in relation to any work of defence,
+               arsenal, naval, military or air-force establishment
+               or station, mine, minefield, factory, dockyard,
+               camp, ship or aircraft or. otherwise in relation to
+               the naval, military of air force affairs of
+               Government or in relation to any secret official
+               code, to fourteen years and in other cases to three
+               years.
+               Section 5 - Wrongful communication, etc., of
+               information
+               (1) If any person having in his possession or
+               control any secret official code or pass-word or
+               any sketch, plan, model, article, note, document or
+               information which relates to or is used in a
+               prohibited place or relates to anything in such a
+               place, or which is likely to assist, directly or
+               indirectly, an enemy or which relates to a matter
+               the disclosure of which is likely to affect the
+               sovereignty and integrity of India, the security of
+               the State or friendly relations with foreign States or
+               which has been made or obtained in contravention
+               of this Act, or which has been entrusted in
+               confidence to him by any person holding office
+               under Government, or which he has obtained or to
+               which he has had access Owing to his position as a
+               person who holds or has held office under
+               Government, or as a person who holds or has held
+               a contract made on behalf of Government, or as a
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                            Page 7 of 28
+
+               person who is or has been employed under a
+               person who holds or has held such an office or
+               contract-
+               (a) wilfully communicates the code or pass-word,
+               sketch, plan, model, article, note, document or
+               information to any person other than a person to
+               whom he is authorised to communicate it, or a
+               Court of Justice or a person to whom it is, in the
+               interests of the State, his duty to communicate it;
+               or
+               (b) uses the information in his possession for the
+               benefit of any foreign power or in any other
+               manner prejudicial to be safety of the State; or
+               (c) retains the sketch, plan, model, article, note or
+               document in his possession or control when he has
+               no right to retain it, or when it is contrary to his
+               duty to retain it, or wilfully fails to comply with all
+               directions issued by lawful authority with regard to
+               the return or disposal thereof; or
+               (d) fails to take reasonable care of, or so conducts
+               himself as to endanger the safety of the sketch,
+               plan, model, article, note, document, secret official
+               code or pass-word or information,
+               he shall be guilty of an offence under this Section.
+               (2) If any person voluntarily receives any secret
+               official code or pass-word or any sketch, plan,
+               model, article, note, document or information
+               knowing or having reasonable ground to believe, at
+               the time when he receives it, that the code, pass-
+               word, sketch, plan, model, article, note, document
+               or information is communicated in contravention
+               of this Act, he shall be guilty of an offence under
+               this Section.
+               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                            Page 8 of 28
+
+               (4) A person guilty of an offence under this
+               Section shall be punishable with imprisonment for
+               a term which may extend to three years, or with
+               fine, or with both.‖
+16.    Section 3(1)(c) stipulates that offence as defined under section 3(1)(c)
+if relates to ―work of defence, arsenal, naval, military or air force
+establishment or station, mine, minefield, factory, dockyard, camp, ship or
+aircraft or otherwise in relation to the naval, military or air force affairs of
+Govt., in or relation to any secret official code‖, is punishable with
+imprisonment which may extend to 14 years and in other cases to three
+years. In the impugned order dated 16.10.2012, the ld. Additional Sessions
+Judge has proceeded on the premise that allegations in the complaint/charge-
+sheet are not covered within the ambit of above words of Section 3(1)(c) and
+the offence is punishable by imprisonment which may extend to 3 years.
+Even before this court, it is not contended by CBI that the present case
+would be covered by the ambit of above words of section 3(1)(c) of the Act
+and would be punishable by imprisonment, which would be anything more
+than 3 years. Section 5(1)(2) and (4) of the Act reproduced above show that
+all the accused persons in the present case have been charged for the offence
+which are punishable with imprisonment for a term which may extend to
+three years or with fine or with both.
+17.    Insofar as accused Niraj Kumar is concerned, it is contended on his
+behalf that the case of the prosecution is based on conjectures. It is
+contended that there is no direct or circumstantial evidence capable of being
+converted into legal evidence against this accused to show that he had
+passed on the copy of minutes dated 29.9.1999 to accused Aniruddha Behal
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                          Page 9 of 28
+
+or any other person.           It is submitted that material on record filed by
+prosecution itself shows that accused Niraj Kumar was transferred from the
+concerned seat from North Block to Sardar Patel Bhawan on 12.10.1999
+and thereafter he handed over the custody of the file to one Ratti Ram, PW
+who has been made a prosecution witness in this case. Reference is made to
+the statement of Rati Ram, PW recorded under Section 161 Cr.P.C.
+18.    It is contended that after handing over the charge accused Niraj
+Kumar ceased to be the custodian of the relevant file.              The    alleged
+publication on the site took place about a year from the date of handing over
+the charge by the said accused. It is also contended that the case of the
+prosecution against the accused Niraj Kumar is entirely based on alleged
+confessional statement purportedly recorded u/s 164 Cr.P.C. It is submitted
+that the statement u/s 164 Cr.P.C. is hit by the provisions of section 24 of the
+Indian Evidence Act.            It is also submitted that the said statement was
+withdrawn by this accused. In any event, it is submitted that the statement
+was never recorded as per provisions of section 164 Cr.P.C. There is no
+provision or procedure for taking on record the pre-recorded statement by
+way of statement u/s 164 Cr.P.C. Reference in this regard was made to the
+provisions of Chapter 13 Rule 4 of Delhi High Court Rules which stipulates
+that statement u/s 164 Cr.P.C must be reduced in writing either by the
+Magistrate. It is also contended that tenor of this document itself shows that
+the accused Niraj Kumar had made the alleged statement in the hope of
+being granted pardon and an application u/s 306 Cr.P.C was moved for
+being made an approver as is apparent from the order dated 17 th March,
+2011 of the ld.trial court which was never done.
+19.    Learned counsel for the petitioner-Niraj Kumar has submitted that in
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                             Page 10 of 28
+
+the impugned order, the ld.trial court has referred to the statement of Ratti
+Ram, PW who in his statement u/s 161 Cr.P.C has stated that he was told by
+one Mohan that accused Niraj Kumar had made photocopies of the
+documents after his transfer from the seat but the statement of Mohan has
+not been recorded. Even the statement of          Ratti Ram, PW against the
+accused Niraj Kumar, at best, is in the nature of hearsay evidence.
+20.    Learned counsel for the petitioner-Niraj Kumar has further contended
+that alleged statement recorded u/s 164 Cr.P.C was printed text supplied by
+the respondent-CBI that was incorrectly taken on record by the ld.trial
+court. It is contended that the alleged confessional statement was extracted
+by the respondent on the inducement of being declared as an approver
+which inducement had been offered fraudulently and with malafide
+intention. It is further contended that the alleged statement u/s 164 Cr.P.C
+was not recorded as per Delhi High Court Rules (Section 4 of Chapter 13
+Vol.III of the Delhi High Court Rules). It is contended that the alleged
+statement u/s 164 Cr.P.C was not recorded by the Magistrate or under the
+dictation of the Magistrate. There is no provision to tender a typed copy
+under section 164 Cr.P.C as has been done in the present case.
+21.    The complaint is filed on the basis of alleged documents i.e., minutes
+of the meeting dated 29.9.1999 and report that is said to have been
+electronically published on the site, tehelka.com.        However, the said
+documents are not supported by any certificate under Section 65B of the
+Evidence Act, 1862, to show that the document is a correct representation of
+an electronic document as alleged by the CBI.
+22.    Learned counsel for the petitioner-Aniruddha Bahal has submitted
+that prosecution has failed to prima facie establish that the alleged minutes
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                         Page 11 of 28
+
+of the meeting dated 29.9.1999 were ever published on the website of
+Tehalka.com. In the alternate, it is contended that as per case of the
+prosecution the minutes were posted on the website on 9.10.2000 and were
+removed therefrom on 10.10.2000 i.e., very next day. It is submitted that it
+is not the case of prosecution that this petitioner was guided by any
+consideration except to place the matter before public domain in discharge
+of his obligations as a journalist.         It is submitted that the document dated
+29.9.1999 cannot be considered as a secret document and in any event, the
+present petitioner cannot be imputed with the knowledge of the fact that this
+document was a secret document.                 It is contended that this document
+nowhere bears any endorsement to the effect that it is a secret document. It
+is also argued that even if it is presumed that it was a part of file which was
+marked ‗secret‘, there is nothing on record to show that petitioner was aware
+of the said fact.
+23.    It is further contended that the case of prosecution is solely based on
+the purported statement recorded u/s 164 of Cr.P.C. which is liable to be
+ignored for the reason as argued on behalf of Niraj Kumar. Moreover, at
+best, the statement under Section 164 Cr.P.C. is in the nature of confessional
+statement by the co-accused who is being tried along with other co-accused
+persons and thus has no significance against the present petitioner.
+24.    It is further contended that the ld. C.M.M. erred in taking cognizance
+of the offences on the basis of challan in view of the provisions of section
+13(3) of the Act. It is contended that the Act is a complete code in itself. It
+would not be open to the ld.C.M.M. to take cognizance of the offence except
+on the basis of complaint and the material attached to the complaint. It is
+further contended that power to file complaint under section 13(3) of the Act
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                               Page 12 of 28
+
+only vests with the appropriate government or some officer empowered by
+the appropriate government in his behalf. It is contended that the complaint
+dated 4.6.2003 filed by the Deputy Superintendent of Police Shri
+N.S.Kharayat, CBI was thus incompetent. It is also contended that the
+Secretary, Ministry of Home Affairs who himself was a delegate of the
+Central Government, could not have delegated the power under section
+13(3) of the Act to file the complaint.
+25.    Insofar as the co-accused Thomas Mathew is concerned, it is
+contended that there is no material against him which gives rise to grave
+suspicion against the accused for commission of alleged offences. It is
+contended that the case against him is also based on the alleged confessional
+statement of co-accused Niraj Kumar purported to have been recorded u/s
+164 Cr.P.C which is liable to be rejected for the reasons noted above. The
+charge sheet or the complaint does not mention anything about his
+involvement or that he had any knowledge of the publication of the alleged
+offending material.
+26.    In substance, the contention of learned counsel for the accused
+persons is that there is no sufficient material on record to justify framing of
+charge against them and for taking cognizance, as such, the order of
+framing charge is liable to be set aside.
+27.    Learned counsel for the respondent-CBI has argued to the contrary. It
+is submitted that there is sufficient material to justify the framing of charge
+against the accused persons. Attention of this court was drawn to the order
+dated 13.5.2010 passed by this court in Crl.M.C.1637/2010 wherein the
+revision petition filed by the accused -Niraj Kumar against the complaint/
+charge sheet was withdrawn reserving liberty to the petitioner/accused
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                           Page 13 of 28
+
+Niraj Kumar to take all the pleas taken in the said revision petition before
+the ld.trial court at the time of hearing arguments on the point of charge. It
+is also submitted that evidential value of confessional statement recorded by
+the ld.M.M. can be better looked into after recording of evidence by the
+ld.trial court.
+28.     It is contended that so called ―retraction‖ is belated      and is an
+afterthought and of no value in the eyes of law. It is further contended that
+the so called ―retraction‖ has not diluted prima facie evidence against the
+petitioner Niraj Kumar and other co-accused persons.
+29.     It is contended that the ld.C.M.M. has rightly taken the cognizance on
+the basis of complaint and charge sheet filed against the accused persons
+since both arise out of one FIR and there is no illegality in the order dated
+15.6.2005.
+30.     It is submitted that the accused Aniruddha Bahal was not only the
+Director of      accused company but also Editor of the Portal. It is further
+submitted that as per statement of co-accused Niraj Kumar recorded u/s 164
+Cr.P.C, specific role has been attributed to the accused Aniruddha Bahal, as
+such, he cannot escape from the responsibility of publishing the material in
+question by claiming that he had no knowledge about the commission of
+offence under the Act. It is submitted that charge can be framed on the basis
+of strong suspicion. Reference is made to the judgment in Sajjan Kumar Vs.
+CBI 2011 Crl.L.J.1225SC and Nakul Kohli vs. State 2010 Crl.L.J.4536.
+31.     It is contended that there is sufficient evidence against the accused
+persons both oral and documentary, as such, charge has been rightly framed
+against them and the revision petitions are liable to be dismissed.
+32.     I have heard learned counsel for the parties and perused the material
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                          Page 14 of 28
+
+on record.
+33.    I find that there is substantial force in the submissions made on behalf
+of accused persons that respondent-CBI could not have proceeded to file
+charge sheet in the present case.
+34.    The Official Secrets Act is a special Act and by virtue of section 4 and
+5 of the Cr.P.C., any trial under the Official Secrets Act would be governed
+by the procedure as laid down by the Official Secrets Act.
+       Section 13(3) of the Official Secrets Act is as follows:-
+               ―13. Restriction on trial of offences
+                      ...................................................
+               (3) No Court shall take cognizance of any offence
+               under this Act, unless upon complaint made by order
+               of, or under authority from, the appropriate
+               Government or some officer empowered by the
+               appropriate Government in this behalf.‖
+35.    The term ‗complaint‘ vide Section 2 (d) of Cr.P.C. means any
+allegation, made orally or in writing, to a Magistrate with a view to his
+taking action under this Code, that some person, whether known or
+unknown, has committed an offence, but does not include a police report.
+36.    The term ‗police report‘ is defined in Section 2 (r) of Cr.P.C. as
+follows:-
+               ―2(r) ―police report‖ means a report forwarded by
+               a police officer to a Magistrate under sub-section
+               (2) of section 173‖
+37.    Thus, the term ‗complaint‘ and ‗police report‘ have different meaning
+and connotation. In this case, the CBI initially filed the complaint under
+Section 13(3) of the Act, thereafter, proceeded to file a charge sheet under
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                               Page 15 of 28
+
+Section 173 Cr.P.C. In the order dated 15.6.2005 the learned CMM has
+referred to challan and the complaint under Section 13(3) of the Act. Thus,
+it would appear that the learned CMM took cognizance of the offence based
+on the police complaint and the charge sheet. Moreover, the learned CMM
+vide order dated 7.7.2005 also ordered that the complaint filed under Section
+13(3) of Act and the charge sheet be clubbed together as per law.
+38.    Learned CMM has not referred to the law by which complaint under
+Section 13(3) of Act and Section 173 of Cr.P.C. were liable to be clubbed
+together. However, it may be that the learned CMM had the provisions of
+Section 210 Cr.P.C. in her mind.
+39.    Section 210 of Cr.P.C. reads as follows:-
+               ―210. Procedure to be followed when there is a
+               complaint case and police investigation in
+               respect of the same offence.-(1) When in a case
+               instituted otherwise than on a police report
+               (hereinafter referred to as a complaint case), it is
+               made to appear to the Magistrate, during the
+               course of the inquiry or trial held by him, that an
+               investigation by the police is in progress in relation
+               to the offence which is the subject-matter of the
+               inquiry or trial held by him, the Magistrate shall
+               stay the proceedings of such inquiry or trial and
+               call for a report on the matter from the police
+               officer conducting the investigation.
+                       (2) If a report is made by the investigating
+               police officer under section 173 and on such report
+               cognizance of any offence is taken by the
+               Magistrate against any person who is an accused in
+               the complaint case, the Magistrate shall inquire
+               into or try together the complaint case and the case
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                           Page 16 of 28
+
+               arising out of the police report as if both the cases
+               were instituted on a police report.
+                       (3) If the police report does not relate to any
+               accused in the complaint case or if the Magistrate
+               does not take cognizance of any offence on the
+               police report, he shall proceed with the inquiry or
+               trial, which was stayed by him, in accordance with
+               the provisions of this Code.‖
+40.    Provisions of Section 210 Cr.P.C. would have no applicability to the
+trial of offences under the Act. Under Section 13(3) of the Act reproduced
+above, no court can take cognizance of an offence under the Act unless upon
+complaint made by order of, or under authority from appropriate
+Government or some officer empowered by the appropriate Government in
+this behalf.
+41.    The Official Secrets Act is a Special Act and a complete code in itself.
+As per the mandate of the Official Secrets Act, no Court shall take
+cognizance in the absence of a ‗complaint‘ filed under authority of the
+Appropriate Government. Therefore a ‗complaint‘ as defined under Section
+2(d) of the Code, and the authority of the Appropriate Government for filing
+the complaint for the offence committed under the Official Secrets Act, if
+any, are the sine qua non for taking cognizance of any offence under the
+Act.
+42.    In this regard, reference can be made to Section 22 of the
+Transplantation of Human Organs Act, 1994 [―TOHO‖]. The same is as
+under:-
+           ―22. Cognizance of offence. –
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                            Page 17 of 28
+
+            (1) No court shall take cognizance of an offence under
+                this Act except on a complaint made by –
+           (a) the Appropriate Authority concerned, or any
+                officer authorised in this behalf by the Central
+                Government or the State Government or, the case
+                may be, the Appropriate Authority; or
+           (b) a person who has given notice of not less than
+                sixty days, in such manner as may be prescribed,
+                to the Appropriate Authority concerned, of the
+                alleged offence and of his intention to make a
+                complaint to the court.
+            (2) No court other than that of a Metropolitan
+                Magistrate or a Judicial Magistrate of the first class
+                shall try any offence punishable under this Act.
+            (3) Where a complaint has been made under clause (b)
+                of sub-section (1), the court may, on demand by
+                such person, direct the Appropriate Authority to
+                make available copies of the relevant records in its
+                possession to such person.‖
+43.   The Supreme Court in the case of Jeewan Kumar Raut vs CBI; AIR
+2009 SC 2763 while dealing with the provisions of Section 22 of TOHO
+held as follows:-
+                ―12. TOHO is a special Act. It deals with the
+                subjects mentioned therein, viz., offences relating
+                to removal of human organs, etc. Having regard to
+                the importance of the subject only, enactment of
+                the said regulatory statute was imperative. TOHO
+                provides for appointment of an appropriate
+                authority to deal with the matters specified in Sub-
+                section (3) of Section 13 thereof. By reason of the
+                aforementioned provision, an appropriate authority
+                has specifically been authorized inter alia to
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                            Page 18 of 28
+
+               investigate any complaint of the breach of any of
+               the provisions of TOHO or any of the rules made
+               thereunder and take appropriate action.
+               13. The Appropriate Authority, subject to
+               exceptions provided for in TOHO, thus, is only
+               authorized to investigate cases of breach of any of
+               the provisions thereof, whether penal or otherwise.
+               Ordinarily, any person can set the criminal law in
+               motion. The Parliament and the State Legislatures,
+               however, keeping in view the sensitivity and/ or
+               importance of the subject, have carved out specific
+               areas where violations of any of the provisions of a
+               special statute like TOHO can be dealt with only
+               by the authorities specified therein.
+               14. The FIR lodged before the officer incharge of
+               the Gurgaon Police Station was by way of
+               information. It disclosed not only commission of
+               an offence under TOHO but also under various
+               provisions of the Indian Penal Code. The officer
+               incharge of the Police Station, however, was not
+               authorized by the appropriate government to deal
+               with the matter in relation to TOHO; but, the
+               respondent was. In that view of the matter, the
+               investigation of the said complaint was handed
+               over to it.
+               15. TOHO being a special statute, Section 4 of the
+               Code, which ordinarily would be applicable for
+               investigation into a cognizable offence or the other
+               provisions, may not be applicable. Section 4
+               provides for investigation, inquiry, trial, etc.
+               according to the provisions of the Code. Sub-
+               section (2) of Section 4, however, specifically
+               provides that offences under any other law shall be
+               investigated, inquired into, tried and otherwise
+               dealt with according to the same provisions, but
+               subject to any enactment for the time being in
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                         Page 19 of 28
+
+               force regulating the manner or place of
+               investigating, inquiring into, tried or otherwise
+               dealing with such offences. TOHO being a special
+               Act and the matter relating with offences
+               thereunder having been regulated by reason of the
+               provisions thereof, there cannot be any manner of
+               doubt whatsoever that the same shall prevail over
+               the provisions of the Code.
+               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+               19. Section 22 of TOHO prohibits taking of
+               cognizance except on a complaint made by an
+               appropriate authority or the person who had made
+               a complaint earlier to it a laid down therein.
+               Respondent, although, has all the powers of an
+               investigating agency, it expressly has been
+               statutorily prohibited from filing a police report. It
+               could file a complaint petition only as an
+               appropriate authority so as to comply with the
+               requirements contained in Section 22 of TOHO. If
+               by reason of the provisions of TOHO, filing of a
+               police report by necessary implication is
+               necessarily forbidden, the question of its
+               submitting a report in terms of Sub-section (2) of
+               Section 173 of the Code did not and could not
+               arise. In other words, if no police report could be
+               filed, Sub-section (2) of Section 167 of the Code
+               was not attracted.
+               20. It is a well-settled principle of law that if a
+               special statute lays down procedures, the ones laid
+               down under the general statutes shall not be
+               followed. In a situation of this nature, the
+               respondent could carry out investigations in
+               exercise of its authorization under Section
+               13(3)(iv) of TOHO. While doing so, it could
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                           Page 20 of 28
+
+               exercise such powers which are otherwise vested
+               in it. But, as it could not file a police report but a
+               complaint petition only; Sub-section (2) of Section
+               167 of the Code may not be applicable. The
+               provisions of the Code, thus, for all intent and
+               purport, would apply only to an extent till conflict
+               arises between the provisions of the Code and
+               TOHO and as soon as the area of conflict reaches,
+               TOHO shall prevail over the Code. Ordinarily,
+               thus, although in terms of the Code, the respondent
+               upon completion of investigation and upon
+               obtaining remand of the accused from time to time,
+               was required to file a police report, it was
+               precluded from doing so by reason of the
+               provisions contained in Section 22 of TOHO. To
+               put it differently, upon completion of the
+               investigation, an authorized officer could only file
+               a complaint and not a police report, as a specific
+               bar has been created by the Parliament. In that
+               view of the matter, the police report being not a
+               complaint and vice-versa, it was obligatory on the
+               part of the respondent to choose the said method
+               invoking the jurisdiction of the Magistrate
+               concerned for taking cognizance of the offence
+               only in the manner laid down therein and not by
+               any other mode. The procedure laid down in
+               TOHO, thus, would report the respondent to file a
+               complaint and not a report which course of action
+               could have been taken recourse to but for the
+               special provisions contained in Section 22 of
+               TOHO.‖
+                                            (emphasis added).
+44.    The position under the Official Secrets Act is also similar to the
+position under TOHO. Here also the law prohibits the filing of charge sheet
+by implication.
+45.    In these circumstances, taking cognizance of the offence and the
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                           Page 21 of 28
+
+directions to club the charge sheet and the complaint by the learned CMM
+cannot be sustained.
+46.    I also find substance in the submission of accused persons that there
+was no sufficient material on record to frame the charge against the accused
+persons.
+47.    Accused Niraj Kumar is facing trial for handing over the copy of the
+minutes dated 29.9.1999 to other co-accused persons. As per respondent,
+accused Niraj Kumar was custodian of the relevant file till 12.10.1999 and
+thereafter was transferred to Sardar Patel Bhawan. After 12.10.1999, this
+accused ceased to be the custodian of the relevant file. The files were then
+in the custody of Ratti Ram, PW. Other than the statement of accused Niraj
+Kumar under Section 164 Cr.P.C., to which the reference shall be made later
+on, there is no statement of any other person on record to show that the
+accused Niraj Kumar had obtained copy of the minutes either before or
+thereafter. In his statement under Section 161 Cr.P.C., Ratti Ram, PW has
+referred to the statement of one Mohan but the statement of Mohan, if
+recorded, has not been filed.             Mr.S.P.Shokhanda, PW Under Secretary
+(Vigilance), Ministry of Home Affairs, North Block, New Delhi in his
+statement under Section 161 Cr.P.C. was asked the reasons for assuming
+that the information could have been leaked by accused Niraj Kumar and the
+sole reason given by this witness for making this assumption is that the
+accused was dealing with the file containing the minutes of the meeting
+dated 29.9.1999 before his transfer on 12.10.1999. However, no reason is
+assigned by any of the witnesses as to why only this person is being doubted
+for allegedly having disclosed the minutes to other persons.         Even the
+statement of Mr.G.K.Pillai, Joint Secretary (NE), MHA, PW and Harish
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                         Page 22 of 28
+
+Chandra Prakash, PW recorded u/s 161 Cr.P.C are of no help to respondent.
+48.    The prosecution next relies on the confessional statement of Niraj
+Kumar recorded by the learned MM under Section 164 Cr.P.C. The counsel
+for all the accused persons has challenged the statement recorded under
+Section 164 Cr.P.C. as illegal and of no legal consequence. The statement
+referred to in the statement recorded by learned MM is a typed statement
+which runs into 9 pages.             Section 164(4) Cr.P.C. lays down that any
+confession shall be recorded in the manner provided in Section 281 of that
+Code for the recording of examination of accused and shall be signed by the
+person making the confession.
+       Section 164(4) of Cr.P.C. is reproduced as under:-
+               “164. Recording of confessions and statements:-
+               ...
+               (4) Any such confession shall be recorded in the
+               manner provided in section 281 for recording the
+               examination of an accused person and shall be
+               signed by the person making the confession; and
+               the Magistrate shall make a memorandum at the
+               foot of such record to the following effect:-
+                       “I have explained to (name) that he is not
+                       bound to make a confession and that, if he
+                       does so, any confession he may make may
+                       be used as evidence against him and I
+                       believe that this confession was voluntarily
+                       made. It was taken in my presence and
+                       hearing, and was read over to the person
+                       making it and admitted by him to be correct,
+                       and it contains a full and true account of the
+                       statement made by him.
+                                            (Signed) AB Magistrate”
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                           Page 23 of 28
+
+49.   Section 281 Cr.P.C. provides as under:-“281. Record of examination
+of accused:-
+               (1) Whenever the accused is examined by a
+               Metropolitan Magistrate, the Magistrate shall make
+               a memorandum of the substance of the
+               examination of the accused in the language of the
+               Court and such memorandum shall be signed by
+               the Magistrate and shall form part of the record.
+               (2) Whenever the accused is examined by any
+               Magistrate other than a Metropolitan Magistrate,
+               or by a Court of Session, the whole of such
+               examination, including every question put to him
+               and every answer given by him, shall be recorded
+               in full by the Presiding Judge or Magistrate
+               himself or where he is unable to do so owing to a
+               physical or other incapacity, under his direction
+               and superintendence by an officer of the Court
+               appointed by him in this behalf.
+               (3) The record shall, if practicable, be in the
+               language in which the accused is examined or, if
+               that is not practicable in the language of the Court.
+               (4) The record shall be shown or read to the
+               accused, or, if he does not understand the language
+               in which it is written, shall be interpreted to him in
+               a language which he understands, and he shall be
+               at liberty to explain or add to his answers.
+               (5) It shall thereafter be signed by the accused and
+               by the Magistrate or Presiding Judge, who shall
+               certify under his own hand that the examination
+               was taken in his presence and hearing and that the
+               record contains a full and true account of the
+               statement made by the accused.
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                           Page 24 of 28
+
+               (6) Nothing in this section shall be deemed to
+               apply to the examination of an accused person in
+               the course of a summary trial.”
+50.    Thus, there is a clear indication in the section that the statement under
+Section 164 Cr.P.C. should be got recorded by the Magistrate either in his or
+her own handwriting or should be dictated to some person and pre-recorded
+statement would not normally suffice. Moreover, Section 4 of Chapter 13
+Vol. III of Delhi High Court Rules also state that in recording a statement or
+confession under Section 164 Cr.P.C., the provisions of that section and
+provision of Section 281 Cr.P.C. should be strictly followed by the court
+concerned.
+51.    The material on record would also show that the statement in issue
+was made by accused Niraj Kumar in the hope of being made an approver in
+this case. There is an application on record moved by accused Niraj Kumar
+under Section 306 Cr.P.C. dated 9.1.2006 for grant of pardon and for
+making him approver of the case.            There is another application dated
+9.7.2006 under Section 306 Cr.P.C. by respondent for grant of pardon to
+Niraj Kumar. There are deletions and improvements made in the statement.
+The accused Niraj Kumar was ultimately not made an approver. Those
+applications remained pending for a long time. On 18.4.2011 Niraj Kumar
+had moved two applications, one seeking withdrawal of statement u/s 164
+Cr.P.C and the other for withdrawal application of application u/s 306
+Cr.P.C. The application seeking withdrawal of application u/s 306 Cr.P.C
+was not opposed by respondent. Accordingly, the said application was
+allowed by ld.trial court on 20.4.2012. In the application for withdrawal of
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                            Page 25 of 28
+
+statement under Section 164 Cr.P.C. Niraj Kumar has stated that at the time
+of making the alleged statement he was in custody and not on bail. He was
+also under suspension from his job. Considering his situation, petitioner
+was given assurance that he would be made a witness in the said case and
+that all criminal charges against him would be dropped and he would be
+reinstated in his job and pressurised him to submit a printed text before the
+ld. M.M. In these circumstances, I find considerable force in the submission
+of the petitioner that the alleged statement was got signed and he was made
+to submit to Ld. M.M. In such circumstances, I concur with the counsel for
+accused persons that it would be unjust if prosecution is permitted to rely on
+the statement under Section 164 Cr.P.C. for framing the charge against all
+the accused persons.
+52.    There is no other prima facie evidence available against accused Niraj
+Kumar.
+53.    Insofar as Aniruddha Bahal is concerned, the prosecution was
+required to produce material that the minutes of meeting dated 29.9.1999
+were published on the website tehelka.com and the same was with the
+knowledge of accused Aniruddha Bahal. There is no evidence that the
+minutes of meeting dated 29.9.1999 were displayed on the website. Section
+65 B of the Evidence Act lays down the procedure for admissibility of
+electronic records. Though more than 13 years have passed, the prosecution
+has not filed any certificate under Section 65B. It is stated that Sh. Prakash
+Shokhanda, Under Secretary (Vigilance), MHA, stated that the information
+was downloaded by the then MHA website incharge but statement of
+website incharge was not got recorded nor any certificate obtained. In any
+event there is no material to show that accused Aniruddha Bahal had the
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                         Page 26 of 28
+
+knowledge of the fact that minutes were secret document and there was no
+marking of secret on that document.
+54.     It has also been argued on behalf of accused Aniruddha Bahal that
+time and again it held by the Hon‟ble Supreme Court that the vicarious
+liability cannot be attached upon the directors and managing directors of a
+company just by the virtue of them being directors or managing directors.
+The basic requirement of impleading a director is to show that the said
+director was responsible for the day to day affairs of the company. It has to
+be clearly stated what the role of the director was in the alleged commission
+of offence and secondly whether the said role was attributable to such
+criminal intent and intention.           It is argued that the absence of specific
+averments in regard to the role and manner of involvement of the director
+cannot in any circumstance fasten any liability on the said director.
+However, but I need not go into all this in view of the fact that there is no
+sufficient evidence to frame charge against this accused.
+55.     Against Thomas Mathew again there is no evidence other than alleged
+confessional statement under Section 164 of accused Niraj Kumar to which
+reference has already been made.
+56.     Prima facie there is no material which shows grave suspicion against
+the accused Thomas Mathew also for commission of any of alleged
+offences.
+57.    In view of above discussion, the order on charge dated 16th October,
+2012 passed by the ld.Addl. Sessions Judge, Fast Track Court (Central), Tis
+Hazari, Delhi and the charge framed vide aforesaid order          in FIR i.e., RC
+No.1(S)/2001/SIC.IV            New     Delhi      dated    30.3.2001  against    the
+petitioners/accused persons are set aside. The petitioners stand discharged
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                             Page 27 of 28
+
+in the present case.
+       Revision petitions stand disposed of accordingly.
+       Trial court record be sent back.
+                                              VEENA BIRBAL, J
+         th
+May 26 , 2014
+ssb/kks
+CRL.REV.P. Nos.683/2012, 707/2012 & 34/2013                   Page 28 of 28
+
+

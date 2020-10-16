@@ -1,0 +1,1811 @@
+*             IN THE HIGH COURT OF DELHI AT NEW DELHI
++                         FAO(OS) 458/2009
+%                                       Reserved on: 11th January, 2013
+                                        Pronounced on: 15th March, 2013
+RECKITT BENKISER INDIA LTD                                ...... Appellant
+                          Through:       Mr. Aman Lekhi, Senior Advocate
+                                        with Ms. Shikha Sachdev, Advocate.
+                     Versus
+WYETH LTD.                                                ..... Respondent
+                          Through:       Mr. Pravin Anand, Advocate with
+                                         Mr. Vaishali Mittal, Advocate and
+                                         Ms. Abhilasha Nautiyal, Advocate.
+CORAM:
+HON’BLE MR. JUSTICE SANJIV KHANNA
+HON’BLE MR. JUSTICE VALMIKI J.MEHTA
+HON’BLE MR. JUSTICE S.P. GARG
+  To be referred to the Reporter or not?
+VALMIKI J. MEHTA, J
+1.            Reference has been made to this Full Bench, by a Division
+Bench of this court, vide the reference order dated 8.10.2010 in this
+FAO(OS), for this larger Bench to consider as to whether a Division Bench
+of this court in the case of Dabur India Ltd. Vs. Amit Jain & Anr. 2009
+FAO (OS) No.458/2009                                              Page 1 of 67
+
+(39) PTC 104 (Del) (DB) has correctly held that publication abroad by
+existence of the design in the records of the Registrar of designs which is
+open for public inspection cannot be said to be “prior publication” as per the
+meaning of the term as found in Sections 4(b) and 19(1)(b) of the Designs
+Act, 2000 (hereinafter referred to as „the Act‟). The Division Bench of this
+court observes that it concurs with the view of learned Single Judge of
+Calcutta High Court in the case of Gopal Glass Works Ltd. Vs. Assistant
+Controller of Patents & Designs 2006 (33) PTC 434 (Cal.) as stated in
+paras 39 and 40 of the judgment, as per which the learned Single Judge of
+the Calcutta High Court holds that mere publication of designs,
+specifications, drawings and /or demonstrations by the patent office in a
+foreign country would not in itself amount to publication for rendering a
+design registered in India liable to cancellation. The reference order doubts
+the correctness of the ratio in the judgments in the cases of Dabur India Ltd.
+and Gopal Gas Wors Ltd. for the reason that the said judgments are stated
+to have overlooked the provision of Section 44 of the Act which provides
+that a design which is registered abroad in a Paris Convention country, and
+to which convention India is a signatory, gets priority over an Indian
+registered design, provided that the person who gets the designs registered
+FAO (OS) No.458/2009                                             Page 2 of 67
+
+abroad in a Paris convention country, within six months of the date of the
+application made in the said convention country abroad, applies and gets
+registration in India.
+2.            In order to answer the reference with clarity it would be
+necessary first to crystallize the various issues/aspects, so that not only each
+of them can be approached independently, but also the inter-play and inter-
+relation of those issues as regards points which are common to those
+issues/aspects can be noticed. The issues/aspects as crystallized would be as
+under:-
+(i)    When Section 19(1) (a) of the Act provides for cancellation of a
+design registered in India on account of a design previously registered in
+India, whether the said provision has to be read literally only i.e only a
+design registered in India can be basis for cancellation of a subsequent
+design registered in India and not a design registered abroad in a convention
+country or whether the provision of Section 19(1) (a) takes within its sweep
+and includes a previous design registered abroad in a convention country for
+cancellation of a design registered in India. Putting it differently, is a design
+previously registered abroad in a convention country a ground under Section
+FAO (OS) No.458/2009                                               Page 3 of 67
+
+19(1) (a) of the Act for cancellation of a design subsequently registered in
+India.
+(ii)   If under Section 19(1)(a) a design registered in a convention country
+abroad is a ground for cancellation of a design registered in India, is this rule
+absolute or the rule falls in those circumstances where the design registered
+abroad is not applied to be got registered India within a period of six months
+of making of the application in a convention country abroad. Be it noted
+that the issue of design registered abroad alongwith its prior publication can
+be under certain circumstances a basis of cancellation of a design which is
+registered in India, however, that is the subject matter of Section 19(1)(b)
+and not 19(1)(a), because the aspect of prior publication is within the subject
+matter of Section 19(1)(b) as stated in the immediately following issue.
+(iii)  If a design registered in a convention country abroad is not a ground
+for cancellation of a design registered in India under Section 19(1)(a), then,
+whether the registration abroad entitles cancellation of a design registered in
+India because the registration abroad conclusively amounts to prior
+publication as per that expression found in Section 19(1)(b) read with
+Section 4(b) of the Act.
+FAO (OS) No.458/2009                                             Page 4 of 67
+
+(iv)   What     is   the    meaning     of    the   expression       “publication
+abroad”/“published abroad”, for it then to be argued that on account of such
+publication abroad, the design registered in India becomes liable to
+cancellation in terms of Section 19(1)(b) of the Act.
+3.           An offshoot of the aforesaid issues (iii) and (iv) above is that
+whether in all circumstances and all cases, the record of the Registrar of
+Designs open to public inspection abroad should be held to be prior
+publication so that on the basis cancellation can be applied under Section
+19(1)(b) of the Act for the design registered in India, and if, the record of the
+Registrar of Designs in a convention country abroad is to be taken as a basis
+for cancellation of a design registered in India, whether it is an unqualified
+rule or whether it has to be examined as per the facts of each case that record
+of the Registrar of Designs in a convention country abroad does or does not
+amount to prior publication in terms of the expression in Section 19(1)(b)
+and Section 4(b) of the Act.
+4.           In order to deal exhaustively with the aforesaid issues which
+call for our answers, it would be necessary to refer to various relevant
+Sections of the Act. One way would be to quote and deal with the different
+Sections of the Act when we take up for discussion a specific issue as stated
+FAO (OS) No.458/2009                                               Page 5 of 67
+
+above and another way can be to set out all the relevant Sections of the Act
+at the outset and thereafter refer to the language of such whichever Section is
+necessary when we take up the discussion qua a particular issue. We would
+prefer to take the second course of action of reproducing all the Sections
+which will come into play for discussion in the present judgment at the
+outset because for the issues which have to be considered, the language not
+only of one particular Section or but also of various other Sections jointly
+will come into play, and also because of the fact that inter-play of Sections
+will have to be noticed when we deal with a specific issue. The relevant
+Sections with necessary underlining/emphasis are therefore reproduced
+below:
+    “Section 2(d) “design” means only the features of shape,
+    configuration, pattern, ornament or composition of lines or colours
+    applied to any article whether in two dimensional or three dimensional
+    or in both forms, by any industrial process or means, whether manual,
+    mechanical or chemical, separate or combined, which in the finished
+    article appeal to an are judged solely by the eye; but does not include
+    any mode or principle of construction or anything which is in
+    substance a mere mechanical device, and does not include any trade
+    mark as defined in clause (v) of sub-section (1) of section 2 of the
+    Trade and Merchandise Marks Act, 1958 or property mark as defined
+    in section 479 of the Indian Penal Code (45 of 1860) or any artistic
+    work as defined in clause (c) of section 2 of the Copyright Act, 1957
+    (14 of 1957);.
+FAO (OS) No.458/2009                                             Page 6 of 67
+
+  (g) “original”, in relation to a design, means originating from the
+  author of such design and includes the cases which though old in
+  themselves yet are new in their application;
+  Section 4. Prohibition of registration of certain designs.- A design
+  which-
+  (a) is not new or original; or
+  (b) has been disclosed to the public anywhere in India or in any other
+  country by publication in tangible Form or by use or in any other way
+  prior to the filing date, or where applicable, the priority date of the
+  application for registration; or
+  (c) is not significantly distinguishable from known designs or
+  combination
+  of known designs; or
+  (d) comprises or contains scandalous or obscene matter, shall not be
+  registered.
+  Section 5. Application for registration of designs.-
+  (1) The Controller may, on the application of any person claiming to
+  be the proprietor of any new or original design not previously
+  published in any country and which is not contrary to public order or
+  morality, register the design under this Act.
+  Provided that the Controller shall before such registration refer the
+  application for examination, by an examiner appointed under sub-
+  section (2) of section 3, as to whether such design is capable of being
+  registered under this Act and the rules made thereunder and consider
+  the report of the examiner on such reference.
+  xxxx                    xxx                xxxx              xxxx
+FAO (OS) No.458/2009                                          Page 7 of 67
+
+  (6) A design when registered shall be registered as of the date of the
+  application for registration.
+  Section 6. Registration on to be in respect of particular article
+  (1) A design may be registered in respect of any or all of the articles
+  comprised in a prescribed class of articles.
+  Section 7. Publication of particulars of registered Design
+  The Controller shall, as soon as may be after the registration of a
+  design, cause publication of the prescribed particulars of the design to
+  be published in such manner as may be prescribed and thereafter the
+  design shall be open to public inspection.
+  Section 11. Copyright on registration
+  (1) When a design is registered, the registered proprietor of the design
+  shall, subject to the provisions of this Act, have copyright in the design
+  during ten years from the date of registration.
+  (2) If, before the expiration of the said ten years, application for the
+  extension of the period of copyright is made to the Controller in the
+  prescribed manner, the Controller shall, on payment of the prescribed
+  fee, extend the period of copy-right for a second period of five years
+  from the expiration of the original period of ten years.
+  Section 17. Inspection of registered designs
+FAO (OS) No.458/2009                                             Page 8 of 67
+
+  (1) During the existence of copyright in a design, any person on
+  furnishing such information as may enable the Controller to identify
+  the design and on payment of the prescribed fee may inspect the design
+  in the prescribed manner.
+  (2) Any person may, on application to the Controller and on payment
+  of such fee as may be prescribed, obtain a certified copy of any
+  registered design.
+  Section 18. Information as to existence of copyright
+  On the request of any person furnishing such information as may
+  enable the Controller to identify the design, and on payment of the
+  prescribed fee, the Controller shall inform such person whether the
+  registration still exists in respect of the design, and, if so, in respect of
+  what classes of articles, and shall state the date of registration, and the
+  name and address of the registered proprietor.
+  Section 19. Cancellation of registration
+  (1) Any person interested may present a petition for the cancellation of
+  the registration of a design at any time after the registration of the
+  design, to the Controller on any of the following grounds, namely:-
+  (a) that the design has been previously registered in India; or
+  (b) that it has been published in India or in any other country prior to
+  the date of registration; or
+  (c) that the design is not a new or original design; or
+  (d) that the design is not registrable under this Act; or
+  (e) it is not a design as defined under clause (d) of section 2.
+FAO (OS) No.458/2009                                               Page 9 of 67
+
+  (2) An appeal shall lie from any order of the Controller under this
+  section to the High Court, and the Controller may at any time refer any
+  such petition to the High Court, and the High Court shall decide any
+  petition so referred.
+  Section 22. Piracy of registered design
+  (I) During the existence of copyright in any design it shall not be
+  lawful for any person-
+  (a) for the purpose of sale to apply or cause to be applied to any article
+  in any class of articles in which the design is registered, the design or
+  any fraudulent or obvious imitation thereof, except with the license or
+  written consent of the registered proprietor, or to do anything with a
+  view to enable the design to be so applied; or
+  (b) to import for the purposes of sale, without the consent of the
+  registered proprietor, any article belonging to the class in which the
+  design has been registered, and having applied to it the design or any
+  fraudulent                           or                           obvious
+  imitation thereof, or
+  (c) knowing that the design or any fraudulent or obvious imitation
+  thereof has been applied to any article in any class of articles in which
+  the design is registered without the consent of the registered proprietor,
+  to publish or expose or cause to be published or exposed for sale that
+  article.
+  2. (1) If any person acts in contravention of this section, he shall be
+  liable for every contravention-
+FAO (OS) No.458/2009                                            Page 10 of 67
+
+  (a) to pay to the registered proprietor of the design a sum not
+  exceeding twenty-five thousand rupees recoverable as a contract debt,
+  or
+  (b) if the proprietor elects to bring a suit for the recovery of damages
+  for any such contravention, and for an injunction against the repetition
+  thereof, to pay such damages as may be awarded and to be restrained
+  by injunction accordingly:
+  Provided that the total sum recoverable in respect of any one design
+  under clause (a) shall not exceed fifty thousand rupees:
+  Provided further that no suit or any other proceeding for relief under
+  this subsection shall be instituted in any court below the court of
+  District Judge.
+  (3) In any suit or any other proceeding for relief under subsection (2),
+  ever ground on which the registration of a design may be cancelled
+  under section 19 shall be available as a ground of defence.
+  (4) Notwithstanding anything contained in the second proviso to sub-
+  Section (2), where any ground or which the registration of a design
+  may be cancelled under section 19 has been availed of as a ground of
+  defence and sub-section (3) in any suit or other proceeding for relief
+  under sub-section (2), the suit or such other proceedings shall be
+  transferred by the Court in which the suit or such other proceeding is
+  pending, to the High Court for decision.
+  (5) When the court makes a decree in a suit under sub-section (2), it
+  shall send a copy of the decree to the Controller, who shall cause an
+  entry thereof to be made in the register of designs.
+  Section 44. Reciprocal arrangement with the United Kingdom and
+  other convention countries or group of countries of
+  intergovernmental organisations
+FAO (OS) No.458/2009                                            Page 11 of 67
+
+  (1) Any person who has applied for protection for any design in the
+  United Kingdom or any of other convention countries or group of
+  countries or countries which are members of inter-governmental
+  organisations, or his legal representative or assignee shall, either alone
+  or jointly with any other person, be entitled to claim that the
+  registration of the said design under this Act shall be in priority to
+  other applicants and shall have the same date as the date of the
+  application in the United Kingdom or any of such other convention
+  countries or group of countries or countries which are members of
+  inter-governmental organisations, as the case may be:
+  Provided that-
+  (a) the application is made within six months from the application for
+  protection in the United Kingdom or any of such other convention
+  Countries or group of countries or countries which are members of
+  inter-governmental organisations, as the case may be; and
+  (b) nothing in this section shall entitle the proprietor of the design to
+  recover damages for piracy of design, design happening prior to the
+  actual date on which the design is registered in India.
+  (2) The registration of a design shall not be invalidated by reason only
+  of the exhibition or use of or the publication of a description or
+  representation of the design in India during the period specified in this
+  section as that within which the application may be made;
+  (4) Where it is made to appear to the Central Government that the
+  legislature of the United Kingdom or any such other convention
+  country or a country which is member of any group of countries or
+  inter-governmental organisation as may be notified by the Central
+  Government in this behalf has made satisfactory provision for the
+  protection of designs registered in India, the Central Government may,
+  by notification in the Official Gazette, direct that the provisions of this
+  section, with such variations or additions, if any, as may be set out in
+FAO (OS) No.458/2009                                             Page 12 of 67
+
+    such notification, shall apply for the protection of designs registered in
+    the United Kingdom or that other convention country or such country
+    which is member of any group of countries or intergovernmental
+    organisation, as the case may be.
+    Explanation- (1) For the purposes of this section, the expression
+    “convention countries”, “group of countries” or “inter-governmental
+    organisation” means, respectively, such countries, group of countries
+    or inter-governmental organisation to which the Paris Convention for
+    Protection of Industrial Property, 1883 as revised at Stockholm in 1967
+    and as amended in 1979 or the Final Act, embodying the results of the
+    Uruguay Round of Multilateral Trade Negotiations, provided for the
+    establishment of World Trade Organisation applies.
+    Explanation- (2) Where more than one application for protection
+    referred to in sub-section (1) have been made for similar protections in
+    the United Kingdom or one or more convention countries, group of
+    countries or countries which are members of inter-governmental
+    organisations, the period of six months referred to in clause (a) of that
+    sub-section, shall be reckoned from the date of which the earlier or the
+    earliest application, as the case may be, of such applications has been
+    made.”
+Section 19(1)(a): Whether a design registered abroad can be a ground
+for cancellation of a design registered in India
+5(i).         On a literal interpretation of Section 19(1)(a), it is clear that it is
+only a design which is registered in India which can cause cancellation of a
+design which is again registered in India i.e a design registered abroad on a
+literal construction of Section 19(1)(a) is not a ground for cancellation of a
+design registered in India. The issue is that should a literal construction
+FAO (OS) No.458/2009                                                 Page 13 of 67
+
+prevail or should it be held that a design registered abroad should be
+included in the sweep of Section 19(1)(a) for cancellation of the design
+registered in India. In order to appreciate this issue, we would at this stage
+reproduce Section 51A of the erstwhile Designs Act, 1911 which dealt with
+cancellation of registration, and which provision is similar to the present
+Section 19 of the 2000 Act. The earlier Section 51A reads as under:-
+     “Section 51A. Cancellation of registration-
+     (1) Any person interested may present a petition for the cancellation of
+     the registration of a design-
+     (a) at any time after the registration of the design, to the High Court on
+     any of the following grounds, namely:
+     (i) that the design has been previously registered in India; or
+     (ii) that it has been published in India prior to the date of registration;
+     or
+     (iii)        that the design is not a new or original design; or
+     (b) within one year from the date of the registration, to the Controller
+     on either of the grounds specified in sub-clauses (i) and (ii) of Clause
+     (a).
+     (2) An appeal shall lie from any order of the Controller under this
+     section to the High Court, and the Controller may at any time refer
+     any such petition to the High Court, and the High Court shall decide
+     any petition so referred.”
+(ii)      When we compare Section 51A of the 1911 Act with Section 19 of
+the 2000 Act, it becomes clear that the parliament has brought in prior
+publication abroad by including this aspect in Section 19(1)(b) of the 2000
+Act for cancellation of a design registered in India, whereas previously
+FAO (OS) No.458/2009                                                  Page 14 of 67
+
+under Section 51A (1)(a)(ii) of the 1911 Act the factum of prior publication
+abroad was not a ground for cancellation of a design registered in India.
+There is hence a conscious departure by the legislature while enacting
+Section 19(1)(b) of the 2000 Act than as compared to Section 51A(1)(a) (ii)
+of the 1911 Act, however, there is no change in the language of Section
+51A(1)(a)(i)    of the 1911 Act when we compare the same with the
+equivalent provision of Section 19(1)(a) in the 2000 Act i.e both under the
+1911 Act and the present 2000 Act it is only a prior registration in India (and
+not abroad) which is a ground for cancellation of a design which is
+subsequently registered in India. There is therefore a marked change in
+approach of the legislature while dealing with the separate aspects viz. one
+of cancellation of a design registered in India on the ground of registration in
+India which has remained the unchanged, and second as regards cancellation
+because of prior publication and which expression has been extended to
+mean prior publication not only in India but also abroad. In Gopal Glass
+Works Ltd.’s case the learned Single Judge of the Calcutta High Court has
+rightly noticed this conscious act of the legislature, and this is stated in paras
+28 and 29 of the said judgment, which paras read as under:-
+FAO (OS) No.458/2009                                                Page 15 of 67
+
+     “28.     It is significant that prior to the enactment and enforcement
+     of the 2000 Act prior registration or publication of the design in
+     India was a ground for cancellation of a registered design, but no
+     prior registration or publication abroad. Parliament in its wisdom
+     deemed it expedient to add prior publication in a country other than
+     India as a ground for cancellation of a registered design, but nor
+     prior registration in a country other than India.
+     29.      Parliament has thereby consciously differentiated between
+     prior registration in India and prior registration abroad. No such
+     difference has, however, been made in the case of prior publication.
+     Prior publication either in India or abroad is a ground for
+     cancellation of a registered design.”
+6.            Therefore, we cannot ignore this specific mandate of the
+legislature whereby no change has been brought about to the language of the
+earlier provision of Section 51A (1)(a)(i) of the 1911 Act, and there being an
+identical provision in Section 19(1)(a) of the 2000 Act.           Therefore, a
+registration of a design abroad cannot be a ground included under Section
+19(1)(a) of the Act for cancellation of a design registered in India.
+7.            The question which then immediately arises is whether the
+provision of Section 44, with its sub-Sections (1) and (2), requires any
+change to be brought about in the aforesaid interpretation which we have
+given to Section 19(1) (a) that a foreign registration cannot be a ground for
+seeking cancellation of an Indian registration.
+FAO (OS) No.458/2009                                              Page 16 of 67
+
+8(i).         On a close reading of Section 44 (1) and (2), and taking note of
+the provision of Section 5(6) of the Act which provides that registration is
+effective from the date of the application for registration, it is clear that the
+design registered abroad which is talked off under Section 44, and which has
+priority by giving the date of the application for registration in India the
+earlier date of the application made in a convention country, the same does
+not mean that it is the foreign registered design which brings about
+cancellation of the Indian registered design on the ground of priority. What
+we mean to say is that it is not as if the foreign registered design continues to
+be a foreign registered design by virtue of Section 44(1) of the Act, because
+on registration in India the foreign registered design becomes a design
+registered in India, albeit having a priority date of the date of the application
+made in a convention country abroad. This becomes clear when we note an
+all important expression found under Section 44(1), and which is “the
+registration of the said design under this Act”, and which shows that a
+design registered abroad after making of an application within six months of
+the date of application made in the convention country abroad, after its
+registration in India actually does not remain a foreign registered design but
+it becomes a design registered in India, of course with the earlier priority
+FAO (OS) No.458/2009                                               Page 17 of 67
+
+date. Putting it in other words, the date of registration in India is taken as
+the date of application made in the convention country abroad, inasmuch as,
+by virtue of provision of Section 5(6) of the Act a design which is registered
+in India will be registered as the date of the application for registration in
+India; and by virtue of Section 44(1) the date of application for registration
+of the foreign design registered in India (for which an application was earlier
+made in a convention country abroad) is to be taken as a date when the
+application was made in the convention country abroad. Neatly put what we
+are stating is actually the design which is registered abroad in fact becomes a
+design registered in India on complying of the requirement of making the
+application within six months in India from the date of the application being
+made in the convention country abroad, and therefore, the design registered
+abroad becomes a design registered in India with an earlier priority date
+being the earlier date of the application made abroad, and thereby foreign
+registered design on becoming an Indian registered design is therefore an
+Indian registered design for seeking cancellation of a design registered in
+India having a subsequent priority date.         Section 19(1)(a) accordingly
+sufficiently provides for this when it talks of cancellation of one design
+subsequently registered in India when there exists a previously design
+FAO (OS) No.458/2009                                              Page 18 of 67
+
+registered in India. Therefore, the language of Section 44(1) does not bring
+about, nor is required to bring about, any widening of the sweep of Section
+19(1)(a) for including within Section 19(1)(a) cancellation of an Indian
+registered design on account of a registered design in a convention country
+abroad.
+8(ii).       Issue No.1 is answered accordingly by holding that Section
+19(1)(a) of the Act has to be interpreted literally, and only a previously
+registered Indian design can be a ground for cancellation of subsequently
+registered design in India, and a foreign registered design cannot under
+Section 19(1)(a) be a ground for seeking cancellation of a design registered
+in India. Of course, the issue of a design registered abroad, subject to its
+prior publication, can be under certain circumstances a basis of cancellation
+of a design which is registered in India, however, that is a subject matter of
+Section 19(1)(b) and not 19(1)(a), which aspect we will deal with while
+taking up issue Nos.3 and 4 of para 2 above.
+Effect of failing to apply in India for registration within six months of
+making of an application abroad.
+9.           The language of sub-Sections (1) and (2) of Section 44 leaves
+no manner of doubt that if any person who has applied for registration in a
+FAO (OS) No.458/2009                                            Page 19 of 67
+
+convention country abroad fails to make an application for registration of the
+design registered abroad in India within six months of having made the
+application abroad in a convention country, then in such a case the said
+person who has registered his design abroad will lose his entitlement to
+priority which is claimed on the basis of date of application made in a
+convention country abroad, and the date of registration in such a case of
+having made an application after six months in India would be the date of
+the application made in India (and which is after the six months period of the
+date of the application made abroad) with the consequent effect that in the
+meanwhile if there is registration of a similar/same design in India in the six
+months period (or till the foreign owner makes an application in India) then
+such Indian applicant will then get priority to the application of the owner of
+the foreign registered design made after the six months period of the date of
+application made in a convention country abroad. Thus, such registration of
+a foreign registered design after the six months period will become a design
+which is to be taken as a subsequently registered in India to a design which
+is registered in India on an application being made in the interregnum six
+months period, and therefore, the foreign registered design cannot be a
+ground for cancellation of an Indian registered design under Section 19(1)(a)
+FAO (OS) No.458/2009                                             Page 20 of 67
+
+because the foreign registered design will have the date of application for
+registration not as the priority date of an application made abroad in a
+convention country but will only be of that date which is the date of
+application made in India for registration being a date after the six months
+period of the application made abroad for registration of the design.
+10.            Thus issue No.2 is answered by holding that a person who fails
+to apply in India within six months of making of an application in a
+convention country abroad, then, such an owner of a foreign registered
+design, though would have appropriate entitlement in the convention country
+in which registration is applied and granted, however, in India the
+registration in a convention country abroad will have no effect of destroying
+the priority date of an application made for registration in India within the
+interregnum six months period. Putting it differently, whereas the foreign
+registered design owner in the convention country in which his design is
+registered may take necessary action in such foreign country on the basis of
+registration if the Indian registered owner of the design seeks to sell articles
+in that country in which the design is registered by the foreigner, however, in
+India, it will be the Indian registered owner who will be entitled to bring an
+action for infringement of the design under Section 22 of the Act. Of
+FAO (OS) No.458/2009                                             Page 21 of 67
+
+course, we must hasten to add that if there is prior publication abroad before
+the registration In India by a third party, then in such a case the foreign
+registered holder will be able to challenge the registration in India i.e in
+effect, both the Indian registered design owner and the foreign registered
+design owner can simultaneously market their products in India with the
+design, and none of them can successfully maintain an action for
+infringement under the Act.
+Meaning of prior publication under Sections 19(1)(b) read with Section
+4(b) and whether documents existing in the record of Registrar of
+Designs in a convention country abroad which are open to public
+inspection results in prior publication:
+11.           The expressions 'published' or 'publication' are not defined in
+the Act. Various judgments have however defined these expressions found
+in the Designs Act. Some judgments define publication as being opposed to
+one which is kept secret, whereas other judgments define publication as
+something which is available in public domain i.e available as of right to any
+member of the public. We are of course looking into the issue of publication
+by means of existence in public domain by publication in a paper (which
+expression “paper‟ is taken to mean any other medium where the design can
+be judged by the eye) inasmuch as, it was not (and could not be) disputed by
+FAO (OS) No.458/2009                                             Page 22 of 67
+
+both the parties before us that once there is actual use of the design by
+making an article out of the same, which is commercially exploited and put
+in public use („by use‟ as stated in Section 4(b) of the Act), there would
+surely be publication.        The issue of publication is accordingly being
+specifically looked into from the point of view of whether publication by
+means of publishing in a paper form available in public generally including
+of their availability in the office of the Registrar of Designs.
+12(i).        Let us therefore see what should be the meaning which should
+be ascribed to the expression „published‟ or „publication‟ when we use such
+expressions qua „published‟ or „publication‟ in paper form or by depiction in
+any form which is visible to naked eye without the same having been put in
+the form of an article.
+       We have already in this regard reproduced the definition of design as
+per Section 2(d) of the Act and the definition of expression „original‟ as per
+Section 2(g) of the Act above, and which sections will be of relevance for
+discussion of „publication‟.
+(ii)   When we read the definition of a „design‟ under Section 2(d) we find
+that there are inter alia four important aspects in the same. The first aspect is
+that the design is a design which is meant to produce an article as per the
+FAO (OS) No.458/2009                                             Page 23 of 67
+
+design by an industrial process or means. The second aspect is that design is
+not the article itself but the conceptual design containing the features of a
+shape, configuration, pattern, composition of lines etc. Third aspect is the
+judging of the design which is to be put in the form of finished article solely
+by the eye. Fourthly, the design which is the subject matter of the Act is not
+an artistic work which falls under the Copyright Act or a trademark which
+falls under the Trademarks Act.
+(iii)  More clarity is given to the meaning of the word design when we look
+at the definition of „original‟ as found under Section 2(g). The definition of
+the expression „original‟ shows that the design though is not new because
+such design exists in public domain and is otherwise well-known, however,
+the design is original because it is new in its application i.e new in its
+application to a specific article. Therefore, for seeking registration under the
+Act it is not necessary that the design must be totally new, and it is enough
+that the existing design is applied in a new manner i.e to an article to which
+that design has not been applied before.
+(iv)    So far as the expression „new‟ is concerned, it is well known i.e it is
+something which comes into existence for the first time and therefore a new
+FAO (OS) No.458/2009                                              Page 24 of 67
+
+design which comes into existence for the first time obviously will be
+entitled to copyright protection.
+13(i).        When we see the provision of Section 4(b) we find that a design
+which is already disclosed by publication in India or abroad will not be
+registered, however, the bar for registration of a design which is disclosed to
+the public in India or abroad is accompanied by the language which requires
+publication „in a tangible form or by use or in any other way‟.       It is this
+language and the fascicle of expressions „tangible form‟ or „use‟ or „in any
+other way‟ which requires to be understood and interpreted so as to
+understand the meaning of the word „publication‟.
+(ii)   So far as the expression „by use‟ is concerned, there would be no
+difficulty because obviously use of the design would be by translating the
+same into a finished article by an industrial process or means. The real
+difficulty which arises actually is qua the expressions „tangible form‟ or „in
+any other way‟. These two expressions on a normal literal interpretation are
+much wider than the expression „use‟ (the design having been translated to
+an article). Publication in a paper form or publication as being visible to the
+naked eye without the same having been put on an article is very much
+otherwise included in these wide expressions. The question thus is to what
+FAO (OS) No.458/2009                                             Page 25 of 67
+
+extent should there be publication for the same to be in „tangible form‟ or „in
+any other way‟ for being included within the language of „publication‟ as
+found in Sections 4(b) and 19(1)(b). Before we answer this question, we
+would however like to refer to the ratios of the judgments in the cases of
+Gopal Glass Works and Dabur India Ltd. cases.
+14.          In Gopal Glass Works’s case, the design in question was
+registered in India with respect to glass. The owner of the design registered
+in India had purchased it from a German company. However, the design
+which was sold to the Indian owner was also found to be registered in the
+name of one other company M/s. Vegla Vereinigte Glassworke GMBH in
+UK. Though from the illustration in the form of drawings downloaded from
+the website of United Kingdom Patent Office depicted the design that may
+be applied to glass sheets, however, two important conclusions are made
+clear from the reading of the judgment and which are that firstly that the
+patterns found in the design registered in the UK Patent Office may be the
+same but the illustrations did not give the same visual effect for being
+understood and applied to the article. The judgment in the case of Gopal
+Glass Works has laid emphasis on applying of the design to an article in
+terms of the definition of design under Section 2(d) of the Act, and on
+FAO (OS) No.458/2009                                             Page 26 of 67
+
+account of lack of factual clarification and evidence led by the person who
+opposed the Indian owner of the registered design it was held that it cannot
+be said in the facts of that case that mere existence of papers downloaded
+from the UK Patent Office will not amount to prior publication. It was
+accordingly held that not only the papers downloaded from the UK Patent
+Office did not have necessary clarity for being applied to any article, but
+also there was no evidence of manufacture of glass sheets by anyone with
+the design in question. Secondly, admittedly at no point of time even though
+the design was registered in the UK Patent Office, there was ever any
+manufacture of glass sheets by anyone other than the Indian registered
+design owner. Some of the relevant paragraphs of the judgment in Gopal
+Glass Works relating to the factual matrix read:-
+       “4. For production of glass sheets of the design registered as
+      Design No. 190336, two rollers are required. The rollers are
+      manufactured by M/s. DORN BAUSCH GRAVUREN GMBH of
+      Germany, hereinafter referred to as the German Company.
+      According to the petitioner the rollers are not only used for
+      manufacture of glass sheets, but for various other articles
+      including plastic, rexin and leather.
+      5. The appellant claims to have placed orders on the German
+      Company, for supply of the rollers for launching a design of
+      figured glass with new and novel features, not produced before by
+      any one else.
+FAO (OS) No.458/2009                                           Page 27 of 67
+
+     6. On or about 29th October, 2002 the appellant applied to the
+     Controller of Patent and Designs under Section 51 of the Designs
+     Act, 2000, hereinafter referred to as the said Act, for registration
+     of the said design in Class 25-01. The said design was duly
+     registered on 5th November, 2002 and was to remain valid for a
+     period of 10 years from date of its registration.
+     10. It is alleged that the respondent No. 2 and/or its associate IAG
+     Co. Ltd. started imitating the said registered design, as a result
+     whereof the appellant was constrained to file a suit being Civil
+     Suit No. 1 of 2004 against the respondent No. 3 and its associate
+     IAG Co. Ltd. in the District Court at Mehsana. The appellant
+     obtained an interim order of injunction restraining IAG Co. Ltd.
+     from infringing the copyright of the appellant in the said
+     registered design.
+     11. In the meanwhile, the respondent No. 3 as counterblast to the
+     aforesaid notice, filed an application under Section 19 of the said
+     Act, before the respondent No. 1 for cancellation of registration of
+     Design No. 190336 in the name of the appellant, mainly on the
+     ground of prior publication of the design in India and abroad and
+     on the ground of the design not being new or original.
+     12. The respondent No. 3 relied on inter alia a catalogue of the
+     German Company, a letter dated 10th September, 2003 of the
+     German Company addressed to M/s. IAG Co. Ltd. stating that the
+     said German Company had developed Design No. 2960-9010 in
+     the year 1992, and a document downloaded from the internet from
+     the official website of the Patent Office of the United Kingdom on
+     22nd September, 2004 which shows that the same design had
+     been registered in the United Kingdom in the name of M/s. Vegla
+     Vereinigte Glaswerke Gmbh some time in 1992.
+     15. A Liaison Executive of the appellant also filed an affidavit
+     stating that he visited Germany, and upon enquiry ascertained that
+     M/s. Vegla Vereinigte Glaswerke Gmbh had never manufactured
+FAO (OS) No.458/2009                                             Page 28 of 67
+
+     glass sheets of the design registered as Design No. 2022468 in the
+     United Kingdom.
+     16. In the proceedings before the respondent No. 1, the appellant
+     questioned the admissibility of the materials alleged to have been
+     downloaded from the United Kingdom Patent Office website, in
+     evidence, in the absence of any corroborative evidence regarding
+     the authenticity of the same.
+     17. It was emphatically argued that the German Company did not
+     apply the design in question on glass sheets. The catalogue of the
+     German Company did not depict the application of the design on
+     glass sheets. As such the catalogue as also the letter of the
+     German Company dated 10th September, 2003 to M/s. IAG
+     Company Ltd. were of no relevance.
+The ratio decidendi of the judgment in Gopal Glass Works is as under:-
+     18. The respondent No. 1 framed three issues. The first issue was
+     whether the design was not new or original in view of the fact that
+     the design had been published before the date of registration and
+     the registered proprietor was not the owner of the design. The
+     second issue was whether the design had been published outside
+     India as well as in India, prior to the date of application and the
+     third issue was whether the registered design was in public
+     domain due to sale/use of the design prior to the date of
+     application of the registered proprietor.
+     30. Under the law presently in force in India, specifications,
+     drawings and/ or demonstrations in connection with registration
+     of a design do not per se constitute publications which prohibit
+     future registration of that design. Had publication of design
+     specifications by a registering authority, particularly a registering
+     authority in a foreign country, in connection with registration of a
+     design, in itself, amounted to prior publication, that would hit all
+     future applications in India for registration of designs, prior
+     registration in India would not separately have been made a
+FAO (OS) No.458/2009                                             Page 29 of 67
+
+     ground for cancellation of a registered design. Moreover, it is
+     significant that Parliament consciously, made publication in a
+     country other than India a ground of cancellation, in addition to
+     publication in India, but expressly restricted the embargo of prior
+     registration to registration in India. Registration in a country other
+     than India has not been made a ground for the cancellation of a
+     registered design.
+     33. The respondent No. 1 failed to appreciate that a design is
+     solely judged by the eye. The visual appeal of a pattern, ornament
+     or configuration on leather or rexin would not be the same as the
+     visual appeal of that pattern, ornament or configuration on glass.
+     34. In order to destroy the novelty of a design registration, prior
+     disclosure whether by publication or use or any other way, must
+     be of the pattern, shape and/or configuration applied to the
+     same article. The use of the embossing roller, to emboss a
+     pattern ornament or configuration on a glass sheet, a material
+     totally different in composition, nature, fragility, durability and
+     look from leather, rexin or even plastic, in itself, involves
+     inventive ingenuity.
+     37. The embossing rollers manufactured by the German Company
+     are only the device for producing the impugned design. It is
+     immaterial that the embossing rollers were not developed by the
+     appellant. Furthermore, in relation to designs, the expression
+     "original" include designs which though old in themselves are
+     new in their application. The brochures of the German Company
+     do not contain any photograph or illustrations of the impugned
+     design on glass.
+     38. The respondent No. 1 has apparently not considered the
+     definition of "original" in Section 2(g) of the 2000 Act. The
+     reasoning on the basis of which the respondent No. 1 arrived at
+     his impugned finding that the design was not new or original is
+     misconceived.
+FAO (OS) No.458/2009                                              Page 30 of 67
+
+     39. The next question, in issue before this Court, is whether the
+     finding of the respondent No. 1 that the document downloaded
+     from the internet from the website of the Patent Office of the
+     United Kingdom, might be taken as prior publication of the
+     impugned design, is legally sustainable.
+     40. It is true that publication has not been defined in the 2000 Act.
+     Yet, for reasons discussed above, mere publication of design
+     specifications, drawings and/or demonstrations by the Patent
+     Office of the United Kingdom, or for that matter, any other
+     foreign country, in connection with an application for registration,
+     would not, in itself, amount to publication that would render a
+     design registered in India liable to cancellation.
+     41. To constitute prior disclosure by publication to destroy the
+     novelty of a registered design, the publication would have to be,
+     in tangible form, of the design applied to the same article.
+     Prior publication of a trade catalogue, brochure, book, journal,
+     magazine or newspaper containing photographs or explicit picture
+     illustrations that clearly depict the application of the design on the
+     same article, with the same visual effect would be sufficient.
+     42. When the novelty of an article is tested against a prior
+     published document, the main factor required to be adjudged is
+     the visual effect and the appeal of the picture illustration.
+     43. If the visual effect of the pattern, the shape or the combination
+     of the pattern, shape, dimension, colour scheme, if any, are not
+     clear from the picture illustrations, the novelty cannot be said to
+     have been destroyed by prior publication, unless there are clear
+     and unmistakable directions to make an article which is the same
+     or similar enough to the impugned design.
+     45. The illustrations in the form of drawings downloaded
+     from the website of the United Kingdom Patent Office depict
+     the patterns that may be applied to glass sheets. The patterns
+     may be same but the illustrations do not give the same visual
+FAO (OS) No.458/2009                                               Page 31 of 67
+
+      effect as the samples of the glass sheets produced by the
+      appellant in Court. There are also no clear unmistakable
+      instructions or directions for production of glass sheets of the
+      pattern illustrated.
+      46. The visual effect and/or appeal of a pattern embossed into
+      glass sheets by use of embossing rollers could be different from
+      the visual effect of the same pattern etched into glass sheets
+      manually. The respondent No. I has not considered these factors.
+      47. The order impugned considered with the materials on record,
+      including in particular the computer print-outs clearly reveals that
+      the respondent No. 1 has only compared the pattern and/or
+      configuration and considered the visual appeal thereof, but not the
+      visual appeal of the pattern and/or configuration on the article. In
+      other words, the respondent No. 1 has not considered the visual
+      appeal of the finished product.
+      48. There are no material on record to show that the design had
+      previously been applied to glass sheets. On the other hand, an
+      affidavit was sworn on behalf of the appellant by a Liason
+      Executive affirming that he had ascertained that the proprietor of
+      the design registered in the United Kingdom had never
+      manufactured glass sheets of the design registered.”
+                                        (emphasis is added by us)
+15.           A reading of the aforesaid paras shows that the following ratio
+can be culled out from the judgment in Gopal Glass Works’ case:-
+(i)    The issue of originality of design has to be necessarily looked at in
+terms of the article to which it applies and there may be lack of clarity as to
+existence of prior publication unless the publication is totally clear i.e it is
+FAO (OS) No.458/2009                                             Page 32 of 67
+
+only completely understood for its effect only when the same is actually put
+on the article.
+(ii)   Primacy was given to the Indian registered design because the design
+which was registered in the U.K Patent Office was never used qua the article
+in question viz the glass sheet and the documents downloaded from the
+internet of the U.K. Patent Office could not be said to have much clarity for
+being treated as a prior publication qua the specific article in question viz the
+glass sheet.
+(iii)  A foreign registered design cannot be the basis for cancellation under
+Section 19(1)(a) of a design registered in India unless there is application of
+a design to an article which is put into public domain/use or unless there
+would have been complete and sufficient clarity in the documents
+downloaded through internet from the U.K. Patent Office that it can be held
+that there is a clear cut clarity qua prior „publication‟.
+(iv)   In the facts of that case since there was no clarity from the design
+downloaded from U.K Patent office it was held that there was no prior
+publication.
+16.            Besides the aforesaid ratio, it needs to be noted on the reading
+of the judgment in Gopal Glass Works that though there are observations
+FAO (OS) No.458/2009                                               Page 33 of 67
+
+when such observations are read only in a particular para of the judgment or
+only in a particular line of a judgment, then, there may be an indication that
+existence of registration in a foreign country would not be a ground to hold
+prior publication, however, when such observations are read in context of
+entire judgment it was found that those observations are made in the facts of
+the case because there was lack of sufficient clarity and evidence of what
+actually was the depiction and the effect of the design registered in U.K
+Patent Office qua the specific article in question being the glass sheets.
+Also, the observations of lack of prior publication in facts of that case were
+made with respect to a design having to be put on an article as differentiated
+from lack of clarity in a design merely by the same existing in public
+records, because in the facts of that case the design registered abroad had not
+been put in use in glass sheets.
+17(i)        The Division Bench of our High Court in the case of Dabur
+India Ltd. has not referred to the facts of Gopal Glass Works case while
+concurring with paras 39 and 40 of the judgment in Gopal Glass Works case
+by reproducing those paragraphs in para 25 in the judgment of the Division
+Bench. The relevant paras of the judgment of Division Bench are paras 24
+to 26 which read as under:-
+FAO (OS) No.458/2009                                              Page 34 of 67
+
+   “24. Counsel for the Respondent Defendant submitted that the very
+   design in respect of which the registration has been granted in
+   favour of the plaintiff is already in the public domain and has been
+   published earlier. The Respondents have relied upon the Design
+   Registration Nos. 319582 and 263373 issued by the US Patent
+   Office to contend that there is no novelty as far as the plaintiff's
+   designs are concerned. In the first place it must be noticed that the
+   reliance upon a design registered in the US cannot satisfy the
+   requirements of Section 19 of the present Act which specifies the
+   ground on which cancellation can be granted. Section 19 reads as
+   under:
+        “19. Cancellation of registration.- (1) Any person interested
+        may present a petition for the cancellation of the registration
+        of a design at any time after the registration of the design, to
+        the Controller on any of the following grounds, namely:
+        (a) that it has been previously registered in India;
+        (b) that it has been published in India or in any other country
+        prior to the date of registration;”
+   25. We find that the Calcutta High Court has in Gopal Glass Works
+   Ltd. v. Assistant Controller of Patents and Designs
+   (2007)1CALLT290(HC) explained the position, with which we
+   concur, as under:
+       39. The next question in issue before this Court is whether
+       the finding of the Respondent No. 1 that the document
+       downloaded from the internet from the website of the Patent
+       Office of the United Kingdom might be taken as prior
+       publication of the impugned design, is legally sustainable.
+       40. It is true that publication has not been defined in the 2000
+       Act. Yet, for reasons discussed above, mere publication of
+       design specifications, drawings and/or demonstrations by the
+       Patent Office of the United Kingdom, or for that matter, any
+       other foreign country, in connection with an application for
+       registration, would not, in itself, amount to publication that
+FAO (OS) No.458/2009                                              Page 35 of 67
+
+         would render a design registered in India liable to
+         cancellation.
+     26. The mere fact that there may have been a registration in the U.S
+     in respect of similar bottles and caps cannot come in the way of the
+     plaintiffs seeking an order restraining the Respondent from
+     infringing its registered design.”
+(ii)    The observations of the Division Bench if taken literally may seem to
+hold that registration abroad of a design taken in itself without anything
+further cannot be a ground for claiming prior publication in an infringement
+action. The question is, is this the law and did the Division Bench at all
+intend to say that existence of papers open to public inspection in a Registrar
+of Designs office abroad by that fact itself without anything further cannot
+be a ground under any circumstances for cancellation of an Indian registered
+design.
+18.            We have extensively quoted the reasoning and ratio in the case
+of Gopal Glass Works and various facets and factual matrix which led to the
+conclusion.     It will not be correct to read only few paragraphs of the
+judgment in isolation. In the case of Gopal Glass Works, the Court took
+into consideration several aspects before reaching its conclusions and para
+40 contains one of the aspects. The Division Bench of this Court in its
+decision in case of Dabur India Ltd. has referred to only paras 39 and 40 of
+FAO (OS) No.458/2009                                             Page 36 of 67
+
+Gopal Glass Works’s case. It is therefore necessary to clarify and elucidate
+upon the expression „publication‟ as dilated upon in the case of Gopal Glass
+Works and to what extent and when the registration abroad will result in
+publication abroad which is specifically covered in Sections 4(b) and
+19(1)(b) of the 2000 Act.
+19(i)         In our opinion the expression „tangible form‟ refers to a specific
+physical form or shape as applied to an article and not the mere ability to
+replicate, convert and give a physical shape to the design, though of course
+to fall under the expression „tangible form‟ it is not necessary that the article
+should have been used, but the expression „in any other way‟ takes some of
+its colour from the words „used‟ or „tangible form‟.           The principle of
+Nositur a Sociis will be applicable.         Section 4(b) therefore, not only,
+requires publication but it should be publication by use, in tangible form or
+in any other way. The expression „any other way‟ here is wider in context
+and takes into its ambit a design which has been created though not still put
+to use or exists in tangible form but at the same time it is guided by the
+words “use” and “tangible form”.            Thus, to disqualify a claim for
+registration or cancel registration of a design in India, the publication abroad
+should be by use, in tangible form, or in some other way, means that the
+FAO (OS) No.458/2009                                               Page 37 of 67
+
+design should not be a factum on paper/document alone, but further that the
+design on paper should be recognizable i.e. have the same impact in the
+public as a furnished article will appeal when judged solely by the eye (see
+Section 2(d)). Putting it differently if the design is on paper then it must
+exist upon a piece of paper in such a way that the shape or other features of
+the article are made clear to the eye. The visual impact should be similar to
+when we see the design on a physical object i.e. an object in tangible form/in
+use. As noted otherwise in the present judgment, registration of a design is
+article specific and thus-depending on the facts of each case registration or
+publication of design of a particular article may or may not necessarily result
+in rejection or cancellation of registration of the same or similar design on
+another article. The Act protects the original artistic effort not in form of an
+idea or on its own as an artistic work, but is an embodiment in a
+commercially produced artefact. Thus the primary concern is what the
+finished article is to look like. [see observations of the Supreme Court in
+Bharat Das Tools Ltd. (infra)].
+(ii)   Registration in a foreign country is one aspect but what can entail
+rejection of an application for registration in India or cancellation of
+registration in India, is prior publication and not registration ipso facto in a
+FAO (OS) No.458/2009                                              Page 38 of 67
+
+foreign country.      Moreover, such publication should be of the nature
+delineated in sub-section 4(b). Registration abroad perse cannot be a ground
+for cancellation or rejection of a design in India but the registration in India
+can be impugned if the design is not “new and original” or is already
+published abroad as stipulated in Section 4(b). In some cases of registration
+abroad, the same not by itself a ground for rejection/cancellation in India,
+yet can lead to cancellation if it can be shown and proved that the claim in
+India is not “new and original” as there was publication abroad and which
+publication abroad is a publication within the meaning of Section 4(b). In
+such cases registration can be refused or cancelled.
+       New, original or novelty of the pattern or design when replicated or
+applied or fully understood by the eye for being applied to an article is a sine
+qua non to avail and get benefit of the rights under the Act. This underlying
+principle is accentuated as well as protected when Section 4(b) and 19
+stipulate and provide for rejection/cancellation of registration of a design
+which has been published in any country prior in point of time. Though
+publication in India or abroad are enlisted as separate grounds under Section
+4 and 19 of the Act, they are in a way interlinked and intertwined with the
+FAO (OS) No.458/2009                                              Page 39 of 67
+
+question of whether design is new or original for determining the meaning of
+“design” as understood and as defined in Section 2(d) of the Act.
+(iii)  Registration abroad is one aspect and publication abroad in terms of
+Section 4(b) is another aspect.     There can be and will be cases when
+registration abroad, may have resulted in publication of a design as
+stipulated in Section 4(b). In such cases there would be publication abroad,
+not because the design is registered abroad but because the conditions
+mentioned in Section 4(b) are satisfied. The observations of the Division
+Bench in Dabur India Ltd.’s case cannot be read to mean that
+though conditions of Section 4(b) are satisfied, the registration of design
+cannot or should not be cancelled although the design has been registered
+abroad.    Registration abroad and publication abroad are two distinct
+parameters, each having their own consequences. When registration abroad
+results in publication under Section 4(b), the said provision gets attracted
+and necessary consequences as envisaged in Section 4 and 19 will follow.
+20.           In our opinion, most of the confusion or lack of clarity qua the
+meaning of the words “published” or “publication” will be removed when
+we refer to the judgment of the Supreme Court in the case of Bharat Das
+Tools Ltd. vs. Gopal Glass Work’s Ltd., 2008 (10) SCC 657.                This
+FAO (OS) No.458/2009                                            Page 40 of 67
+
+judgment of the Supreme Court is the judgment which has been passed in an
+appeal against the judgment of the learned Single Judge of the Calcutta High
+Court in Gopal Glass Work’s case. A reference to various paragraphs of
+the Supreme Court‟s judgment shows that the Supreme Court has taken note
+of the fact that though design is specifically qua an article, however,
+publication of a design in a paper form, may amount to prior publication,
+however, each case has to be necessarily seen and decided as per the facts of
+that case. The facts of each case must show sufficient amount of clarity qua
+the design which must necessarily exist in a public record of a Registrar of
+Designs Office and must have sufficient clarity attached to them before the
+same can be treated as prior publication. Therefore, really the issue is no
+longer res integra as to meaning of word “published” or “publication” as
+found in Sections 19(1)(b) and 4(b) of the Act because Supreme Court has
+held that existence of documents in public record such as the Office of the
+Registrar of Designs, will or will not, depending on facts of each particular
+case be evidence of prior publication. At this stage, it would be relevant to
+refer to the relevant paras of the judgment of the Supreme Court in the case
+of Bharat Das Tools Ltd. and which paras 26, 27, 28, 29, 30, 31, 32, 33, 35,
+36, 37, 41, 45, 46 and 47 read as under:
+FAO (OS) No.458/2009                                           Page 41 of 67
+
+     “26. In fact, the sole purpose of this Act is protection of the
+    intellectual property right of the original design for a period of ten
+    years or whatever further period extendable. The object behind this
+    enactment is to benefit the person for his research and labour put in
+    by him to evolve the new and original design. This is the sole aim
+    of enacting this Act. It has also laid down that if design is not new
+    or original or published previously then such design should not be
+    registered. It further lays down that if it has been disclosed to the
+    public anywhere in India or in any other country by publication in
+    tangible form or by use or in any other way prior to the filing date,
+    or where applicable, the priority date of the application for
+    registration then such design will not be registered or if it is found
+    that it is not significantly distinguishable from known designs or
+    combination of known designs, then such designs shall not be
+    registered. It also provides that registration can be cancelled under
+    Section 19 of the Act if proper application is filed before the
+    competent authority i.e. the Controller that the design has been
+    previously registered in India or published in India or in any other
+    country prior to the date of registration, or that the design is not a
+    new or original design or that the design is not registerable under
+    this Act or that it is not a design as defined in Clause (d) of
+    Section 2. The Controller after hearing both the parties if satisfied
+    that the design is not new or original or that it has already been
+    registered or if it is not registerable, cancel such registration and
+    aggrieved against that order, appeal shall lie to the High Court.
+    These prohibitions have been engrafted so as to protect the original
+    person who has designed a new one by virtue of his own efforts by
+    researching for a long time. The new and original design when
+    registered is for a period of ten years. Such original design which
+    is new and which has not been available in the country or has not
+    been previously registered or has not been published in India or in
+    any other country prior to the date of registration shall be protected
+    for a period of ten years. therefore, it is in the nature of protection
+    of the intellectual property right. This was the purpose as is evident
+    from the statement of objects and reasons and from various
+    provisions of the Act. In this background, we have to examine
+    whether the design which was registered on the application filed by
+FAO (OS) No.458/2009                                              Page 42 of 67
+
+    the respondent herein can be cancelled or not on the basis of the
+    application filed by the appellant. In this connection, the law of
+    Copyright and Industrial Designs by P.Narayanan (Fourth Edition),
+    Para 27.01 needs to be quoted.
+      “27.01. Object of registration of designs. The protection given
+      by the law relating to designs to those who produce new and
+      original designs, is primarily to advance industries, and keep
+      them at a high level of competitive progress.
+      Those who wish to purchase an article for use are often
+      influenced in their choice not only by practical efficiency but
+      the appearance. Common experience shows that not all are
+      influenced in the same way. Some look for artistic merit. Some
+      are attracted by a design which is a stranger or bizarre. Many
+      simply choose the article which catches their eye. Whatever
+      the reason may be one article with a particular design may sell
+      better than one without it: then it is profitable to use the design.
+      And much thought, time and expense may have been incurred
+      in finding a design which will increase sales". The object of
+      design registration is to see that the originator of a profitable
+      design is not deprived of his reward by others applying it to
+      their goods.
+      The purpose of the Designs Act is to protect novel designs
+      devised to be applied to (or in other words, to govern the shape
+      and configuration of) particular articles to be manufactured and
+      marketed commercially. It is not to protect principles of
+      operation or invention which, if profitable at all, ought to be
+      made the subject- matter of a patent. Nor is it to prevent the
+      copying of the direct product of original artistic effort in
+      producing a drawing. Indeed the whole purpose of a design is
+      that it shall not stand on its own as an artistic work but shall be
+      copied by embodiment in a commercially produced artefact.
+      Thus the primary concern, is what the finished article is to
+      look like and not with what it does and the monopoly provided
+      for the proprietor is effected by according not, as in the case of
+FAO (OS) No.458/2009                                               Page 43 of 67
+
+       ordinary copyright, a right to prevent direct reproduction of the
+       image registered as the design but the right, over a much more
+       limited period, to prevent the manufacture and sale of article of
+       a design not substantially different from the registered design.
+       The emphasis therefore is upon the visual image conveyed by
+       the manufactured article.”
+    27. As mentioned above, the Assistant Controller primarily has
+    taken into consideration the two evidence, (i) that the design was
+    registered way back 1992 by the German company on the roller to
+    be used either on glass, or rexin or on leather, therefore it is not
+    new and original and (ii) that the same design has been obtained in
+    United Kingdom as is evident from the downloading of Patent
+    website of the United Kingdom. On the basis of this two evidence,
+    the Assistant Controller has held that the design which was
+    registered on the application filed by the respondent herein was not
+    a new and original. therefore, on the application filed by the
+    appellant, the Assistant Controller of Patents and Designs
+    cancelled that design of the respondent.
+    28. Now, we shall examine to what extent the view taken by the
+    Assistant Controller can be sustained and whether the view taken
+    by learned Single Judge was correct or not. Now, coming to the
+    first issue which has been framed by the Assistant Controller, the
+    Assistant Controller found that M/s.Dornbusch Gravuren Gmbh, a
+    German Company published a brochure bearing distinctive number
+    2960-910 for the first time on 10.9.1993 and the registered
+    proprietor took the user's right and got it registered. The Assistant
+    Controller found that it is not the inventive ingenuity of the
+    respondent and found that in order to register the design it should
+    be new or original and the Assistant Controller found that there is
+    insufficient evidence of originality and therefore, he came to the
+    conclusion that the design is not a new and original one registered
+    prior to the date of registration. therefore, the question is whether
+    the design is new and original.
+FAO (OS) No.458/2009                                             Page 44 of 67
+
+    29. Section 4 which is couched in the negative terms, says that the
+    design which is not a new or original then such design cannot be
+    registered. therefore, the question is the design which has been
+    prepared by the German Company and which has been sold to the
+    respondent which became the proprietor of it, is a new or original
+    or not. In this connection, the burden was on the complainant
+    to show that the design was not original or new. We have no
+    hesitation in recording a finding that the burden was not
+    discharged by the complainant. It only tried to prove on the basis
+    of the letter of the German company that they produced the rollers
+    and sold in market but it was nowhere mentioned that these rollers
+    have been reproduced on the glass sheets by the German company
+    or by any other company. The expression, "new or original"
+    appearing in Section 4 means that the design which has been
+    registered has not been published anywhere or it has been made
+    known to the public. The expression, "new or original" means that
+    it had been invented for the first time or it has not been reproduced
+    by anyone.
+    30. The respondent company purchased the rollers from the
+    German company and got it registered with the registering
+    authority that by these rollers they are going to produce the design
+    on the glass sheets. Design has been defined in Section 2(d) which
+    means that a feature of shape, configuration, pattern, ornament or
+    composition of lines or colours applied to any article whether in
+    two dimensional or three dimensional or in both forms, by any
+    industrial process. That means that a feature or a pattern which is
+    registered with the registering authority for being produced on a
+    particular article by any industrial process whether manual,
+    mechanical or chemical or by any other means which appears in a
+    finished article and which can be judged solely by eye appeal. The
+    definition of design as defined in Section 2(d) read with
+    application for registration and rule 11 with form 1 makes it clear
+    that the design which is registered is to be applied to any finished
+    article which may be judged solely by eye appeal. A conjoined
+    reading of these three provisions makes it clear that a particular
+    shape or a particular configuration is to be registered which is
+FAO (OS) No.458/2009                                             Page 45 of 67
+
+    sought to be produced on any article which will have visual appeal.
+    Such design once it is registered then it cannot be pirated by any
+    other person. But the question is whether it is new or original.
+    31. In the present case, the complainant relied on the
+    correspondence of the German company which produced the
+    rollers and sold it to the respondent herein and it gave the
+    proprietary right to the present respondent company. 'Proprietor' as
+    defined in Section 2(j) of the Act means that any person who
+    acquires the design or right to apply the design to any article, either
+    exclusively of any other person or otherwise, means, in the respect
+    and to the extent in and to which the design or right has been so
+    acquired. therefore, this right to reproduce this design on an article
+    has been given by the German company to the respondent. But
+    again the question is whether the complainant had discharged their
+    burden to show that this design is not new or original. For this
+    purpose, they only banked upon the letter of the German company
+    which prepared these rollers and there is no evidence to show that
+    the design which was reproduced on glass sheets was either
+    produced by any other agency. therefore, the expression that ' new
+    or original' in this context has to be construed that whether this
+    design has ever been reproduced by any other company on the
+    glass sheet or not.
+    32. There is no evidence whatsoever produced by the complainant
+    either before the Assistant Controller or before any other forum to
+    show that this very design which has been reproduced on the glass
+    sheet was manufactured anywhere in the market in India or in
+    United Kingdom. There is no evidence to show that these rollers
+    which were manufactured or originally designed by the company
+    was marketed by this company to be reproduced on glass sheets in
+    India or even in United Kingdom. This proprietorship of this
+    design was acquired by this respondent from the German company
+    and there is no evidence on record to show that these rollers were
+    used for designing them on the glass sheets in Germany or in India
+    or in United Kingdom.
+FAO (OS) No.458/2009                                             Page 46 of 67
+
+    33. What is required to be registered is a design which is sought to
+    be reproduced on an article. This was the roller which was
+    designed and if it is reproduced on an article it will give such
+    visual feature to the design. No evidence was produced by the
+    complainant before the Assistant Controller that anywhere in any
+    part of the world or in India this design was reproduced on glass or
+    it was registered anywhere in India or in any part of the world. The
+    German company only manufactured the roller and this roller
+    could have been used for bringing a particular design on the glass,
+    rexine or leather but we are concerned here with the reproduction
+    of the design from the roller on glass which has been registered
+    before the registering authority. therefore, this design which is to
+    be reproduced on the article i.e. glass has been registered for the
+    first time in India and the proprietary right was acquired from the
+    German company. We have gone through the letter of the German
+    company and it nowhere says that this was reproduced on a glass
+    sheet. No evidence was produced by the complainant that this
+    design was reproduced on a glass sheet in Germany or in India.
+    The contents of the letter are very clear. It shows that it was
+    designed in 1992 and was marketed in 1993. But there is no
+    evidence to show that this design was reproduced on glass sheet
+    anywhere in Germany.
+    35. The expression,' design' has come up for interpretation in
+    English courts. The expression, design is almost pari materia with
+    the definition of design in the Indian context. The expression,
+    'design' in the English Act which is known as the Registered
+    Designs Act, 1949 reads as under:
+       “In this Act the expression,' design' means features of shape,
+       configuration, pattern or ornament applied to an article by any
+       industrial process, being features which in the finished article
+       appeal to and are judged solely by the eye, but does not
+       include
+       (a) a method or principle of construction or
+FAO (OS) No.458/2009                                            Page 47 of 67
+
+      (b) features of shape or configuration which
+      (i) are dictated solely by the function which the article has to
+      perform, or
+      (ii) are dependent upon the appearance of another article of
+      which the article is intended by the author of the design to
+      form an integral part.
+      The history of this definition has been detailed by Russel-
+      Clarke and Howe on Industrial Designs (Seventh Edition) at
+      para 3.11 at page 74 which reads as under:
+      3-11. This definition contains a cumulative series of
+      requirements, many of which have been the subject of judicial
+      decision and analysis. The historical process by which this
+      definition has evolved is of importance to its present day
+      interpretation and application. Some of the more important
+      embellishments to the definition, such as those dealing with
+      eye appeal and methods or principles of construction, have
+      found their way into the pre-2001 statutory definition as a
+      result of the explicit adoption such requirements were held to
+      be implicit in the earlier and less elaborate statutory
+      definitions of "design". This manifests an intention by the
+      legislature to adopt and make explicit the principles developed
+      in those cases.
+      Xx xx xx
+      3.13. The words of the section are: "...design means features
+      of shape configuration, pattern or ornament applied to an
+      article...." Thus a registrable design, as defined by the RDA
+      (A), must have reference to some specific article to which it is
+      to be applied. The design to be registered " is a shape,
+      configuration or pattern to be applied a particular specified
+      article". It can be readily seen that a particular pattern of
+      surface ornamentation could be applied to wide range of
+FAO (OS) No.458/2009                                           Page 48 of 67
+
+      different articles. An application for registration was not in
+      respect of the pattern as such, but in respect of its
+      application to the specific article named. If it was desired to
+      register the same design, e.g. a surface pattern or
+      decoration, in respect of a series of different articles (apart
+      from the special case of articles which together form a set),
+      then a separate application had to be made in respect of
+      each article, and each application to register was
+      numbered separately and treated as a separate and
+      distinct application.
+      In the case of designs consisting of features of shape or
+      configuration, there may of course be cases where the design
+      is intrinsically applicable only to a specific kind of article.
+      The article itself does not, however, constitute the design. In
+      Dover v. Nurnberger Celluloid Waren Fabrik Gebruder Wolff,
+      Buckley L.J. said:
+      Design means, therefore, a conception or suggestion or idea of
+      a shape or of a picture or of a device or of some arrangement
+      which can be applied to an article by some manual,
+      mechanical or chemical means. It is a conception, suggestion,
+      or idea, and not an article, which is the thing capable of being
+      registered.... It is a suggestion of form or ornament to be
+      applied to a physical body.
+      [Pugh v. Riely Cycle Co Ltd. (1912) 29 R.P.C. 196]
+      Accordingly, it is submitted that a design is an idea or
+      conception as to features of shape, configuration, pattern or
+      ornament applied to an article. Although that idea, while still
+      in the author's head, may be potentially capable of
+      registration, in fact it must be reduced to visible form to
+      be identifiable, and until it is so reduced there is nothing
+      capable of registration, It may be so rendered either by its
+      being embodied in the actual article, or by its being placed
+      upon a piece of paper in such a way that the shape or
+FAO (OS) No.458/2009                                            Page 49 of 67
+
+      other features of the article to be made are clear to the
+      eye. Whenever the means of identification (under some of the
+      old Acts, provision was made whereby a mere verbal
+      description could in some cases be accepted as sufficient), as
+      soon as the idea is reduced to a form which is identifiable,
+      there is something which is a "design", and which, if new or
+      original, may be registrable.”
+    36. Similarly our attention was also invited to para 27.07 of the law
+    of Copyright and Industrial Designs by P. Narayanan (Fourth
+    Edition) which reads as under:
+       “27.07. Design as a conception or idea "Design means a
+       conception or suggestion or idea of a shape or of a picture or
+       of a device or of some arrangement which can be applied to
+       an article by some manual, mechanical or chemical means
+       mentioned in the definition clause. It is a suggestion of form
+       or ornament to be applied to a physical body". It is a
+       conception, suggestion or idea, and not an article, which is
+       the thing capable of being registered. It may according to the
+       definition clause, be applicable to any article whether for the
+       pattern or for the shape or configuration or for the ornament
+       thereof (that is to say of the article) or for any two or more of
+       such purposes. The design, therefore, is not the article, but is
+       the conception, suggestion, or idea of a shape, picture, device
+       or arrangement which is to be applied to the article, by some
+       one of the means to be applied to a physical body.
+       A design capable of registration cannot consist of a mere
+       conception of the features mentioned in the definition, or in
+       the case of an article in three dimensions, of a representation
+       of such features in two dimensions It must, in such a case, in
+       order to comply with the definition, consist of the features as
+       they appear in the article to which they have been applied by
+       some industrial process or means. An applicant for
+       registration of a design has to produce a pictorial illustration
+FAO (OS) No.458/2009                                              Page 50 of 67
+
+        of the idea or suggestion which he has to establish as new or
+        original;"
+    Therefore, the concept of design is that a particular figure
+    conceived by its designer in his mind and it is reproduced in some
+    identifiable manner and it is sought to be applied to an article.
+    therefore, whenever registration is required then those
+    configuration has to be chosen for registration to be reproduced in
+    any article. The idea is that the design has to be registered which
+    is sought to be reproduced on any article. therefore, both the
+    things are required to go together, i.e. the design and the design
+    which is to be applied to an article.
+    37. In the present case, the design has been reproduced in the
+    article like glass which is registered. This could have been
+    registered with rexin or leather. therefore, for registration of a
+    particular configuration or particular shape of thing which is
+    sought to be reproduced on a particular article has to be applied.
+    As in the present case the design sought to be reproduced on a
+    glass-sheet has been registered and there is no evidence to show
+    that this design was registered earlier to be reproduced on glass in
+    India or any other part of the country or in Germany or even for
+    that matter in United Kingdom, therefore, it is for the first time
+    registered in India which is new and original design which is to
+    be reproduced on glass sheet. therefore, the submission of
+    learned senior counsel for the appellant, Mr. Gupta cannot be
+    accepted that this design was not new and original.
+    41. One has to be very cautious unless two articles are
+    simultaneously produced the Court then alone the Court
+    will be able to appreciate. But in the present case no design
+    reproduced on the glass-sheets was either produced before the
+    Assistant Controller or before the High Court or before us by the
+    appellant to appreciate the eye appeal. The appellant could have
+FAO (OS) No.458/2009                                           Page 51 of 67
+
+    produced the design reproduced on glass-sheet it manufactured in
+    United Kingdom or Germany. That could have been decisive.
+    45. The next evidence which was lead by the appellant was a
+    website had been downloaded from the United Kingdom Patent
+    Office effecting patent that may be applied to glass sheets. No
+    evidence has been produced to show that M/s.Vegla Vereinigte
+    Glaswerke Gmbh had manufactured this design in glass sheet or
+    not. It is only a design downloaded from the website of the Patent
+    office in U.K. and it is not known whether it was reproduced on
+    glass-sheet in U.K. or not. In this connection, the Assistant
+    Controller has only observed that he has made a visual comparison
+    of the U.K. registered design No. 2022468 with the impugned
+    design No. 190336 and he was satisfied that both the designs make
+    same appeal to the eye and there was sufficient resemblance
+    between the two designs. therefore, the Assistant Controller held
+    that the impugned design was prior published and it could not be
+    said to be new or original. The Assistant Controller further
+    observed that the proprietor of this design had not been able to
+    make a difference between the U.K. design and the present design.
+    This was not accepted by learned Single Judge of the Calcutta
+    High Court and for the good reason. It was observed by learned
+    Single Judge as under:
+        “The illustrations in the form of drawings downloaded from
+        the website of the United Kingdom Patent Office depict the
+        patterns that may be applied to glass sheets. The patterns
+        may be same but the illustrations do not give the same visual
+        effect as the samples of the glass sheets produced by the
+        appellant in Court. There are also no clean unmistakable
+        instructions or directions for production of glass sheets of
+        the pattern illustrated.
+        The visual effect and/or appeal of a pattern embossed into
+        glass sheets by use of embossing rollers could be different
+        from the visual effect of the same pattern etched into glass
+FAO (OS) No.458/2009                                          Page 52 of 67
+
+         sheets manually. The respondent No. 1 has not considered
+         these factors.
+         The order impugned considered with the materials on
+         record, including in particular the computer print outs
+         clearly reveals that the respondent No. 1 has only compared
+         the pattern and/or configuration considered the visual appeal
+         thereof, but not the visual appeal of the pattern and/or
+         configuration on the article. In other words, the Respondent
+         No. 1 has not considered the visual appeal of the finished
+         product.
+         There are no materials on record to show that the design had
+         previously been applied to glass sheets. On the other hand,
+         an affidavit was sworn on behalf of the appellant by a
+         Liaison Executive affirming that he had ascertained that the
+         proprietor of the design registered in the United Kingdom
+         had never manufactured glass sheets of the design
+         registered.”
+    From this it appears that in fact the pattern of the design which is
+    reproduced on the glass-sheet and the design and the pattern which
+    was reproduced on the glass-sheet of the United Kingdom was not
+    common.
+    46. The affidavit sworn on behalf of the respondent herein, the
+    liaison Executive that he had ascertained from the proprietor of the
+    design registered in United Kingdom and they have never
+    manufactured glass-sheet of the design registered. This affidavit
+    evidence of the Liaison Executive of the respondent company has
+    remained un-rebutted. Secondly, the learned Assistant Controller
+    has not properly compared the two designs that on what
+    comparison he found that the same configuration or pattern are
+    identical with that of the impugned design. Simply by saying
+    visually one can liable to commit the mistake but if the comparison
+    is to be judged whether the pattern of the United Kingdom and that
+FAO (OS) No.458/2009                                            Page 53 of 67
+
+    of the present pattern is three dimension or not. Both the designs
+    were placed before us as was done before the High Court also.
+    Learned Single Judge recorded its finding after seeing both the
+    designs that there is distinguishable difference between the two.
+    Similar attempt was made before us to show that both the designs
+    i.e. one that is published in United Kingdom and the impugned
+    design are identical.
+    47. We have seen the original glass pattern produced before us
+    and the photograph of the pattern produced on record. If the
+    complainant was serious about the same, it could have produced
+    the pattern which was reproduced on the glass-sheet in the United
+    Kingdom and the pattern which is reproduced on the glass-sheet by
+    the rollers of the design produced before us. If these two glass-
+    sheets were placed before learned Single Judge or
+    before us we would have been able to record the
+    finding. The finding recorded by the Assistant Controller is most
+    inconclusive and it does not give us any assurance that it was a
+    proper comparison of the two patters by the Assistant Controller.
+    Learned Single Judge of the Calcutta High Court had occasion to
+    go through both the patterns and found that there is no comparison.
+    Likewise, the glass-sheets were placed before us with all
+    dimensions along with a copy of the print out of the United
+    Kingdom and we are of opinion that there is no comparison
+    between the two. From the visual appeal placed before us, learned
+    Single Judge has rightly concluded that there is no comparison of
+    pattern or configuration of two designs. We fully agree with the
+    view taken by learned Single Judge. Hence on this count also the
+    view taken by the Assistant Controller does not appear to be
+    correct and the view taken by learned Single Judge of the Calcutta
+    High Court is correct.” (emphasis is added by us).
+FAO (OS) No.458/2009                                          Page 54 of 67
+
+21.           We have reproduced a large number of paragraphs both of the
+judgments, of the learned Single Judge in Gopal Glass work’s case, and of
+the Supreme Court in the appeal from the judgment of Gopal Glass Work’s
+case in Bharat Das Tools Ltd. because, it is only on the reading of these
+paras it becomes clear that the Supreme Court in no manner laid down an
+absolute rule that there can never be prior publication although in the public
+record of the Registrar of Design abroad a particular design is found to be
+registered. The Supreme Court in fact has specifically held that facts in each
+case have to be very minutely examined and Courts have to be extremely
+cautious by thoroughly scrutinizing the evidence in each case for deciding
+whether the public record available in Registrar of Design abroad could or
+could not be taken as prior publication, and in the peculiar facts of the case
+before the Supreme Court when we refer to paragraphs 45 to 47 it becomes
+clear that the Supreme Court approved the view of the learned Single Judge
+of the Calcutta High Court in Gopal Glass Work’s case because even the
+Supreme Court found that sufficient evidence was not led on behalf of the
+objector to the registered design and that the documents downloaded through
+internet from the website of U.K. Patent Office did not add that amount of
+FAO (OS) No.458/2009                                            Page 55 of 67
+
+clarity for the same to be said to be prior publication for seeking cancellation
+on the basis of such alleged prior publication of a design registered in India.
+22.           What has been observed by the Supreme Court in the case of
+Bharat Das Tools Ltd. is reinforced by the following paragraphs of
+Russell-Clarke and Howe on Industrial Designs VIIIth Edition:
+       What counts as “published” for the purpose of calling into 3-097
+       question the novelty of a later design registration? This is
+       broader than the word at first suggests. It is by no means
+       limited to the publishing of a design in a printed publication,
+       although it includes that. In practical terms, there are two
+       main ways in which a design can be published: by prior use of
+       the design, by selling or displaying to the public articles to
+       which the design has been applied; and by paper publications
+       of one sort or another. It is not, in fact, necessary that
+       publication should be on paper; an oral disclosure, provided it
+       is non-confidential, will amount to publication.
+       Re-registration of the same design for different articles, or
+       a similar design for same or different articles
+       A special exception existed to the general rule that the novelty 3-105
+       of a design will be destroyed by the prior registration or
+       publication of that design as applied to any kind of article. By
+       S.4(1) of the RDA(A), the proprietor of a registered design
+       was entitled to apply for registration of the same design, or a
+       design with modifications or variations not sufficient to affect
+       its identity, in respect of another article. His own previous
+FAO (OS) No.458/2009                                                  Page 56 of 67
+
+      registration, or the publication of his design as registered, does
+      not then destroy the novelty of his new design registration in
+      respect of the new article, but his term of protection is limited
+      to the term of the original design. This, in effect, gave the
+      proprietor of a design registration the ability to extend the
+      scope of the registration during its lifetime to cover further
+      articles, although in formal terms each application to protect
+      his design on a new article will be a separate application
+      leading to a separate design registration. It appears that his
+      application for registration of the design on the new article
+      must precede his actual use of the design on the new article.
+      This is because, if he uses the design on an article which falls
+      outside the scope of his earlier registration, then that will not 3-106
+      count as a publication “of the registered design”, which is all
+      that s.4(1) of the RDA(A) shields him against as regards the
+      novelty of his new application.
+         A person who makes an application to register a design and
+      finds that it has previously been registered in respect of a
+      different article was allowed to buy up the earlier design
+      registration while his own application was still pending, and if 3-107
+      he did so he could take advantage of this rule in the same way
+      as if he had himself been the owner of the earlier registration
+      all along.
+         The same rule applied to the registration (whether in respect
+      of the same article or a different article) of a design which is
+      not exactly the same as the earlier registered design, but has
+      “modifications or variations not sufficient to alter the character
+      or substantially to affect the identity thereof”. However, this
+      provision has been interpreted narrowly so that practically any
+      significant change or difference between the earlier and later
+      design will destroy the protective effect of this provision. For
+      an applicant to rely on s.4(1)(b), the subject of his application
+      must have substantial identity with his prior published design.
+FAO (OS) No.458/2009                                                  Page 57 of 67
+
+      In Sebel Ltd’s Application (No.1), it was held that substitution
+      in the old design of a different stand did substantially alter the
+      identity of the article (a rocking horse), and that the subsection
+      did not apply. Since the stand had already been published in
+      an advertisement showing it applied to another horse, it was
+      held that design failed to qualify for novelty under s.1, the said
+      stand being a mere trade variant. In Sebel Ltd’s Application
+      (No.2), a design was held not to fall within s.4 because the
+      character of the design was different from the character of the
+      applicant‟s earlier design. Thus it seems that the applicant‟s
+      own earlier design may be sufficiently similar to destroy the
+      novelty of his later application for protection of his modified
+      design, and yet too different to allow him to take advantage of 3-108
+      the protection of RDA(A) s.4(1). This is an odd and
+      unfortunate result if it is indeed correct.
+           Publication in documents
+      In cases of publication of a design by prior use as applied to an
+      article, normally the only questions which arise are whether it
+      has been published at all (i.e whether the articles to which it
+      has been applied have been disclosed to the public), and
+      whether the design is similar enough to the design in suit to
+      destroy the latter‟s novelty. But where the novelty of a design
+      is tested against a prior published document, a number of 3-109
+      additional questions can arise which do not arise in the case of
+      a prior use.
+        First, it may not be clear whether or not the document
+      discloses a design as applied to an article at all. A trade
+      catalogue containing photographs or illustrations of articles to
+      which a design has been applied may be a clear enough case.
+FAO (OS) No.458/2009                                                  Page 58 of 67
+
+      But the publication in a document of a pattern or picture does 3-110
+      not as such destroy the novelty of a design which consists of
+      applying that pattern or picture to an article. For it to destroy
+      the novelty of such a design, the paper publication must
+      suggest explicitly or implicitly by context that the pattern or
+      picture should be applied to an article.
+           Secondly, the pattern (if it is two-dimensional) or shape (if
+      it is three-dimensional) of the design may not be clear from the
+      document. Particularly in a case where it involves a written
+      description rather than an explicit picture or illustration, there 3-111
+      may be room for argument as to the precise nature of the
+      design which the document discloses, before one can go on to
+      ask whether or not it is similar enough to the later design to
+      destroy novelty.
+          Thirdly, a paper publication may be shielded from
+      destroying the novelty of a later design registration by the
+      special provisions of subss.6(4)-(5) of the RDA(A). These
+      provisions allowed the owner of copyright in an artistic work
+      to exploit his work so long as he did not apply it industrially to
+                                                                          3-118
+      an article, without his own exploitation of it counting against
+      the novelty of his own later application for a design
+      registration covering the artistic work as applied to an article.
+          Does the document disclose a design applied to an
+      article?
+       In order to destroy the novelty of a design registration, an
+      earlier design must be published “in respect of the same or any
+      other article”.     Mere publication of the pattern which
+      constitutes the design was therefore not sufficient to destroy
+      the novelty of a design registration, which consisted of the
+      application of that pattern to an article. In principle, the same
+FAO (OS) No.458/2009                                                   Page 59 of 67
+
+      holds true of the publication of a shape, although it is less easy
+      to envisage cases where the publication of a shape does not
+      implicitly convey the article to which that shape is to be
+      applied. Thus, novelty may reside in the application of an old
+      shape or pattern to new subject-matter. This was first laid
+      down in the leading case of Saunders v Wiel. There, the 3-119
+      design consisted of the handle of a spoon made to represent
+      Westminster Abbey seen from a particular point of view. The
+      design had actually been copied from a photograph of the
+      Abbey.
+        The validity of the design was upheld, Bowen L.J. saying
+         “It seems to me that the novelty and originality in the
+      design, within this section, is not destroyed by its being taken
+      from a source common to mankind…The novelty may consist
+      in the applicability to the article of manufacture of a drawing
+      or design which is taken from a source to which all the world
+      may resort. Otherwise, it would be impossible to take any
+      natural or artistic object and to reduce it into a design
+      applicable to an article of manufacture, without also having
+      this consequence following, that you could not do it at all in
+      the first place unless you were to alter the design so as not to
+      represent exactly the original; otherwise there would be no
+      novelty in it, because it would be said that the thing which was
+      taken was not new. You could not take a tree and put it on a
+      spoon, unless you drew the tree in some shape in which a tree
+      never grew, nor an elephant unless you drew it and carved it of
+      a kind which had never been seen. An illustration, it seems to
+      me, that may be taken about this is what we all know as the
+      Apostles spoons. The figures of the Apostles are figures 3-120
+      which have been embodied in sacred art for centuries, and
+      there is nothing new in taking the figures of the Apostles, but
+      the novelty of applying the figures of the Apostles to spoons
+      was in contriving to design the Apostles‟ figures so that they
+FAO (OS) No.458/2009                                                  Page 60 of 67
+
+      should be applicable to that particular subject-matter. How
+      does a building differ from that? In no sense it seems to me.
+          It should be recalled that under the 1949 Act, if a pattern
+      (or shape) has been published in respect of any article, the
+      publication will destroy the novelty of any design which
+      consists of the application of that pattern (or shape) to an
+      article of any kind, however different it is from the kind of
+      article to which the publication suggests that the design should
+      be applied. However, the publication will not invalidate such
+      later design registrations if it does not suggest the application
+      of the pattern (or shape) to an article at all. Thus, a series of
+      pictures published in a fine art catalogue would not destroy the
+      novelty of a later design consisting of the application of one of 3-121
+      those pictures to, say, the back of a chair, because a painting or
+      picture simpliciter is not an “article”. But the same pictures
+      published in a catalogue of patterns for application to
+      wallpaper would destroy the novelty of such a later design
+      registration, because wallpaper is an article.
+        What design is disclosed by a prior published document?
+      Assuming that a prior published document does satisfy the
+      requirement that it discloses a design, i.e a shape or pattern, as
+      applied or to be applied to an article, the next question may be
+      what is the shape or pattern which it discloses? In some cases
+      this will be clear, for instance where the publication contains
+      explicit pictures or illustrations. However, it may be less clear
+      and the disclosure may consist in whole or in part of written
+      text which needs to be interpreted, or general instructions
+      which can be put into practice in a variety of ways. In such
+      cases the test to be applied is that borrowed from the hpre- 3-122
+      1977 patent law of anticipation, i.e that the prior art document
+      must contain “clear and unmistakable directions” to
+      make an article with the shape or pattern which is the same as ,
+FAO (OS) No.458/2009                                                  Page 61 of 67
+
+      or similar enough to the registered design in suit to deprive it
+      of novelty.
+        This was laid down in Rosedale Associated Manufacturers
+      Ltd v Airfix Ltd. Lord Evershed M.R. said
+       “In this respect the test of prior publication of an alleged
+      invention should, in my judgment, be no less applicable in the
+      case of a registered design, and as regards the former, I
+      venture to cite once more the oft-quoted language of Lord
+      Westbury in Hills v Evans: ‘The antecedent statement must, in
+      order to invalidate the sub-sequent patent, be such that a
+      person of ordinary knowledge of the subject would at once
+      perceive and understand and be able practically to apply the
+      discovery without the necessity of making further
+      experiments.‟ By a like reasoning, to my mind, if a document
+      is to constitute prior publication, then a reader of it, possessed 3-123
+      of ordinary knowledge of the subject, must from his reading of
+      the document be able at least to see the design in his mind‟s
+      eye and should not have to depend on his own originality to
+      construct the design from the ideas which the document may
+      put into his head.”
+        On the same point Romer L.J. said:
+        “In Flour Oxidising Co v Carr & Co Parker J. (as he then
+      was) said: „Where the question is solely a question of prior
+      publication it is not, in my opinion, enough to prove that an
+      apparatus described in an earlier specification could have been
+      used to produce this or that result. It must also be shown that
+      the specification contains clear and unmistakable directions so
+      to use it.‟ These observations by Parker J. were cited with
+      approval by Lord Dunedin in British Thomson Houston Co v
+      Metropolitan-Vickers Electrical Co, and again (when
+FAO (OS) No.458/2009                                                  Page 62 of 67
+
+        delivering the judgment of the Judicial Committee) in Pope
+        Alliance Corporation v Spanish River Pulp & Paper Mills, Ltd.
+        In the latter case and at the same page Lord Dunedin posed the
+        test as follows: „would a man who was grappling with the
+        problem solved by the Patent attacked, and having no
+        knowledge of that Patent, if he had had the alleged anticipation 3-124
+        in his hand, have said “that gives me what I wish”? It is true
+        that these citations were related to anticipation of inventions,
+        but it seems to me that they apply by analogy to alleged
+        anticipation by “paper publications” of registered designs.”
+           It is not permissible to make a mosaic of a number of prior
+        documents for the purpose of attacking novelty. If the attack
+        on novelty is to succeed, the design must be disclosed in the
+        single prior document. If, however, one document contains a
+        reference to another document, the two may be read together.
+23.              In view of the above discussion, the following conclusions in
+our opinion emerge:-
+(i)     Existence of a design registered abroad in a convention country is not
+a ground under Section 19(1)(a) for cancellation of a design registered in
+India.
+(ii)    The provision of Section 44 does not have the effect of changing the
+literal interpretation of Section 19(1)(a) inasmuch as under Section 44, the
+foreign registered design becomes an Indian registered design, although, the
+date of registration of the foreign registered design which is registered in
+India     will relate back and have retrospective effect from the date of
+FAO (OS) No.458/2009                                                  Page 63 of 67
+
+application first made in the convention country abroad. Once, the foreign
+registered design becomes registered in India, the very fact that it is an
+Indian registered design it will be a previously registered design in India,
+and by virtue of the priority rule the same will be a ground for cancellation
+of a design subsequently registered in India on an application made after the
+date of the priority date given of the application made abroad for registration
+of the design in a convention country.
+(iii)  The benefit of foreign registered design after its registration in India
+for seeking cancellation of an Indian registered design under Section
+19(1)(a) will only be available if the application for registration in India is
+made within six months of the date of the application made in the
+convention country abroad, notwithstanding there may be prior publication
+in this interregnum six month period.
+(iv)   In case, the application for registration in India is not made within the
+statutory permissible period of six months of having made the application
+abroad, then, the design registered in India in the meanwhile in six months
+period cannot be cancelled under Section 19(1)(a), though, the foreign
+registered design owner on proving of prior publication can have an
+effective defence to the infringement action filed by the Indian registered
+FAO (OS) No.458/2009                                              Page 64 of 67
+
+design owner and which defence against an infringement action is available
+vide Section 22 relying on the ground of prior publication under Section
+19(1)(b) read with Section 4(b) of the Act.
+(v)    What is publication is essentially a question of fact to be decided as
+per the evidence led in each case. Existence of a design in the publication
+record/office of a Registrar of design abroad may or may not depending on
+the facts of each case amount to prior publication and there would be prior
+publication only if the prior registered design is made public and has that
+much necessary clarity as applied to a specific article capable of judged by
+the visual appearance or the eye of the mind, that by use of the said
+knowledge and information in the public record of the Registrar of design
+office, an article can be made using that design which will be a piracy or
+violation of that design i.e putting it differently unless and until there is
+complete clarity and understanding to the naked eye or the eye of the mind
+of the foreign registered design as found in the public record of the Registrar
+of design qua a specific article, it cannot be said that such public record will
+amount to prior publication.
+24.          We therefore answer the reference that the ratio in the case of
+Dabur India Ltd. by the Division Bench of this Court that existence of
+FAO (OS) No.458/2009                                              Page 65 of 67
+
+public record in the office of Registrar of design in a convention country
+abroad may or may not amount to prior publication inasmuch existence of a
+design in a public record of Registrar of design in a convention country
+abroad may or may not, depending on the facts of a particular case, amount
+or not amount to publication abroad, and which depends on the complete
+clarity available to the eye of the design found in the public record so that it
+can be said to be understood for being applied to a specific article. Each
+case has to be necessarily judged by putting the subject design with the
+articles side by side with the prior publication material and only after
+thoroughly scrutinizing the same any finding can be given of existence or
+non-existence of prior publication.
+25.           So far as the merits of the present case of existence of prior
+publication in the facts of the present case are concerned, we find that
+Division Bench has approved the decision of the learned Single Judge of
+existence of prior publication in the facts of the present case because the
+spatula in question was found in actual use prior to registration in India, and
+with respect to which the relevant observations are made by the Division
+Bench in paras 12 and 15 of the judgment/reference order of the Division
+Bench dated 8.10.2010.        We may, of course, hasten to add that any
+FAO (OS) No.458/2009                                             Page 66 of 67
+
+observations made in an interim order are always prima facie in nature and
+are made only for the purpose of disposing of an interim injunction, and the
+issue of prior publication in the facts of the present case will be finally
+decided uninfluenced by any observations qua the factual aspects made at
+the interim stage as to existence of the spatula abroad after evidence is led
+by both the parties in this case.
+26.          Let the parties appear before the learned Single Judge on 17th
+April, 2013 for further proceedings in the suit.
+                                                  VALMIKI J. MEHTA, J
+                                                   SANJIV KHANNA, J
+                                                         S.P. GARG, J
+MARCH 15, 2013
+ib/Ne/ak
+FAO (OS) No.458/2009                                           Page 67 of 67
+
+

@@ -1,0 +1,169 @@
+                                                                                        #9
+$~
+*       IN THE HIGH COURT OF DELHI AT NEW DELHI
++       ITA 1479/2010
+THE COMMISSIONER OF INCOME TAX                                   ..... Appellant
+                                 Through: Mr. Sanjeev Sabharwal, Advocate
+                          versus
+M. S. BINDRA & SONS P. LTD.                                       ..... Respondent
+                                 Through: None.
+%                                         Date of Decision: 28th September, 2010
+CORAM:
+HON'BLE THE CHIEF JUSTICE
+HON'BLE MR. JUSTICE MANMOHAN
+1. Whether the Reporters of local papers may be allowed to see the judgment?
+2. To be referred to the Reporter or not?
+3. Whether the judgment should be reported in the Digest?
+MANMOHAN, J
+1.      The present appeal has been filed under Section 260A of Income
+Tax Act, 1961 (for brevity “Act”) challenging the order dated 20th July,
+2009 passed by the Income Tax Appellate Tribunal (in short
+“Tribunal”) in ITA No. 504/Del/2009, for the Assessment Year 2001-
+2002.
+2.      Mr. Sanjeev Sabharwal, learned counsel for the revenue
+submitted that the Tribunal had erred in law in dismissing the revenue‟s
+appeal whereby the penalty under Section 271(1)(c) of the Act
+amounting to ` 45,40,297/- imposed by the Assessing Officer (in short,
+“AO”) had been deleted. Mr. Sabharwal further relied upon a judgment
+ITA 1479/2010                                                                Page 1 of 5
+
+of the Supreme Court in Union of India and Ors. Vs. Dharamendra
+Textile Processors and Ors. (2008) 13 SCC 369.
+3.      In fact, Section 271(1)(c) came to be interpreted by the Apex
+Court in Union of India & Ors. vs. Dharamendra Textile Processors
+& Ors. (2008) 306 ITR 277 (SC). The three Judge Bench of the Apex
+Court over-ruled the decision in Dilip N. Shroff vs. Joint CIT (2007)
+291 ITR 519 (SC) and approved the decision in Chairman, SEBI vs.
+Shriram Mutual Fund and Anr. (2006) 5SCC 361. In the said case,
+the Supreme Court held:-
+       “27. The Explanations appended to section 272(1)(c) of
+        the Income-tax Act entirely indicate the element of strict
+        liability on the assessee for concealment or for giving
+        inaccurate particulars while filing the return. The judgment
+       in Dilip N. Shroff’s case [2007] 8 Scale 304 (SC) has not
+       considered the effect and relevance of Section 276C of the
+       Income-tax Act. The object behind the enactment of section
+       271(1)(c) read with the Explanations indicates that the said
+       section has been enacted to provide for a remedy for loss of
+       revenue. The penalty under that provision is a civil liability
+       as is the case in the matter of prosecution under Section
+       276C of the Income-tax Act.”
+ 4.     The aforesaid decision was taken note of in Commissioner of
+ Income Tax vs. Reliance Petroproducts Pvt. Ltd.(2010) 322 ITR 158
+ (SC). While considering the phrase „concealment of particulars‟, the
+ Apex Court referred to Section 271 and held as follows:-
+       “9.Therefore, it is obvious that it must be shown that the
+       conditions under Section 271(1)(c) must exist before the
+       penalty is imposed. There can be no dispute that everything
+       would depend upon the return filed because that is the only
+       document, where the assessee can furnish the particulars of
+       his income. When such particulars are found to be
+       inaccurate, the liability would arise. In Dilip N. Shroff v.
+ITA 1479/2010                                                   Page 2 of 5
+
+       Joint CIT [2007] 6 SCC 329, thisCourt explained the
+       terms “concealment of income” and “furnishing inaccurate
+       particulars”. The Court went on to hold therein that in
+       order to attract the penalty under Section 271(1)(c), mens
+       rea was necessary, as according to the Court, the word
+       “inaccurate” signified a deliberate act or omission on
+       behalf of the assessee. It went on to hold that clause (iii) of
+       section 271(1)(c) provided for a discretionary jurisdiction
+       upon the assessing authority, inasmuch as the amount of
+       penalty could not be less than the amount of tax sought to be
+       evaded by reason of such concealment of particulars of
+       income, but it may not exceed three times thereof. It was
+       pointed out that the term “inaccurate particulars” was not
+       defined anywhere in the Act and, therefore, it was held that
+       furnishing of an assessment of the value of the property
+       may not by itself be furnishing inaccurate particulars. It
+       was further held that the Assessing Officer must be found to
+       have failed to prove that his explanation is not only not bona
+       fide but all the facts relating to the same and material to the
+       computation of his income were not disclosed by him. It was
+       then held that the explanation must be preceded by a
+       finding as to how and in what manner, the assessee had
+       furnished the particulars of his income. The Court ultimately
+       went on to hold that the element of mens rea was essential.
+       It was only on the point of mens rea that the judgment in
+       Dilip N. Shroff v. Joint CIT was upset. In Union of India
+       v. Dharamendra Textile Processors, after quoting from
+       section 271 extensively and also considering section
+       271(1)(c),the Court came to the conclusion that since
+       Section 271(1)(c) indicated the element of strict liability on
+       the assessee for the concealment or for giving inaccurate
+       particulars while filing return, there was no necessity of
+       mens rea. The court went on to hold that the objective
+       behind the enactment of Section 271(1)(c) read with
+       Explanations indicated with the said section was for
+       providing remedy for loss of revenue and such a penalty was
+       a civil liability and, therefore, willful concealment is not an
+       essential ingredient for attracting civil liability as was
+       the case in the matter of prosecution under Section 276C of
+       the Act. The basic reason why decision in Dilip N. Shroff v.
+       Joint CIT was overruled by this Court in Union of India v.
+       Dharamendra Textile Processors, was that according to
+       this Court the effect and difference between Section
+       271(1)(c) and        Section 76C of the Act was lost sight of
+       in the case of Dilip N. Shroff v. Joint CIT. However, it must
+       be pointed out that in Union of India v. Dharamendra
+       Textile Processors, no fault was found with the rasoning in
+       the decision in Dilip N. Shroff v. Joint CIT, where the court
+ITA 1479/2010                                                    Page 3 of 5
+
+       explained the meaning of the terms “conceal” and
+       “inaccurate”. It was only the ultimate inference in Dilip N.
+       Shroff v. Joint CIT to the effect that mens rea was an
+       essential ingredient for the penalty under Section 271(1)(c)
+       that the decision in Dilip N. Shroff v. Joint CIT was
+       overruled………”
+        Thereafter, so stating their Lordships‟ proceeded to hold as
+       follows:-
+        “11. …….A mere making of the claim, which is                   not
+        sustainable in law, by itself, will not amount                  for
+        furnishing inaccurate particulars             regarding         the
+        income of the assessee. Such claim made in                      the
+        return cannot amount to the inaccurate particulars.”
+5.     In the present case, we find that both the Commissioner of
+Income Tax (Appeals) [in short, “CIT(A)”] and the Tribunal have given
+cogent reasons for setting aside the penalty levied under Section
+271(1)(c) of the Act. The relevant portion of the impugned order of the
+Tribunal is reproduced hereinbelow:-
+       “6. None appeared on behalf of the assessee. We, therefore,
+       heard the learned DR and gone through the records. In view of
+       the categorical finding of the CIT (Appeals) that the issue is
+       contentious in nature and is debatable, therefore, it would not
+       be a case of concealment of penalty. Otherwise also, the
+       assessee having disclosed all the facts in the return of income
+       filed with the department and having offered the amount under
+       Section 41(1) in assessment year 2002-03 shows the bonafides
+       of the assessee and, therefore, in this account also, it cannot be
+       a ground for concealment to income or furnishing of inaccurate
+       particulars thereof. It was held by the Tribunal in the case of
+       Shobha Trading Company (P) Limited Vs. ITO (1995) 52 ITD
+       188 (Del.) that penalty for concealment cannot be levied merely
+       because certain deductions, relief or benefits have been denied
+       to the assessee. Accordingly, we do not find any reason to
+       interfere with the order of the CIT (Appeals) and the same is
+       upheld.”
+ITA 1479/2010                                                        Page 4 of 5
+
+6.       From the aforesaid, it is apparent that the respondent-assessee
+had made full disclosure and there was neither any concealment of
+income nor furnishing of inaccurate particulars.        In fact, both the
+CIT(A) and Tribunal have found that the justification furnished by the
+respondent-assessee was bonafide. Consequently, keeping in view the
+conclusion of facts arrived at by the Commissioner as well as by the
+Tribunal, the explanation offered by the respondent-assessee is bona
+fide and the respondent-assessee‟s case would fall within the ambit of
+Explanation 1 to Section 271 of Act.
+7.     Accordingly, the respondent-assessee is not liable to pay penalty
+under Section 271(1)(c) of Act and thus the present appeal being devoid
+of merits is dismissed in limine but with no order as to costs.
+                                              MANMOHAN, J
+                                              CHIEF JUSTICE
+SEPTEMBER 28, 2010
+js
+ITA 1479/2010                                                   Page 5 of 5
+
+

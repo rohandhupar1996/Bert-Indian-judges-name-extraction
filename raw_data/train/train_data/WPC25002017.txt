@@ -1,0 +1,594 @@
+                IN THE GAUHATI HIGH COURT
+       (The High Court of Assam, Nagaland, Mizoram and Arunachal Pradesh)
+                      Case No: WP(C) 2500/2017
+         Elite Computers and Communications Pvt. Ltd. …… Petitioner
+                                      -Versus-
+        The State of Assam and others                   ..... Respondents
+                                   :: BEFORE ::
+              HON’BLE MR. JUSTICE PRASANTA KUMAR DEKA
+               For the Petitioner            :     Mr. KN Choudhury
+                                                              Sr. Advocate
+                                                   Mr. PD Nair
+                                                              Advocate
+               For the Respondents           :     Mr. D Saikia
+                                                   Sr. Addl. Advocate General, Assam
+                                                   Mr. B Gogoi
+                                                              Advocate
+               Date of Hearing               :     11.07.2017
+               Date of delivery of
+               Judgment and Order            :     11.07.2017
+                     JUDGMENT AND ORDER (ORAL)
+       Heard Mr. KN Choudhury, learned senior counsel assisted by Mr. PD Nair,
+learned counsel appearing on behalf of the petitioner. Also heard Mr. D Saikia,
+the learned Senior Additional Advocate General, Government of Assam assisted
+by Mr. B Gogoi, the learned counsel and Mr. RK Agarwal, learned counsel for the
+respondent No. 8.
+2.     The respondent No. 4, Commissioner of Taxes, Assam had issued an E-
+Tender Notice No. CP/COMP-56/2016/41 dated 28.10.2016 for the work of ‘The
+supply of computer, network hardware and its peripherals, including the work of
+                                                                           Page 1 of 20
+WP(C) 2500/2017
+
+power of supply and network cabling at various offices under the Commissioner
+of Taxes, Assam’. The invitation for Bid No. NCB/FEB (WB-PMU) 10/2015/136
+dated 01.11.2016 was issued by the respondent No. 6, the Project Director –
+ASPIRe Project in respect of the National Competitive Bidding for the said work
+with Bid Reference/ Tender No. ASPIRe/NCB/FEB (WB-PMU) 10/2015/136/2016-
+2017. After changes made in the initial date for submission and opening of Bids,
+ultimately the last date and time of submission of online Bids as well as hard
+copy thereof was fixed on 1200 hrs. of 30.12.2016 and the date and time of
+opening of the bids was fixed at 1400 hrs. of 30.12.2016.
+3.      The tender document revealed a financial eligibility criterion as
+incorporated in Section III (Evaluation And Qualification Criteria) thereof as
+follows:-
+“the Bidder must have minimum average annual turnover of INR 15 Crores in
+each of the last 3 financial years.”
+4.      The present petitioner was authorised to bid for supplying various
+products by manufacturers of some IT, networking and other products required
+for supply vide the instant tender and as such the present petitioner was
+authorised by the said manufacturers to quote rates independently, negotiate
+and sign the contracts for supplying their respective products and/or services to
+the Commissioner of Taxes, Assam.
+5.      Upon issuance of the said tender, finding sub-clause B of Clause 2 –
+Financial Eligibility under the General Conditions of the Instructions to Bidders
+(‘ITB’ in short) to be illogical, the petitioner made a request to the respondent
+No. 4 for amendment of the said tender clause along with some other
+                                                                      Page 2 of 20
+WP(C) 2500/2017
+
+clarifications vide letter No. ECC/2K16-17/Prebid-519 dated 09.11.2016. By the
+said letter the petitioner had, inter alia, sought for clarifications, requesting that
+Clause 2(B) of the General Conditions of ITB i.e. “The Bidder must have
+minimum average annual turnover of INR 15 Crores in each of the last 3 financial
+years. The revenues must be accrued from sale of similar items as per items”, be
+changed to “average annual turnover of 15 Crores from the last three financial
+years for sale of similar items”.
+6.       The representatives of the petitioner company and others were called for
+a Pre-Bid Meeting on 11.11.2016 in the office of the respondent No. 4. In the
+said meeting it was informed that no change was required to be made to the
+existing Clause 2(B) of the General Conditions of ITB and to that effect, minutes
+of the said meeting was also prepared which forms the part of the petition as
+Annexure-7.
+7.       The technical bids in response to the said tender were opened on
+30.12.2016 at 1400 hrs in the office of the respondent No. 4 in presence of the
+representative of the petitioner company. After opening of the technical bids on
+30.12.2016, the official respondents prepared the minutes of Bid Opening
+Summary and as per the said minutes the petitioner was found to be a
+responsive bidder including that of financial eligibility of minimum average annual
+turnover.
+8.       After opening of the financial bids on 01.02.2017, the representatives of
+the petitioner company were called for meeting on 27.02.2017 by the respondent
+No. 7, Inspector of Taxes and the said representatives attended the said meeting
+on 27.02.2017 wherein the petitioner was asked to confirm furnishing of
+                                                                          Page 3 of 20
+WP(C) 2500/2017
+
+additional Performance Bank Guarantee for being awarded the work. The
+petitioner agreed to the said proposal and a letter dated 02.03.2017 was sent
+conveying that the petitioner would additionally provide 5% Performance Bank
+Guarantee for the annual maintenance contract for 5 years over and above the
+10% Performance Bank Guarantee already assured by it.
+9.       The respondent No. 7, Inspector of Taxes, Assam sent the impugned
+email dated 19.04.2017 informing the petitioner company that as the petitioner
+company had mentioned in its bid that its annual turnover of the years 2012-13
+and 2013-14 were Rupees 8 Crores and Rupees 12 Crores respectively, it did not
+fulfil the criteria of Minimum Average Annual turnover of Rupees 15 Crores in
+each of the last 3 financial years. In the said impugned email dated 19.04.2017 it
+was also specified therein that – “RPF criteria is ‘The Bidder must have minimum
+average annual turnover of INR 15 crores in each of the last 3 financial years.
+World Bank interpretation is that the annual turnover should be at least INR 15
+crore in each year.”
+10.      The petitioner, being aggrieved by the said email dated 19.04.2017
+(Annexure-14), sent a representation dated 20.04.2017 expressing its grievances
+and requesting to be awarded the work. However, the same was not responded
+by the respondent authorities. The petitioner, being aggrieved, has filed this writ
+petition wherein it is mentioned that Letter of Intent (LoI) has been issued to the
+private respondent No. 8 for the tender work, however, the agreement for the
+said work was yet to be signed and no work order has been issued to the
+respondent No. 8. Later on, the petitioner by filing an additional affidavit brought
+                                                                        Page 4 of 20
+WP(C) 2500/2017
+
+on record the Letter of Acceptance (LoA) issued by the respondent No. 3 to the
+respondent No. 8 dated 10.04.2017.
+11.     It is submitted by the petitioner that once having accepted that the
+petitioner satisfied the Financial Eligibility Criteria and recording the same in the
+minutes of the Bid Opening Summary and subsequent acts on the part of the
+respondent No. 4 by opening the financial bid of the petitioner and calling it for
+negotiations, such action tantamount to changing the rules of the game after it
+had been played. The same is arbitrary, whimsical, capricious, unreasonable and
+as such the impugned email dated 19.04.2017 is liable to be set aside and
+quashed. It is also prayed that a writ of mandamus and/or any other direction be
+issued commanding the respondent authorities not to issue any order and/or
+allow the private respondent No. 8 to carry out the work tender vide the bid
+reference stated hereinabove.
+12.       Upon motion, this court vide order dated 05.05.2017 by way of an
+interim order directed the respondent authorities to maintain status quo as on
+05.05.2017 with respect to the Letter of Acceptance (LoA) dated 10.04.2017
+(Annuxure-19).
+13.      The respondent No. 4, in response to the writ petition, filed an affidavit-
+in-opposition. It has been brought on record that the online bid opening date
+was 30.12.2016. There were in total 6 (six) bidders including the present
+petitioner and the respondent No. 8. A pre-bid meeting was held on 10.11.2016
+in which different queries were raised by the bidders. The responses to the pre-
+bid meeting were published online on 01.12.2016 in the website. One of the
+queries raised by the petitioner was related to the average annual turnover in
+                                                                          Page 5 of 20
+WP(C) 2500/2017
+
+each year mentioned in Clause 2(B) of Financial Eligibility of the bid document.
+The petitioner requested to remove the word ‘each year’ and consider only the
+‘the average annual turnover for 3 years’. It was clearly mentioned in the pre-bid
+minutes informing that no changes would be carried out.
+14.     By the said affidavit-in-opposition it was further brought on record that
+the respondent No. 4 informed that both the technical and financial bids
+submitted by the bidders would be scrutinised further and the final report in the
+form of Bid Evaluation report would be sent to the World Bank for their approval
+as the financial involvement in the project was funded by the World Bank.
+Thereafter, on scrutiny of both the technical and financial bids, there remained 3
+(three) bidders including the petitioner and the respondent No. 8. In the financial
+bid of the petitioner, the price quoted under ‘operation and maintenance (AMC/
+Warranty) caused for 5 years and preventive maintenance caused for 5 years’
+were found to be very low. The petitioner being L1 bidder till that stage, the
+respondent No. 4 held a meeting with the petitioner and in order to safeguard
+the purpose of the project, the respondent No. 4 decided to enhance the
+Performance Bank Guarantee from the existing 10% to 15% which it agreed to
+comply. It is also brought on record that after preparation of the Bid Evaluation
+Report, the same was sent to World Bank for review and issuance of NOC. The
+World Bank while going through the report found out the mistake committed by
+the Evaluation Committee related to Clause 2(B) under Financial Eligibility i.e.
+“the Bidder must have minimum average annual turnover of INR 15 Crores in
+each of the last 3 financial years.” The World Bank communicated the same vide
+email dated 30.03.2017 highlighting that the average annual turnover should not
+                                                                       Page 6 of 20
+WP(C) 2500/2017
+
+be less than INR 15 Crore in each of the 3 years. On the basis of the necessary
+corrections carried out at the instruction of the World Bank, the respondent No. 8
+became the L1 bidder and a revised Bid Evaluation Report was sent to the World
+Bank for its review. The World Bank issued NOC vide email dated 05.04.2017
+stating that the respondent No. 3 can award the contract to the respondent No.
+8 subject to submission of valid additional performance bank guarantee by the
+bidder. For the said reasons, the bid of the petitioner could not be accepted for
+not fulfilling the financial eligibility criteria prescribed under Clause 2(B) of the
+General Conditions of the tender. It is also submitted that the Tender Evaluation
+Committee inadvertently considered the bid of the petitioner as technically
+responsive which came to the notice of the respondent authorities only when the
+World Bank pointed out the same.
+15.     The respondent No. 8 through its affidavit-in-opposition submits that the
+terms and conditions of Clause 2(B) under the Financial Eligibility Criteria are
+without any ambiguity. The petitioner admittedly participated in the pre-bid
+discussion and sought for clarification knowing consequences of terms and
+conditions in the bid document and now cannot question the legality of the
+clause on the ground of unreasonableness, arbitrariness and illegality. The
+petitioner cannot approbate and reprobate. It is submitted further that the
+respondent company had received a mail from the respondent authorities with a
+request to provide additional bank guarantee of 5% over and above the existing
+Performance Bank Guarantee of 10% of the contract value. The respondent No.
+8 confirmed the said request and on receipt of the said confirmation, the
+respondent authority had issued Letter of Acceptance (LoA) dated 10.04.2017
+                                                                          Page 7 of 20
+WP(C) 2500/2017
+
+and notification of award of contract at quoted amount of INR 18,22,88,839.86
+(Rupees eighteen crore twenty two lac eighty eight thousand eight hundred
+thirty nine and eighty six paise) exclusive of taxes. By the said notification of
+award, the respondent No. 8 was asked to furnish performance security of 15%
+which was accordingly complied vide Performance Bank Guarantee dated
+26.04.2017 for an amount of Rs. 2,73,40,000/-. The respondent authority
+thereafter had sent the verification letter to the Bank for the verification of the
+same on 03.05.2017. The same has been confirmed by Mizuho Bank Limited vide
+their letter dated 04.05.2017. Accordingly, the respondent No. 8 prays for
+dismissal of the writ petition.
+16.      Mr. KN Choudhury, the learned senior counsel, submits that the petitioner
+sought for removal of the term “each year turnover of Rs. 15 Crore” from the
+Financial Eligibility Criteria which was not changed as per the minutes of the pre-
+bid meeting held on 11.11.2016. From amongst the technically responsive
+bidders, so far the financial bids are concerned, the present petitioner quoted the
+bid amount of Rs. 18,86,48,581/- and on the other hand, the respondent No. 8
+quoted Rs. 19,94,44,181/-. There is a difference of Rs. 1,07,95,600/- between
+the two rates quoted by the petitioner and respondent No. 8. It is also submitted
+that the brand of most of the items supposed to be supplied are same so far the
+petitioner and the respondent No. 8 are concerned. The respondent authorities
+knowing fully well about the said difference in the bid amount, are trying to allot
+the work order to the respondent No. 8 by giving a wrong interpretation of the
+criteria of the financial bid with an oblique intention to oust the petitioner.
+                                                                           Page 8 of 20
+WP(C) 2500/2017
+
+17.       Further stressing the word ‘average’, Mr. Choudhury refers to the
+meaning of the said word as per Black’s Law Dictionary. He submits that the
+word ‘average’ means a single value that represents a broad sample of subjects.
+It is also submitted that if the total turnover of the petitioner company is taken
+into consideration for the period of 2012-13, 2013-14 and 2014-15, it comes to
+Rs. 48,10,59,278.31. From the said total turnover, the annual average turnover
+for the last 3 financial years of the petitioner company comes to Rs.
+16,03,53,092.77. Accordingly, the petitioner company satisfies the financial
+eligibility criteria of its minimum average annual turnover to be above Rs. 15
+Crore. It is also submitted that a plain interpretation of the language used in
+Clause 2(B) of the General Conditions of ITB gives a clear indication that it is the
+total annual turnover for last 3 financial years to be taken into consideration
+before arriving at the average annual turnover.
+18.       Mr. Choudhury submits that the respondent authorities have borrowed
+the amount for the project from the World Bank and in such a situation, the
+present petitioner is offering the bid amount with a difference of more than Rs. 1
+Crore to that of the respondent No. 8. The respondent authorities are supposed
+to consider the bid of the petitioner from the said angle keeping the public
+interest, inasmuch as the said excess amount as quoted by the respondent No. 8
+would ultimately be drawn from the public exchequer. In order to buttress, the
+submissions of Mr. Choudhury so far the word ‘average’ and its connotation is
+concerned, he relies on the case of Harbans K um ari and others v. State of
+Uttar Pradesh reported in (1979) 2 SCC 239 paragraph 4 of which is quoted
+below for ready reference:-
+                                                                      Page 9 of 20
+WP(C) 2500/2017
+
+                   “4. ......... Now so far as the connotation of the word ‘average’
+             is concerned, it does not admit of any doubt. According to Shorter
+             Oxford English Dictionary, the word ‘average’ means ‘arithmetical
+             mean: to estimate by dividing the aggregate of a series by the
+             number of its units’. The same is the connotation of the word
+             ‘average’ according to the Random House Dictionary of the English
+             Language where the total receipt has been stated to mean the total
+             receipt from sales divided by the number of the units sold.”
+19.     Accordingly, Mr. Choudhury submits that the interpretation of Clause 2(B)
+of the General Conditions has been misinterpreted by the respondent authorities
+and the same is liable to be interpreted by this court inasmuch as the said
+misinterpretation has been done in order to oust the present petitioner arbitrarily
+which amounts to violation of Article 14 of the Constitution of India.
+20.     Mr. Saikia, the learned Senior Additional Advocate General, Government
+of Assam, submits that the meeting for amendment sought on tender clause was
+held on 09.11.2016. In the said meeting, the petitioner requested to change the
+existing criteria of Clause 2(B) i.e. ‘INR 15 Crore in each of the last 3 financial
+years’ to ‘average annual turnover of INR 15 Crore from the last 3 financial
+years’. The said pre-bid meeting was held on 11.11.2016 and was communicated
+on 01.12.2016 and the petitioner was aware that the request for change in the
+said Clause 2(B) with regard to the financial eligibility was rejected. But without
+challenging the said rejection order before this court, the petitioner belatedly
+approached this court which itself is fatal considering the delay and laches on the
+part of the petitioner. Not only that, the petitioner also participated knowing fully
+well about the requirements for financial eligibility. Under such circumstances,
+                                                                        Page 10 of 20
+WP(C) 2500/2017
+
+question of judicial review does not arise at all. On the part of respondent
+authorities, once the said request for changing the criteria of the financial
+eligibility was rejected, there was no point in waiting further, inasmuch as the
+importance of such criteria for being eligible to participate in the bidding was
+purely to examine the financial capability of the party/ parties participating in the
+bidding process. In such a situation, the respondent authority cannot change the
+said criteria in order to satisfy the grievance of a particular bidder.
+21.       Mr. Saikia further submits that initially an inadvertent error was carried
+out by the Tender Evaluation Committee. On the basis of such error, the
+petitioner was declared to be a technically qualified bidder following which the
+financial bid of the petitioner was considered. The petitioner was the L1 bidder,
+for which the same was sent to the World Bank for giving its NOC in awarding
+the contract to the petitioner. But the World Bank detected the said erroneous
+view of the Tender Evaluation Committee and rejected the financial eligibility of
+the petitioner. Subsequent to that, the respondent No. 8 became the L1 bidder
+whose name was cleared by the NOC after verifying the financial eligibility as per
+Clause 2(B) of the General Conditions of the ITB. It is submitted further that
+there is no hide and seek policy maintained by the respondent authorities rather
+everything is transparent as per the terms stipulated in the General Conditions.
+22.       With respect to the interpretation of the word ‘average’, Mr. Saikia
+submits that the criteria as specified in Clause 2(B) of the General Conditions, the
+same must be read as a whole and in totality without leaving aside the word
+‘each’ inasmuch as the complete reading of the said eligibility criteria gives the
+interpretation which is very well understood by the petitioner following which the
+                                                                        Page 11 of 20
+WP(C) 2500/2017
+
+petitioner had requested to change the said criteria bringing amendment to it.
+This, the petitioner sought for, knowing fully about its disqualification considering
+its financial eligibility as per the criteria mentioned in the General Conditions. The
+respondent authorities cannot deviate from the said financial criteria prescribed
+as the same would mean doing injustice to various other bidders who did not
+participate owing to their incapability for compliance on their part of the financial
+eligibility criteria. In order to support his submissions, Mr. Saikia relies on the
+case of Central Coalfields Lim ited and another v. SLL-SM L (Joint Venture
+Consortium ) and others along with the case of PLR-R PL-SM ASL (JV) v.
+SLL-SM L (Joint Venture Consortium ) and others reported in (2016) 8
+SCC 622 paragraphs 33, 34, 35 and 43 of which are quoted below for ready
+reference:-
+                     “33. In Ramana Dayaram Shetty V. International Airport Authority of
+              India this Court held that the words used in a document are not superfluous
+              or redundant but must be given some meaning and weightage:
+                            “7. ......... It is a well settled rule of interpretation applicable
+                     alike to documents as to statutes that, save for compelling necessity,
+                     the Court should not be prompt to ascribe superfluity to the language
+                     of a document “and should be rather at the outset inclined to suppose
+                     every word intended to have some effect or be of some use”. To
+                     reject words as insensible should be the last resort of judicial
+                     interpretation, for it is an elementary rule based on common sense
+                     that no author of a formal document intended to be acted upon by
+                     the others should be presumed to use words without a meaning. The
+                     court must, as far as possible, avoid a construction which would
+                     render the words used by the author of the document meaningless
+                     and futile or reduce to silence any part of the document and make it
+                     altogether inapplicable.”
+                     34. In Ramana Dayaram Shetty case, the expression “registered IInd
+              Class hotelier” was recognised as being inapt and perhaps ungrammatical;
+              nevertheless common sense was not offended in describing a person
+              running a registered IInd grade hotel as a registered IInd class hotelier.
+              Despite this construction in its favour, Respondent 4 in that case were held
+              to be factually ineligible to participate in the bidding process.
+                                                                                  Page 12 of 20
+WP(C) 2500/2017
+
+                   35. It was further held that if others (such as the appellant in
+           Ramana Dayaram Shetty case) were aware that non-fulfilment of the
+           eligibility condition of being a registered IInd class hotelier would not be a
+           bar for consideration, they too would have submitted a tender, but were
+           prevented from doing so due to the eligibility condition, which was relaxed in
+           the case of Respondent 4. This resulted in unequal treatment in favour of
+           Respondent 4 – treatment that was constitutionally impermissible.
+           Expounding on this, it was held:-
+                          “10. ... It is indeed unthinkable that in a democracy governed
+                   by the rule of law the executive Government or any of its officers
+                   should possess arbitrary power over the interests of the individual.
+                   Every action of the executive Government must be informed with
+                   reason and should be free from arbitrariness. That is the very essence
+                   of the rule of law and its bare minimal requirement. And to the
+                   application of this principle it makes no difference whether the
+                   exercise of the power involves affectation of some right or denial of
+                   some privilege.”
+                   43. Continuing in the vein of accepting the inherent authority of an
+           employer to deviate from the terms and conditions of an NIT, and
+           reintroducing the privilege-of-participation principle and the level playing
+           field concept, this Court laid emphasis on the decision-making process,
+           particularly in respect of a commercial contract. One of the more significant
+           cases on the subject is the three-Judge decision in Tata Cellular v. Union of
+           India which gave importance to the lawfulness of a decision and not its
+           soundness. If an administrative decision, such as a deviation in the terms of
+           NIT is not arbitrary, irrational, unreasonable, mala fide or biased, the courts
+           will not judicially review the decision taken. Similarly, the courts will not
+           countenance interference with the decision at the behest of an unsuccessful
+           bidder in respect of a technical or procedural violation. This was quite clearly
+           stated by this Court (following Tata Cellular) in Jagdish Mandal v. State of
+           Orissa in the following words:-
+                          “22. Judicial review of administrative action is intended to
+                   prevent arbitrariness, irrationality, unreasonableness, bias and mala
+                   fides. Its purpose is to check whether choice or decision is made
+                   “lawfully” and not to check whether choice or decision is “sound”.
+                   When the power of judicial review is invoked in matters relating to
+                   tenders or award of contracts, certain special features should be
+                   borne in mind. A contract is a commercial transaction. Evaluating
+                   tenders and awarding contracts are essentially commercial functions.
+                   Principles of equity and natural justice stay at a distance. If the
+                   decision relating to award of contract is bona fide and is in public
+                   interest, courts will not, in exercise of power of judicial review,
+                   interfere even if a procedural aberration or error in assessment or
+                   prejudice to a tenderer, is made out. The power of judicial review will
+                   not be permitted to be invoked to protect private interest at the cost
+                                                                            Page 13 of 20
+WP(C) 2500/2017
+
+                   of public interest, or to decide contractual disputes. The tenderer or
+                   contractor with a grievance can always seek damages in a civil court.
+                   Attempts by unsuccessful tenderers with imaginary grievances,
+                   wounded pride and business rivalry, to make mountains out of
+                   molehills of some technical/procedural violation or some prejudice to
+                   self, and persuade courts to interfere by exercising power of judicial
+                   review, should be resisted. Such interferences, either interim or final,
+                   may hold up public works for years, or delay relief and succour to
+                   thousands and millions and may increase the project cost manifold.”
+                   This Court then laid down the questions that ought to be asked in
+           such a situation. It was said:-
+                          “22. ...... Therefore, a court before interfering in tender or
+                   contractual matters in exercise of power of judicial review, should
+                   pose to itself the following questions:
+                          (i)     Whether the process adopted or decision made by the
+                   authority is mala fide or intended to favour someone;
+                                                  OR
+                          Whether the process adopted or decision made is so arbitrary
+                   and irrational that the court can say: “the decision is such that no
+                   responsible authority acting reasonably and in accordance with
+                   relevant law could have reached”;
+                          (ii)    Whether public interest is affected.
+                   If the answers are in the negative, there should be no interference
+           under Article 226.”
+23.    Mr. Saikia further relies on the case of Directorate of Education and
+others v. Educom p Datam atics Ltd. and others reported in (2004) 4 SCC
+19 paragraph 12 of which is quoted below for ready reference:-
+                   “12. It has clearly been held in these decisions that the terms of the
+           invitation to tender are not open to judicial scrutiny the same being in the
+           realm of contract. That the government must have a free hand in setting the
+           terms of the tender. It must have reasonable play in its joints as a necessary
+           concomitant for an administrative body in an administrative sphere. The
+           courts would interfere with the administrative policy decision only if it is
+           arbitrary, discriminatory, mala fide or actuated by bias, it is entitled to
+           pragmatic adjustments which may be called for by the particular
+           circumstances. The courts cannot strike down the terms of the tender
+           prescribed by the government because it feels that some other terms in the
+                                                                            Page 14 of 20
+WP(C) 2500/2017
+
+             tender would have been fair, wiser or logical. The courts can interfere only if
+             the policy decision is arbitrary, discriminatory or mala fide.”
+        Thus Mr. Saikia submits that there is no scope at all by this court neither
+to interprete and give a fresh meaning with regard to the financial eligibility nor
+is there any scope for judicial review, inasmuch as, the action of the respondent
+authorities is not in any way arbitrary, discriminatory or actuated by bias.
+24.     Regarding the price difference as submitted by Mr. Choudhury, learned
+counsel for the petitioner, Mr. Saikia submits that the project requires
+maintenance after installation of the various items by the successful bidder. To
+that effect, rates were asked to be quoted and so far the present petitioner is
+concerned, it quoted a very low rate insofar as maintenance is concerned.
+Finding the same to be low, the respondent authorities asked the petitioner to
+enhance the Performance Bank Guarantee to which it agreed. So Mr. Saikia
+submits that the question of payment in excess from the State Exchequer cannot
+be considered at all, sacrificing the performance intended by the respondent
+authorities.
+25.     Mr. RK Agarwal, learned counsel for the respondent No. 8, argues in the
+similar line as that of Mr. Saikia. He submits that the submission of the learned
+counsel for the petitioner that there is a wide difference in the bid amount
+cannot be a criterion in changing the financial eligibility clause favouring the
+petitioner. It is submitted further that the price may not be the sole criterion for
+awarding a contract rather it is the best offer that is to be chosen by the
+Evaluation Committee of experts. In support of the said submission, Mr. Agarwal
+relies on the case of R aunaq International Ltd. v. I.V.R . Construction Ltd.
+                                                                             Page 15 of 20
+WP(C) 2500/2017
+
+and others reported in (1999) 1 SCC 492 paragraph 16 of which is quoted
+below for ready reference:-
+                    “16. It is also necessary to remember that price may not always be
+             the sole criterion for awarding a contract. Often when an evaluation
+             committee of experts is appointed to evaluate offers, the expert committee’s
+             special knowledge plays a decisive role in deciding which is the best offer.
+             Price offered is only one of the criteria. The past record of the tenderers, the
+             quality of the goods or services which are offered, assessing such quality on
+             the basis of the past performance of the tenderer, its market reputation and
+             so on, all play an important role in deciding to whom the contract should be
+             awarded. At times, a higher price for a much better quality of work can be
+             legitimately paid in order to secure proper performance of the contract and
+             good quality of work – which is as much in public interest as a low price.
+             The court should not substitute its own decision for the decision of an expert
+             evaluation committee.”
+        Thus, Mr. Agarwal submits that the writ petition is liable to be dismissed.
+26.     Considered the submissions of the learned counsels. Clause 2(B) of the
+General Conditions of the ITB for financial eligibility reads as follows:-
+        “The Bidder must have minimum average annual turnover of INR 15
+        Crores in each of the last 3 financial years. The revenues must be accrued
+        from sale of similar items as per items”.
+        As against the said conditions of financial eligibility, the petitioner has
+submitted     before    the    respondent     authorities    as   follows    claiming   their
+qualification:-
+                    “21. That the turnover of the petitioner company in the financial years
+             2012-13, 2013-14 and 2014-15 were Rs. 8,21,86,246.86, Rs.
+             12,43,34,6278.97 and Rs. 27,45,26,752.48 respectively, as certified by its
+             Chartered Accountant. The total turnover of the petitioner company for the
+             said last 3 years is :
+                    Rs. 8,21,86,246.86 + Rs. 12,43,34,6278.97 + Rs. 27,45,26,752.48
+                    = Rs. 48,10,59,278.31
+                    Therefore, its average annual Turnover of last 3 financial years is :
+                    Rs. 48,10,59,278.31 ÷ 3 = Rs. 160353092.77 i.e. Rs. 16,03,53,093
+             (rounded off)
+                                                                               Page 16 of 20
+WP(C) 2500/2017
+
+                   This is as per the Annual Turnover Statement dated 21/09/2015
+             prepared by the petitioner company’s Chartered Accountant.”
+27.      From the aforesaid turnover it is very much apparent that the total
+average turnover shown is for the 3 (three) financial years but not in each of the
+last 3 financial years. It is also on record that the petitioner finding itself difficult
+to overcome the criteria set out for the financial eligibility, also requested the
+respondent authorities to change the said criteria to “Average Annual Turnover of
+INR 15 Crore for the last 3 financial years” in place of “each of the last 3 financial
+years”. However, the respondent authorities refused to carry out the said
+amendment of the criteria set out for the financial eligibility. Even then, the
+petitioner submitted their average annual turnover for the last 3 financial years
+taking the mean for a block of 3 financial years against the term set out by the
+respondent authorities. The respondent authorities accepted the said average
+annual turnover of last 3 financial years of the petitioner and informed the
+petitioner about acceptance of their financial eligibility. However, the said
+erroneous acceptance of the criteria was detected by the World Bank following
+which the bid of the petitioner was rejected by the World Bank. Upon such
+rejection, the respondent No. 8 became the L1, inasmuch as, the said respondent
+No. 8 fulfils the financial eligibility criteria set out by the respondent authorities
+as required by the World Bank.
+28.      Being aggrieved by the said rejection, the petitioner has preferred this
+writ petition seeking an interpretation by this court of the said financial criteria
+set out by the respondent authorities. As held in (2016) 8 SCC 622 (supra), the
+court should not be prompt to ascribe superfluity to the language of a document
+                                                                         Page 17 of 20
+WP(C) 2500/2017
+
+and should be rather at the outset inclined to suppose every word intended to
+have some effect or be of some use. As submitted by Mr. Saikia, that the project
+is a very important one and the same requires not only the technical expertise of
+the bidders but they must be financially capable and strong enough to carry out
+and complete the project and the requisite maintenance thereafter. Behind such
+a backdrop the said standard has been introduced by the World Bank in order to
+examine/ scrutinise the financial capability of the bidders. For the said reasons, it
+has been stipulated that the bidder must have minimum average annual turnover
+of INR 15 Crore in each of the last 3 financial years. In other words, the bidder
+must have a minimum average annual turnover of INR 15 Crore in each of the
+last 3 financial years. In such a situation, if the criterion so set out is read
+without the word ‘each’, it would amount to downgradation of the financial
+eligibility of the bidders which would affect immensely to the respondent
+authorities. Accordingly, keeping in view the ratio accepted by the Hon’ble Apex
+Court, this court cannot enter into tender documents and interprete the
+conditions so laid down which have its own meaning and set out by the
+respondent authorities keeping in view their necessity.
+29.       The rejection of the petitioner’s bid owing to failure to satisfy the financial
+eligibility cannot be considered to be arbitrary, irrational, unreasonable or biased.
+The petitioner knowing fully well their capability with regard to the financial
+eligibility criteria so set out by the respondent authorities, sought for the
+amendment of the said clause which was disallowed and knowing fully well that
+the petitioner cannot overcome the said criteria, participated in the tender. The
+act of respondent authorities, keeping in view the criteria, though belatedly
+                                                                           Page 18 of 20
+WP(C) 2500/2017
+
+pointed out by the World Bank, in the opinion of this court has done so correctly,
+because the petitioner knew about its fate at the time of participation in the
+tender process. On the other hand, if this court gives an interpretation, as
+submitted by the learned counsel for the petitioner, the same would amount to
+crossing the limit by this court the jurisdiction circumscribed for judicial review of
+the terms set out in the NIT. On the submission of the learned counsel for the
+petitioner, that an interpretation of the said criterion is to be given by this court,
+it would amount to taking over the function of the tender issuing authority by
+this court, which cannot be done. This court cannot even examine the soundness
+of the decision arrived at by the respondent authorities until and unless the
+petitioner discharges its burden showing that the action of the respondent
+authorities is with a discriminatory attitude towards it.
+30.      As submitted by Mr. Saikia that the petitioner ought to have come to this
+court when their request for amendment of the said criterion was rejected also
+cannot be accepted, inasmuch any condition set out in the NIT has its intrinsic
+value known to the authority issuing the NIT and the case in hand does not call
+for such interpretation by this court. However, if there are glaring irregularities in
+setting out the conditions, then the matter would be a different one. But until
+and unless the same could be shown that the said terms and conditions are
+superfluous, in order to give some undue benefit to any party, then this court to
+some extent has the jurisdiction to look into it. Accordingly, this court refrain
+itself from interpreting the said criterion with regard to financial eligibility of the
+bidders, other than the one which gives the plain and simple meaning by reading
+                                                                        Page 19 of 20
+WP(C) 2500/2017
+
+the sentence as a whole and understood by any prudent man including the
+respondent authority.
+31.     The submission of Mr. Choudhury that while rejecting the bid of the
+petitioner on the ground of financial ineligibility, the respondent authorities ought
+to have considered that there is a vast difference against the rate quoted
+between the petitioner and the respondent No. 8 and keeping in view the public
+interest, the petitioner company ought not have been disqualified only on the
+ground of non satisfaction of its financial eligibility. Against the said submission
+this court is of the view that if the respondent authorities allowed the petitioner
+company as the successful bidder, that would be a clear act of discrimination
+towards the other prospective bidders who owing to their incapability to meet the
+financial eligibility criteria could not participate in the tender process. Accordingly,
+such submission is rejected.
+32.     Finally, this court finds that the petitioner has failed to bring out a case
+for judicial review of the decision making process of the respondent authorities,
+inasmuch as, the petitioner has failed to show any of the requisite ingredient
+required for judicial review by this court. Accordingly, this writ petition stands
+dismissed.
+33.     Interim order passed earlier stands vacated.
+                                                                              JUDGE
+BiswaS
+                                                                           Page 20 of 20
+WP(C) 2500/2017
+
+

@@ -1,0 +1,510 @@
+*            IN THE HIGH COURT OF DELHI AT NEW DELHI
++                          W.P.(C) No. 312/1995
+%                                               Date of decision : 14th May, 2013
+H.U.SIDDIQUI                                                       ......Petitioner
+                           Through:      Mr. G.D.Gupta, Sr. Advocate with Mr. Zafar
+                                         Sidiqui and Mr. Izhar Ahmad, Advocate.
+                           VERSUS
+JAMIA HAMDARD (DEEMED UNIVERSITY) & ANR.                           ...... Respondents
+                           Through:      Mr. Dhruv Mehta, Sr. Adv. with Mr. Saket
+                                         Sikri, Mr. Sameer Abhyankar and Mr.
+                                         Sudeep Dey, Advocates.
+CORAM:
+HON’BLE MR. JUSTICE VALMIKI J.MEHTA
+To be referred to the Reporter or not?
+ VALMIKI J. MEHTA, J (ORAL)
+1.      This writ petition is filed by the petitioner Sh. H.U. Siddiqui the erstwhile
+employee of the respondent No. 1- Jamia Hamdard University, seeking quashing of
+the order of the Disciplinary Authority dated 05.07.1995 imposing penalty of
+dismissal from service upon the petitioner.
+2.     In the present case, chargesheet is dated 25.01.1995 alongwith which
+imputation of charges were annexed. There were a total of 5 charges against the
+petitioner. The Enquiry Report dated 10.5.1995 exonerated the petitioner with
+respect to charges 3 & 5 but held the petitioner guilty so far as charges 1,2 and 4
+WPC-312/1995                                                                   Page 1 of 18
+
+(partly) are concerned. Disciplinary Authority after giving a copy of the enquiry
+report to the petitioner gave him a personal hearing and thereafter passed the
+impugned order dated 05.07.1995.
+3.     Before setting out the arguments which have been urged on behalf of the
+petitioner to challenge the report of the Enquiry Officer and order passed by the
+Disciplinary Authority, it would be necessary to set out the parameters /scope of a
+hearing in a petition under Article 226 of the Constitution whereby challenge is
+laid to the orders passed by the Departmental Authorities. It is settled law that the
+orders which are passed by the Departmental Authorities can only be successfully
+challenged if there is violation of law/rules of the employer-organization or
+violation of the principles of natural justice or perversity in the findings of the
+Enquiry Officer/Disciplinary Authority. In the present case, arguments have been
+urged under all these three heads.
+4.     Let us at the outset reproduce the relevant imputation of charges so far as
+Articles 1,2 and 4 are concerned, inasmuch as a reference to them will show the
+factual aspects which have been decided by the Departmental Authority:
+                         ARTICLE OF CHARGE NO.1
+      In the work of drilling of tube-well, the Asstt. Engineer (Elec.), Mr.
+      H.U.Siddiqui, did not adopt the normal prescribed procedure of
+      calling for quotations from reputed parties by post by issuing Notice
+      Inviting Tenders so as to obtain wide choice and competitive rates.
+WPC-312/1995                                                               Page 2 of 18
+
+     On the contrary, he contacted and discounted the matter with firms of
+     his choice and collected three quotations personally by hand in
+     October,1994. He prepared the Comparative Statement in his own
+     hand and submitted the file on 30.11.1994 for approval of his proposal
+     of awarding of the work to the so called lowest tenderer M/s Super
+     Drilling Pvt. Ltd., Nehru Place, New Delhi. He even certified that
+     their rates were reasonable. He willfully manipulated the situation to
+     show this firm as the lowest tenderer, even though the so called lowest
+     rates were really excessive.
+     Two of the tenderers, viz. M/s Super Drilling Works Pvt. Ltd., and
+     Dantal Hydrolice Pvt. Ltd., have the same Telephone Number and Fax
+     No. The quotations of these two firms are only marginally different,
+     and tilted in favour of the first firm. The same typewriter has been
+     used in typing out the quotations and the terms and conditions of the
+     two firms are identical. The two envelope containing the quotations
+     of these parties are also written in the same hand.
+     Mr. H.U.Siddiqui, Asstt. Engineer (Electrical) being fully aware of the
+     fact that the same party was quoting under two different names is held
+     party to this manipulation. As regard the third firm viz. S.S.Drill Well
+     Probyn Road, Delhi, no Telephone Number has been indicated on
+     their letter. The status and designation of the signatory have also not
+     been mentioned. The third quotation is therefore open to serious
+     doubt. The exaggerated rates of this party show that the same are fake
+     and unrealistic, and obtained by the Asstt. Engineer (Electrical) solely
+     with a view to establishing that the rates of M/s Super Drilling Pvt.
+     Ltd. are the lowest and reasonable.
+      Earlier in March 1994 a reputed firm, namely Paramount Engineers,
+     Uday Park, New Delhi, had submitted quotations for Drilling work in
+     Talimabad and thoses rates are definitely lower to those from M/s
+     Super Drilling Pvt. Ltd.
+     Mr. H.U.Siddiqui, Asstt. Engineer (Elect.) deliberately chose not to
+     invite rates from Paramount Engineers.
+     When Mr. H.U.Siddiqui, some-how became aware that his
+     irregularities had come to adverse notice. Mr. Siddiqui was clever
+     enough to discuss the matter with M/s Super Drilling Pvt. Ltd. and get
+     a reduction of 8% in their rates from the firm in the back date of
+WPC-312/1995                                                              Page 3 of 18
+
+     2.12.1994 (Letter put up to the University Engineer on 24.12.1994) so
+     as to make their revised offer reasonable. He did this to forestall the
+     disciplinary section then being contemplated against him for putting
+     up the proposal for award of work at excessive rates.
+     The whole procedure and course of section followed by Mr.
+     H.U.Siddiqui, Asstt. Engineer (Electrical) would have caused
+     avoidable financial loss to the University. Luckily, the mis-chief of
+     Mr. H.U.Siddiqui, Asstt. Engineer (Elect.) was detected in time, and
+     his recommendation to award the work to M/s Super Drilling Pvt. Ltd.
+     was not approved. Mr. H.U.Siddiqui, is guilty of gross misconduct in
+     manipulating the quotations with the dishonest motive of defrauding
+     the University for personal monetary gain. In doing so, he has
+     committed gross misconduct amounting to negligence and lack of
+     integrity.
+                         ARTICLE OF CHARGE NO.2.
+     In January 1994, the Medical Director, Majeedia Hospital proposed
+     that old electric fittings may be replaced by new fittings in order to
+     improve the lighting in the Hospital. For this purpose the Asstt.
+     Engineer (Electrical) Mr. H.U.Siddiqui submitted estimates of
+     expenditure for purchase, supply and fixing of electric decorative
+     fittings and also certain accessories to the tune of Rs.96,625/- of this
+     amount, the expenditure on 114 decorative pieces of electric fittings
+     was put at Rs. 75,700/- the balance of Rs.20,925/- representing the
+     costs of accessories. The Vice Chancellor accorded his approval on
+     4.1.1994 to the proposed expenditure with the remark that the items
+     be provided on an emergency basis. Therefore, Mr. H.U.Siddiqui,
+     A.E. (Electrical purchased on prepayment the 114 decorative pieces
+     from Mayfair Enterprises, Bhagirath Place, Chandni Chowk, Delhi at
+     a total cost of Rs.72,223/- inclusive of 12% C.S.T.
+     After Vice Chancellor’s approval, Mr. H.U.Siddiqui, A.E.(Elect.) was
+     required to follow the prescribed procedure of inviting quotations
+     from reputed parties at short notice, or make purchase through the
+     Purchase Committee, in order to obtain lowest reasonable rates.
+     However, Mr. H.U.Siddiqui, A.E.(Elect.), failed to adopt the normal
+     prescribed procedure and purchased the 114 decorative fittings from
+     Maypair Enterprises certifying the rates as reasonable even though no
+WPC-312/1995                                                              Page 4 of 18
+
+     comparative rates were available to judge the reasonableness of the
+     rates of Mayfair Enterprises. The price list of Mayfair Enterprises
+     showed the following rates for the two types of fittings:-
+     1.      ME-DLF-201                        Rs. 740/- per piece
+             for 2X40 watts
+      2.     Same for 1X20 watts               Rs.330/- per piece
+     The total purchase were 114 items, 83 of the 1 st and 31 of the 2nd type.
+     In the bill dt. 14.2.1994, the rates charged were Rs.666/- and Rs. 297/-
+     each for type 1st and 2nd respectively, and C.S.T.012%was added,
+     thereby, the total bill amount came to Rs.72,223.20 which was duly
+     paid to the firm on 14.2.1994 before taking delivery of stores.
+     The action of Mr. H.U.Siddiqui, A.E.(Elect.) in purchasing the 114
+     decorative fittings from Mayfair Enterprises, without calling for
+     tenders of without associating the Purchase Committee gave rise to
+     suspicion that Mr. H.U.Siddiqui, A.E.(Elect.) had chosen the Mayfair
+     Brand to the exclusion of other Brands which may be equally good
+     and may be cheaper too, with some ulterior motive. Subsequent
+     investigations revealed that Mayfair Enterprises themselves were
+     offering a discount of 25% on the rates shown in their price list and
+     were exempting Universities from C.S.T. on furnishing the requisite
+     certificate. This firm actually supplied the same electric fittings at
+     Rs.555/- and Rs. 247.50 each to Jamia Hamdard in
+     November/December 1994. While seeking approval of the competent
+     authority the A.E. (Electrical) had withheld the aspects of discount
+     and non-application of C.S.T. on furnishing the prescribed certificate
+     with dishonest intentions. In the circumstances it is quite clear that
+     Mr. H.U.Siddiqui, A.E.(Electrical) had paid excessive and exorbitant
+     rates to this firm in making purchases Rs.666/- and Rs.297/- each in
+     February 1994. In the process, the purchase of 114 decorative fittings
+     caused heavy monetary loss of the order of Rs. 18,486/- with
+     corresponding undue gain to the supplier. Mr. H.U.Siddiqui,
+     A.E.(Elect.) had obviously made the purchases in February 1994 from
+     Mayfair Enterprises at excessive cost with ulterior motive for personal
+     gain in the said transaction. Mr. H.U.Siddiqui had thus caused
+     avoidable monetary loss to the University and in the process had
+     played a fraud for personal gain. He thus committed acts of gross
+     negligence and dishonesty.”
+WPC-312/1995                                                               Page 5 of 18
+
+5.    So far as charge/Article 1 is concerned, Enquiry Officer has dealt with the
+same from internal pages 4 to 12 of his report and after considering the depositions
+of both the sides as also the documents which have been filed in the enquiry
+proceedings, has given the following conclusions:
+      “(vii) To sum up, the C.O. did not follow the prescribed procedure in
+      October 1994 in the matter of inviting quotations for drilling work. The
+      correct procedure was followed in Jan. 1995 for the same work (Exh. D-1).
+      There was no urgency to justify spot collection of quotations by C.O.himself
+      from the 3 parties (P-1 to P-3). Although he collected the quotations on
+      12th/15th Oct. 1994, he sat over them for 45 days and opened the quotations
+      only on 30.11.94. Such laziness and delay on his part will expose the
+      hollowness of his claim of urgency. Even after issue of N.I.T. in Jan. 1995,
+      the work has still not been awarded. (vide reply of P.W.-1 (M.I.M) to Qn.
+      13 on page 6 of deposition). He should not have entertained or acted on the
+      quotations of two sister firms of Nehru Place (P-1 and P-2) with the same
+      address, phone/telex/fax numbers, but he recommended the rates in P-1 in a
+      tendentions way. He was aware of the still lower rate of Rs. 1.60.lakhs of
+      Paramount Engineers while his proposal of 30.11.94 (P-5) was being
+      processed, but instead of brining it to the notice of the superior officers, he
+      suppressed it and negotiated with Super Drilling Pvt. Ltd. and obtained 8%
+      reduction in their quotation of 12.10.94 (P-6). Even with the reduction of 8%
+      the quotation of Super Drilling Pvt. Ltd. was higher than the quotation of
+      Paramount Engineers. Ultimately the Vice Chancellor detected the
+      irregularities involved in the C.O.’s proposal (P-5) and it was not accepted
+      on re-examination and further scrutiny. Even though in actual procedure,
+      the University was saved from financial loss by the timely order of the Vice-
+      Chancellor (P-5), the C.O.’s proposal involved the risk of wrongful gain to
+      Super Drilling Pvt. Ltd. with corresponding wrong loss to the University.
+      As the C.O. was handling the job from the start at his own level, he should
+      have acted in a just and reasonable manner, adhering to the normal
+      procedure. He failed to do so, but tried to cover up his failure on flimsy
+      pretexts which cannot succeed. In my view, the first article of a charge
+      should be held as proved against the C.O.”
+WPC-312/1995                                                               Page 6 of 18
+
+6.     On behalf of the petitioner so far as the findings and conclusions of the
+Enquiry Officer with respect to Article 1 are concerned, the following contentions
+have been raised for quashing of the said findings and conclusions:
+(i)    Enquiry Officer has arrived at a finding against the petitioner on the charge
+that petitioner did not get the quotations by post from contractors who were to do
+the drilling work but instead personally went to collect the quotations showing his
+personal interest towards the contractors who gave the quotations. However, this
+charge against the petitioner is shown to be absolutely baseless in view of the
+admissions made by PW-2 Mr. I.H. Khan who admitted that there was urgency for
+the drilling work for a Tubewell and the said urgency was expressed by the Herbal
+Garden Committee and thus showing that petitioner was entitled to get the spot
+quotations personally.
+(ii)    It is also argued that principles of natural justice have been violated because
+the rates with respect to tenders for drilling of tubewell which were received
+subsequently in January, 1995 were not given to the petitioner in spite of being
+asked for by letter dated 13.3.1995. It is argued that the request has been illegally
+rejected by the Enquiry Officer vide his order dated 27.3.1995 allegedly on the
+ground of documents being confidential/privileged documents.
+7.     In my opinion, both the arguments urged on behalf of the petitioner do not
+merit acceptance. On the first argument, it may be stated that even though PW-2
+WPC-312/1995                                                                  Page 7 of 18
+
+admitted that there was urgency for having tube-wells, yet one cannot overlook the
+fact that the original urgency was put to naught by as many as 45 days delay taken
+by the petitioner to open the quotations. Thus, whatever urgency which originally
+existed came to an end. This aspect has been dealt with by the Enquiry Officer in
+the following manner:-
+       “……The C.O.’s argument is that in view of urgency, the normal
+       procedure was not followed and spot quotations were obtained by
+       hand. In this connection he has relied on the replies of P.W-
+       2(University Engineer) to Qn. No. 4 and Qn. No. 5 under cross-
+       examination.
+       Even so, the fact remains that the quotations of 3 parties (P-1 to P-3)
+       were collected by the C.O. by hand on 12th Oct. and 15th Oct. 94, but
+       the quotations were opened only on 30.11.94, the comparative
+       statement was prepared on 30.11.94 and the C.O. put up his proposal
+       on 30.11.94, (vide Exh. P-4 and P-5). The C.O. had taken unduly
+       long time of an much as 45 days even to open the quotations and then
+       to put up his proposal, and he has not come forward with any
+       explanation at all for such delay. On the contrary, such delay will
+       surely establish that there was no question of urgency, and the drilling
+       work was handed by the C.O . in a routine and lazy manner by
+       allowing the quotations to remain in closed covers and gather dust
+       thereon. It is indeed ominous to note that while putting up the
+       comparative statement and seeking approval to his proposal on
+       30.11.94 (Exh. P-5), the C.O. has not at all referred to the drilling
+       work being one of urgency. In the circumstances his plea of urgency
+       factor to justify substitution of the normal usual procedure of N.I.T by
+       spot collection by hand is unconvincing and untenable. ……..”
+       (underlining added)
+8.            I do not find any perversity in the aforesaid findings for interfering
+by this Court under Article 226 of the Constitution of India. Clearly, therefore,
+whatever urgency which existed at the outset had come to an end because the
+WPC-312/1995                                                                Page 8 of 18
+
+period of delay taken for processing the quotations and which was such that surely
+open bids could have been invited.
+9.     Another important aspect is that even if we accept the issue of urgency,
+however, the issue is of the fact that the petitioner followed a procedure for
+favoring a selected party. The selected party’s rates were higher at Rs. 1.89 lacs as
+compared to the quotation of another party’s/4th party viz Paramount Engineers
+who had offered to do the job at Rs. 1.57 lacs. The Enquiry Officer in this regard
+has also concluded that by a back dated letter an 8% discount in the quotation of
+Rs.1.89 lacs was obtained from the preferred party M/s Super Drilling Pvt. Ltd. to
+bring the quotation in line with the fourth quotation. However in spite of that
+discount there was still a difference of about Rs. 14,532/-. The Enquiry Officer has
+also noted that not only the proposal of M/s Super Drilling Pvt. Ltd. was higher,
+even after his discount offer at 8% further, the difference in the proposal of M/s
+Super Drilling Pvt. Ltd. and Paramount Engineers was not put to the Vice-
+Chancellor at the time of forwarding by the petitioner the proposal dated
+30.11.1994. All in all I do not find that the Enquiry Officer in any manner was
+unjustified in giving a finding that the petitioner was deliberately preferring one
+party i.e M/s Super Drilling Pvt. Ltd, and which offer if gone through, would have
+caused loss to the employer, and which was not caused because the Vice-
+Chancellor in his order dated 19.12.1994 mentioned glaring irregularities in the
+WPC-312/1995                                                               Page 9 of 18
+
+proposal forwarded by the petitioner for approval of the quotation of M/s Super
+Drilling Pvt. Ltd.
+10.    So far as the second Article of Charge is concerned, it is argued that there
+was urgency with respect to the purchase of the electrical fittings for installation in
+the hospital and therefore, the petitioner was justified in choosing the quotation of
+M/s Mayfair Enterprises. It is also argued that petitioner had rightly chosen to go
+to M/s Mayfair Enterprises for purchase of the electrical fittings because the
+University Engineer himself had asked the petitioner to purchase from M/s Mayfair
+Enterprises, inasmuch as, this admission is found in the statement of PW-2-Mr.
+I.H.Khan. It is also argued that the charge of excessive rates being paid to M/s
+Mayfair Enterprises falls to the ground in view of the letter of the said firm dated
+3.12.1994, by which, it was informed that there was difference in rates in the price
+list of June 1993 and the price list as existing in December, 1994 in view of the
+fact that the import duty on Acrylic was brought down by 20% in the Finance Bill
+for the year 1994-1995. It is argued that once the necessary/ sound explanation is
+given for the difference of rates quoted by M/s Mayfair Enterprises so far as the
+subject purchase is concerned ie for the low rates as found in December, 1994, the
+Enquiry Officer’s report with respect to Charge No.2 should be quashed.
+11.    On the aspect of urgency of purchase of electrical fittings which is the
+subject matter of Charge no.2, I need not detain myself because it is not disputed
+WPC-312/1995                                                               Page 10 of 18
+
+by the respondent that there was urgency for purchase. The issue in the present
+case was really as to whether the rates which were quoted by M/s Mayfair
+Enterprises were excessive rates. In this regard, The Enquiry Officer after giving
+the petitioner benefit of merit as regards his contention of the difference in rates in
+the beginning of 1994 and at the end of 1994 has however observed that since as
+per the rules involvement of Purchase Committee was required, and since
+admittedly, the petitioner did not involve the Purchase Committee, consequently
+(and if which Purchase Committee was involved) the better rates from M/s Mayfair
+Enterprises could not be negotiated. I do not find that the conclusions of the
+Enquiry Officer in this regard are perverse and need to be interfered with.
+Following are the relevant observations of the Enquiry Officer in this regard:-
+       “……………..If the C.O.had associated the Purchase Committee in
+       Jan./Feb.1994, it is quite likely that a higher discount could have been
+       extracted from the supplier particularly when the quantity purchased
+       was large and amount involved was substantial. There is no
+       explanation why the C.O. did not go through the Purchase Committee
+       for decorative items although admittedly (vide C.O.’s note dt. 24.1.94
+       on page 3 of Exh. P-12) the C.O. had suggested purchase of accessory
+       items to the tune of Rs. 24402/- through Purchase Section/Committee.
+       In Jan. 1994, the C.O. was very well aware of the procedure of making
+       purchases through Purchase Committee and hence his action in ignoring
+       this Committee only for decorative fittings is open to objection and
+       suspicion.
+       The C.O.’s plea is that payment of Sales Tax is the concern and respond
+       ability of the Finance Office. If Sales Tax exemption is available to
+       Universities, the Finance Section should have claimed exemption and
+       deducted sales tax from the invoice amount before allowing payment.
+WPC-312/1995                                                               Page 11 of 18
+
+       In this connection he has relied on the reply of P.W.-2 to Qn. No.11
+       under cross-examination (on page 12). While this may be so, the fact
+       remain that the Purchase Committee was able to get sales tax exemption
+       straight-away from the firm on 29.11.94/1.12.94 (vide Exhibits P-13/P-
+       14 and without the help of Finance Office. Accordingly, if only the
+       C.O. had associated the Purchase Committee members in Jan. 1994, it
+       would have been possible to delete the sales tax from the invoice itself,
+       thereby avoiding infructuous expenditure for the University. It may be
+       that the sales tax eventually goes into Govt. coffers and not to the
+       supplier but at the same time it meant avoidable extra cost to the
+       University.”
+12.    I may state that the petitioner is justified in arguing that there is merit in his
+contention, however, in my opinion, there is equal weight in the conclusion of the
+Enquiry Officer that if the Purchase Committee was involved, it could have
+negotiated lower rates with M/s Mayfair Enterprises. Once two views are possible,
+I cannot while exercising jurisdiction under Article 226 of the Constitution of India
+interfere with a plausible conclusion which has been arrived at by the Enquiry
+Officer. The arguments therefore urged on behalf of the petitioner with respect to
+quashing of the charges under Article- 2 are also rejected.
+13.    That takes us to Article/Charge No. 4 and which is in two parts. One is with
+respect to petitioner not taking steps for getting the defective meter of the generator
+not changed from 1990 till the chargesheet was issued, and because of which, it is
+contended that petitioner was able to mask consumption of diesel and therefore,
+claimed wrong figures resulting in misappropriation of amounts towards purchase
+of diesel. The second aspect/part of the charge is that the register in question
+WPC-312/1995                                                                 Page 12 of 18
+
+which noted the readings was not got approved from the higher authorities. The
+argument urged on behalf of the petitioner is that the allegations are with respect to
+generator of 180KV whereas the witness of the respondents itself namely PW-5-
+Sh. Azhar Ali admitted in his cross examination on 4.4.1995 that each time meters
+were installed for readings in the old generator, the same used to become defective
+in a few days, and which, therefore, gave valid reason to the petitioner not to
+initiate action for change of the meter.
+14.     In my opinion, though the argument urged on behalf of the petitioner that no
+steps were required to be taken for initiating change of the meter because each time
+a new meter was installed, the same would become defective within few days
+because the 180 KV generator was very old however, the crux of the issue really is
+that there was maintained a register/log book, and though the register/log book had
+to be put to the higher authority which was the University Engineer, the same was
+not done. It has been held by the Enquiry Officer that because the consumption
+figures had gone unchecked, this resulted in excess purchase of diesel, and misuse
+thereof. The relevant findings of the enquiry report in this regard read as under:-
+        “(iv) According to P.W.-6, the rate of consumption of diesel per hour
+       for the generator will depend on the load factor, the very old 180
+       K.V.generator cannot withstand a load beyond 50%. Any load
+       exceeding this limit will damage the old generator and it will
+       breakdown. After taking over charge of generator, P.W.-6 has
+       instructed the Generator Operator (D.W.-1) to run 50% loan only. In
+       fact D.W.-1 is now running both the generators at only 50% load
+WPC-312/1995                                                               Page 13 of 18
+
+     thereby show ing a consumption of only 30 litres per hour as against 40
+     litres per hour in the part. (vide replies of D.W.-1 to Qns. 6 and 7
+     under cross-examination). According to P.W.-6, the current rate of
+     consumption is 30 litres per hour only.
+      (v) A perusal of the log book entries for the generators will show
+     that upto end of 1994, D.W.-1 was showing consumption at 40 litres
+     per hour because 75% load was assumed for both the generators 380
+     K.V. and 180 K.V. In other words, D.W.-1 calculated the consumption
+     figures on a hypothetical presumption basis without reference to the
+     limitation of the load for the old generator, namely 50% beyond which
+     there is risk of damage and breakdown. Consequently, the quantity of
+     litres consumed was inflated by D.W.-1 to justify excessive purchase
+     of diesel and such excess purchase must have been misused of diesel
+     and such excess purchase must have been misused for personal gain at
+     the cost of the University. The C.O. was scrutinising the log book
+     entries periodically and countersigning them. The University Engineer
+     (P.W.-2) has seen the log books only once. D.W.-1 was making the
+     log book entries and being a relative of the C.O.(reply to Qn. No. 4 on
+     page 21) the inflated consumption figures had gone unchecked by the
+     C.O. In the circumstances, it will be quite logical to infer that the
+     C.O.was party to the bogus entries in the log book. In this connection
+     the replies of P.W.-1 to Qns. 18 to 20 under cross-examination (page
+     7) will go against the C.O. in the same way as P.W.-1s deposition on
+     page 3 (first paragraph. Inspite of the friendly hints given by P.W.-1 to
+     C.O. to check the diesel consumption in view of information received
+     by P.W.-1 as well as by the Vice-Chancellor that there was something
+     suspicious about purchase and consumption of diesel for the
+     generators, the C.O.seems to have turned a deaf ear to the advice of
+     P.W.-1. It is really interesting that P.W.-1s version on page 3 of
+     deposition has not been contradicted by C.O. under cross-examination
+     of P.W.-1, and thereby C.O.has tacitly accepted the version of P.W.-1
+     as truthful. It may be that University Engineer (P.W.-2) and
+     M.I.M.(P.w.-1) had sanctioned payment of the cost of diesel purchase
+     from time to time but this cannot serve to condone much less cancel
+     the suspicious role of the C.O. in excess purchase of diesel and misuse
+     thereof. To my mind, the allegation of fraud in diesel purchase should
+     be held as proved against the C.O.”
+WPC-312/1995                                                             Page 14 of 18
+
+15.    Once again, I do not find any perversity for this Court to interfere in the writ
+proceedings against a finding which cannot be said to be perverse. The Enquiry
+Officer has examined the aspect in detail and has found that the wrong
+consumption of diesel arose from the load factor and it was necessary that the
+figures in the log book too have been checked by the University Engineer and
+which was not done. Once again, it is stated that if two views are possible, this
+Court is not entitled to interfere with the findings and conclusions arrived at by the
+Enquiry Officer, and therefore, I do not find that the findings and conclusions of
+the Enquiry Officer so far as the part of the Charge No. 4 is concerned, are in any
+manner perverse for being interfered with by this Court under Article 226 of the
+Constitution of India.
+16.    De hors the challenge to the enquiry report, it is urged on behalf of the
+petitioner that there is violation of the relevant rules of the University/respondent
+inasmuch as the Disciplinary Authority has failed to give any notice of imposing of
+penalty upon the petitioner before passing of the impugned order dated 5.7.1995.
+The argument can best be understood by reproducing ground ZF of the writ
+petition and which is urged in support of this argument. This ground reads as
+under:-
+             “ZF. That the Impugned order of dismissal was passed by the
+                    Disciplinary Authority/Executive Council in violation of the
+                    Provisions of Rule 9(4) (1) (b) of Jamia Bye-laws in asmuch
+WPC-312/1995                                                               Page 15 of 18
+
+                    as no notice of proposed Penalty of dismissal from services
+                    was served on the appellant; Rule 9(4) (1) (b) of Jamia Bye-
+                    laws runs as follows:-
+                    “9. Action on the Inquiry report. (4) (i) If the Disciplinary
+                    authority having regard to its findings on all or any of the
+                    articles of charge is of the Opinion that any of the penalties
+                    specified in Clauses (iv) to (vi) of Rule 5 should be imposed
+                    on the employee it shall;
+                    (a) …….
+                    (b) Give the employee a notice stating the penalty
+                        proposed to be imposed on him/her and calling
+                    (ii) The disciplinary authority shall consider the
+                    representations, if any, made by the employee in pursuance
+                    of the notice given to him/her under Clause (1) and
+                    determine what penalty, if any, should be imposed on
+                    him/her and make such order as it may deem fit”.
+17.    On behalf of the respondents, it is argued that this argument is misconceived
+and reference has been invited to the following portion of the penalty order:-
+       “And whereas a copy of the report of inquiry was sent to Mr.
+       H.U.Siddiqui, Assistant Engineer (Elect.) (Under Suspension) vide
+       Memo dated 18.5.1995 and he was given an opportunity of making
+       such submissions on the report of inquiry as he desired. And whereas,
+       as requested by him, Mr. H.U.Siddiqui, Assistant Engineer (Elect.)
+       (Under Suspension) was given a personal hearing by the Vice
+       Chancellor, Jamia Hamdard on 22.6.1995. His submissions on the
+       Report of the inquiry were received vide his letter dated 26.5.1995.
+       The said representation of Mr. H.U.Siddiqui, Assistant Engineer
+       (Elect.) (Under Suspension) and submissions made during personal
+       hearing have been carefully considered by the Executive Council.”
+18.    A reading of the aforesaid paragraph of the order of the Disciplinary
+Authority dated 5.7.1995 shows that a copy of the Enquiry Report was given to the
+petitioner, petitioner was given personal hearing, and therefore, I hold that both in
+WPC-312/1995                                                               Page 16 of 18
+
+form and substance, the provision of Rule 9(4) (i) (b) of the bye-laws of the
+respondent/University stands complied with. I do not agree with the argument
+urged on behalf of the petitioner that there has to be a specific notice in writing
+stating that a particular penalty is proposed to be imposed inasmuch as the
+requirement of the relevant rule basically is that before imposing of penalty the
+charged official must be put to notice by giving the Enquiry Officer’s report and
+his stand must be considered and which undoubtedly has been followed in the facts
+of the present case. Accordingly, I reject the argument urged on behalf of the
+petitioner with respect to violation of the bye-laws of the respondent/University.
+19.    That takes me to the final argument urged on behalf of the petitioner that
+action against the petitioner is mala fide because petitioner was a President of the
+Union of the respondent/University and the chargesheet dated 25.1.1995 was
+served immediately after the Union through the petitioner had given a call for a
+pen down strike on 16.1.1995 and suspension order against the petitioner was
+issued on the same day in the evening.
+20.    In my opinion, once again this argument is without merit because what we
+have to see is whether Enquiry Officer has arrived at his findings and conclusions
+according to law.     Once the Enquiry Officer has taken care to give detailed
+findings and conclusions and which findings and conclusions are validly linked to
+the evidence which has been led in this case, then, the findings and conclusions of
+WPC-312/1995                                                              Page 17 of 18
+
+the Enquiry Officer cannot be set aside on the grounds of alleged mala fides. Even
+if, allegedly mala fide exists, once charges are otherwise duly proved in the
+enquiry proceedings, then it is not the law that even after charges are proved,
+merely because mala fide exists, the valid findings and conclusions of the Enquiry
+Officer have to be set aside. This argument urged on behalf of the petitioner is also
+accordingly rejected.
+21.    No other issue is pressed or urged before me.
+22.    In view of the above there is no merit in the petition, which is accordingly
+dismissed, leaving the parties to bear their own costs.
+MAY 14, 2013                                         VALMIKI J. MEHTA, J.
+dkg/ib
+WPC-312/1995                                                             Page 18 of 18
+
+

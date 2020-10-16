@@ -1,0 +1,542 @@
+                                                                          REPORTABLE
+                                      IN THE SUPREME COURT OF INDIA
+                                        CIVIL APPELLATE JURISDICTION
+                                        CIVIL APPEAL NO.7023 OF 2019
+                               (ARISING OUT OF SLP (CIVIL) NO. 8519 OF 2019)
+                       M/S MAYAVTI TRADING PVT. LTD.                   APPELLANT(S)
+                                                        VERSUS
+                       PRADYUAT DEB BURMAN                             RESPONDENT(S)
+                                                 JUDGMENT
+                       R.F. Nariman, J.
+                       1)      Leave granted.
+                       2)      We have heard Mr. Mukul Rohatgi, learned Senior
+                       Advocate appearing for the appellant and Mr. Shyam Divan,
+                       learned Senior Advocate appearing for the respondent at
+                       considerable length.
+                       3)      On the facts of this case, we do not propose to interfere
+                       with the impugned decision of 12.03.2019 and, therefore, do not
+                       find it necessary to exercise our extraordinary jurisdiction under
+Signature Not Verified Article 136 of the Constitution of India.
+Digitally signed by R
+NATARAJAN
+Date: 2019.09.11
+16:48:00 IST
+Reason:
+                       4)      Having said this, however, during the course of argument,
+                       a recent decision of this Court was pointed out, namely, United
+                                                                                          1
+
+India Insurance Company Limited vs. Antique Art Exports
+Private Limited, (2019) 5 SCC 362. In this judgment, purportedly
+following Duro Felguera, S.A. vs. Gangavaram Port Limited,
+(2017) 9 SCC 729, this Court held:
+       “20. The submission of the learned counsel for the
+       respondent that after insertion of sub-section (6-A) to
+       Section 11 of the Amendment Act, 2015 the jurisdiction
+       of this Court is denuded and the limited mandate of the
+       Court is to examine the factum of existence of an
+       arbitration and relied on the judgment in Duro
+       Felguera, S.A. v. Gangavaram Port Ltd. [(2017) 9 SCC
+       729 : (2017) 4 SCC (Civ) 764] The exposition in this
+       decision is a general observation about the effect of
+       the amended provisions which came to be examined
+       under reference to six arbitrable agreements (five
+       agreements for works and one corporate guarantee)
+       and each agreement contains a provision for
+       arbitration and there was serious dispute between the
+       parties in reference to constitution of Arbitral Tribunal
+       whether there has to be Arbitral Tribunal pertaining to
+       each agreement. In the facts and circumstances, this
+       Court took note of sub-section (6-A) introduced by the
+       Amendment Act, 2015 to Section 11 of the Act and in
+       that context observed that the preliminary disputes are
+       to be examined by the arbitrator and are not for the
+       Court to be examined within the limited scope
+       available for appointment of arbitrator under Section
+       11(6) of the Act. Suffice it to say that appointment of
+       an arbitrator is a judicial power and is not a mere
+       administrative function leaving some degree of judicial
+       intervention; when it comes to the question to examine
+       the existence of a prima facie arbitration agreement, it
+       is always necessary to ensure that the dispute
+       resolution process does not become unnecessarily
+       protracted.
+       21.     In the instant case, prima facie no dispute
+                                                                 2
+
+        subsisted after the discharge voucher being signed by
+        the respondent without any demur or protest and claim
+        being finally settled with accord and satisfaction and
+        after 11 weeks of the settlement of claim a letter was
+        sent on 27-7-2016 for the first time raising a voice in
+        the form of protest that the discharge voucher was
+        signed under undue influence and coercion with no
+        supportive prima facie evidence being placed on
+        record in absence thereof, it must follow that the claim
+        had been settled with accord and satisfaction leaving
+        no arbitral dispute subsisting under the agreement to
+        be referred to the arbitrator for adjudication.”
+5)      Section 11 (6A) was added by the amendment Act of 2015
+and states as follows:
+        “11. (6A) The Supreme Court or, as the case may be,
+        the High Court, while considering any application
+        under sub-section (4) or sub-section (5) or sub-section
+        (6), shall, notwithstanding any judgment, decree or
+        order of any Court, confine to the examination of the
+        existence of an arbitration agreement.”
+6)      Mr. Mukul Rohatgi, learned Senior Advocate, has pointed
+out that by an amendment Act of 2019, which has since been
+passed, this sub-section has now been omitted. Section 3 of the
+amendment Act of 2019 insofar as it pertains to this omission has
+not yet been brought into force. The omission is pursuant to a
+High Level Committee Review regarding institutionalization of
+arbitration in India, headed by Justice B. N. Srikrishna. The Report
+given by this Committee is dated 30 th July, 2017. The omission of
+                                                                     3
+
+the sub-section is not so as to resuscitate the law that was
+prevailing prior to the amendment Act of 2015. The reason for
+omission of            S. 11(6A) is given in the Report as follows:
+       “Thus, the 2015 amendments to section 11 are geared
+       towards facilitating speedy disposal of section 11
+       applications by: (a) enabling the designation of any
+       person or institution as an appointing authority for
+       arbitrators in addition to the High Court or Supreme
+       Court under section 11; (b) limiting challenges to the
+       decision made by the appointing authority; and (c)
+       requiring the expeditious disposal of section 11
+       applications, preferably within the prescribed 60-day
+       time period.
+       While these amendments no doubt facilitate the
+       speedy disposal of section 11 applications to a large
+       extent, they do not go all the way in limiting court
+       interference. Pursuant to the amendments, the
+       appointment of arbitrators under section 11 may be
+       done: (a) by the Supreme Court or the High Court; or
+       (b) by a person or institution designated by such court
+       in exercise of an administrative power following
+       section 11(6B). In either case, the amendments still
+       require the Supreme Court / the High Court to examine
+       whether an arbitration agreement exists, which can
+       lead to delays in the arbitral process as extensive
+       evidence and arguments may be led on the same.
+       The Committee notes that the default procedure for
+       appointment of arbitrators in other jurisdictions do not
+       require extensive court involvement as in India.
+       For instance, in Singapore, the relevant provision of
+       the IAA provides that where the parties fail to agree on
+       the appointment of the third arbitrator, within 30 days
+       of the receipt of the first request by either party to
+       appoint the arbitrator, the appointment shall be made
+       by the appointing authority (the President of the SIAC)
+       by the request of the parties. (See section 9A(2) read
+                                                                    4
+
+with sections 2(1) and 8(2), IAA)
+The arbitration legislation of Hong Kong incorporates
+Article 11 of the UNCITRAL Model Law relating to the
+appointment of arbitrators. Like in the case of
+Singapore where the SIAC is the appointing authority
+for arbitrators, the default appointment of arbitrator(s)
+is done by the HKIAC. (Section 13(2) read with section
+24, AO)
+In the United Kingdom, in the case of default of one
+party to appoint an arbitrator, the other party may
+appoint his arbitrator as the sole arbitrator after giving
+notice of 7 clear days to the former of his intention to
+do so. (Section 17, AA) The defaulting party may apply
+to the court to set aside the appointment. (Section
+17(3), AA) In case of a failure of the appointment
+procedure, any party may apply to the court to make
+the appointment or give directions regarding the
+making of an appointment. (Section 18(2), AA)
+The Committee recommends the adoption of the
+practice followed in Singapore and Hong Kong in the
+Indian scenario — apart from avoiding delays at court
+level, it may also give impetus to institutional
+arbitration.
+xxx xxx
+Recommendations
+   1. In   order to ensure speedy appointment of
+      arbitrators, section 11 may be amended to
+      provide that the appointment of arbitrator(s)
+      under the section shall only be done by arbitral
+      institution(s) designated by the Supreme Court (in
+      case of international commercial arbitrations) or
+      the High Court (in case of all other arbitrations)
+      for such purpose, without the Supreme Court or
+      High Courts being required to determine the
+      existence of an arbitration agreement.”
+                                                           5
+
+       Thus, it can be seen that after the amendment Act of 2019,
+Section 11(6A) has been omitted because appointment of
+arbitrators is to be done institutionally, in which case the Supreme
+Court or the High Court under the old statutory regime are no longer
+required to appoint arbitrators and consequently to determine
+whether an arbitration agreement exists.
+7)     Prior to Section 11(6A), this Court in several judgments
+beginning with SBP & Co. vs. Patel Engineering Ltd. and Anr.
+(2005) 8 SCC 618 has held that at the stage of a Section 11(6)
+application being filed, the Court need not merely confine itself to
+the examination of the existence of an arbitration agreement but
+could also go into certain preliminary questions such as stale
+claims, accord and satisfaction having been reached etc.
+8)      In ONGC Mangalore Petrochemicals Limited vs. ANS
+Constructions Limited and another, (2018) 3 SCC 373, this
+Court in a case which arose before the insertion of Section 11(6A)
+dismissed a Section 11 petition on the ground that accord and
+satisfaction had taken place in the following terms: -
+        “31. Admittedly, no-dues certificate was submitted by
+        the contractee company on 21-9-2012 and on their
+        request completion certificate was issued by the
+        appellant contractor. The contractee, after a gap of
+                                                                     6
+
+       one month, that is, on 24-10-2012, withdrew the no-
+       dues certificate on the grounds of coercion and duress
+       and the claim for losses incurred during execution of
+       the contract site was made vide letter dated 12-1-
+       2013, i.e. after a gap of 3 ½ (three-and-a-half) months
+       whereas the final bill was settled on 10-10-2012. When
+       the contractee accepted the final payment in full and
+       final satisfaction of all its claims, there is no point in
+       raising the claim for losses incurred during the
+       execution of the contract at a belated stage which
+       creates an iota of doubt as to why such claim was not
+       settled at the time of submitting final bills that too in the
+       absence of exercising duress or coercion on the
+       contractee by the appellant contractor. In our
+       considered view, the plea raised by the contractee
+       company is bereft of any details and particulars, and
+       cannot be anything but a bald assertion. In the
+       circumstances, there was full and final settlement of
+       the claim and there was really accord and satisfaction
+       and in our view no arbitrable dispute existed so as to
+       exercise power under Section 11 of the Act. The High
+       Court was not, therefore, justified in exercising power
+       under Section 11 of the Act.”
+9)     The 246th Law Commission Report dealt with some of
+these judgments and felt that at the stage of a Section 11(6)
+application, only “existence” of an arbitration agreement ought to
+be looked at and not other preliminary issues.              In a recent
+judgment of this Court, namely, Garware Wall Ropes Ltd. vs.
+Coastal Marine Constructions & Engineering Ltd., (2019 SCC
+OnLine SC 515), this Court adverted to the said Law Commission
+Report and held: -
+     “14. The case law under Section 11(6) of the Arbitration
+                                                                        7
+
+Act, as it stood prior to the Amendment Act, 2015, has
+had a chequered history. In Konkan Railway Corporation
+Ltd. v. Mehul Construction Co., (2000) 7 SCC 201
+[“Konkan Railway I”], it was held that the powers of the
+Chief Justice under Section 11(6) of the 1996 Act are
+administrative in nature, and that the Chief Justice or his
+designate does not act as a judicial authority while
+appointing an arbitrator. The same view was reiterated in
+Konkan Railway Corporation Ltd. v. Rani Construction
+(P) Ltd., (2002) 2 SCC 388 [“Konkan Railway II”].
+15. However, in SBP & Co. (supra), a seven-Judge
+Bench overruled this view and held that the power to
+appoint an arbitrator under Section is judicial and not
+administrative. The conclusions of the seven-Judge
+Bench were summarised in paragraph 47 of the
+aforesaid judgment. We are concerned directly with sub-
+paragraphs (i), (iv), and (xii), which read as follows:
+   “(i) The power exercised by the Chief Justice of the
+   High Court or the Chief Justice of India under Section
+   11(6) of the Act is not an administrative power. It is a
+   judicial power.
+   xxx xxx xxx
+   (iv) The Chief Justice or the designated Judge will
+   have the right to decide the preliminary aspects as
+   indicated in the earlier part of this judgment. These will
+   be his own jurisdiction to entertain the request, the
+   existence of a valid arbitration agreement, the
+   existence or otherwise of a live claim, the existence of
+   the condition for the exercise of his power and on the
+   qualifications of the arbitrator or arbitrators. The Chief
+   Justice or the designated Judge would be entitled to
+   seek the opinion of an institution in the matter of
+   nominating an arbitrator qualified in terms of Section
+   11(8) of the Act if the need arises but the order
+   appointing the arbitrator could only be that of the Chief
+   Justice or the designated Judge.
+   xxx xxx xxx
+                                                              8
+
+   (xii) The decision in Konkan Rly. Corpn. Ltd. v. Rani
+   Construction (P) Ltd. [(2002) 2 SCC 388] is overruled.”
+16. This position was further clarified in Boghara Polyfab
+(supra) as follows:
+   “22. Where the intervention of the court is sought for
+appointment of an Arbitral Tribunal under Section 11, the
+duty of the Chief Justice or his designate is defined in
+SBP & Co. [(2005) 8 SCC 618]. This Court identified and
+segregated the preliminary issues that may arise for
+consideration in an application under Section 11 of the
+Act into three categories, that is, (i) issues which the
+Chief Justice or his designate is bound to decide; (ii)
+issues which he can also decide, that is, issues which he
+may choose to decide; and (iii) issues which should be
+left to the Arbitral Tribunal to decide.
+   22.1. The issues (first category) which the Chief
+Justice/his designate will have to decide are:
+   (a) Whether the party making the application has
+   approached the appropriate High Court.
+   (b) Whether there is an arbitration agreement and
+whether the party who has applied under Section 11 of
+the Act, is a party to such an agreement.
+   22.2. The issues (second category) which the Chief
+Justice/his designate may choose to decide (or leave
+them to the decision of the Arbitral Tribunal) are:
+   (a) Whether the claim is a dead (long-barred) claim or
+   a live claim.
+   (b) Whether the parties have concluded the
+   contract/transaction by recording satisfaction of their
+   mutual rights and obligation or by receiving the final
+   payment without objection.
+   22.3. The issues (third category) which the Chief
+                                                           9
+
+Justice/his designate should leave exclusively to the
+Arbitral Tribunal are:
+   (i) Whether a claim made falls within the arbitration
+   clause (as for example, a matter which is reserved for
+   final decision of a departmental authority and
+   excepted or excluded from arbitration).
+   (ii) Merits or any claim involved in the arbitration.”
+17. As a result of these judgments, the door was wide
+open for the Chief Justice or his designate to decide a
+large number of preliminary aspects which could
+otherwise have been left to be decided by the arbitrator
+under Section 16 of the 1996 Act. As a result, the Law
+Commission of India, by its Report No. 246 submitted in
+August 2014, suggested that various sweeping changes
+be made in the 1996 Act. Insofar as SBP & Co. (supra)
+and Boghara Polyfab (supra) are concerned, the Law
+Commission examined the matter and recommended the
+addition of a new sub-section, namely, sub-section (6A)
+in Section 11. In so doing, the Law Commission
+recommendations which are relevant and which led to
+the introduction of Section 11(6A) are as follows:
+   “28. The Act recognizes situations where the
+intervention of the Court is envisaged at the pre-arbitral
+stage, i.e. prior to the constitution of the arbitral tribunal,
+which includes sections 8, 9, 11 in the case of Part I
+arbitrations and section 45 in the case of Part II
+arbitrations. Sections 8, 45 and also section 11 relating
+to “reference to arbitration” and “appointment of the
+tribunal”, directly affect the constitution of the tribunal
+and functioning of the arbitral proceedings. Therefore,
+their operation has a direct and significant impact on the
+“conduct” of arbitrations. Section 9, being solely for the
+purpose of securing interim relief, although having the
+potential to affect the rights of parties, does not affect the
+“conduct” of the arbitration in the same way as these
+other provisions. It is in this context the Commission has
+examined and deliberated the working of these
+                                                                10
+
+provisions and proposed certain amendments.
+   29. The Supreme Court has had occasion to
+deliberate upon the scope and nature of permissible pre-
+arbitral judicial intervention, especially in the context of
+section 11 of the Act. Unfortunately, however, the
+question before the Supreme Court was framed in terms
+of whether such a power is a “judicial” or an
+“administrative” power – which obfuscates the real issue
+underlying such nomenclature/description as to –
+       the scope of such powers – i.e. the scope of
+   arguments which a Court (Chief Justice) will consider
+   while deciding whether to appoint an arbitrator or not –
+   i.e. whether the arbitration agreement exists, whether
+   it is null and void, whether it is voidable etc.; and
+   which of these it should leave for decision of the
+   arbitral tribunal.
+       the nature of such intervention – i.e. would the
+   Court (Chief Justice) consider the issues upon a
+   detailed trial and whether the same would be decided
+   finally or be left for determination of the arbitral
+   tribunal.
+   30. After a series of cases culminating in the decision
+in SBP v. Patel Engineering, (2005) 8 SCC 618, the
+Supreme Court held that the power to appoint an
+arbitrator under section 11 is a “judicial” power. The
+underlying issues in this judgment, relating to the scope
+of intervention, were subsequently clarified by
+RAVEENDRAN J in National Insurance Co. Ltd. v.
+Boghara Polyfab Pvt. Ltd., (2009) 1 SCC 267, where the
+Supreme Court laid down as follows –
+“1. The issues (first category) which Chief Justice/his
+designate will have to decide are:
+   (a) Whether the party making the application has
+   approached the appropriate High Court?
+                                                             11
+
+   (b) Whether there is an arbitration agreement and
+   whether the party who has applied under section 11 of
+   the Act, is a party to such an agreement?
+2. The issues (second category) which the Chief
+Justice/his designate may choose to decide are:
+   (a) Whether the claim is a dead (long barred) claim or
+   a live claim?
+   (b) Whether the parties have concluded the
+   contract/transaction by recording satisfaction of their
+   mutual rights and obligation or by receiving the final
+   payment without objection?
+3. The issues (third category) which the Chief Justice/his
+designate should leave exclusively to the arbitral tribunal
+are:
+   (a) Whether a claim falls within the arbitration clause
+   (as for example, a matter which is reserved for final
+   decision of a departmental authority and excepted or
+   excluded from arbitration)?
+   (b) Merits of any claim involved in the arbitration.”
+   31. The Commission is of the view that, in this context,
+the same test regarding scope and nature of judicial
+intervention, as applicable in the context of section 11,
+should also apply to sections 8 and 45 of the Act – since
+the scope and nature of judicial intervention should not
+change upon whether a party (intending to defeat the
+arbitration agreement) refuses to appoint an arbitrator in
+terms of the arbitration agreement, or moves a
+proceeding before a judicial authority in the face of such
+an arbitration agreement.
+   32. In relation to the nature of intervention, the
+exposition of the law is to be found in the decision of the
+Supreme Court in Shin Etsu Chemicals Co. Ltd. v. Aksh
+Optifibre, (2005) 7 SCC 234, (in the context of section 45
+of the Act), where the Supreme Court has ruled in favour
+                                                            12
+
+of looking at the issues/controversy only prima facie.
+   33. It is in this context, the Commission has
+recommended amendments to sections 8 and 11 of the
+Arbitration and Conciliation Act, 1996. The scope of the
+judicial intervention is only restricted to situations where
+the Court/Judicial Authority finds that the arbitration
+agreement does not exist or is null and void. In so far as
+the nature of intervention is concerned, it is
+recommended that in the event the Court/Judicial
+Authority is prima facie satisfied against the argument
+challenging the arbitration agreement, it shall appoint the
+arbitrator and/or refer the parties to arbitration, as the
+case may be. The amendment envisages that the judicial
+authority shall not refer the parties to arbitration only if it
+finds that there does not exist an arbitration agreement
+or that it is null and void. If the judicial authority is of the
+opinion that prima facie the arbitration agreement exists,
+then it shall refer the dispute to arbitration, and leave the
+existence of the arbitration agreement to be finally
+determined by the arbitral tribunal. However, if the
+judicial authority concludes that the agreement does not
+exist, then the conclusion will be final and not prima
+facie. The amendment also envisages that there shall be
+a conclusive determination as to whether the arbitration
+agreement is null and void. In the event that the judicial
+authority refers the dispute to arbitration and/or appoints
+an arbitrator, under sections 8 and 11 respectively, such
+a decision will be final and non-appealable. An appeal
+can be maintained under section 37 only in the event of
+refusal to refer parties to arbitration, or refusal to appoint
+an arbitrator.”
+18. Pursuant to the Law Commission recommendations,
+Section 11(6A) was introduced first by Ordinance and
+then by the Amendment Act, 2015. The Statement of
+Objects and Reasons which were appended to the
+Arbitration and Conciliation (Amendment) Bill, 2015
+which introduced the Amendment Act, 2015 read as
+follows:
+      “STATEMENT OF OBJECTS AND REASONS
+                                                                 13
+
+xxx xxx xxx
+6. It is proposed to introduce the Arbitration and
+Conciliation (Amendment) Bill, 2015, to replace the
+Arbitration and Conciliation (Amendment) Ordinance,
+2015, which inter alia, provides for the following,
+namely:-
+  (i) to amend the definition of “Court” to provide that in
+  the case of international commercial arbitrations, the
+  Court should be the High Court;
+  (ii) to ensure that an Indian Court can exercise
+  jurisdiction to grant interim measures, etc., even where
+  the seat of the arbitration is outside India;
+  (iii) an application for appointment of an arbitrator shall
+  be disposed of by the High Court or Supreme Court,
+  as the case may be, as expeditiously as possible and
+  an endeavour should be made to dispose of the matter
+  within a period of sixty days;
+  (iv) to provide that while considering any application
+  for appointment of arbitrator, the High Court or the
+  Supreme Court shall examine the existence of a prima
+  facie arbitration agreement and not other issues;
+  (v) to provide that the arbitral tribunal shall make its
+  award within a period of twelve months from the date it
+  enters upon the reference and that the parties may,
+  however, extend such period up to six months, beyond
+  which period any extension can only be granted by the
+  Court, on sufficient cause;
+  (vi) to provide that a model fee Schedule on the basis
+  of which High Courts may frame rules for the purpose
+  of determination of fees of arbitral tribunal, where a
+  High Court appoints arbitrator in terms of section 11 of
+  the Act;
+  (vii) to provide that the parties to dispute may at any
+                                                              14
+
+        stage agree in writing that their dispute be resolved
+        through fast track procedure and the award in such
+        cases shall be made within a period of six months;
+        (viii) to provide for neutrality of arbitrators, when a
+        person is approached in connection with possible
+        appointment as an arbitrator;
+        (ix) to provide that application to challenge the award
+        is to be disposed of by the Court within one year.
+     7. The amendments proposed in the Bill will ensure that
+     arbitration process becomes more user-friendly, cost
+     effective and lead to expeditious disposal of cases.
+     xxx xxx xxx”
+     19. A reading of the Law Commission Report, together
+     with the Statement of Objects and Reasons, shows that
+     the Law Commission felt that the judgments in SBP &
+     Co. (supra) and Boghara Polyfab (supra) required a
+     relook, as a result of which, so far as Section 11 is
+     concerned, the Supreme Court or, as the case may be,
+     the High Court, while considering any application under
+     Section 11(4) to 11(6) is to confine itself to the
+     examination of the existence of an arbitration agreement
+     and leave all other preliminary issues to be decided by
+     the arbitrator.”
+10)     This being the position, it is clear that the law prior to the
+2015 Amendment that has been laid down by this Court, which
+would have included going into whether accord and satisfaction
+has taken place, has now been legislatively overruled. This being
+the position, it is difficult to agree with the reasoning contained in
+the aforesaid judgment as Section 11(6A) is confined to the
+                                                                       15
+
+examination of the existence of an arbitration agreement and is to
+be understood in the narrow sense as has been laid down in the
+judgment Duro Felguera, S.A. (supra) – see paras 48 & 59.
+11)    We, therefore, overrule the judgment in United India
+Insurance Company Limited (supra) as not having laid down the
+correct law but dismiss this appeal for the reason given in para 3
+above.
+12)    Mr. Rohatgi now requests us for an extension of the status
+quo order granted by the trial court for a period of one week from
+today so that he may adopt other proceedings. This request is
+granted.
+                                 ………………........................... J.
+                                 (ROHINTON FALI NARIMAN)
+                                 ………………........................... J.
+                                 (R. SUBHASH REDDY)
+                                 ………………........................... J.
+                                 (SURYA KANT)
+New Delhi;
+September 05, 2019.
+                                                                      16
+
+

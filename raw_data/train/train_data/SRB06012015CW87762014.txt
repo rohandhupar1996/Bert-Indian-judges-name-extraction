@@ -1,0 +1,1095 @@
+$~
+*       IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                                         Reserved on: 23.12.2014
+                                                       Pronounced on: 06.01.2015
++       W.P.(C) 8776/2014, C.M. NOS.20152-20153/2014
+        BARODA ROAD TANKERS & ANR.                             ..... Petitioners
+                                 versus
+        DEPUTY            GENERAL         MANAGER-LPG          NORTH          ZONE
+        HINDUSTAN PETROLEUM CORPORATION LTD & ORS.
+                                                                   ..... Respondents
++       W.P.(C) 8435/2014, C.M. NO.19492/2014
+        MR. RAJESH MALIK & ANR.                                ..... Petitioners
+                                 versus
+        UNION OF INDIA & ORS.                                  ..... Respondents
++       W.P.(C) 8568/2014, C.M. NOS. 19774/2014 & 20119/2014
+        M/S. THAKUR BALWAN SINGH                               ..... Petitioner
+                                 versus
+        UNION OF INDIA & ORS.                                  ..... Respondents
+                                 Through: Sh. Yashank Adhyaru, Sr. Advocate
+                                 with Sh. Naman Joshi, Advocate, for petitioners in
+                                 Item No.2.
+                                 Sh. Jasmeet Singh, CGSC, for UOI in Item No.2.
+W.P.(C) 8776/14, 8568/14 & 8435/14                                              Page 1
+
+                                 Sh. Rajat Navet with Sh. Kushagra Pandit and Sh.
+                                 Rohan Yadav, Advocates, for IOC/BPCL in Item
+                                 Nos. 2 to 4.
+                                 Sh. A.K. Singh, Sr. Advocate with Sh. Rahul
+                                 Shukla, Advocates, for petitioner in Item No.4.
+                                 Sh. Rikesh Singh and Sh. Nakul Pathania,
+                                 Advocates with Sh. T.S. Cheema, Sr. Manager,
+                                 LPG Distribution (NZ), HPCL, for Resp. Nos. 1
+                                 and 2 in Item No.2; for Resp. No.3 in Item No.3
+                                 and for Resp. No.3 in Item No.4.
+                                 Sh. Sandeep Sethi, Sr. Advocate with Sh. Ayush
+                                 Agrawal and Sh. Shaan Mohan, Advocates, for the
+                                 petitioners in Item No.3.
+                                 Sh. Sanjeev Narula, CGSC with Sh. Ajay Kalra,
+                                 Advocate, for UOI in Item No.3.
+                                 Sh. Yeeshu Jain and Sh. K.S.M. Vimal Kanth,
+                                 Advocates, for LAC, for Item No.3.
+                                 Ms. Suparna Srivastava, CGSC with Ms. Nishtha
+                                 Sikroria, Advocates, for respondents in Item No.4.
+        CORAM:
+        HON'BLE MR. JUSTICE S. RAVINDRA BHAT
+        HON'BLE MR. JUSTICE VIPIN SANGHI
+MR. JUSTICE S. RAVINDRA BHAT
+%
+1.      These three writ petitions involve adjudication on common issues
+arising     from      the    same     facts,   i.e. interpretation  of   tender   no.
+W.P.(C) 8776/14, 8568/14 & 8435/14                                              Page 2
+
+LPG/LOGS/TT/ER/2014/A dated 01.09.2014 issued jointly by the three
+contesting respondents – hereafter referred to conveniently as “the oil
+marketing companies”. The petitioners in W.P.(C) 8776/2014 argue that the
+rejection of their bids on the ground that the mismatch between the prime
+mover capacity and the trailer capacity made the bid non-conforming, is
+arbitrary. The petitioners in this writ petition are referred to compendiously
+as “the Baroda group”. The petitioners in W.P.(C) 8435/2014 (hereafter
+called “the Malik Group”), on the other hand, assert that the oil marketing
+companies should strictly follow the tender conditions and reject the tanker
+contracts (TTs) which do not conform to the prescribed specifications. They
+seek consequent directions for quashing of actions taken towards accepting
+bids which are not in conformity with the tender specifications, so far. The
+writ petitioners in the third group, i.e. W.P.(C) 8568/2014 (hereafter called
+“the Balwan Singh group”) seeks directions to the oil marketing companies
+to reject the tenders submitted by the bidders quoting LPG tank trucks of 18
+MT capacity attached with prime movers/trucks of 4018/4019 model
+coupled with two axle trailer. In addition, they seek rejection of bids of two
+tenderers who applied in the SC/ST quotas with certificates which were
+more than a year old calculated from the date of the tender advertisement.
+2.      Through a common advertisement, three the respondents, i.e.,
+(hereafter called "the oil marketing companies" consisting of Indian Oil
+Corporation Ltd ("IOCL"); Bharat Petroleum Corporation Ltd (BPCL) and
+Hindustan Petroleum Corporation Ltd (HPCL) invited electronic bids for
+transportation of bulk Liquefied Petroleum Gas ("LPG") by road. The
+W.P.(C) 8776/14, 8568/14 & 8435/14                                       Page 3
+
+electronic bids (e-tenders) invited consisted a Two-Bid system from bona-
+fide bidders, willing to quote rates fulfilling advertised conditions, i.e.:
+1. Owning at least One Bulk LPG / PROPANE tank truck ("TT") as on
+closing date of tender.
+2. The age of the tank truck quoted being not more than 15 years as on
+31.10.2014 from the date of first registration.
+3. Tank Truck quoted possessing a valid license from Petroleum Explosives
+Safety Organization (PESO) as on closing date of tender.
+3.      The tender was advertised for Region/Zone wise requirements of the
+Oil Marketing Companies; the interested bidders had to quote rate for the
+Region / Zone as well as for each Company of their choice. Bidders had to
+meet the minimum qualification criteria, of the tender to participate in the
+process. However, induction of TTs was to be based on evaluation criteria of
+the tender. Furthermore, bidders had to upload particulars of all TTs offered,
+according to a prescribed format - in terms of Annexure-II at the time of
+submission of the e-tender. The TTs had to lift (pick up) the product from
+any or all of the sources of bulk LPG for transportation of bulk LPG by road
+in tank trucks, from loading locations as mentioned in the tender ( Price bid
+and technical bid ) to all bottling Plants/Customers ( Ex- MI / Delivered ) of
+the Oil Marketing Companies as well as for stock transfer of Auto LPG from
+supply sources to Bottling plants during the contract period. The contracts
+were to be valid for three years with effect from 01.11.2014 and extendable
+for two more years at the sole discretion of the Corporation(s) at the same
+terms and conditions. The tender provided for a yearly escalation of 3.25 %
+W.P.(C) 8776/14, 8568/14 & 8435/14                                           Page 4
+
+for the 4th year & 5th year on the non fuel component of the applicable rate
+(maximum 50% of rate) with formula mentioned in clause No.33 of
+Contract Agreement. The bidders offering single ready owned truck could
+offer one proposed owned truck and bidders offering more than one ready
+owned trucks could offer maximum two proposed owned trucks of licensed
+capacity of minimum 17 MT and above except for specified sectors.
+4.      Proprietorships, partnership firms as well as other juristic entities
+could participate and submit bids. Furthermore, reservation was permitted in
+favour of Scheduled Cast/Scheduled Tribe applicants. The condition with
+respect to the specification of TTs, contained in Clause 11 of the General
+Terms and Conditions, stated that:
+        "11. SPECIFICATION OF TANK TRUCKS:
+        The tank trucks offered against this tender should conform to the
+        specification mentioned in Motor Vehicles Act, as applicable
+        from time to time and be equipped to transport bulk LPG and
+        should conform to the following:
+        a) (i) Tank Trucks expected to be inducted for movements from
+        Mumbai/ BPCR/HPCR, should not be more than 8 years old as
+        on 31.10.2014.
+        For this purpose BPCL Western Region will be requiring
+        minimum 50 trucks which are not more than 8 years old as on
+        31.10.2014, HPCL Western Zone will be requiring minimum 274
+        trucks which are not more than 8 years old as on 31.10.2014.
+        The bidders are required to offer trucks accordingly for meeting
+        above requirement. In case sufficient number of such tank trucks
+        are not received in this tender, Corporation may either request
+        the Bidders for replacement of the offered trucks to meet the
+        above requirement or take suitable measures to meet such
+        requirement. IOCL Eastern Region will be requiring minimum
+        16(sixteen) Tank Trucks ( fixed chassis) having capacity upto 14
+W.P.(C) 8776/14, 8568/14 & 8435/14                                       Page 5
+
+        MTs. HPCL Eastern Region will require minimum 20 tank trucks
+        having capacity upto 12.5 MTs and 20 tank trucks having
+        capacity upto 7.5 MTs. M/s HPCL, Northern Region would
+        require minimum 116 tank trucks having capacity upto 12 MTs.
+        The bidders are required to offer trucks accordingly for meeting
+        above requirement. In case sufficient number of such tank trucks
+        are not received in this tender to meet the above requirement,
+        Corporation may take suitable measures to meet such
+        requirement.
+        (ii) Rules pertaining to the transportation of LPG under SMPV
+        Rules and amendments issued from time to time;
+        (iii) specifications as laid down by OISD and other statutory
+        authorities and amendments issued from time to time;
+        (iv) pressure vessel to be designed and constructed and tested in
+        accordance with the Indian Standards IS: 2825 and amendments
+        issued from time to time;
+        (v) Central Motor Vehicle (Fifth Amendment) Rules,2005 and
+        amendments issued from time to time;
+        (vi) Requirement as per Public Liability Insurance Act and
+        amendments issued from time to time;
+        (vii) Bulk LPG Tank Trucks of category other than tractor-trailer
+        combination manufactured on and after 1st October 2006 should
+        be fitted with Anti Lock Brake System (ABS) .
+        (viii) Bulk LPG Tank Trucks manufactured on and after 1st day
+        of October 2007 that are used as tractor-trailer combination
+        should be fitted with Anti Lock Brake System (ABS).
+        (ix) If ABS has been made mandatory by any of the State
+        Govt.(s), the same to be complied by the bidders irrespective of
+        the model.
+        (x) Three point seat belt to be provided in each of the tank truck
+        irrespective of any model.
+W.P.(C) 8776/14, 8568/14 & 8435/14                                        Page 6
+
+        (xi) Large rear view mirrors have to be fitted in each tank truck
+        on either sides.
+        (xii) All trucks offered have to be fitted with Internal Excess Flow
+        Check Valves (IEFCV) as per PESO guidelines.
+        (xiii) Visual Manifestation Standards (VMS) : Induction of
+        Trucks will be done only after ensuring of compliance of VM
+        standards of respective Oil Companies.
+         (xiv) The body of a tanker carrying dangerous or hazardous
+        goods shall be painted in white colour with a dry leaf brown
+        ribbon of 5 centimeters width around in the middle of the
+        exterior and that of the driver's cabin in orange colour ( Rule
+        90(1) of the CMVR, 1989).
+        (xv) Fixing of retro –high-intensity grade reflective stickers white
+        tape with 7 cm width in the front of prime mover, yellow colour
+        on both sides in the same width and red colour tape with 7 cm
+        width throughout at rear side for better visibility in poor light
+        condition.
+        (xvi) There should not be any mobile re-charging facility in the
+        cabin.
+        (xvii) Any other applicable Act/Rule or any other amendment or
+        re-enactment thereof as per specific State / Central Authorities, if
+        any from time to time .
+        b) No tank truck will be offered under this tender which :
+        (i) is presently in Contract with any Oil Company (including
+        Private Company) for a period beyond the commencement date
+        of this contract i.e. 01.11.2014
+        (ii) has been offered in more than one tender or to more than one
+        Corporation. Such Tank Truck(s) will be rejected and shall not
+        be considered in any of the tenders."
+Contentions of the Baroda group of Petitioners in W.P.(C) 8776/2014
+W.P.(C) 8776/14, 8568/14 & 8435/14                                          Page 7
+
+5.      The Baroda group petitioners submitted their tenders and offered
+three and two tank trucks respectively. Their tenders enclosed the necessary
+documents, such as the Registration Certificates (RCs) issued by the
+concerned Road Transport Officers (RTOs), stating: (i) MLW of 40.2 MT
+with two axles; (ii) PESO license for 18 MT with ML not exceeding 40.2
+MT, and (iii) mounted trucks for 35.2 MT. The Baroda group claims that
+they discovered- from website of the oil marketing companies- on
+29.11.2014 that their bids were disqualified, due to mismatch of licenses and
+RTO registrations. This was because one of the oil marketing companies, i.e.
+HPCL was of the opinion that there was a discrepancy between the RC and
+the PESO certificate on the one hand and the mounted drawings of the
+trucks on the other. The RC and PESO license provided for MLW of 40.2
+MT and the mounted drawings provided for MLW of 35.2 MT. The Baroda
+group petitioners were asked on 02.12.2014 by the HPCL to interact with
+them at their offices for clarifications on the issue of disqualification. In this,
+they had referred to some minutes of meeting of the oil marketing
+companies. The Baroda group petitioners sought for copies of the minutes of
+meeting. The petitioners also by their e-mail sought clarifications as to
+whether they could furnish any documents for clarifications – a stand which
+was not accepted by the oil marketing companies. In these circumstances,
+the Baroda group state that since the document, i.e. the minutes of the
+meeting of the oil marketing companies were not furnished, they sought for
+it under the RTI Act. This application was, however, not accepted.
+6.      In this background of circumstances, the Baroda group contends that
+there is no requirement of synchrony or uniformity between the mounted
+W.P.(C) 8776/14, 8568/14 & 8435/14                                           Page 8
+
+trucks and the TTs as long as the certificates issued by the PESO and the
+licenses issued by the RTO are valid and legal. In this connection, it is
+contended that no tender condition has been referred to in the report by the
+HPCL, an oil marketing company, while rejecting the bid. It is argued that
+since the petitioners are in possession of RC and mounted trucks endorsed
+for 40.2 MT, the tank trucks are logically suitable for 35.2 MTs. In this
+connection, the Baroda group petitioners also referred to the interpretation
+adopted by the other companies - IOCL and BPCL where the difference
+between the mounted trucks and the TT capacity (referred to as mismatch by
+the HPCL) was overlooked as long as the PESO certificate and the RTO
+license were subsisting, provided the RTO endorsement indicated
+acceptance of such TTs. The Baroda group assert that such a position has
+been adopted by the oil marketing companies with respect to alleged
+mismatch for the first time in seven years during which such vehicles had
+been consistently accepted and awarded LoI/contracts.
+7.      Sh. Yashank Adhyaru, learned senior counsel argued that there is no
+basis for the alleged mismatch, given that the tender conditions merely
+referred to the licensed capacity of minimum MT and above, except for
+specified sectors. It is submitted that neither the general terms and
+conditions of the tender, nor the notice inviting the bidders to respond to the
+e-tender, nor for that matter do any of the other tender documents and its
+several annexures, refer to the specifications, alleged to be applicable. It was
+submitted that the alleged mismatch between the prime mover and the trailer
+is of no consequence considering that the prime mover is heavier, i.e. 40.2
+W.P.(C) 8776/14, 8568/14 & 8435/14                                         Page 9
+
+MT whereas the trailer load is 35.2 MT. In reality, therefore, the TT could
+not cater to anything more than what a 35.2 MT tanker capacity could.
+8.      Sh. Yashank Adhyaru, learned senior counsel referred to the PESO
+license issued to both the petitioners of the Baroda group as well as the
+insurance documents and highlighted that the copy of the licenses of the
+vehicles which are part of the record fully describe the TTs as follows:
+              Weight laden              40200
+              XXXXXX                    XXXXXX
+              Tyre description          F – 10.00 x 20, 16 PR
+                                        Rear – 10.00 x 20, 16 PR
+              Axle weight               Front – 6000 kgs. Rear
+                                        10200 Kgs
+                                        Tandem 24,000 Kgs.
+Learned senior counsel also relied upon the RC in the case of five tank
+trucks to underline that they are duly endorsed and were valid as on the date
+of the submission of the bids.     It was further submitted that all the
+documents were duly verified by the concerned oil marketing companies
+and in these circumstances, the rejection based on the interpretation of the
+tender condition, i.e. that the RCs endorsed for GVW of 40.2 MT and
+mounted drawings endorsed for GVW 35.2 MTs for the “TTs with 2 axle
+trailer but MLW as per form IV – PESO certificate is 40.2 MT” was utterly
+unwarranted. These were determined as mismatch and were rejected on the
+basis of the minutes of meeting dated 11.11.2014. The learned senior
+counsel contended that this criteria was never notified in the advertisement.
+W.P.(C) 8776/14, 8568/14 & 8435/14                                       Page 10
+
+Referring to the minutes of the meeting dated 11.11.2014, which was in turn
+relied upon by the HPCL (the oil marketing company) in the rejection note,
+it was submitted that, alternatively, even the narrow interpretation given to
+the minutes of the said meeting was also not justified.
+9.      Sh. Adhyaru, learned senior counsel submitted that since the minutes
+of meeting of the oil marketing companies was silent and no clarification
+issued thereafter, fairness demanded that all the bidders who had
+furnished/submitted their bids - but without the necessary endorsement of
+the RTOs concerned, ought to have been provided an opportunity to obtain
+the same and thereafter consider the tenders on the basis of the
+endorsements made. The relevant extracts of the minutes of the meeting
+which clarified the basis for assessing the bids, provided as follows in regard
+to the different models of trucks:
+“12. Trucks                       with
+        4018/4019/4021 models
+        with GW of 40000 KG+
+                                       Bidders have submitted
+                                       the T/L with these
+                                       models having different
+                                       combinations.
+                                          (a) RC with GVW To be accepted.
+                                              (Gross      Vehicle
+                                              Weight) of 40200
+                                              (three        axle)
+                                              whereas      PESO
+                                              certificate    with
+W.P.(C) 8776/14, 8568/14 & 8435/14                                        Page 11
+
+                                          GW of 40200 kg
+                                          (three axle)
+                                      (b) RC with GVW of       To be rejected
+                                          40200         (three unless endorsed
+                                          axle)      whereas   by RTO for
+                                          PESO certificate
+                                                               revised
+                                          with GVW of
+                                          35200 kg (three      RLW/Axle in RC
+                                          axle)                Book.
+                                      (c) RC with GVW of       To be accepted
+                                          35200 (two axle)
+                                          whereas       PESO
+                                          certificate     with
+                                          GVW of 35200 kg
+                                          (two axle)
+                                      (d) RC with GVW of       To be rejected.
+                                          25200        (single
+                                          axle)      whereas
+                                          PESO certificate
+                                          with GVW of
+                                          35200 kg (two
+                                          axle)
+        Gujarat Registered T/L Such Smart Card does            Smart        card
+        having RC Book in not contain any date of              contains       all
+        Smart Card Format          RLW/ULW. This data          basic data. To be
+                                   can not be verified.        verified      with
+                                   Some transporter have       original. Action
+                                   submitted the screen        on deviation to
+                                   shot which does not         be taken as per
+                                   contain                 any tender condition.
+                                   signatures/rubber stamp
+                                   of RTO authorities.
+W.P.(C) 8776/14, 8568/14 & 8435/14                                         Page 12
+
+10.     It is argued on behalf of the Baroda group that the oil marketing
+companies’ imposition of superfluous and subsequently thought-out criteria
+is a colourable exercise of discretion and power. Asserting that so called
+“mismatch” was never thought-out as a disqualifying factor in the tender
+notice or the essential conditions spelt out with it, learned senior counsel
+submitted that the oil marketing companies could not unilaterally, in the
+guise of bringing interpretive uniformity, impose new conditions. It was
+further stressed that whilst the reading of the minutes of meeting dated
+11.11.2014 itself underlines that there is nothing inherently illegal or
+unacceptable in regard to the allegedly mismatch between the prime movers
+and the trailers as long as the PESO certificate and the RTO endorsement
+with respect to that condition, i.e. the mismatch is furnished, it was argued
+that, therefore, the insistence on a newly created condition amounts to
+hostilely discriminating those who never had the occasion to secure such
+documents on the one hand, and favourably treat those who managed to
+secure it beforehand and submit it with their tender bids, on the other.
+Learned counsel also referred to a letter issued by the Deputy Chief
+Controller of Explosives (West Circle) dated 28.10.2014 as well as the
+certificate issued in respect of the vehicles (i.e. 40200 mover with 35200 kg.
+capacity trailer 2 axle trailer) by the Automotive Research Association of
+India (ARAI). It was submitted that in these circumstances, the rejection of
+the Baroda group’s position is both arbitrary and unfair. Counsel lastly
+relied on the decision in M.R. Shah Logistics Pvt. Ltd v Indian Oil
+Corporation Ltd (W.P.(C) 7957/2012 and a connected writ petition, decided
+by a Division Bench of this Court on 26.07.2013) to say that change of the
+vehicle specifications is not considered an essential deviation, as long as the
+W.P.(C) 8776/14, 8568/14 & 8435/14                                       Page 13
+
+license and registration conditions are met with, so as to empower the oil
+company to reject the tender altogether.
+Contentions of the Malik Group (W.P.(C) 8435/2014) & the Balwan Singh
+group (W.P.(C) 8568/2014)
+11.     The Malik and Balwan Singh groups in their petitions as well as
+through the submissions of their senior counsel - M/s. Sandeep Sethi and
+A.K. Singla submit that the rejection of the Baroda group’s bids was a
+necessary consequence of the correct interpretation of the tender conditions
+and specifications. It was also submitted that to the extent the minutes of
+meeting of 11.11.2014 dilute the tender specifications, they are contrary to
+law. In support of this argument, this second group of petitioners – the Malik
+and Balwan Singh groups firstly seek to highlight the malpractices whereby
+the PESO issued licenses for 600 TTs whereas, in reality, a fraction of them
+are manufacturing the corresponding TTs. It was argued consequently- and
+more substantially - that LPG is carried in a specifically designed vessel
+known as SMPV (Static and Mobile Pressure Vessels) governed by the
+Static and Mobile Pressure Vesses (Unfired) Rules, 1981. Such TTs consist
+of two main body parts – the prime mover and the trailer. Though they are
+different constituents, they are treated as part of one unit. The gross vehicle
+weight of TTs, it is contended, is governed by the statutory notification
+under Section 58(1) of the Motor Vehicle Act (hereafter referred to as “the
+Act”) dated 18.10.1996. It is stressed here that in terms of the notification,
+where the prime mover is of 3516/3518 chassis model, it can be coupled
+with two/double axle trailer. Likewise, where a prime mover is 4018/4019
+chassis model, it can be coupled only with a suitable triple/three axle trailer.
+It is submitted that manufacturers of such TTs, i.e. Tata and Ashok Leyland
+W.P.(C) 8776/14, 8568/14 & 8435/14                                       Page 14
+
+first seek approval of the ARAI, certifying that their vehicles comply with
+the Motor Vehicle Act and Rules and after such certifications they approach
+the concerned RTO for registration of the vehicle.
+12.     The second group of petitioners alluded to a previous writ petition, i.e.
+W.P.(C) 17451/2005 which was a public interest litigation that highlighted
+the misuse of the forged or fictitious RCs based upon which PESO licenses
+were obtained and sought to be used to obtain Letters of Intent from the oil
+marketing companies. It is contended that as a consequence of the
+undertaking recorded by this Court on 08.08.2007 that firm contracts would
+not be issued and only LoI work permits would be first issued to enable the
+forwarding of documents requiring verification from the concerned agencies
+and only thereafter work orders would be issued, was the practice of issuing
+LoIs initiated.
+13.     The provisions of the Motor Vehicle Act, particularly Sections 52 and
+58 are relied upon by M/s. Sandeep Sethi and A.K. Singla, to say that any
+changes not only have to be in conformity with the notified specifications
+for vehicles, to be considered permissible ones- but that every change has to
+be endorsed and duly accepted by the concerned RTO in the absence of
+which, the motor vehicles itself fall within the forbidden category,
+prohibited from plying on the roads. In this connection, the notification
+dated 18.10.1996 issued in respect of the maximum GVW was relied on by
+both these petitioners. The said notification reads as follows:
+                          “GOVERNMENT OF INDIA
+        MINISTRY OF ROAD TRANSPORT AND HIGHWAYS
+                                  NOTIFICATION
+W.P.(C) 8776/14, 8568/14 & 8435/14                                        Page 15
+
+        Specification of Maximum Gross Vehicle Weight and the
+        Maximum Safe Axle Weight.
+        S.O.728(E), dated 18.10.1996.- In exercise of the powers
+        conferred by sub-section(I) of section 58 of the Motor Vehicles
+        Act,1988 (59 of 1988) and in supercession of the notification of
+        the Government of India in the Ministry of Surface Transport
+        S.O. No.479(E), dated the 4th July, 1996, the Central
+        Government hereby specifies that in relation to the transport
+        vehicles (other than motor cabs) of various categories detailed in
+        the Schedule below the maximum gross vehicle weight and the
+        maximum safe axle weight of each axle of such vehicles shall,
+        having regard to the size, nature and number of tyres and
+        maximum weight permitted to be carried by the tyres as per rule
+        95 of the Central Motor Vehicles Rules,1989, be-
+        (i) vehicle manufacturers rating of the gross vehicle weight and
+        axle weight respectively for each make and model as duly
+        certified by the testing agencies for compliance of rule 126 of the
+        Central Motor Vehicles Rules,1989, or
+        (ii) the maximum gross vehicle weight and the maximum safe
+        axle weight of each vehicle respectively as specified in the
+        Schedule below for the relevant category,or
+        (iii) the maximum load permitted to be carried by the tyre(s) as
+        specified in the rule 95 of the Central Motor Vehicles
+        Rules,1989, for the size and number of the tyres fitted on the axle
+        (s) of the relevant make and model, whichever is less:
+                 Provided that the maximum gross vehicle weight in respect
+        of all such transport vehicles, including multi-axle vehicles shall
+        not be more than the sum total of all the maximum safe axle
+        weight put together subject to the restrictions, if any, on the
+        maximum gross vehicle weight given in the said schedule.
+                                         SCHEDULE
+        Transport Vehicles Category        Max GVW Tonnes Maximum
+                                                                Safe Axle Weight
+        1                     2            3                    4
+        I. Rigid Vehicles
+W.P.(C) 8776/14, 8568/14 & 8435/14                                        Page 16
+
+        (i)                   Two Axle        9.00
+        XXXX                  XXXX            XXXX XXXX
+        II Semi-Articulated Vehicles
+        (i)                   Two        Axle 26.4
+                              Tractor
+                              Single     Axle
+                              Trailer
+                              Tractor:
+                              2 tyres on           6 tonnes on front
+                              front axle           axle
+                              4 tyres on           10.2 tonnes on
+                              rear axle            rear axle
+                              Trailer:
+                              4 tyres on           10.2 tonnes on
+                              single axle          single trailer axle
+        (ii)                  Two        Axle 35.2
+                              Tractor
+                              Tandem Axle
+                              Trailer
+                              Tractor:
+                              2 tyres on           6 tonnes on front
+                              front axle           axle
+                              4 tyres on           10.2 tonnes on
+                              rear axle            rear axle
+                              Trailer:
+                              8 tyres on           19 tonnes          on
+                              tandem axle          tandem axle
+        (iii)                 Two        Axle 40.2
+                              Tractor
+                              Three      Axle
+                              Trailer
+                              Tractor:
+                              2 tyres on           6 tonnes on front
+                              front axle           axle
+                              4 tyres on           10.2 tonnes on
+                              rear axle            rear axle
+                              Trailer:
+                              12 tyres on 3        24 tonnes on 3
+W.P.(C) 8776/14, 8568/14 & 8435/14                            Page 17
+
+                              axles                            axles.
+        (iv)                  Three      Axle 35.2
+                              Tractor
+                              Single     Axle
+                              Trailer
+                              Tractor:
+                              2 tyres on                       6 tonnes on front
+                              front axle                       axle
+                              8 tyres on                       19 tonnes on rear
+                              rear axle                        axle
+                              Trailer:
+                              8 tyres on                       10.2 tonnes        on
+                              single axle                      single axle
+14.     It was lastly argued that by reason of Section 52 of the Act,
+alternations which involve change in the structure of the vehicle and the
+resulting change in its basic feature cannot be effected without approval of
+the Central Government. Any consequential changes such as alteration in the
+seating capacity – subject to parameters of Chapter V etc. only can be
+undertaken. It is urged that given the specific phraseology of Section 52, any
+permissible alterations which are not specifically mentioned and which is
+contrary to terms of notifications under Section 58(1) have to receive
+express approval. It was, therefore, urged that the minutes of the meeting to
+the extent they clarified the acceptance of vehicles that are not authorized to
+ply on the road, is illegal.
+Stand of the Official Respondents- the Oil Marketing Companies
+15.     The position adopted by the oil marketing companies – the BPCL and
+IOCL - in a joint reply filed in the Baroda group writ petition disclose the
+estimated/undertaken requirement of the number of TTs of the oil marketing
+companies and further relied upon the eligibility criteria prescribed for the
+W.P.(C) 8776/14, 8568/14 & 8435/14                                        Page 18
+
+TTs. They also stated that the credential bids were opened on 24.09.2014
+and the process of price bid evaluation is underway. It is urged that since the
+tenders are being finalized on a common basis for all regions, common
+issues cropped-up which needed clarifications. As a result, the meeting was
+held on 11.11.2014 where it was particularly decided upon the common
+approach to be adopted in the evaluation exercise. It was in these
+circumstances that the relevant clarification No.12 was issued. The oil
+marketing companies in their affidavit state that they would be evaluating
+TTs offered by the bidders and where the model of the TT is
+4018/4019/4021, its GVW is recorded in the RC as 40.2 MT and the
+explosive license records GVW/MLW as 35.2 MT and not as 40.2 MT, the
+same would be rejected unless the RC with respect to the revised GVW as
+recorded in the explosive license is endorsed. It is because of this that this
+position was taken since the RC is issued by the RTO and the explosive
+licence is issued by PESO and they form the bids’ basic documents on
+which the eligibility of a TT is premised. The oil marketing companies
+assert that whether the registering authority or the explosive department
+issues a written certificate is neither within their domain, nor they are
+qualified to make such an enquiry.
+16.     The counter affidavit and reply of the HPCL interestingly in its most
+part supports the arguments of the second group of the petitioners and
+heavily relies upon the notification dated 18.10.1996. It is submitted that the
+variance in specification of TTs from the description mentioned in the RC
+makes it incompatible with the tender specifications, which strikes at the
+very root of the validity of the RC. The HPCL relies upon a clarification
+issued by the Additional Transport Commissioner, Maharashtra Circle to the
+W.P.(C) 8776/14, 8568/14 & 8435/14                                       Page 19
+
+Chief Controller of Explosives in reply to the latter’s letter dated 28.10.2014
+which is to the following effect:
+        “To,
+        Chief Controller of Explosives
+        A-Block, 5th Floor, CGO Complex,
+        Seminary Hills, Nagpur-440 006
+                     Sub:- Prime Movers with GVW of 40200 kgs.
+        Ref:1) Complaint of Mr. Vijay Khosala, President Western India
+        Bulk LPG Transporters Association dt. 16/10/2014
+        2)       Your office Letter No.PV(M) General/2009 dt.
+        28/10/2014.”
+                 Mr. Vijay Khosala, President Western India Bulk LPG
+        Transporters Association, vide his letter dt. 16.10.2014
+        complained that some operators are using the tractor of 40200
+        kgs. With 2 axle trailer. However, GVW of these vehicles are
+        noted as 40200 kgs. in the vehicle registration certificates.
+        As per S.O. no.728E dt. 18.10.1996, the Govt. of India specifies
+the Maximum Gross Vehicle Weight for semi trailers is as below:
+Sr.          Type of semi trailer                GVW
+No.
+1.           Two Axle Tractor                    35200 kgs.6 tonnes on
+             Tandem           Axle   Trailer     front axle
+             Tractor:                            10.2 tonnes on rear
+             2 tyres on front axle               axle
+             4 tyres on rear axle trailer        19 tonnes on tandem
+             8 tyres on tandem axle              axle
+2.           Two Axle Tractor                    40200 kgs.
+             Three Axle Trailer Tractor:
+             2 tyres on front axle               6 tonnes on front axle
+             4 tyres on rear axle trailer        10.2 tonnes on rear
+             12 tyres on 3 axles                 axle
+                                                 24 tonnes on 3 axles.
+W.P.(C) 8776/14, 8568/14 & 8435/14                                        Page 20
+
+        However, if the operator who are using the tractor of 40200 kgs.
+        with 2 axle trailers and whose GVW is noted as 40200 kgs. in the
+        vehicle registration certificates are violating the provisions of
+        MV Act, 1988, such kind of tractors are required to be provided
+        with 3 axle semi trailer.
+                  You are requested not to certify these tractors whose GVW
+        is noted as 40200 kgs. in the registration certificates and fitted
+        with 2 axle trailer. You are also requested to send these
+        operators back to Registering Authorities for verification of
+        records.
+                                                                                                          Sd/-
+                                                              Addl. Transport Commissioner,
+                                                                 Maharashtra State, Mumbai”
+The HPCL highlights that the tender conditions unequivocally require that
+the vehicle offered at all times should be in conformity with the provisions
+of the Motor Vehicles Act.
+Analysis & Conclusions
+Provisions of the Motor Vehicles Act
+17.     Section 52 of the Motor Vehicles Act, which was cited during the
+submissions, reads as follows1:
+        1
+          Old Section 52 was substituted by Act 27 of 2000, S.2 (w.e.f. 11-8-2000). Prior to its substitution,
+        Section 52 read as under :-
+        “52. Alternation in motor vehicle .- (1) No owner of a motor vehicle shall so alter the vehicle that the
+        particulars contained in the certificate of registration are no longer accurate, unless.-
+        (a) he has given notice to the registering authority within whose jurisdiction he has the residence or
+        the place of business where the vehicle is normally kept, as the case may be of the alteration he
+        proposes to make; and
+        (b) he has obtained the approval of that registering authority to make such alteration :
+        Provided that it shall not be necessary to obtain such approval for making any change in the unladen
+        weight of the motor vehicle consequent on the addition or removal of fittings or accessories, if such
+        change does not exceed two per cent. of the weight entered in the certificate of registration :
+        *[Provided further that modification of the engine, or any part thereof, of a vehicle forfacilitating its
+        operation by a different type of fuel or source of energy including battery, compressed natural gas,
+        solar power or any other fuel or source of energy other than liquid petroleum gas shall be treated as
+        an alteration but that shall be subject to such conditions as may be prescribed.]
+W.P.(C) 8776/14, 8568/14 & 8435/14                                                                             Page 21
+
+        “52. Alteration in motor vehicle. - (1) No owner of a motor
+        vehicle shall so alter the vehicle that the particulars contained
+        in the certificate of registration are at variance with those
+        originally specified by the manufacturer :
+        Provided that where the owner of a motor vehicle makes
+        modification of the engine, or any part thereof of a vehicle for
+        facilitating its operation by different type of fuel or source of
+        energy including battery, compressed natural gas, solar power,
+        liquid petroleum gas or any other fuel or source of energy, by
+        fitment of a conversion kit, such modification shall be carried out
+        subject to such conditions as may be prescribed:
+        Provided further that the Central Government may prescribe
+        specifications, conditions for approval, retro fitment and other
+        related matters for such conversion kits;
+        Provided also that the Central Government may grant exemption
+        for alteration of vehicles in a manner other than specified above,
+        for any specific purpose.
+        (2) Notwithstanding anything contained in sub-section (1), a
+        State Government may, by notification in the Official Gazette,
+        authorise, subject to such conditions as may be specified in the
+        notifications, and permit any person owing not less than ten
+        transport vehicles to alter any vehicle owned by him so as to
+        replace the engine thereof with engine of the same make and
+        type, without the approval of registering authority.
+        (3) Where any alteration has been made in motor vehicle without
+        the approval of registering authority or by reason of replacement
+        of its engine without such approval under sub-section (2), the
+        owner of the vehicle shall, within fourteen days of the making of
+        the alteration, report the alteration to the registering authority
+        within whose jurisdiction he resides and shall forward the
+        certificate of registration to that authority together with the
+        prescribed fee in order that particulars of registration may be
+        entered therein.
+        (4) A registering authority other than the original registering
+        authority making any such entry shall communicate the details of
+        the entry to the original registering authority.
+        (5) Subject to the provisions made under sub-section (1), (2), (3)
+        and (4), no person holding a vehicle under a hire-purchase
+W.P.(C) 8776/14, 8568/14 & 8435/14                                        Page 22
+
+        agreement shall make any alteration to the vehicle except with
+        the written consent of the registered owner.
+        Explanation. - For the purpose of this section, “alteration”
+        means a change in the structure of a vehicle which results in
+        change in its basic feature.]
+18.     Section 58 reads as follows:
+        “58. Special provisions in regard to transport vehicles. – (1) The
+        Central Government may, having regard to the number, nature
+        and size of the tyres attached to the wheels of a transport vehicle
+        (other than a motorcab), and its make and model and other
+        relevant considerations, by notification in the Official Gazette,
+        specify, in relation to each make and model of a transport
+        vehicle, the [maximum gross vehicle weight] of such vehicle and
+        the maximum safe axle weight of each axle of such vehicle.
+        (2) A registering authority, when registering a transport vehicle,
+        other than a motor cab shall enter in the record of registration
+        and shall also enter in the certificate of registration of the
+        vehicle the following particulars, namely :-
+        (a) the unladen weight of the vehicle;
+        (b) the number, nature and size of the tyres attached to each
+        wheel;
+        (c) the gross weight of the vehicle and the registered axle weights
+        pertaining to the several axles thereof; and
+        (d) if the vehicle is used or adapted to be used for the carriage of
+        passengers solely or in addition to goods, the number of
+        passengers for whom accommodation is provided, and the owner
+        of the vehicle shall have the same particulars exhibited in the
+        prescribed manner on the vehicle.
+        (3) There shall not be entered in the certificate of registration of
+        any such vehicle any gross vehicle weight or a registered axle
+        weight of any of the axles different from that specified in the
+        notification under sub-section (1) in relation to the make and
+        model of such vehicle and to the number, nature and size of the
+        tyres attached to its wheels :
+        Provided that where it appears to the Central Government that
+        heavier weights than those specified in the notification under
+W.P.(C) 8776/14, 8568/14 & 8435/14                                         Page 23
+
+        sub-section (1) may be permitted in a particular locality for
+        vehicle of a particular type, the Central Government may, by
+        order in the Official Gazette direct that the provisions of this
+        sub-section shall apply with such modifications as may be
+        specified in the order.
+        2
+        (5) In order that the gross vehicle weight entered in the
+        certificate of registration of a vehicle may be revised in
+        accordance with the provisions of sub-section (3), the registering
+        authority may require the owner of transport vehicle in
+        accordance with such procedure as may be prescribed to
+        produce the certificate of registration within such time as may be
+        specified by the registering authority.”
+The objects and reasons for this provision (Clause 57 of the Bill as it
+originally stood) provided that this was to “specify in relation to each make
+and model of a transport vehicle the maximum safe laden weight and the
+maximum safe axle weight of each such vehicle”; and further that “the
+registering authorities while registering a transport vehicle shall make a
+note of the unladen weight, and gross vehicle weight and such other
+particulars in the registration certificate of the vehicle and other such
+particulars in the registration certificate…”
+19.     Section 52 enacts, therefore, a general prohibition against the owners
+and pliers of motor vehicles- with few well defined exceptions- from
+2
+  Act 27 of 2000, by S.3 omitted Sub section (4) w.e.f. 11-8-2000. Prior to its
+omission, sub-Section (4) read as under :-
+        “(4) When by reason of any alteration in such vehicle, including an
+        alteration in the number, nature or size of its tyres, the gross vehicle weight
+        of the vehicle or the registered axle weight of any of its axles no longer
+        accords with the provisions of sub-section (3), the provisions of section 52
+        shall apply and the registering authority shall enter in the certificate of
+        registration of the vehicle revised registered weights which accord with the
+        said sub-section.”
+W.P.(C) 8776/14, 8568/14 & 8435/14                                                    Page 24
+
+changing or altering the basic character of a vehicle. Section 58 (1) deals
+with special provisions in respect to transport vehicles. Parliament here
+empowered only the Central Government to specify, through a notification,
+“in relation to each make and model of a transport vehicle, the [maximum
+gross vehicle weight] of such vehicle and the maximum safe axle weight of
+each axle of such vehicle…” Section 58 (2) enjoins every registering
+authority to enter certain details, viz (a) the unladen weight of the vehicle;
+(b) the number, nature and size of the tyres attached to each wheel; (c) the
+gross weight of the vehicle and the registered axle weights pertaining to the
+several axles thereof; and (d) if the vehicle is used or adapted to be used for
+the carriage of passengers solely or in addition to goods, the number of
+passengers for whom accommodation is provided, and the owner of the
+vehicle shall have the same particulars exhibited in the prescribed manner on
+the vehicle. Section 58 (3) importantly directs that no registration certificate
+of a vehicle can reflect “any gross vehicle weight or a registered axle weight
+of any of the axles different from that specified in the notification under sub-
+section (1) in relation to the make and model of such vehicle and to the
+number, nature and size of the tyres attached to its wheels..” The proviso to
+this sub-section authorizes the Central Government to relieve this condition
+only “in a particular locality for vehicle of a particular type, the Central
+Government may, by order in the Official Gazette direct that the provisions
+of this sub-section shall apply with such modifications as may be specified in
+the order.”
+20.     It is thus apparent that what Parliament intended by enacting Section
+58 (1) and (3) was to ensure uniformity in regard to the standards which
+every transport vehicle had to conform. Section 58 (1) enabled the
+W.P.(C) 8776/14, 8568/14 & 8435/14                                         Page 25
+
+prescription of criteria. This means that only one authority, i.e. the Central
+Government alone, is empowered to notify what should be “maximum gross
+vehicle weight of such vehicle and the maximum safe axle weight of each
+axle of such vehicle” in respect of transport vehicles. Section 58 (2) obliges
+every registering authority to effectuate the mandate of Section 58 (1) by
+describing the relevant particulars, i.e. unladen weight of the vehicle; the
+number, nature and size of the tyres attached to each wheel; the gross weight
+of the vehicle and the registered axle weights relating to the several axles
+thereof; and whether the vehicle is used or adapted to be used for the
+carriage of passengers solely or in addition to goods. Section 58 (3) enacts
+what is implicit in Section 58 (1)- that the standards spelt out only and none
+other than those, can be adhered to in respect of “the number, nature and
+size of the tyres attached to its wheels..” Section 58 (3) proviso carves out
+an exception to its applicability to the extent the Central Government
+specifies in relation to a particular region.
+21.     Section 52 talks generally of the kind of alterations which a vehicle
+can undergo; some can be undertaken without intimation or approval of the
+registering authority; in the case of others, however, approval of the
+registering authority is required. Section 52 (1) however, specifically states
+that “No owner of a motor vehicle shall so          alter the vehicle that the
+particulars contained in the certificate of registration are at variance with
+those originally specified by the manufacturer”. The exceptions which are
+permissible in succeeding provisions- Section 52 (1) and its proviso, Section
+52 (3), relate to alterations which make the vehicle more fuel efficient and
+environmentally friendly, as well as pertain to replacement of engines, etc.
+Barring these changes, every alteration is impermissible; what is an
+W.P.(C) 8776/14, 8568/14 & 8435/14                                       Page 26
+
+alteration is defined in Explanation below Section 52: ““alteration” means
+a change in the structure of a vehicle which results in change in its basic
+feature.”
+22.     A collective reading of Sections 52 and 58 would lead one to
+conclude that firstly, alterations, which result in change of a basic feature of
+the vehicle are prohibited. Secondly, such changes which result in fuel
+efficiency, if they conform to specific standards, are permissible: the
+condition being that the registering authority has to be notified. Thirdly,
+Section 58 (1) requires the prescription of standards to be followed by every
+transport vehicle, especially with regard to maximum axle weight having
+regard to the number of wheels it has. The mandatory nature of this
+provision is emphasized by Section 58 (3) which states that there cannot be
+variance (of a vehicle) with respect to “the make and model of such vehicle
+and to the number, nature and size of the tyres attached to its wheels..”
+23.     The notification spelling out the safe standards for “semi-articulated”
+transport vehicles of the kind which are in question here, provide, inter alia,
+that:
+        “….the Central Government hereby specifies that in relation to
+        the transport vehicles (other than motor cabs) of various
+        categories detailed in the Schedule below the maximum gross
+        vehicle weight and the maximum safe axle weight of each axle of
+        such vehicles shall, having regard to the size, nature and number
+        of tyres and maximum weight permitted to be carried by the tyres
+        as per rule 95 of the Central Motor Vehicles Rules,1989, be-
+        (i) vehicle manufacturers rating of the gross vehicle weight and
+        axle weight respectively for each make and model as duly
+        certified by the testing agencies for compliance of rule 126 of the
+        Central Motor Vehicles Rules,1989, or
+W.P.(C) 8776/14, 8568/14 & 8435/14                                        Page 27
+
+        (ii) the maximum gross vehicle weight and the maximum safe
+        axle weight of each vehicle respectively as specified in the
+        Schedule below for the relevant category,or
+        (iii) the maximum load permitted to be carried by the tyre(s) as
+        specified in the rule 95 of the Central Motor Vehicles
+        Rules,1989, for the size and number of the tyres fitted on the axle
+        (s) of the relevant make and model, whichever is less:
+                 Provided that the maximum gross vehicle weight in respect
+        of all such transport vehicles, including multi-axle vehicles shall
+        not be more than the sum total of all the maximum safe axle
+        weight put together subject to the restrictions, if any, on the
+        maximum gross vehicle weight given in the said schedule.
+                                             SCHEDULE
+        Transport                  Max    Maximum Safe Axle Weight
+        Vehicles Category GVW
+                                   Tonnes
+        (ii) Two          Axle 35.2
+               Tractor
+               Tandem
+               Axle Trailer
+               Tractor:
+               2 tyres on                 6 tonnes on front axle
+               front axle
+               4 tyres on                 10.2 tonnes on rear axle
+               rear axle
+               Trailer:
+               8 tyres on                 19 tonnes on tandem axle
+               tandem axle
+        (iii) Two         Axle 40.2
+               Tractor
+               Three Axle
+               Trailer
+               Tractor:
+               2 tyres on                 6 tonnes on front axle
+               front axle
+W.P.(C) 8776/14, 8568/14 & 8435/14                                        Page 28
+
+               4 tyres on              10.2 tonnes on rear axle
+               rear axle
+               Trailer:
+               12 tyres on             24 tonnes on 3 axles.
+               3 axles
+        (iv) Three Axle 35.2
+               Tractor
+               Single Axle
+               Trailer
+               Tractor:
+               2 tyres on              6 tonnes on front axle
+               front axle
+               8 tyres on              19 tonnes on rear axle
+               rear axle
+               Trailer:
+               8 tyres on              10.2 tonnes on single axle
+               single axle
+It is thus clear that as a matter of law, the safety standard required of each
+transport vehicle which describes itself as a semi articulated vehicle,
+comprised of two constituent parts, i.e. the prime mover and the tractor
+trailer, is that for a 40.2 MT vehicle, two axle front prime mover with 6
+tonnes on front axle and 10.2 tonnes on rear axle; and 24 tonnes on 3 axles
+for the trailer (12 tyres on those 3 axles) is mandated.
+24.     In the present case, the IOCL and the BPCL, the two oil marketing
+companies rely on the minutes of meeting dated 11.11.2014 to say that so
+long as the PESO license and the registration are shown, any change in the
+vehicle description which varies from the manufacturer’s description can be
+accepted, provided the concerned RTO endorses the registration certificate.
+Their further position is that such endorsement should have been obtained
+before the date of submission of the application form. Now, as discussed in
+this judgment, Section 58 is unrelenting as to the requirement which every
+W.P.(C) 8776/14, 8568/14 & 8435/14                                      Page 29
+
+transport vehicle has to conform to, especially as regards maximum weight,
+number of axles and tyres. These are in no manner relieved in their
+application – except by a statutory notification of equal authority, i.e. by the
+Central Government, under proviso to Section 58 (1). However, no such
+notification exists in relation to the class of vehicles which the present case
+is concerned with. (Here the court is not expressing any opinion on the
+requirement of another category of transport vehicles for the eastern region,
+for which a lesser tonnage has been spelt out). Therefore, the petitioners of
+the second group- i.e. the Malik and the Balwan Singh group are correct in
+contending that the oil marketing companies could not have sought to dilute
+the standards spelt out in the 1996 notification. The oil marketing companies
+are concededly neither the Central Government nor even the registering
+authority. In this connection, the guidance and advice provided by the
+Additional Transport Commissioner, Maharastra to the Chief Commissioner
+of Explosives on 28th October, 2014 is also in line with the conclusions of
+this Court. That letter had pertinently said that:
+        “.. if the operator who are using the tractor of 40200 kgs. with 2
+        axle trailers and whose GVW is noted as 40200 kgs. in the
+        vehicle registration certificates are violating the provisions of
+        MV Act, 1988, such kind of tractors are required to be provided
+        with 3 axle semi trailer.
+                 You are requested not to certify these tractors whose GVW
+        is noted as 40200 kgs. in the registration certificates and fitted
+        with 2 axle trailer. You are also requested to send these
+        operators back to Registering Authorities for verification of
+        records.”
+25.     As to the contention of the Baroda group that the tender conditions
+and specifications nowhere spelt out the details in regard to the number of
+W.P.(C) 8776/14, 8568/14 & 8435/14                                        Page 30
+
+axles which were to be on different categories of TTs are concerned, the
+Court is of the opinion that this argument is fallacious. Firstly, Clause 11 of
+the General terms and conditions governing the tender specified that:
+        “The tank trucks offered against this tender should conform to
+        the specification mentioned in Motor Vehicles Act, as applicable
+        from time to time and be equipped to transport bulk LPG and
+        should conform to the following:”
+Secondly, arguendo, even in the absence of the above specification, the
+imperative nature of Section 58 (1) and 58 (3) allow any exceptions, when a
+notification (read the 1996 notification) stipulates specifications. The
+contentions of the Baroda group regarding arbitrariness and discrimination,
+therefore, are unpersuasive. There can be no two opinions that tender
+conditions bind both the state agency which invites bids for goods and
+services, as well as the potential supplier of those goods and services, i.e. the
+tenderer/bidder. (Ref G.J. Fernandez vs State Of Karnataka & Ors AIR
+1990 SC 958; State of NCT of Delhi and Another v. Sanjeev alias Bittoo
+(2005) 5 SCC 181). As to what should be the approach of courts in dealing
+with challenges to tender conditions and their applications, under Article
+226 of the Constitution of India, Jagdish Mandal vs. State of Orissa & Ors,
+a decision of the Supreme Court (reported as (2007) 14 SCC 517) spelt out
+the relevant considerations which weigh in such judicial review:
+        “22. Judicial review of administrative action is intended to
+        prevent arbitrariness, irrationality, unreasonableness, bias and
+        mala fides. Its purpose is to check whether choice or decision is
+        made “lawfully” and not to check whether choice or decision is
+        “sound”. When the power of judicial review is invoked in
+        matters relating to tenders or award of contracts, certain special
+        features should be borne in mind. A contract is a commercial
+        transaction. Evaluating tenders and awarding contracts are
+W.P.(C) 8776/14, 8568/14 & 8435/14                                        Page 31
+
+        essentially commercial functions. Principles of equity and
+        natural justice stay at a distance. If the decision relating to
+        award of contract is bona fide and is in public interest, courts
+        will not, in exercise of power of judicial review, interfere even if
+        a procedural aberration or error in assessment or prejudice to a
+        tenderer, is made out. The power of judicial review will not be
+        permitted to be invoked to protect private interest at the cost of
+        public interest, or to decide contractual disputes. The tenderer or
+        contractor with a grievance can always seek damages in a civil
+        court. Attempts by unsuccessful tenderers with imaginary
+        grievances, wounded pride and business rivalry, to make
+        mountains out of molehills of some technical/procedural
+        violation or some prejudice to self, and persuade courts to
+        interfere by exercising power of judicial review, should be
+        resisted. Such interferences, either interim or final, may hold up
+        public works for years, or delay relief and succour to thousands
+        and millions and may increase the project cost manifold.
+        Therefore, a court before interfering in tender or contractual
+        matters in exercise of power of judicial review, should pose to
+        itself the following questions:
+        (i) Whether the process adopted or decision made by the
+        authority is mala fide or intended to favour someone;
+        OR Whether the process adopted or decision made is so
+        arbitrary and irrational that the court can say: “the decision is
+        such that no responsible authority acting reasonably and in
+        accordance withrelevant law could have reached?”;
+        (ii) Whether public interest is affected.
+        If the answers are in the negative, there should be no
+        interference under Article 226.”
+The Court again recollects a later judgment of the Supreme Court in
+Michigan Rubber (India) Limited Vs. State of Karnataka & Ors 2012 (8)
+SCC 216. The court had then re-visited its previous rulings on the nature of
+W.P.(C) 8776/14, 8568/14 & 8435/14                                         Page 32
+
+judicial review in respect of contractual matters of the State or its agencies
+and concluded as follows:
+        “23. From the above decisions, the following principles emerge:
+        (a) the basic requirement of Article 14 is fairness in action by the
+        State, and non-arbitrariness in essence and substance is the
+        heartbeat of fair play. These actions are amenable to the judicial
+        review only to the extent that the State must act validly for a
+        discernible reason and not whimsically for any ulterior purpose.
+        If the State acts within the bounds of reasonableness, it would be
+        legitimate to take into consideration the national priorities;
+        (b) fixation of a value of the tender is entirely within the purview
+        of the executive and courts hardly have any role to play in this
+        process except for striking down such action of the executive as
+        is proved to be arbitrary or unreasonable. If the Government
+        acts in conformity with certain healthy standards and norms such
+        as awarding of contracts by inviting tenders, in those
+        circumstances, the interference by Courts is very limited;
+        (c) In the matter of formulating conditions of a tender document
+        and awarding a contract, greater latitude is required to be
+        conceded to the State authorities unless the action of tendering
+        authority is found to be malicious and a misuse of its statutory
+        powers, interference by Courts is not warranted;
+        (d) Certain preconditions or qualifications for tenders have to be
+        laid down to ensure that the contractor has the capacity and the
+        resources to successfully execute the work; and
+        (e) If the State or its instrumentalities act reasonably, fairly and
+        in public interest in awarding contract, here again, interference
+        by Court is very restrictive since no person can claim
+        fundamental right to carry on business with the Government.
+W.P.(C) 8776/14, 8568/14 & 8435/14                                         Page 33
+
+        24. Therefore, a Court before interfering in tender or contractual
+        matters, in exercise of power of judicial review, should pose to
+        itself the following questions:
+        (i) Whether the process adopted or decision made by the
+        authority is mala fide or intended to favour someone; or whether
+        the process adopted or decision made is so arbitrary and
+        irrational that the court can say: "the decision is such that no
+        responsible authority acting reasonably and in accordance with
+        relevant law could have reached"; and (ii) Whether the public
+        interest is affected. If the answers to the above questions are in
+        negative, then there should be no interference under Article
+        226.”
+The last contention of the Baroda group, based on the decision of the
+Division Bench, in Shah Logistics (supra) is unmerited. In that case, the
+chassis of the vehicle had to be changed; this necessitated its inspection by
+the Controller of Explosives, who certified that the changed chassis also met
+with the specifications. This post tender development was duly notified to
+the oil company, which did not take the position at that time that the change
+could not have been effected. The Court held that at the time the bid was
+entered, there was no dispute that it complied with all specifications and that
+the subsequent change, duly intimated was not of such consequence as to
+undermine the essential basis of the bid; the Court then interpreted Clause
+11 (b) of the Tender documents. Here, that is not the situation; the Baroda
+group is stating that the insistence that the offer of the bidder should comply
+with legal requirements, spelt out in the 1996 notification, is a post tender
+condition. As explained and held earlier, this is based on an inaccurate
+reading of the tender conditions.
+26.     That leaves the court to consider one of the contentions advanced by
+the Balwan Singh group with respect to acceptance of tenders of bidders in
+W.P.(C) 8776/14, 8568/14 & 8435/14                                        Page 34
+
+the SC/ST categories; the complaint was that in regard to this group,
+contrary to the tender conditions, which required the certificates to have
+been issued within a year from the last date of submission of tenders, the oil
+marketing companies were accepting bids with certificates obtained earlier.
+This, in the opinion of the court cannot be termed as an illegality or
+irregularity of such magnitude as to be characterized as arbitrary or “so
+unreasonable that no reasonable man could have taken such a decision”. The
+object of ensuring submission of such certificates is to monitor whether the
+applicant is indeed falling in such SC/ST category. It cannot be overlooked
+or even overemphasized that the purpose of providing such reservation is to
+ensure that State largesse is distributed to those deserving it and in the
+process all sections of the society are given it. Here, the SC/ST caste status
+are in the nature of certification of their status which does not vary with
+time. Therefore the approach of the oil marketing companies is not arbitrary
+or discriminatory.
+27.     In view of the above conclusions, the writ petitions of the Baroda
+group W.P.(C) 8776/2014- fail. The other two writ petitions succeed in part
+to the extent that the respondent oil marketing companies are hereby
+directed to ensure that only those TTs which confirm strictly to the legal
+standards spelt out in the relevant notification (No. SO 728(E) dated
+18.10.1996) are processed and awarded Letters of Intent (LoIs), in the tender
+process and all TTS which do not conform to such technical standards, are
+not awarded LoIs. The writ petitions W.P.(C) 8435/2014 and W.P.(C)
+W.P.(C) 8776/14, 8568/14 & 8435/14                                      Page 35
+
+8568/2014 are partially allowed only to the extent and in terms of, such
+directions. There shall be no order as to costs.
+                                                  S. RAVINDRA BHAT
+                                                              (JUDGE)
+                                                        VIPIN SANGHI
+                                                              (JUDGE)
+JANUARY 6, 2015
+W.P.(C) 8776/14, 8568/14 & 8435/14                                 Page 36
+
+

@@ -1,0 +1,387 @@
+$~13
+*      IN THE HIGH COURT OF DELHI AT NEW DELHI
++      W.P.(C) 7931/2010
+%                      Date of Decision : 31st January, 2012.
+       ARTECH INFOSYSTEMS PVT LTD                      ..... Petitioner
+                       Through: Mr.R.M.Mehta and Ms.Simran
+                                  Mehta, Advocates.
+                  versus
+       COMMISSIONRER OF INCOME TAX
+        DELHI I & ANR                             ..... Respondents
+                       Through: Mr.Kamal Sawhney,
+                                  Sr.Standing Counsel.
+CORAM:
+HON'BLE MR. JUSTICE SANJIV KHANNA
+HON'BLE MR. JUSTICE R.V. EASWAR
+SANJIV KHANNA,J: (ORAL)
+       Artech Infosystems (P) Ltd. has filed the present petition
+challenging re-assessment proceedings u/s 147 and 148 of the
+Income Tax Act (for short Act) initiated for the Assessment Year
+2003-04 vide notice dated 22.03.2010.      The petitioner has also
+impugned the order dated 18.11.2010 passed by the Assessing
+Officer disposing of and dismissing the objections filed by the
+WP(C)No.7931/10                                       Page 1 of 12
+
+petitioner to the reassessment proceedings in terms of the order
+passed by the Supreme Court in the GKN Driveshafts (India) Ltd.
+Vs. CIT (2003) 259 ITR 19 (SC).
+2.     The “reasons to belief” recorded by the Assessing Officer
+dated 19.03.2010 read as under:-
+               “The Return of Income for the AY 2003-04 was
+               filed on 28.11.2003 declaring a loss of
+               Rs.10,28,887/- and subsequently assessed u/s
+               143(3) dated 16.03.2006 at a loss of
+               Rs.6,45,338/-.
+               On perusal of astt records, and P&L A/cs an
+               amount of Rs.2,12,31,472/- was shown payment
+               towards software consultation overseas (M/s
+               Artex Information System LLC) and was remitted
+               to foreign company without deducting tax at
+               source. However, during the asstt proceedings
+               the assessee stated that payment made for
+               consultancy services outside India are not
+               chargeable under this act. As per clause (vii) of
+               sub section (i) of Section 9, this clause is not
+               applicable to assessee company in this case
+               because as per 3 CD report (Sl. No.28a)
+               assessee had neither any sale of software
+               outside nor earn any income from outside India
+               and consumed all software in house. Therefore,
+               the consultancy charges paid to foreign
+               company was to be disallowed and added back
+               in the taxable income of the assessee.
+               In view of the above, I have reason to believe
+               that an amount to the extent mentioned above
+               chargeable to tax has escaped assessment for
+               the assessment year 2003-04 and, hence,
+               clearly attracts the provisions of 147 of the IT
+WP(C)No.7931/10                                            Page 2 of 12
+
+               Act. Therefore, notice u/s 148 of the Act is to be
+               issued. Put up for statutory approval of the Ld.
+               CIT, Delhi-I, New Delhi u/s 151 of the IT Act.”
+               (emphasis supplied)
+3.     The respondent along with the counter affidavit have filed
+copy of the order sheet dated 20.02.2006 and the reply furnished
+by the petitioner vide letter dated 06.03.2006.
+4.     Query No. 9 raised in the order dated 20.02.2006 reads as
+under:-
+               “Details of payments made to “Artech Info
+               Systems LLC‟ for cost incurred on behalf of
+               Softek. Give “bank certificates” & „bank
+               statement‟ showing the same. If no payment
+               made till now, why same be allowed as an
+               expense”
+The response given by the respondent/assessee to the said query
+vide letter dated 06.03.2006 is as under:-
+                      “Q 7. TDS detail on Payment made to
+               the Artect information Systems LLC for the
+               expenditures incurred on behalf of the Softek
+                      It is submitted that the payment made for
+               Consultancy Services outside India are not
+               chargeable under this Act as per the clause (vii)
+               of the sub section (1) of Section 9 which is
+               reproduced as under:
+                      “income by way of fees for technical
+               services payable by
+               (a)    the Govt; or
+               (b)    a person who is a resident, except where
+WP(C)No.7931/10                                              Page 3 of 12
+
+               the fees are payable in respect of services
+               utilized in a business or profession carried on by
+               such person outside India or for the purpose of
+               making or earning any income from any source
+               outside India; or
+               (c)    a person who is a non-resident, where the
+               fees are payable in respect of services utilized in
+               a business or profession carried on by such
+               person in India or for the purpose of making or
+               earning any income from any source in India”
+               As per clause (b) above, these services are
+               utilized in the business and profession outside
+               India and hence not chargeable under this Act.
+               It is submitted that these Payment are for
+               reimbursement of expenditures incurred by
+               Artect LLC on behalf of the assessee company
+               and hence paid on actual.”
+5.     It is clear from the aforesaid query and the answer that during
+the course of the original assessment proceedings, the Assessing
+Officer had gone into the question whether or not Section 9(1)(vii) of
+the Act was applicable to payment made by the petitioner to Artex
+Information Systems LLC.           The Assessing Officer did not invoke
+Section 9(1)(vii) and was satisfied with the reply furnished by the
+petitioner/assessee.         In the present case admittedly the re-
+assessment proceedings have been initiated and the Revenue has
+not taken the recourse to Section 263 of the Act. Dealing with the
+scope and ambit of Section 147 of the Act and the validity of initiation
+of reassessment proceedings, in the case of CIT vs. Kelvinator of
+India Ltd. (2002) 256 ITR 1 (Del), it has been observed as under:-
+WP(C)No.7931/10                                              Page 4 of 12
+
+               “From a bare perusal of the provisions contained
+               in section 147 of the said Act, as it stood up to
+               March 31, 1989, it is evident that to confer
+               jurisdiction under section 147(a) of the Act two
+               conditions were required to be satisfied, viz., (1)
+               the Assessing Officer must have reason to
+               believe that income charge- able to tax has
+               escaped assessment ; and (2) he must also have
+               a reason to        believe that such escapement
+               occurred by reason of either ; (a) omission or
+               failure on the part of the assessee to make a
+               return of his income under section 139 or (b)
+               omission or failure on the part of the assessee to
+               disclose fully and        truly all material facts
+               necessary for his assessment for that year. The
+               afore- mentioned requirements of law must be
+               held to be conditions precedent for invoking
+               jurisdiction of the Assessing Officer to reopen the
+               assessment under section 147 of the said Act. It
+               is trite that both the conditions aforementioned
+               are cumulative. It is also a well-settled principle of
+               law that, in the event it is found that any of the
+               said two conditions is not fulfilled the notice
+               issued by the Assessing Officer would be wholly
+               without jurisdiction. The expression “reason to
+               believe” finds place both in clauses (a) and (b) of
+               section 147 of the Act. Sub-section (2) of section
+               148 of the Act mandates that before jurisdiction
+               under section 147 of the Act is invoked by the
+               Assessing Officer he is to record his reasons for
+               doing so or before issuing any notice under
+               section 147 of the said Act. Therefore, formation
+               of reason to believe and recording of reasons
+               were imperative before the Assessing Officer
+               could reopen a completed assessment. Since
+               assessment has been reopened on April 20,
+               1990, section 147 as amended with effect from
+               April 1, 1989, would apply.
+WP(C)No.7931/10                                                Page 5 of 12
+
+                What would constitute “reason to believe” is no
+               longer res integra.”
+6.     The aforesaid decision was taken in appeal to the Supreme
+Court     and      was    dismissed    by    the  decision     reported   in
+Commissioner of Income Tax, Delhi v. Kelvinator of India
+Limited, (2010) 320 ITR 723(SC). The Supreme Court in the said
+decision has observed as under:-
+               “On going through the changes, quoted above,
+               made to Section 147 of the Act, we find that, prior
+               to the Direct Tax Laws (Amendment) Act, 1987,
+               reopening could be done under the above two
+               conditions and fulfilment of the said conditions
+               alone conferred jurisdiction on the assessing
+               officer to make a back assessment, but in Section
+               147 of the Act (with effect from 1-4-1989), they
+               are given a go-by and only one condition has
+               remained viz. that where the assessing officer
+               has reason to believe that income has escaped
+               assessment, confers jurisdiction to reopen the
+               assessment. Therefore, post-1-4-1989, power to
+               reopen is much wider. However, one needs to
+               give a schematic interpretation to the words
+               “reason to believe” failing which, we are afraid,
+               Section 147 would give arbitrary powers to the
+               assessing officer to reopen assessments on the
+               basis of “mere change of opinion”, which cannot
+               be per se reason to reopen.
+                We must also keep in mind the conceptual
+               difference between power to review and power to
+               reassess. The assessing officer has no power to
+               review; he has the power to reassess. But
+               reassessment has to be based on fulfillment of
+               certain precondition and if the concept of “change
+               of opinion” is removed, as contended on behalf of
+WP(C)No.7931/10                                              Page 6 of 12
+
+               the Department, then, in the garb of reopening
+               the assessment, review would take place.
+                 One must treat the concept of “change of
+               opinion” as an in-built test to check abuse of
+               power by the assessing officer. Hence, after 1-4-
+               1989, the assessing officer has power to reopen,
+               provided there is “tangible material” to come to
+               the conclusion that there is escapement of
+               income from assessment. Reasons must have a
+               live link with the formation of the belief. Our view
+               gets support from the changes made to Section
+               147 of the Act, as quoted hereinabove. Under the
+               Direct Tax Laws (Amendment) Act, 1987,
+               Parliament not only deleted the words “reason to
+               believe” but also inserted the word “opinion” in
+               Section 147 of the Act. However, on receipt of
+               representations from the companies against
+               omission of the words “reason to believe”,
+               Parliament reintroduced the said expression and
+               deleted the word “opinion” on the ground that it
+               would vest arbitrary powers in the assessing
+               officer.”
+7.     In view of the aforesaid legal position it is clear that the
+present case is of change of opinion and the Assessing Officer in
+the first/original assessment proceedings had gone into and
+examined the said question but accepted the stand of the
+petitioner.       A wrong/incorrect opinion cannot be corrected in
+147/148 proceedings but if the decision is erroneous and
+prejudicial to the interest of the Revenue, it can be corrected in
+proceedings under Section 263 of the Act. The Full Bench of the
+Delhi High Court in Kelvinator of India Limited had observed as
+WP(C)No.7931/10                                               Page 7 of 12
+
+under:-
+               “It is well settled principle of law that what cannot
+               be done directly cannot be done indirectly. If the
+               Income-tax Officer does not possess the power of
+               review, he cannot be permitted to achieve the
+               said object by taking recourse to initiating a
+               proceeding of reassessment or by way of
+               rectification of mistake. In a case of this nature
+               the Revenue is not without remedy. Section 263
+               of the Act empowers the Commissioner to review
+               an order which is prejudicial to the Revenue.”
+       Reopening under Section 147 and 148 of the Act is not
+permissible on change of opinion. We may record here that the
+“reasons to believe” recorded on 19.03.2010 themselves clearly
+indicate that the issue/question was examined in the original
+proceedings.
+8.     The learned counsel for the petitioner has also drawn our
+attention to the order dated 18.11.2010 passed by the Assessing
+Officer rejecting objections. The Assessing Officer in this order has
+held as under:-
+               “And further in the case of CIT Vs. P.V.S.
+               Beedies P. Ltd. (SC) 237 ITR 13 it was held by
+               Hon‟ble Supreme Court that position of Law
+               pointed by Internal Audit Party-reopening on that
+               basis is valid. Therefore, the contention of the
+               assessee that reopening is based on change of
+               opinion has no force and not sustainable.”
+9.     The petitioner has rightly submitted that the Assessing Officer
+has misread the judgment of Supreme Court in CIT Vs. P.V.S.
+WP(C)No.7931/10                                                Page 8 of 12
+
+Beedies P. Ltd. (SC) (1999) 237 ITR 13. In the said case it has
+been held that opinion of the audit party on a point of law cannot be
+regarded as information under Section 147(b) and cannot lead to
+valid initiation of the assessment proceedings. A factual mistake or
+a fact missed stands on a different footing. In the present case in
+the order dated 18.11.2010, it has not been alleged that the audit
+party had pointed out any factual aspect, that was missed and not
+taken into account by the Assessing Officer.
+10.    Learned counsel for the petitioner has also submitted that the
+second portion of the reasons recorded, which refers to Form
+No.3CD(i.e. the audit report) serial No. 28(a) is factually incorrect.
+He has filed before us a copy of the audit report in Form No. 3CD,
+which is taken on record, the relevant portion of Sl.No.28(a) reads
+as under:-
+       “28     (a)   In the case of a trading concern      Micrografx
+                     Give quantitative details of
+                     principal items of goods traded:
+                     (i) opening stock                     173
+                     (ii) purchases during the             NIL
+                         previous year
+                     (iii) sales during the          138 (Software used
+                         previous year               in house, hence
+                                                     capitalized)
+                     (iv) closing stock              Nil
+                     (v) shortage/excess             35(Written Off)
+                         if any”
+11.    It is apparent from the reading of the aforesaid paragraph
+28(a), that the same relates to the software purchase from the
+WP(C)No.7931/10                                              Page 9 of 12
+
+Micrografx. This does not pertain to transaction or the payment
+made by the petitioner to M/s Artech Information Sys. LLC.
+12.    We may also note that the in respect of software purchase
+from Micrografx, the Assessing Officer in the order sheet dated
+22.02.2006 has asked the petitioner to explain:-
+                      “In audit report u/s 44AB, clause 28(a)
+               shows that 138 items of Micrographic software
+               has been used-in-house & 35 items have been
+               written off. To give exact nature of the software,
+               details of opening stock, parties from whom
+               software bought along with evidence (invoice),
+               details of payment to those parties. To give
+               details, with evidence, regarding capitalization &
+               use of the software in house. Justify write-off of
+               the softwqare along with evidence. Justify the
+               value at which capitalized.”
+13.    In response to the said query the petitioner in the
+communication dated 06.03.2006 had explained and stated as
+under:-
+                      “Q.N.2- Details of the            Software
+                      capitalized and written off
+               The assessee Company‟s one of the business
+               line is in developing, trading and marketing of
+               Software Products. These products are mainly
+               for the Bilingual Language like AFW for Hindi,
+               Accounting Software like Winca, Unix & DOS
+               based software like          COBOL, PASCAL,
+               FORTRAN & Software for Graphic Works like
+               ABC flow Chart, Designers, charishma, Crayola
+               Art Studio, Picture Publisher etc.
+WP(C)No.7931/10                                              Page 10 of 12
+
+               It is submitted that the Company had Imported
+               some Graphic Software from M/s Micrografx
+               during the Financial Year 1997-98. Due to
+               lesser demand these Software were lying in the
+               stock for last many years as immovable stock.
+               For better utilization of this immovable Stock, it
+               was decided to use some of these products in
+               house for the home consumption and hence
+               these products were capitalized under the
+               grouping of Intangible Assets. Detail of the
+               Software Capitalized and the Software written
+               off are enclosed for your ready reference. The
+               Cost of Acquisition for these Software was taken
+               at the purchase cost of the Software. As desired
+               by your honor, we are also enclosing the details
+               of the Invoice and particulars of the Party from
+               whom these Software were purchased. We are
+               also enclosing the License Nos. for utilization of
+               these Software. The Depreciation calculated on
+               these Intangible Assessments have been added
+               back in the computation and the Depreciation as
+               application on Software i.e. on Computers are
+               claimed u/s 32 of the Income Tax Act.
+               Computation Sheet as attached with the Form
+               3CD is enclosed for your ready reference.
+               Out of the above said stock, assessee company
+               had written off some of the non movable
+               Software valuing of Rs.88568/-, lying in its stock
+               for last many years. These software were
+               imported during the Financial year 1997-98 and
+               were lying non movable since then. As there
+               was no demand for these software in the
+               market, company had no option but to write off
+               these non movable Stock and hence after the
+               due approval of the Board of Directors, these
+               Software valued at Rs.88568/- were written off
+               during the said Assessment year. From the
+WP(C)No.7931/10                                             Page 11 of 12
+
+               above, your honor must have noticed that the
+               assessee company has made it all the efforts to
+               sale these products by marketing them in the so
+               long as possible. These expenditures are purely
+               in the nature of business expenditures and
+               company had recognized this stock in its books
+               of accounts and never claimed the purchase
+               cost in past and are allowable u/s 37 of the
+               Income Tax Act.”
+14.    In view of the aforesaid, it is clear that the Assessing Officer
+has proceeded on wrong factual basis also and has incorrectly
+recorded the reasons by presuming that Sl.No.28(a) relates to
+payment made by the petitioner to Artech Information systems
+LLC. whereas the said transaction was in respect of software
+purchase from Micrografx.
+15.    In view of the aforesaid the present writ petition is allowed
+and the re-assessment notice dated 22.03.2010 is quashed.
+Impugned order dated 18.11.2010 is also quashed. No costs.
+                                             SANJIV KHANNA, J
+                                             R.V.EASWAR, J
+JANUARY 31, 2012
+mr/Bisht
+WP(C)No.7931/10                                           Page 12 of 12
+
+
